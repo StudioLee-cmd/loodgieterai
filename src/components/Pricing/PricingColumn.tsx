@@ -1,0 +1,158 @@
+
+import React, { useState } from 'react';
+import clsx from "clsx";
+import { BsFillCheckCircleFill } from "react-icons/bs";
+
+import { IPricing } from "@/types";
+
+interface Props {
+    tier: IPricing;
+    highlight?: boolean;
+    isAnnual: boolean;
+    onStartTrial?: () => void;
+    onShowOptions?: () => void;
+}
+
+const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTrial, onShowOptions }: Props) => {
+    const { name, price: basePrice, priceMonthly, features, focus, hasSlider, ctaType, pricePrefix } = tier;
+    const [minutes, setMinutes] = useState(100);
+
+    // Calculate dynamic price
+    const calculatePrice = () => {
+        const numericBase = typeof basePrice === 'number' ? basePrice : parseInt(basePrice as string);
+
+        // If it's not annual and we have a specific monthly price, use that
+        if (!isAnnual && priceMonthly) {
+            return `€ ${priceMonthly},-`;
+        }
+
+        // Fallback for logic where monthly adds surcharge (if no explicit monthly price)
+        const monthlySurcharge = isAnnual ? 0 : 50;
+        const currentBase = isAnnual ? numericBase : (priceMonthly || numericBase + monthlySurcharge);
+
+        // Slider logic (only if hasSlider is true, which is not the case for new tiers yet but kept for safety)
+        if (!hasSlider) return `€ ${currentBase},-`;
+        // ... slider logic would go here if needed ...
+        return `€ ${currentBase},-`;
+    };
+
+    const currentPrice = calculatePrice();
+
+    const calculateSavings = () => {
+        if (tier.savings) return tier.savings;
+        if (!priceMonthly) return 'Bespaar opties';
+        return `Bespaar €${(priceMonthly * 12) - (typeof basePrice === 'number' ? basePrice * 12 : 0)}`;
+    };
+
+    const currentSavings = tier.savings; // Use the explicit savings string from data
+
+    return (
+        <div className={clsx("w-full max-w-sm mx-auto bg-white rounded-xl border border-gray-200 lg:max-w-full flex flex-col h-full", { "shadow-2xl border-primary ring-2 ring-primary/20": highlight })}>
+            <div className="p-6 border-b border-gray-200 rounded-t-xl flex-grow">
+                <h3 className="text-2xl font-semibold mb-4">{name}</h3>
+                <p className="text-3xl md:text-5xl font-bold mb-2">
+                    <span className={clsx({ "text-secondary": highlight })}>
+                        {pricePrefix && <span className="text-xl mr-2">{pricePrefix}</span>}
+                        {currentPrice}
+                    </span>
+                    <span className="text-lg font-normal text-gray-600"> p/m</span>
+                    <span className="text-xs font-normal text-gray-400 opacity-75 ml-1">
+                        ({name === 'Basic' ? 'Incl BTW' : 'Excl BTW'})
+                    </span>
+                </p>
+                <div className="mb-6 h-6">
+                    {isAnnual ? (
+                        <span className="text-xs font-semibold text-green-600 bg-green-50 px-2 py-1 rounded-full border border-green-200">
+                            {name === 'Basic' ? 'Bespaar €600 per jaar' : 'Betaal per jaar (20% korting)'}
+                        </span>
+                    ) : (
+                        <span className="text-xs font-semibold text-gray-500">
+                            {name === 'Basic' ? 'Maandelijks opzegbaar' : 'Betaal per kwartaal'}
+                        </span>
+                    )}
+                </div>
+
+                {hasSlider && (
+                    <div className="mb-6">
+                        {/* Slider implementation kept if needed */}
+                        <label htmlFor="minutes-slider" className="block text-sm font-medium text-gray-700 mb-2">
+                            Aantal Belminuten: <span className="font-bold text-primary">{minutes}</span>
+                        </label>
+                        <input
+                            type="range"
+                            id="minutes-slider"
+                            min="100"
+                            max="2000"
+                            step="100"
+                            value={minutes}
+                            onChange={(e) => setMinutes(parseInt(e.target.value))}
+                            className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-primary"
+                        />
+                    </div>
+                )}
+
+                {/* Button Logic based on ctaType */}
+                {ctaType === 'call' ? (
+                    <div className="space-y-3">
+                        <a
+                            href="https://calendly.com/tim-studiolee"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold block text-center",
+                                { "bg-primary hover:bg-primary-accent": highlight, "bg-gray-800 text-white hover:bg-gray-700": !highlight }
+                            )}
+                        >
+                            Boek een Demo
+                        </a>
+                        <p className="text-xs text-gray-500 text-center">
+                            Gratis strategie gesprek
+                        </p>
+                    </div>
+                ) : ctaType === 'options' ? (
+                    <div className="space-y-3">
+                        <button
+                            onClick={onShowOptions}
+                            className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold", { "bg-primary hover:bg-primary-accent": highlight, "bg-hero-background hover:bg-gray-200": !highlight })}
+                        >
+                            Bekijk Opties
+                        </button>
+                        <p className="text-xs text-gray-500 text-center">
+                            {isAnnual ? 'Factuur per jaar' : 'Factuur per kwartaal'}
+                        </p>
+                    </div>
+                ) : (
+                    <div className="space-y-3">
+                        <button
+                            onClick={onStartTrial}
+                            className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold", { "bg-primary hover:bg-primary-accent": highlight, "bg-hero-background hover:bg-gray-200": !highlight })}
+                        >
+                            Start Gratis
+                        </button>
+                        <p className="text-xs text-gray-500 text-center">
+                            14 dagen proefperiode
+                        </p>
+                    </div>
+                )}
+            </div>
+            <div className="p-6 mt-1 bg-gray-50/50 rounded-b-xl flex-grow">
+                <p className="font-bold mb-0">WAT KRIJG JE:</p>
+                <p className="text-foreground-accent mb-3">{focus}</p>
+                <div className="mb-5 inline-block bg-green-100 text-green-800 text-sm font-semibold px-2.5 py-0.5 rounded border border-green-200">
+                    {currentSavings}
+                </div>
+                <ul className="space-y-4 mb-8">
+                    {(!isAnnual && name === 'Basic' ? ['Maandelijks opzegbaar', ...features] : features).map((feature, index) => (
+                        <li key={index} className="flex items-center">
+                            <BsFillCheckCircleFill className="h-5 w-5 text-secondary mr-2" />
+                            <span className="text-foreground-accent">
+                                {hasSlider && index === 0 ? `${minutes} Min Voice AI (NL of EN)` : feature}
+                            </span>
+                        </li>
+                    ))}
+                </ul>
+            </div>
+        </div>
+    )
+}
+
+export default PricingColumn
