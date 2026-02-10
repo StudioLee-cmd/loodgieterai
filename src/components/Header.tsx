@@ -11,6 +11,7 @@ import Container from './Container';
 import FreeTrialModal from './FreeTrialModal';
 import { siteDetails } from '@/data/siteDetails';
 import { menuItems } from '@/data/menuItems';
+import { ThemeToggle } from './ThemeToggle';
 
 const Header: React.FC = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -44,6 +45,9 @@ const Header: React.FC = () => {
                                 </Link>
                             </li>
                         ))}
+                        <li className="flex items-center">
+                            <ThemeToggle />
+                        </li>
                         <li>
                             <button
                                 onClick={() => setIsModalOpen(true)}
@@ -93,6 +97,9 @@ const Header: React.FC = () => {
                                 </Link>
                             </li>
                         ))}
+                        <li className="flex items-center">
+                            <ThemeToggle />
+                        </li>
                         <li>
                             <button
                                 onClick={() => { setIsModalOpen(true); toggleMenu(); }}

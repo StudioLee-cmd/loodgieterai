@@ -138,7 +138,7 @@ const VoiceDemo: React.FC = () => {
                 `}
                 style={{ minWidth: '205px' }}
             >
-                {!isSDKReady ? "Laden..." : isCalling ? "Ophangen" : "Test de demo direct"}
+                {!isSDKReady ? "Laden..." : isCalling ? "Ophangen" : "Test Live Demo"}
             </button>
             <p className="text-sm text-foreground/60 font-medium">
                 {status}

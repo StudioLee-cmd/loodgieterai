@@ -6,13 +6,15 @@ import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsCheckCircleFill } from "react-icons/bs";
 
 // Separate component to handle search params securely within Suspense
-const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
+const ScanForm = ({ onStartScan }: { onStartScan: (data: any) => void }) => {
     const searchParams = useSearchParams();
 
     // State for form fields
     const [name, setName] = useState('');
     const [website, setWebsite] = useState('');
     const [email, setEmail] = useState('');
+    const [struggles, setStruggles] = useState('');
+    const [error, setError] = useState('');
 
     // Pre-fill effect
     useEffect(() => {
@@ -27,15 +29,33 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
         }
     }, [searchParams]);
 
+    const handleSurpriseMe = () => {
+        setStruggles("Ik weet niet precies wat ik nodig heb, maar ik wil graag zien waar de kansen liggen en hoe jullie mij kunnen helpen.");
+    };
+
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        onStartScan();
+        setError('');
+
+        // Basic validation
+        if (!name || !website || !email) {
+            setError("Vul alle verplichte velden in.");
+            return;
+        }
+
+        // Website validation (must have a dot)
+        if (!website.includes('.') || website.length < 4) {
+            setError("Voer een geldige website URL in (bijv. jouwbedrijf.nl).");
+            return;
+        }
+
+        onStartScan({ name, website, email, struggles });
     };
 
     return (
         <form onSubmit={handleSubmit} className="space-y-6">
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Naam</label>
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Naam <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsPerson className="text-gray-400" />
@@ -46,23 +66,24 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
                         placeholder="Hoe wil je genoemd worden?"
                         value={name}
                         onChange={(e) => setName(e.target.value)}
-                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-neutral-700 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors bg-white dark:bg-neutral-800 dark:text-white"
                     />
                 </div>
             </div>
 
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">Website URL</label>
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Website URL <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsGlobe className="text-gray-400" />
                     </div>
                     <input
                         type="url"
+                        required
                         placeholder="https://jouwwebsite.nl"
                         value={website}
                         onChange={(e) => setWebsite(e.target.value)}
-                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-neutral-700 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors bg-white dark:bg-neutral-800 dark:text-white"
                     />
                 </div>
                 <p className="text-xs text-gray-500 mt-1">
@@ -71,7 +92,7 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
             </div>
 
             <div>
-                <label className="block text-sm font-medium text-gray-700 mb-2">E-mail</label>
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">E-mail <span className="text-red-500">*</span></label>
                 <div className="relative">
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <BsEnvelope className="text-gray-400" />
@@ -82,10 +103,36 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
                         placeholder="jouw@email.nl"
                         value={email}
                         onChange={(e) => setEmail(e.target.value)}
-                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                        className="block w-full pl-10 pr-3 py-3 border border-gray-300 dark:border-neutral-700 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors bg-white dark:bg-neutral-800 dark:text-white"
                     />
                 </div>
             </div>
+
+            <div>
+                <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                    Waar loop je nu tegenaan?
+                </label>
+                <textarea
+                    rows={3}
+                    placeholder="Ik heb te weinig tijd voor..."
+                    value={struggles}
+                    onChange={(e) => setStruggles(e.target.value)}
+                    className="block w-full p-3 border border-gray-300 dark:border-neutral-700 rounded-xl focus:ring-blue-500 focus:border-blue-500 transition-colors bg-white dark:bg-neutral-800 dark:text-white"
+                />
+                <button
+                    type="button"
+                    onClick={handleSurpriseMe}
+                    className="text-sm text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 mt-2 font-medium flex items-center gap-1"
+                >
+                    ✨ Ik weet het niet, verras mij maar
+                </button>
+            </div>
+
+            {error && (
+                <div className="bg-red-50 text-red-600 p-3 rounded-lg text-sm">
+                    {error}
+                </div>
+            )}
 
             <button
                 type="submit"
@@ -101,29 +148,29 @@ const ScanForm = ({ onStartScan }: { onStartScan: () => void }) => {
 export default function GratisScanPage() {
     const [isModalOpen, setIsModalOpen] = useState(false);
 
-    const startScan = () => {
+    const startScan = (data: any) => {
         setIsModalOpen(true);
         // Here you would typically trigger the webhook/n8n workflow
-        console.log("Starting scan...");
+        console.log("Starting scan with data:", data);
     };
 
     return (
-        <main className="min-h-screen bg-gray-50">
+        <main className="min-h-screen bg-gray-50 dark:bg-neutral-950">
             <Header />
 
             <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
                 <div className="max-w-xl mx-auto">
                     <div className="text-center mb-10">
-                        <h1 className="text-4xl font-extrabold text-gray-900 mb-4">
+                        <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-4">
                             Gratis AI & SEO Scan
                         </h1>
-                        <p className="text-lg text-gray-600">
+                        <p className="text-lg text-gray-600 dark:text-gray-400">
                             We brengen in kaart hoe je scoort ten opzichte van concurrenten, waar je kansen laat liggen en hoe ons systeem je direct vooruit helpt.
                         </p>
                     </div>
 
-                    <div className="bg-white rounded-3xl shadow-xl p-8 border border-gray-100">
-                        <Suspense fallback={<div className="text-center py-10">Laden...</div>}>
+                    <div className="bg-white dark:bg-neutral-900 rounded-3xl shadow-xl p-8 border border-gray-100 dark:border-neutral-800">
+                        <Suspense fallback={<div className="text-center py-10 text-gray-600 dark:text-gray-400">Laden...</div>}>
                             <ScanForm onStartScan={startScan} />
                         </Suspense>
                     </div>

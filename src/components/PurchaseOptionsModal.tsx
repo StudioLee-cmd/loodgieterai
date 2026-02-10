@@ -37,7 +37,7 @@ const PurchaseOptionsModal: React.FC<PurchaseOptionsModalProps> = ({ isOpen, onC
 
     if (!isOpen || !tier) return null;
 
-    const stripeUrl = isAnnual ? tier.stripeYearly : tier.stripeMonthly;
+    const stripeUrl = (isAnnual ? tier.stripeYearly : tier.stripeMonthly) || '#';
     // Default to the generic calendly link if not specified (though tiers focusing on this usually have one)
     const bookingUrl = "https://calendly.com/tim-studiolee";
 
@@ -52,7 +52,7 @@ const PurchaseOptionsModal: React.FC<PurchaseOptionsModalProps> = ({ isOpen, onC
             {/* Modal */}
             <div className="flex min-h-full items-center justify-center p-4">
                 <div
-                    className="relative bg-white rounded-2xl shadow-2xl max-w-lg w-full p-8 transform transition-all"
+                    className="relative bg-white dark:bg-neutral-800 rounded-2xl shadow-2xl max-w-lg w-full p-8 transform transition-all"
                     onClick={(e) => e.stopPropagation()}
                 >
                     {/* Close Button */}
@@ -66,10 +66,10 @@ const PurchaseOptionsModal: React.FC<PurchaseOptionsModalProps> = ({ isOpen, onC
                     </button>
 
                     <div className="text-center mb-8">
-                        <h2 className="text-2xl font-bold text-gray-900 mb-2">
+                        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">
                             Kies hoe je wilt starten met {tier.name}
                         </h2>
-                        <p className="text-gray-600">
+                        <p className="text-gray-600 dark:text-gray-300">
                             Wil je eerst even sparren of direct aan de slag?
                         </p>
                     </div>
@@ -80,15 +80,15 @@ const PurchaseOptionsModal: React.FC<PurchaseOptionsModalProps> = ({ isOpen, onC
                             href={bookingUrl}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="flex flex-col items-center justify-center p-6 border-2 border-gray-100 rounded-xl hover:border-primary/50 hover:bg-blue-50 transition-all group cursor-pointer text-center"
+                            className="flex flex-col items-center justify-center p-6 border-2 border-gray-100 dark:border-neutral-700 rounded-xl hover:border-primary/50 hover:bg-blue-50 dark:hover:bg-blue-900/20 transition-all group cursor-pointer text-center"
                         >
-                            <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mb-4 text-primary group-hover:scale-110 transition-transform">
+                            <div className="w-12 h-12 bg-blue-100 dark:bg-blue-900/50 rounded-full flex items-center justify-center mb-4 text-primary group-hover:scale-110 transition-transform">
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                                 </svg>
                             </div>
-                            <h3 className="font-bold text-gray-900 mb-1">Boek een Demo</h3>
-                            <p className="text-sm text-gray-500">Gratis strategie gesprek van 15-30 min.</p>
+                            <h3 className="font-bold text-gray-900 dark:text-gray-100 mb-1">Boek een Demo</h3>
+                            <p className="text-sm text-gray-500 dark:text-gray-400">Gratis strategie gesprek van 15-30 min.</p>
                         </a>
 
                         {/* Option 2: Direct Pay */}
@@ -96,7 +96,7 @@ const PurchaseOptionsModal: React.FC<PurchaseOptionsModalProps> = ({ isOpen, onC
                             href={stripeUrl}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="flex flex-col items-center justify-center p-6 border-2 border-primary rounded-xl bg-primary text-white hover:bg-primary-accent transition-all group cursor-pointer text-center shadow-lg transform hover:-translate-y-1"
+                            className={`flex flex-col items-center justify-center p-6 border-2 border-primary rounded-xl bg-primary text-white hover:bg-primary-accent transition-all group cursor-pointer text-center shadow-lg transform hover:-translate-y-1 ${stripeUrl === '#' ? 'opacity-50 pointer-events-none' : ''}`}
                         >
                             <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center mb-4 text-white group-hover:scale-110 transition-transform">
                                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

@@ -13,6 +13,37 @@
   --hero-background: #F3F3F5;
 }
 
+[data-theme='dark'] {
+  --background: #0a0a0a;
+  --foreground: #ffffff;
+  --primary: #FED835;
+  /* Keep primary yellow same or adjust slightly if needed */
+  --secondary: #F97316;
+  /* Orange for dark mode */
+
+  --primary-accent: #e5c230;
+  --foreground-accent: #a3a3a3;
+  --hero-background: #171717;
+}
+
+::view-transition-new(root),
+::view-transition-old(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-new(root) {
+  z-index: 2147483646;
+}
+
+::view-transition-old(root) {
+  z-index: 2147483646;
+}
+
+.dark {
+  z-index: 2147483646;
+}
+
 html {
   @apply scroll-smooth;
 }

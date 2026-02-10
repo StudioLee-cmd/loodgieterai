@@ -38,6 +38,10 @@ export const faqs: IFAQ[] = [
         answer: "Honderd procent. Geen addertjes. Wij denken graag met je mee hoe je dit systeem het beste kunt inzetten voor jouw bedrijf. Of je daarna klant wordt of niet, je krijgt van ons altijd eerlijk advies waar je direct mee aan de slag kunt.",
     },
     {
+        question: "Waarom is de managed service niet geautomatiseerd?",
+        answer: "Omdat de huidige technologie nog niet betrouwbaar genoeg is om dit volledig te automatiseren. Hoewel het technisch mogelijk is, kan AI foutjes maken. Juist de menselijke touch van een expert zorgt voor een betere merkverbinding en een positief resultaat, in plaats van dat het spammerig overkomt.",
+    },
+    {
         question: "Hoe snel is het inzetbaar?",
         answer: "De basisinrichting staat binnen 5 minuten. Wil je een uitgebreide kennisbank en complexe koppelingen? Dan ben je met onze hulp vaak binnen één werkdag volledig operationeel.",
     }

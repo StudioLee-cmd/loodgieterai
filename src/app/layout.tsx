@@ -5,6 +5,7 @@ import { Source_Sans_3, Manrope, Caveat, Outfit } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { siteDetails } from '@/data/siteDetails';
+import { ThemeProvider } from "@/components/ThemeProvider";
 
 import "./globals.css";
 
@@ -51,12 +52,19 @@ export default function RootLayout({
       <body
         className={`${manrope.className} ${sourceSans.className} ${outfit.variable} ${caveat.variable} antialiased`}
       >
-        {siteDetails.googleAnalyticsId && <GoogleAnalytics gaId={siteDetails.googleAnalyticsId} />}
-        <Header />
-        <main>
-          {children}
-        </main>
-        <Footer />
+        <ThemeProvider
+          attribute="data-theme"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          {siteDetails.googleAnalyticsId && <GoogleAnalytics gaId={siteDetails.googleAnalyticsId} />}
+          <Header />
+          <main>
+            {children}
+          </main>
+          <Footer />
+        </ThemeProvider>
       </body>
     </html>
   );

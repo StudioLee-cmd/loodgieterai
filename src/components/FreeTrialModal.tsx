@@ -148,7 +148,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
             {/* Modal */}
             <div className="flex min-h-full items-center justify-center p-4">
                 <div
-                    className="relative bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 transform transition-all"
+                    className="relative bg-white dark:bg-neutral-800 rounded-2xl shadow-2xl max-w-md w-full p-8 transform transition-all"
                     onClick={(e) => e.stopPropagation()}
                 >
                     {/* Close Button */}
@@ -169,11 +169,11 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                                 </svg>
                             </div>
-                            <h2 className="text-2xl font-bold text-gray-900 mb-4">Check je email!</h2>
-                            <p className="text-gray-600 mb-4">
+                            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Check je email!</h2>
+                            <p className="text-gray-600 dark:text-gray-300 mb-4">
                                 Bedankt voor je aanmelding. Je ontvangt binnen enkele minuten een e-mail van <strong>AIreclamestudio</strong> met je inloggegevens.
                             </p>
-                            <p className="text-gray-600 mb-8 text-sm">
+                            <p className="text-gray-600 dark:text-gray-300 mb-8 text-sm">
                                 <strong>Let op:</strong> Check ook je <u>spamfolder</u> als je hem niet direct ziet. Je kunt daarna direct inloggen en starten met testen!
                             </p>
                             <a
@@ -189,10 +189,10 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                         <>
                             {/* Header */}
                             <div className="mb-6">
-                                <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-2">
+                                <h2 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2">
                                     Start Je Gratis Proefperiode
                                 </h2>
-                                <p className="text-gray-600">
+                                <p className="text-gray-600 dark:text-gray-400">
                                     Start gratis uitproberen. Geen creditcard vereist.
                                 </p>
                             </div>
@@ -211,7 +211,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         required
                                         value={formData.fullName}
                                         onChange={handleChange}
-                                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900"
+                                        className="w-full px-4 py-3 border border-gray-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-neutral-900"
                                         placeholder="Jan de Vries"
                                         disabled={isLoading}
                                     />
@@ -229,7 +229,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         required
                                         value={formData.email}
                                         onChange={handleChange}
-                                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900"
+                                        className="w-full px-4 py-3 border border-gray-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-neutral-900"
                                         placeholder="jouw@email.nl"
                                         disabled={isLoading}
                                     />
@@ -246,7 +246,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         name="phone"
                                         value={formData.phone}
                                         onChange={handleChange}
-                                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900"
+                                        className="w-full px-4 py-3 border border-gray-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-neutral-900"
                                         placeholder="+31 6 12345678"
                                         disabled={isLoading}
                                     />
@@ -264,7 +264,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         required
                                         value={formData.businessName}
                                         onChange={handleChange}
-                                        className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900"
+                                        className="w-full px-4 py-3 border border-gray-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-neutral-900"
                                         placeholder="Jouw Loodgietersbedrijf"
                                         disabled={isLoading}
                                     />
@@ -284,7 +284,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                             disabled={isLoading}
                                         />
                                     </div>
-                                    <label htmlFor="termsAccepted" className="ml-3 text-sm text-gray-700">
+                                    <label htmlFor="termsAccepted" className="ml-3 text-sm text-gray-700 dark:text-gray-300">
                                         Ik ga akkoord met de voorwaarden en de proefperiode van 14 dagen. <span className="text-red-500">*</span>
                                     </label>
                                 </div>
@@ -302,7 +302,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                             disabled={isLoading}
                                         />
                                     </div>
-                                    <label htmlFor="newsletter" className="ml-3 text-sm text-gray-700">
+                                    <label htmlFor="newsletter" className="ml-3 text-sm text-gray-700 dark:text-gray-300">
                                         Meld je aan voor de nieuwsbrief. We spammen niet, we mailen alleen als we iets te melden hebben waarvan we denken dat je het leuk vindt.
                                     </label>
                                 </div>
