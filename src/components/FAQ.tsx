@@ -15,12 +15,12 @@ const FAQ: React.FC = () => {
                         <h2 className="my-3 !leading-snug lg:max-w-sm text-center lg:text-left">Veelgestelde Vragen</h2>
                     </SectionTitle>
                     {/* Contact Card */}
-                    <div className="mt-8 bg-white rounded-2xl p-6 shadow-xl border border-gray-100 text-center lg:text-left">
-                        <p className="text-gray-500 font-medium mb-2">
+                    <div className="mt-8 bg-[var(--card-background)] rounded-2xl p-6 shadow-xl border border-[var(--card-border)] text-center lg:text-left">
+                        <p className="text-[var(--foreground-accent)] font-medium mb-2">
                             Staat je vraag er niet bij?
                         </p>
-                        <a href="mailto:Tim@loodgieterAI.nl" className="text-xl lg:text-2xl text-primary font-bold hover:text-primary-accent transition-colors">
-                            Tim@loodgieterAI.nl
+                        <a href="mailto:Tim@dakdekkerai.nl" className="text-xl lg:text-2xl text-primary font-bold hover:text-primary-accent transition-colors">
+                            Tim@dakdekkerai.nl
                         </a>
                     </div>
 
@@ -31,7 +31,7 @@ const FAQ: React.FC = () => {
 
                         <h3 className="text-xl font-bold mb-3 relative z-10">Klaar om je bedrijf te transformeren?</h3>
                         <p className="text-gray-300 mb-6 text-sm leading-relaxed relative z-10">
-                            Sluit je aan bij de loodgieters die al tijd en geld besparen met LoodgieterAI.
+                            Gemiddeld besparen onze klanten 10+ uur per week aan administratie en telefoontjes. Daarnaast heb je geen gaten meer in je agenda door no-shows of gemiste oproepen. Eén extra gevulde stoel per week dekt vaak de kosten al.
                         </p>
                         <a href="#pricing" className="relative z-10 inline-block w-full">
                             <button className="w-full px-6 py-3 rounded-xl bg-gradient-to-r from-yellow-400 to-yellow-600 text-black font-bold hover:from-yellow-300 hover:to-yellow-500 transition-all shadow-lg transform hover:scale-[1.02]">

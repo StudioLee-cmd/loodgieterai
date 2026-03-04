@@ -33,7 +33,7 @@ const paygItems = [
 
 const CreditPricing: React.FC = () => {
     return (
-        <div id="credit-pricing" className="py-12 bg-gray-50/50 dark:bg-white/5 rounded-3xl border border-black/5 dark:border-white/10 mt-12 scroll-mt-20">
+        <div id="credit-pricing" className="py-12 bg-gray-50/50 dark:bg-neutral-900/50 rounded-3xl border border-black/5 dark:border-white/10 mt-12 scroll-mt-20">
             <div className="text-center mb-10 px-5">
                 <h3 className="text-2xl font-bold mb-2 text-foreground">Transparant over de verbruikskosten</h3>
                 <p className="text-black/60 dark:text-white/60 max-w-3xl mx-auto mb-4">
@@ -52,13 +52,13 @@ const CreditPricing: React.FC = () => {
                         <div className="text-left font-medium">Small Pack</div>
                         <div className="text-center text-gray-600 dark:text-gray-400">40</div>
                         <div className="text-center text-gray-400 text-xs">€1.25</div>
-                        <div className="text-right font-bold text-blue-600">€50,-</div>
+                        <div className="text-right font-bold text-blue-600 dark:text-orange-500">€50,-</div>
                     </div>
                     <div className="grid grid-cols-4 p-4 border-b border-black/5 dark:border-white/5 last:border-0 hover:bg-gray-50/50 dark:hover:bg-white/5 transition-colors items-center text-foreground">
                         <div className="text-left font-medium">Large Pack</div>
                         <div className="text-center text-gray-600 dark:text-gray-400">180</div>
                         <div className="text-center text-gray-400 text-xs">€1.11</div>
-                        <div className="text-right font-bold text-blue-600">€200,-</div>
+                        <div className="text-right font-bold text-blue-600 dark:text-orange-500">€200,-</div>
                     </div>
                     <div className="grid grid-cols-4 p-4 border-b border-black/5 last:border-0 hover:bg-amber-50/50 dark:hover:bg-amber-900/10 transition-colors items-center bg-amber-100/50 dark:bg-amber-900/20 border-t border-amber-200/50 dark:border-amber-700/30">
                         <div className="text-left font-medium text-amber-800 dark:text-amber-400">Agency Pack</div>

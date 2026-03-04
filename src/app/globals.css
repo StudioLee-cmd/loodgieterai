@@ -11,37 +11,44 @@
   --primary-accent: #e5c230;
   --foreground-accent: #454545;
   --hero-background: #F3F3F5;
+  --hero-gradient-via: rgba(233, 238, 255, 0.5);
+  --hero-gradient-to: rgba(202, 208, 230, 0.5);
+
+  /* Cards & Surfaces */
+  --card-background: #ffffff;
+  --card-border: #e5e7eb;
+
+  /* Blog specific */
+  --blog-background: #ffffff;
+  --blog-card-background: #f9fafb;
+  --blog-text: #171717;
+  --blockquote-accent: #304fff;
 }
 
-[data-theme='dark'] {
-  --background: #0a0a0a;
-  --foreground: #ffffff;
+[data-theme="dark"] {
+  --background: #121212;
+  --foreground: #e0e7ff;
+  /* Very light blue instead of pure white */
   --primary: #FED835;
-  /* Keep primary yellow same or adjust slightly if needed */
   --secondary: #F97316;
-  /* Orange for dark mode */
+  /* Orange instead of blue */
 
   --primary-accent: #e5c230;
-  --foreground-accent: #a3a3a3;
+  --foreground-accent: #94a3b8;
+  /* Lighter blue-gray for secondary text */
   --hero-background: #171717;
-}
+  --hero-gradient-via: rgba(23, 23, 23, 0.5);
+  --hero-gradient-to: rgba(10, 10, 10, 0.5);
 
-::view-transition-new(root),
-::view-transition-old(root) {
-  animation: none;
-  mix-blend-mode: normal;
-}
+  /* Cards & Surfaces */
+  --card-background: #1a1a1a;
+  --card-border: #333333;
 
-::view-transition-new(root) {
-  z-index: 2147483646;
-}
-
-::view-transition-old(root) {
-  z-index: 2147483646;
-}
-
-.dark {
-  z-index: 2147483646;
+  /* Blog specific */
+  --blog-background: #0a0a0a;
+  --blog-card-background: #1a1a1a;
+  --blog-text: #e0e7ff;
+  --blockquote-accent: #F97316;
 }
 
 html {
@@ -91,4 +98,40 @@ h6 {
 
 .benefit-section:last-of-type>div {
   @apply mb-10;
+}
+
+/* Logo dark mode filter - removes white background */
+[data-theme="dark"] .logo-dark-filter {
+  filter: invert(1) hue-rotate(180deg);
+  mix-blend-mode: screen;
+}
+
+/* Video blend mode - use multiply to remove white background in light mode */
+.light-video-blend {
+  mix-blend-mode: multiply;
+}
+
+/* In dark mode, also use multiply to remove white background */
+[data-theme="dark"] .light-video-blend {
+  mix-blend-mode: multiply;
+}
+
+/* View Transitions - Full page circular expansion animation */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-old(root) {
+  z-index: 1;
+}
+
+::view-transition-new(root) {
+  z-index: 9999;
+}
+
+/* Disable transition on elements that shouldn't animate */
+::view-transition-group(root) {
+  animation-duration: 0.7s;
 }

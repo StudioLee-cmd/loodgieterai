@@ -10,29 +10,34 @@ export const benefits: IBenefit[] = [
         description: "Configureert de spraakassistent en instellingen direct in het dashboard.",
         bullets: [
             {
-                title: "Identiteit",
-                description: "Stel Naam, Toon (Formeel/Informeel) en Persoonlijkheid in (bv. 'Enthousiast').",
-                icon: <FiUserCheck size={26} />
+                title: "Meertalig & Intelligent",
+                description: "Spreekt vloeiend Nederlands, Engels & meer. Herkent direct de taal van de beller.",
+                icon: <FiGlobe size={26} />
             },
             {
-                title: "Kennisbank",
-                description: "Injecteert jouw Bedrijfsdetails, Prijzen en Openingstijden direct in de prompt.",
-                icon: <FiFileText size={26} />
+                title: "Klantgeheugen & Historie",
+                description: "Herkent terugkerende klanten en heeft direct inzicht in alle eerdere klussen en klantdata.",
+                icon: <FiUsers size={26} />
             },
             {
                 title: "Slimme Routing",
-                description: "Stel in naar wie door te verbinden bij falen of frustratie.",
+                description: "Verbind door naar de juiste persoon op basis van specifieke woorden of situaties.",
+                icon: <FiCpu size={26} />
+            },
+            {
+                title: "Zelfstandig Uitbellen",
+                description: "Kan zelf klanten bellen voor opvolging, bevestigingen of het inplannen van afspraken.",
                 icon: <FiPhoneMissed size={26} />
             },
             {
-                title: "Intake Flows",
-                description: "Configureert specifieke vragen voor afspraken of intakes.",
-                icon: <FiTrendingUp size={26} />
+                title: "Multi-Agenda Beheer",
+                description: "Real-time sync met meerdere agenda's. Boekt direct zonder dubbele afspraken te maken.",
+                icon: <FiCalendar size={26} />
             },
             {
-                title: "Kosten",
-                description: "Configuratie kost 1 Credit. Gesprekskosten variëren van €0.15 tot €0.30 per minuut op basis van jouw instellingen.",
-                icon: <FiCreditCard size={26} />,
+                title: "Alles Inbegrepen",
+                description: "Alle geavanceerde features en koppelingen zijn standaard inbegrepen.",
+                icon: <FiCheckCircle size={26} />,
                 isHighlighted: true
             }
         ],
@@ -513,7 +518,7 @@ export const benefits: IBenefit[] = [
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/ad-manager.jpg"
+        imageSrc: "/images/benefits/ad-manager.png"
     },
 
     // 14. Websites & Funnels
@@ -585,7 +590,7 @@ export const benefits: IBenefit[] = [
                 isHighlighted: true
             }
         ],
-        imageSrc: "/images/benefits/klantebeheer.jpg"
+        imageSrc: "/images/benefits/klantebeheer.png"
     },
 
     // 16. AI Fotostudio

@@ -152,7 +152,7 @@ const Pricing: React.FC = () => {
                         animate={{ opacity: 1, y: 0 }}
                         className="flex justify-center mb-8"
                     >
-                        <div className="bg-amber-100 border border-amber-200 text-amber-800 px-6 py-3 rounded-xl flex items-center gap-3 shadow-sm max-w-2xl text-center">
+                        <div className="bg-amber-100 dark:bg-amber-900/40 border border-amber-200 dark:border-amber-500/30 text-amber-800 dark:text-amber-300 px-6 py-3 rounded-xl flex items-center gap-3 shadow-sm max-w-2xl text-center">
                             <span className="text-xl">🎁</span>
                             <p className="font-medium">
                                 <strong>Signing Bonus:</strong> 500 gratis bonus credits (1 jaar geldig) bij alle jaarplannen!
@@ -193,36 +193,36 @@ const Pricing: React.FC = () => {
                     <a href="#credit-pricing" className="block relative group">
                         {/* Shine Effect Container */}
                         <div className="absolute inset-0 rounded-3xl overflow-hidden z-10 pointer-events-none">
-                            <div className="absolute top-0 left-[-100%] w-1/2 h-full bg-gradient-to-r from-transparent via-white/40 to-transparent skew-x-[-15deg] animate-[shine_3s_infinite]" />
+                            <div className="absolute top-0 left-[-100%] w-1/2 h-full bg-gradient-to-r from-transparent via-[var(--secondary)]/40 to-transparent skew-x-[-15deg] animate-[shine_3s_infinite]" />
                         </div>
 
-                        <div className="bg-gradient-to-r from-blue-600 via-indigo-600 to-blue-600 bg-[length:200%_auto] animate-[gradient_3s_ease-in-out_infinite] p-[2px] rounded-3xl shadow-xl hover:shadow-2xl transition-all">
-                            <div className="bg-white rounded-[22px] p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 relative overflow-hidden h-full">
+                        <div className="bg-gradient-to-r from-[var(--secondary)] via-orange-500 to-[var(--secondary)] bg-[length:200%_auto] animate-[gradient_3s_ease-in-out_infinite] p-[2px] rounded-3xl shadow-xl hover:shadow-2xl transition-all">
+                            <div className="bg-[var(--card-background)] rounded-[22px] p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 relative overflow-hidden h-full">
 
                                 {/* Background Decoration */}
-                                <div className="absolute top-0 right-0 w-64 h-64 bg-blue-50 rounded-full mix-blend-multiply filter blur-3xl opacity-50 group-hover:opacity-70 transition-opacity"></div>
-                                <div className="absolute -bottom-8 -left-8 w-64 h-64 bg-indigo-50 rounded-full mix-blend-multiply filter blur-3xl opacity-50 group-hover:opacity-70 transition-opacity"></div>
+                                <div className="absolute top-0 right-0 w-64 h-64 bg-[var(--secondary)]/20 rounded-full filter blur-3xl opacity-50 group-hover:opacity-70 transition-opacity"></div>
+                                <div className="absolute -bottom-8 -left-8 w-64 h-64 bg-orange-500/20 rounded-full filter blur-3xl opacity-50 group-hover:opacity-70 transition-opacity"></div>
 
                                 <div className="relative z-10 flex-1 text-center md:text-left">
-                                    <h3 className="text-2xl lg:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-700 to-indigo-700 mb-2 flex items-center justify-center md:justify-start gap-3">
+                                    <h3 className="text-2xl lg:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-[var(--secondary)] to-orange-400 mb-2 flex items-center justify-center md:justify-start gap-3">
                                         🚀 Unlimited Option
-                                        <span className="hidden sm:inline-block text-xs font-bold text-white bg-blue-600 px-3 py-1 rounded-full shadow-md group-hover:bg-blue-500 transition-colors">
+                                        <span className="hidden sm:inline-block text-xs font-bold text-white bg-[var(--secondary)] px-3 py-1 rounded-full shadow-md group-hover:bg-orange-500 transition-colors">
                                             Populair
                                         </span>
                                     </h3>
-                                    <p className="text-gray-700 font-medium text-lg mb-2">
-                                        Upgrade naar onbeperkt gebruik van <strong>Voice AI en alle workflows</strong>.
+                                    <p className="text-[var(--foreground-accent)] font-medium text-lg mb-2">
+                                        Upgrade naar onbeperkt gebruik van <strong className="text-[var(--foreground)]">Voice AI en alle workflows</strong>.
                                     </p>
-                                    <p className="text-xs text-gray-400 italic max-w-2xl leading-relaxed">
+                                    <p className="text-xs text-[var(--foreground-accent)] italic max-w-2xl leading-relaxed">
                                         *Kan op elk moment wijzigen. Exclusief de premium-versies van de AI's (Credits). Bevat wel alle standaard tools voor dagelijks gebruik.
                                     </p>
                                 </div>
 
-                                <div className="relative z-10 flex flex-col items-center md:items-end flex-shrink-0 bg-blue-50/50 px-6 py-4 rounded-xl border border-blue-100 group-hover:bg-blue-100/50 transition-colors">
-                                    <div className="text-3xl lg:text-4xl font-extrabold text-blue-900">
+                                <div className="relative z-10 flex flex-col items-center md:items-end flex-shrink-0 bg-[var(--secondary)]/10 px-6 py-4 rounded-xl border border-[var(--secondary)]/30 group-hover:bg-[var(--secondary)]/20 transition-colors">
+                                    <div className="text-3xl lg:text-4xl font-extrabold text-[var(--secondary)]">
                                         € 197,-
                                     </div>
-                                    <div className="text-sm font-semibold text-blue-700 uppercase tracking-wide">p/m extra</div>
+                                    <div className="text-sm font-semibold text-[var(--secondary)] uppercase tracking-wide">p/m extra</div>
                                 </div>
                             </div>
                         </div>

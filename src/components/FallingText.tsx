@@ -328,7 +328,10 @@ const FallingText = () => {
                 }
 
                 // --- TEXT DRAWING (TIGHT WRAP) ---
-                ctx.fillStyle = "black";
+                // Check for dark mode
+                const isDarkMode = document.documentElement.classList.contains('dark');
+                const textColor = isDarkMode ? "white" : "black";
+                ctx.fillStyle = textColor;
 
                 // Determine Safe Max Width - STRICTER
                 let maxWidth = 0;
@@ -406,7 +409,7 @@ const FallingText = () => {
     }, [hasStarted]);
 
     return (
-        <div ref={containerRef} className="w-full h-[200px] md:h-[400px] bg-white overflow-hidden relative cursor-grab active:cursor-grabbing border-t border-gray-100 flex items-center justify-center">
+        <div ref={containerRef} className="w-full h-[200px] md:h-[400px] bg-white dark:bg-black overflow-hidden relative cursor-grab active:cursor-grabbing border-t border-gray-100 dark:border-white/10 flex items-center justify-center">
             <canvas ref={canvasRef} className="block w-full h-full" />
         </div>
     );

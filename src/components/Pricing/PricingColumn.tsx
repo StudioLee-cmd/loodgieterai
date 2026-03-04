@@ -47,16 +47,16 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
     const currentSavings = tier.savings; // Use the explicit savings string from data
 
     return (
-        <div className={clsx("w-full max-w-sm mx-auto bg-white rounded-xl border border-gray-200 lg:max-w-full flex flex-col h-full", { "shadow-2xl border-primary ring-2 ring-primary/20": highlight })}>
-            <div className="p-6 border-b border-gray-200 rounded-t-xl flex-grow">
-                <h3 className="text-2xl font-semibold mb-4">{name}</h3>
+        <div className={clsx("w-full max-w-sm mx-auto bg-[var(--card-background)] rounded-xl border border-[var(--card-border)] lg:max-w-full flex flex-col h-full", { "shadow-2xl border-primary ring-2 ring-primary/20": highlight })}>
+            <div className="p-6 border-b border-[var(--card-border)] rounded-t-xl flex-grow">
+                <h3 className="text-2xl font-semibold mb-4 text-[var(--foreground)]">{name}</h3>
                 <p className="text-3xl md:text-5xl font-bold mb-2">
-                    <span className={clsx({ "text-secondary": highlight })}>
+                    <span className={clsx("text-[var(--foreground)]", { "text-secondary": highlight })}>
                         {pricePrefix && <span className="text-xl mr-2">{pricePrefix}</span>}
                         {currentPrice}
                     </span>
-                    <span className="text-lg font-normal text-gray-600"> p/m</span>
-                    <span className="text-xs font-normal text-gray-400 opacity-75 ml-1">
+                    <span className="text-lg font-normal text-[var(--foreground-accent)]"> p/m</span>
+                    <span className="text-xs font-normal text-[var(--foreground-accent)] opacity-75 ml-1">
                         ({name === 'Basic' ? 'Incl BTW' : 'Excl BTW'})
                     </span>
                 </p>
@@ -66,7 +66,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                             {name === 'Basic' ? 'Bespaar €600 per jaar' : 'Betaal per jaar (20% korting)'}
                         </span>
                     ) : (
-                        <span className="text-xs font-semibold text-gray-500">
+                        <span className="text-xs font-semibold text-[var(--foreground-accent)]">
                             {name === 'Basic' ? 'Maandelijks opzegbaar' : 'Betaal per kwartaal'}
                         </span>
                     )}
@@ -75,7 +75,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                 {hasSlider && (
                     <div className="mb-6">
                         {/* Slider implementation kept if needed */}
-                        <label htmlFor="minutes-slider" className="block text-sm font-medium text-gray-700 mb-2">
+                        <label htmlFor="minutes-slider" className="block text-sm font-medium text-[var(--foreground-accent)] mb-2">
                             Aantal Belminuten: <span className="font-bold text-primary">{minutes}</span>
                         </label>
                         <input
@@ -86,7 +86,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                             step="100"
                             value={minutes}
                             onChange={(e) => setMinutes(parseInt(e.target.value))}
-                            className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-primary"
+                            className="w-full h-2 bg-[var(--card-border)] rounded-lg appearance-none cursor-pointer accent-primary"
                         />
                     </div>
                 )}
@@ -99,12 +99,12 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                             target="_blank"
                             rel="noopener noreferrer"
                             className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold block text-center",
-                                { "bg-primary hover:bg-primary-accent": highlight, "bg-gray-800 text-white hover:bg-gray-700": !highlight }
+                                { "bg-primary hover:bg-primary-accent text-black": highlight, "bg-gray-900 dark:bg-gray-700 text-white hover:opacity-80": !highlight }
                             )}
                         >
                             Boek een Demo
                         </a>
-                        <p className="text-xs text-gray-500 text-center">
+                        <p className="text-xs text-[var(--foreground-accent)] text-center">
                             Gratis strategie gesprek
                         </p>
                     </div>
@@ -112,11 +112,11 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                     <div className="space-y-3">
                         <button
                             onClick={onShowOptions}
-                            className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold", { "bg-primary hover:bg-primary-accent": highlight, "bg-hero-background hover:bg-gray-200": !highlight })}
+                            className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold", { "bg-primary hover:bg-primary-accent text-black": highlight, "bg-gray-900 dark:bg-gray-700 text-white hover:opacity-80": !highlight })}
                         >
                             Bekijk Opties
                         </button>
-                        <p className="text-xs text-gray-500 text-center">
+                        <p className="text-xs text-[var(--foreground-accent)] text-center">
                             {isAnnual ? 'Factuur per jaar' : 'Factuur per kwartaal'}
                         </p>
                     </div>
@@ -124,18 +124,18 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                     <div className="space-y-3">
                         <button
                             onClick={onStartTrial}
-                            className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold", { "bg-primary hover:bg-primary-accent": highlight, "bg-hero-background hover:bg-gray-200": !highlight })}
+                            className={clsx("w-full py-3 px-4 rounded-full transition-colors font-semibold", { "bg-primary hover:bg-primary-accent text-black": highlight, "bg-gray-900 dark:bg-gray-700 text-white hover:opacity-80": !highlight })}
                         >
                             Start Gratis
                         </button>
-                        <p className="text-xs text-gray-500 text-center">
+                        <p className="text-xs text-[var(--foreground-accent)] text-center">
                             14 dagen proefperiode
                         </p>
                     </div>
                 )}
             </div>
-            <div className="p-6 mt-1 bg-gray-50/50 rounded-b-xl flex-grow">
-                <p className="font-bold mb-0">WAT KRIJG JE:</p>
+            <div className="p-6 mt-1 bg-[var(--hero-background)] rounded-b-xl flex-grow">
+                <p className="font-bold mb-0 text-[var(--foreground)]">WAT KRIJG JE:</p>
                 <p className="text-foreground-accent mb-3">{focus}</p>
                 <div className="mb-5 inline-block bg-green-100 text-green-800 text-sm font-semibold px-2.5 py-0.5 rounded border border-green-200">
                     {currentSavings}

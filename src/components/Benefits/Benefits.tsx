@@ -77,7 +77,7 @@ const Benefits: React.FC = () => {
     return (
         <div id="features" className="relative pb-20">
             {/* Sticky Grid Tracking Bar (2 rows of 5) */}
-            <div className="sticky top-[calc(4rem-280px)] md:top-[-160px] z-40 bg-background/95 border-b border-black/10 backdrop-blur-md transition-all duration-300">
+            <div className="sticky top-[calc(4rem-280px)] md:top-[-160px] z-40 bg-background/95 border-b border-black/10 dark:border-white/10 backdrop-blur-md transition-all duration-300">
                 <div
                     ref={navRef}
                     className="grid grid-cols-2 md:grid-cols-4 gap-1 md:gap-2 px-2 md:px-5 py-2 w-full max-w-7xl mx-auto"
@@ -94,12 +94,12 @@ const Benefits: React.FC = () => {
                                         ? 'bg-blue-600 text-white shadow-md'
                                         : item.tier === 'elite'
                                             ? 'bg-amber-400 text-black shadow-md border border-amber-500'
-                                            : 'bg-black text-white shadow-md'
+                                            : 'bg-foreground text-background shadow-md'
                                     : item.tier === 'pro'
-                                        ? 'text-blue-600 bg-blue-50/50 hover:bg-blue-100'
+                                        ? 'text-blue-600 dark:text-blue-400 bg-blue-50/50 dark:bg-blue-900/30 hover:bg-blue-100 dark:hover:bg-blue-900/50'
                                         : item.tier === 'elite'
-                                            ? 'text-amber-700 bg-amber-50/30 border border-amber-400 hover:bg-amber-100'
-                                            : 'text-gray-600 hover:bg-gray-100'
+                                            ? 'text-amber-700 dark:text-amber-300 bg-amber-50/30 dark:bg-amber-900/30 border border-amber-400 dark:border-amber-500/50 hover:bg-amber-100 dark:hover:bg-amber-900/50'
+                                            : 'text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700/50'
                                 }
                             `}
                         >
@@ -120,7 +120,7 @@ const Benefits: React.FC = () => {
                 {/* Previous Button */}
                 <button
                     onClick={handlePrev}
-                    className="absolute left-1 md:left-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 md:w-12 md:h-12 bg-white/80 hover:bg-white backdrop-blur-sm border border-gray-200 rounded-full flex items-center justify-center shadow-lg transition-all text-gray-700 hover:text-black hover:scale-110"
+                    className="absolute left-1 md:left-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 md:w-12 md:h-12 bg-white/80 dark:bg-gray-800/80 hover:bg-white dark:hover:bg-gray-700 backdrop-blur-sm border border-gray-200 dark:border-gray-600 rounded-full flex items-center justify-center shadow-lg transition-all text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white hover:scale-110"
                     aria-label="Previous Benefit"
                 >
                     <FiChevronLeft size={24} />
@@ -129,7 +129,7 @@ const Benefits: React.FC = () => {
                 {/* Next Button */}
                 <button
                     onClick={handleNext}
-                    className="absolute right-1 md:right-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 md:w-12 md:h-12 bg-white/80 hover:bg-white backdrop-blur-sm border border-gray-200 rounded-full flex items-center justify-center shadow-lg transition-all text-gray-700 hover:text-black hover:scale-110"
+                    className="absolute right-1 md:right-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 md:w-12 md:h-12 bg-white/80 dark:bg-gray-800/80 hover:bg-white dark:hover:bg-gray-700 backdrop-blur-sm border border-gray-200 dark:border-gray-600 rounded-full flex items-center justify-center shadow-lg transition-all text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white hover:scale-110"
                     aria-label="Next Benefit"
                 >
                     <FiChevronRight size={24} />

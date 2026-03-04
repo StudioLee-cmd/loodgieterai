@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
                 />
             </div>
 
-            <div className="absolute left-0 right-0 bottom-0 backdrop-blur-[2px] h-40 bg-gradient-to-b from-transparent via-[rgba(233,238,255,0.5)] to-[rgba(202,208,230,0.5)]">
+            <div className="absolute left-0 right-0 bottom-0 backdrop-blur-[2px] h-40 bg-gradient-to-b from-transparent via-[var(--hero-gradient-via)] to-[var(--hero-gradient-to)]">
             </div>
 
             <div className="text-center relative">
@@ -57,7 +57,11 @@ const Hero: React.FC = () => {
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.5 }}
+                    className="flex flex-col items-center mb-6"
                 >
+                    <span className="text-lg md:text-2xl font-semibold text-foreground italic mb-4">
+                        "jouw groeipartner voor het ai tijdperk"
+                    </span>
                     <h1 className="text-4xl md:text-7xl md:leading-tight font-extrabold font-heading text-foreground max-w-lg md:max-w-5xl mx-auto">
                         <motion.span
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
@@ -69,7 +73,13 @@ const Hero: React.FC = () => {
                         <motion.span
                             style={{ x: xRight, opacity, display: 'inline-block' }}
                         >
-                            sinds de uitvinding van&nbsp;de&nbsp;<Highlight color="secondary">moersleutel</Highlight>.
+                            sinds de uitvinding van
+                        </motion.span>
+                        <br className="hidden md:block" />
+                        <motion.span
+                            style={{ x: xLeft, opacity, display: 'inline-block' }}
+                        >
+                            <Highlight color="secondary">de moersleutel</Highlight>.
                         </motion.span>
                     </h1>
                 </motion.div>
@@ -125,7 +135,7 @@ const Hero: React.FC = () => {
                     <div className="flex flex-col sm:flex-row items-center sm:items-start justify-center gap-4">
                         <button
                             onClick={() => setIsModalOpen(true)}
-                            className="flex items-center justify-center min-w-[205px] px-8 h-14 rounded-full text-white bg-foreground text-xl font-bold hover:scale-105 transition-transform duration-300 shadow-xl hover:shadow-2xl hover:ring-4 ring-primary/20"
+                            className="flex items-center justify-center min-w-[205px] px-8 h-14 rounded-full text-black bg-primary text-xl font-bold hover:scale-105 transition-transform duration-300 shadow-xl hover:shadow-2xl hover:ring-4 ring-primary/20"
                         >
                             Start Gratis
                         </button>
@@ -137,24 +147,16 @@ const Hero: React.FC = () => {
                     initial={{ opacity: 0, y: 40, scale: 0.95 }}
                     animate={{ opacity: 1, y: 0, scale: 1 }}
                     transition={{ duration: 0.8, delay: 0.6, type: "spring" }}
-                    className="mix-blend-multiply"
+                    className="light-video-blend"
                 >
-                    <div className="relative mt-12 md:mt-16 mx-auto flex justify-center gap-4 max-w-4xl px-4">
+                    <div className="relative mt-12 md:mt-16 mx-auto flex justify-center px-4">
                         <video
                             src="/videos/hero-left.mp4"
                             autoPlay
                             muted
                             loop
                             playsInline
-                            className="w-1/2 max-w-[300px]"
-                        />
-                        <video
-                            src="/videos/hero-demo.mp4"
-                            autoPlay
-                            muted
-                            loop
-                            playsInline
-                            className="w-1/2 max-w-[300px]"
+                            className="w-full max-w-[300px]"
                         />
                     </div>
                 </motion.div>
