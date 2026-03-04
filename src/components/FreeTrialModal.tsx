@@ -139,7 +139,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
     if (!isOpen) return null;
 
     return (
-        <div className="fixed inset-0 z-50 overflow-y-auto">
+        <div className="fixed inset-0 z-[60] overflow-y-auto pointer-events-auto">
             {/* Backdrop */}
             <div
                 className="fixed inset-0 bg-black bg-opacity-50 transition-opacity"
@@ -149,13 +149,13 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
             {/* Modal */}
             <div className="flex min-h-full items-center justify-center p-4">
                 <div
-                    className="relative bg-white dark:bg-neutral-800 rounded-2xl shadow-2xl max-w-md w-full p-8 transform transition-all"
+                    className="relative bg-white dark:bg-gray-900 rounded-2xl shadow-2xl max-w-md w-full p-8 transform transition-all"
                     onClick={(e) => e.stopPropagation()}
                 >
                     {/* Close Button */}
                     <button
                         onClick={onClose}
-                        className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition-colors"
+                        className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
                         disabled={isLoading}
                     >
                         <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -165,8 +165,8 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
 
                     {showSuccess ? (
                         <div className="text-center py-6">
-                            <div className="mx-auto flex items-center justify-center h-16 w-16 rounded-full bg-green-100 mb-6">
-                                <svg className="h-10 w-10 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <div className="mx-auto flex items-center justify-center h-16 w-16 rounded-full bg-green-100 dark:bg-green-900/50 mb-6">
+                                <svg className="h-10 w-10 text-green-600 dark:text-green-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                                 </svg>
                             </div>
@@ -193,7 +193,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2">
                                     Start Je Gratis Proefperiode
                                 </h2>
-                                <p className="text-gray-600 dark:text-gray-400">
+                                <p className="text-gray-600 dark:text-gray-300">
                                     Start gratis uitproberen. Geen creditcard vereist.
                                 </p>
                             </div>
@@ -202,7 +202,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                             <form onSubmit={handleSubmit} className="space-y-4">
                                 {/* Full Name Field */}
                                 <div>
-                                    <label htmlFor="fullName" className="block text-sm font-semibold text-gray-700 mb-1">
+                                    <label htmlFor="fullName" className="block text-sm font-semibold text-gray-700 dark:text-gray-300 mb-1">
                                         Volledige Naam <span className="text-red-500">*</span>
                                     </label>
                                     <input
@@ -212,7 +212,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         required
                                         value={formData.fullName}
                                         onChange={handleChange}
-                                        className="w-full px-4 py-3 border border-gray-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-neutral-900"
+                                        className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-gray-800"
                                         placeholder="Jan de Vries"
                                         disabled={isLoading}
                                     />
@@ -220,7 +220,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
 
                                 {/* Email Field */}
                                 <div>
-                                    <label htmlFor="email" className="block text-sm font-semibold text-gray-700 mb-1">
+                                    <label htmlFor="email" className="block text-sm font-semibold text-gray-700 dark:text-gray-300 mb-1">
                                         E-mailadres <span className="text-red-500">*</span>
                                     </label>
                                     <input
@@ -230,7 +230,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         required
                                         value={formData.email}
                                         onChange={handleChange}
-                                        className="w-full px-4 py-3 border border-gray-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-neutral-900"
+                                        className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-gray-800"
                                         placeholder="jouw@email.nl"
                                         disabled={isLoading}
                                     />
@@ -238,7 +238,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
 
                                 {/* Phone Field */}
                                 <div>
-                                    <label htmlFor="phone" className="block text-sm font-semibold text-gray-700 mb-1">
+                                    <label htmlFor="phone" className="block text-sm font-semibold text-gray-700 dark:text-gray-300 mb-1">
                                         Telefoonnummer <span className="text-gray-400 font-normal">(Optioneel)</span>
                                     </label>
                                     <input
@@ -247,7 +247,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         name="phone"
                                         value={formData.phone}
                                         onChange={handleChange}
-                                        className="w-full px-4 py-3 border border-gray-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-neutral-900"
+                                        className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-gray-800"
                                         placeholder="+31 6 12345678"
                                         disabled={isLoading}
                                     />
@@ -255,7 +255,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
 
                                 {/* Business Name Field */}
                                 <div>
-                                    <label htmlFor="businessName" className="block text-sm font-semibold text-gray-700 mb-1">
+                                    <label htmlFor="businessName" className="block text-sm font-semibold text-gray-700 dark:text-gray-300 mb-1">
                                         Bedrijfsnaam <span className="text-red-500">*</span>
                                     </label>
                                     <input
@@ -265,8 +265,8 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                         required
                                         value={formData.businessName}
                                         onChange={handleChange}
-                                        className="w-full px-4 py-3 border border-gray-300 dark:border-neutral-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-neutral-900"
-                                        placeholder="Jouw Loodgietersbedrijf"
+                                        className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none text-gray-900 dark:text-white bg-white dark:bg-gray-800"
+                                        placeholder="Jouw Kappersalon"
                                         disabled={isLoading}
                                     />
                                 </div>
@@ -281,7 +281,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                             required
                                             checked={formData.termsAccepted}
                                             onChange={handleChange}
-                                            className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 cursor-pointer"
+                                            className="w-4 h-4 text-blue-600 border-gray-300 dark:border-gray-600 rounded focus:ring-blue-500 cursor-pointer"
                                             disabled={isLoading}
                                         />
                                     </div>
@@ -299,7 +299,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                                             type="checkbox"
                                             checked={formData.newsletter}
                                             onChange={handleChange}
-                                            className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500 cursor-pointer"
+                                            className="w-4 h-4 text-blue-600 border-gray-300 dark:border-gray-600 rounded focus:ring-blue-500 cursor-pointer"
                                             disabled={isLoading}
                                         />
                                     </div>
@@ -310,7 +310,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
 
                                 {/* Error Message */}
                                 {error && (
-                                    <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg text-sm">
+                                    <div className="bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-700 text-red-700 dark:text-red-300 px-4 py-3 rounded-lg text-sm">
                                         {error}
                                     </div>
                                 )}
@@ -336,8 +336,8 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                             </form>
 
                             {/* Trust Badges */}
-                            <div className="mt-6 pt-6 border-t border-gray-100">
-                                <div className="flex items-center justify-center space-x-6 text-sm text-gray-500">
+                            <div className="mt-6 pt-6 border-t border-gray-100 dark:border-gray-700">
+                                <div className="flex items-center justify-center space-x-6 text-sm text-gray-500 dark:text-gray-400">
                                     <div className="flex items-center">
                                         <svg className="w-5 h-5 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
                                             <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
