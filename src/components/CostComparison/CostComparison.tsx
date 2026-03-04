@@ -4,7 +4,7 @@ import Link from 'next/link';
 import Section from '../Section';
 import Container from '../Container';
 import ComparisonTable from './ComparisonTable';
-import { comparisonData, totalTraditionalCost, dakdekkerAICost } from '@/data/comparison';
+import { comparisonData, totalTraditionalCost, loodgieterAICost as dakdekkerAICost } from '@/data/comparison';
 import { BsCheckCircleFill } from 'react-icons/bs';
 import Highlight from '../Highlight';
 import { motion } from 'framer-motion';
