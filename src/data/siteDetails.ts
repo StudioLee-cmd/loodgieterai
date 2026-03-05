@@ -1,7 +1,7 @@
 export const siteDetails = {
     siteName: 'LoodgieterAI',
     niche: 'Loodgieters',
-    siteUrl: 'https://www.loodgieter-ai.nl/',
+    siteUrl: 'https://www.loodgieterai.nl/',
     metadata: {
         title: 'LoodgieterAI - De slimme assistent voor jouw loodgietersbedrijf',
         description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. LoodgieterAI regelt je agenda, telefoon en administratie volledig automatisch.',
