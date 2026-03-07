@@ -3,4 +3,4 @@ Allow: /
 Disallow: /aanmelding-gelukt
 Disallow: /api
 
-Sitemap: https://loodgieterai.nl/sitemap.xml
+Sitemap: https://www.loodgieterai.nl/sitemap.xml
