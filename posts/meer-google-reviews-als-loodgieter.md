@@ -124,7 +124,7 @@ LoodgieterAI regelt het voor je:
 
 Meer reviews, meer klanten, minder administratie. Dat is het idee.
 
-**Benieuwd wat LoodgieterAI voor jouw bedrijf kan doen?** Plan een gratis kennismaking via loodgieterai.nl.
+**Benieuwd wat LoodgieterAI voor jouw bedrijf kan doen?** Plan een gratis kennismaking via [loodgieterai.nl](https://www.loodgieterai.nl).
 
 ---
 
