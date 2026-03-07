@@ -21,6 +21,9 @@ export default function BlogContent({ content }: BlogContentProps) {
                 [&_ol]:mb-8 [&_ol]:pl-8 [&_ol]:list-decimal
                 [&_blockquote]:border-l-4 [&_blockquote]:border-blue-600 [&_blockquote]:pl-6 [&_blockquote]:my-8 [&_blockquote]:bg-slate-50 [&_blockquote]:p-6 [&_blockquote]:italic [&_blockquote]:text-slate-600 [&_blockquote]:rounded-lg
 
+                [&_a]:text-blue-600 [&_a]:underline [&_a]:underline-offset-2 [&_a]:transition-colors
+                [&_a:hover]:text-blue-800
+
                 /* DARK MODE OVERRIDES - THE NUCLEAR OPTION */
                 dark:[&_*]:!text-gray-200 
                 dark:[&_h2]:!text-white 
@@ -28,6 +31,7 @@ export default function BlogContent({ content }: BlogContentProps) {
                 dark:[&_strong]:!text-white
                 dark:[&_blockquote]:!bg-neutral-800 dark:[&_blockquote]:!text-gray-300 dark:[&_blockquote]:!border-orange-500
                 dark:[&_li::before]:!text-orange-500
+                dark:[&_a]:!text-orange-500 dark:[&_a:hover]:!text-orange-400
             "
             dangerouslySetInnerHTML={{ __html: content }}
         />
