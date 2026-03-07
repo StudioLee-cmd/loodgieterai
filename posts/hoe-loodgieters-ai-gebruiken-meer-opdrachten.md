@@ -60,4 +60,4 @@ AI vervangt de vakman niet — het versterkt hem. Loodgieters die AI inzetten, d
 
 De investering? Gemiddeld €50–€150 per maand voor de tools — en een terugverdientijd van doorgaans minder dan één extra klus per week.
 
-Ontdek hoe LoodgieterAI jouw bedrijf helpt groeien op [loodgieterai.nl](https://loodgieterai.nl).
+Ontdek hoe LoodgieterAI jouw bedrijf helpt groeien op [loodgieterai.nl](https://www.loodgieterai.nl).
