@@ -3,7 +3,7 @@ import { getAllPosts } from '@/utils/posts'
 import { authors } from '@/data/authors'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://loodgieterai.nl'
+    const baseUrl = 'https://www.loodgieterai.nl'
 
     // Static routes — rarely change
     const staticPages = ['', '/gratis-scan', '/review-pakket', '/privacy', '/legal', '/algemene-voorwaarden']
