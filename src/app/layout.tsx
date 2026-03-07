@@ -23,6 +23,7 @@ export const metadata: Metadata = {
     description: siteDetails.metadata.description,
     url: siteDetails.siteUrl,
     type: 'website',
+    locale: 'nl_NL',
     images: [
       {
         url: '/images/og-image.jpg',
@@ -49,7 +50,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="nl" suppressHydrationWarning>
+    <html lang="nl-NL" suppressHydrationWarning>
       <body
         className={`${manrope.className} ${sourceSans.className} ${outfit.variable} ${caveat.variable} antialiased`}
       >
