@@ -63,7 +63,7 @@ Als loodgieter wordt er veel van je gevraagd: spoedklussen, offertes, planning e
 
 [LoodgieterAI](/) is een compleet AI-systeem voor loodgietersbedrijven: planning, facturatie, automatische reviews via WhatsApp, AI-chatbot, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines — zonder commissie.
 
-**Sterkste punt:** Alles in één systeem met AI: planning en agenda, facturatie, review-automatisering via WhatsApp, AI-chatbot die leads opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-een-loodgieter-meer-klanten-krijgt-via-google). Geen commissie per opdracht.
+**Sterkste punt:** Alles in één systeem met AI: planning en agenda, facturatie, review-automatisering via WhatsApp, AI-chatbot die leads opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-ai-loodgieters-helpt). Geen commissie per opdracht.
 
 **Nadeel:** De facturatie is minder diepgaand dan een dedicated boekhoudprogramma als Moneybird — voor complexe BTW-administratie kun je beide combineren.
 
