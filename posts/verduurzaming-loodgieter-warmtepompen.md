@@ -35,7 +35,7 @@ Een combinatie van warmtepomp en bestaande cv-ketel. Populair als tussenstap —
 
 ### CV-ketel vervangingen (HR107)
 
-De nieuwste generatie HR-ketels is 10-15% zuiniger dan modellen van 10 jaar oud. Veel huiseigenaren weten niet dat hun oude ketel onnodig veel gas verbruikt. Proactief klanten benaderen voor vervanging is een kans die veel loodgieters laten liggen — [email marketing](/blog/email-marketing-loodgieters-onderhoudsherinneringen) is hier ideaal voor.
+De nieuwste generatie HR-ketels is 10-15% zuiniger dan modellen van 10 jaar oud. Veel huiseigenaren weten niet dat hun oude ketel onnodig veel gas verbruikt. Proactief klanten benaderen voor vervanging is een kans die veel loodgieters laten liggen — [email marketing](/blog/email-marketing-loodgieter-onderhoud) is hier ideaal voor.
 
 ### Vloerverwarming
 
@@ -49,7 +49,7 @@ De ISDE-subsidie vergoedt een deel van de aanschaf- en installatiekosten:
 - **Hybride warmtepomp:** €1.000-1.500
 - **Zonneboiler:** €500-1.000
 
-Als je klanten helpt met de subsidieaanvraag, onderscheid je je direct van concurrenten die alleen installeren. Dit hoeft niet ingewikkeld te zijn — een checklist met benodigde documenten en een korte uitleg volstaat. Klanten waarderen deze service enorm en het versterkt je [online reputatie via Google reviews](/blog/meer-google-reviews-loodgieter).
+Als je klanten helpt met de subsidieaanvraag, onderscheid je je direct van concurrenten die alleen installeren. Dit hoeft niet ingewikkeld te zijn — een checklist met benodigde documenten en een korte uitleg volstaat. Klanten waarderen deze service enorm en het versterkt je [online reputatie via Google reviews](/blog/meer-google-reviews-als-loodgieter).
 
 ## Certificeringen die je nodig hebt
 
@@ -67,7 +67,7 @@ Alleen het aanbieden van de dienst is niet genoeg. Je moet jezelf actief positio
 
 1. **Update je website** — maak een aparte pagina voor verduurzaming met uitleg over warmtepompen, subsidies en je certificeringen
 2. **Lokale SEO** — zorg dat je gevonden wordt op termen als "warmtepomp installateur [jouw plaats]"
-3. **Google Bedrijfsprofiel** — voeg verduurzamingsdiensten toe aan je profiel en vraag klanten om [reviews te plaatsen](/blog/meer-google-reviews-loodgieter)
+3. **Google Bedrijfsprofiel** — voeg verduurzamingsdiensten toe aan je profiel en vraag klanten om [reviews te plaatsen](/blog/meer-google-reviews-als-loodgieter)
 4. **Partnerships** — werk samen met energieadviseurs, makelaars en woningcorporaties die huiseigenaren doorverwijzen
 
 ## Wat als je geen tijd hebt voor marketing?
@@ -82,4 +82,4 @@ En met de Groei-of-Geld-Terug Garantie is het risico nul: geen groei in bereik o
 
 De energietransitie is geen trend die overwaait — het is de toekomst van de installatiebranche. Loodgieters die nu investeren in certificeringen en zich positioneren als verduurzamingsspecialist, bouwen aan een stabiel en groeiend bedrijf. De vraag naar warmtepompen en duurzame installaties stijgt elk jaar, en klanten zoeken actief naar betrouwbare vakmensen.
 
-Lees ook hoe je [meer directe klanten krijgt zonder Werkspot](/blog/meer-directe-klanten-loodgieter-zonder-werkspot) en hoe [AI je helpt als loodgieter](/blog/hoe-loodgieters-ai-gebruiken).
+Lees ook hoe je [meer directe klanten krijgt zonder Werkspot](/blog/meer-directe-klanten-zonder-werkspot) en hoe [AI je helpt als loodgieter](/blog/hoe-ai-loodgieters-helpt).

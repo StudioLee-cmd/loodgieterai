@@ -40,7 +40,7 @@ De kracht zit in automatisering. Met een eenvoudig systeem stuur je automatisch 
 - **Seizoenstips**: voor het stookseizoen een check aanbieden
 - **Garantie-opvolging**: herinnering wanneer de garantie bijna verloopt
 
-Je hoeft hier geen dure software voor te gebruiken. Een simpele spreadsheet met klantnamen en data, gecombineerd met een e-mailtool, is genoeg om te starten. Wil je hierin verder automatiseren? Ontdek hoe [AI loodgieters helpt](/blog/hoe-loodgieters-ai-gebruiken) om dit soort processen te stroomlijnen.
+Je hoeft hier geen dure software voor te gebruiken. Een simpele spreadsheet met klantnamen en data, gecombineerd met een e-mailtool, is genoeg om te starten. Wil je hierin verder automatiseren? Ontdek hoe [AI loodgieters helpt](/blog/hoe-ai-loodgieters-helpt) om dit soort processen te stroomlijnen.
 
 ## Van klant naar ambassadeur
 

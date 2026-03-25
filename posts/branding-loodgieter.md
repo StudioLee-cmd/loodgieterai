@@ -15,7 +15,7 @@ Personal branding gaat niet over een duur logo of een slick website. Het gaat ov
 
 ## Waarom branding werkt voor loodgieters
 
-De meeste loodgieters vertrouwen op [Werkspot of vergelijkbare platforms](/blog/meer-directe-klanten-loodgieter-zonder-werkspot) voor hun klanten. Maar platformklanten zijn prijsgedreven — ze vergelijken 3-5 offertes en kiezen de goedkoopste.
+De meeste loodgieters vertrouwen op [Werkspot of vergelijkbare platforms](/blog/meer-directe-klanten-zonder-werkspot) voor hun klanten. Maar platformklanten zijn prijsgedreven — ze vergelijken 3-5 offertes en kiezen de goedkoopste.
 
 Met een sterk merk draai je dat om:
 
@@ -41,7 +41,7 @@ Kies één kleurcombinatie en gebruik die overal:
 
 - Bedrijfsbus
 - Werkkleding
-- [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-loodgieter-eerste-keuze)
+- [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-loodgieter)
 - Social media profielen
 - Offertes en facturen
 
@@ -52,7 +52,7 @@ Branding werkt pas als mensen je zien. Combineer online en offline:
 | Online | Offline |
 |--------|---------|
 | Google Bedrijfsprofiel | Herkenbare bedrijfsbus |
-| [Social media posts](/blog/social-media-loodgieters-online-zichtbaarheid) | Werkkleding met logo |
+| [Social media posts](/blog/social-media-loodgieters-online) | Werkkleding met logo |
 | Blogartikelen | Sponsoring lokale club |
 | Reviews | Visitekaartjes bij klanten |
 
@@ -67,7 +67,7 @@ Het verschil in omzet kan oplopen tot 30-40% per opdracht, simpelweg omdat je ni
 
 ## Van reviews naar reputatie
 
-[Google reviews](/blog/meer-google-reviews-loodgieter) zijn de bouwstenen van je online reputatie. Maar branding gaat verder:
+[Google reviews](/blog/meer-google-reviews-als-loodgieter) zijn de bouwstenen van je online reputatie. Maar branding gaat verder:
 
 - Reageer altijd persoonlijk op reviews
 - Deel klanterverhalen op social media
@@ -86,7 +86,7 @@ Je hebt geen duur marketingbureau nodig. Start met:
 
 ## Laat je branding professioneel begeleiden
 
-Bij StudioLee bouwen we merken voor vakmensen. Van [email marketing](/blog/email-marketing-loodgieters-onderhoudsherinneringen) tot social media content — alles afgestemd op jouw specialisatie. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee bouwen we merken voor vakmensen. Van [email marketing](/blog/email-marketing-loodgieter-onderhoud) tot social media content — alles afgestemd op jouw specialisatie. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

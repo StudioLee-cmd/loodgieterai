@@ -43,7 +43,7 @@ Je hoeft niet van de ene op de andere dag alles te veranderen. Begin met 50% van
 
 ## Online positionering als specialist
 
-Zodra je je niche hebt gekozen, moet je [online zichtbaarheid](/blog/hoe-loodgieter-beter-gevonden-wordt-google) daarop afstemmen.
+Zodra je je niche hebt gekozen, moet je [online zichtbaarheid](/blog/hoe-loodgieter-beter-gevonden-wordt-op-google) daarop afstemmen.
 
 **Je website aanpassen**: maak een speciale pagina voor je specialisatie. Niet een kort blokje tekst, maar een uitgebreide pagina met uitleg, foto's van projecten en veelgestelde vragen. Google beloont diepgang.
 
