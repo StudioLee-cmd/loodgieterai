@@ -7,8 +7,6 @@ image: "/images/blog/branding-loodgieter.png"
 tags: ["branding", "loodgieter", "personal branding"]
 ---
 
-# Personal branding als loodgieter: zo word je de eerste keuze in je regio
-
 Als loodgieter concurreer je met tientallen collega's in je regio. Allemaal doen ze min of meer hetzelfde werk, tegen vergelijkbare prijzen. Wat maakt dat een klant jou belt in plaats van de concurrent? Het antwoord is branding.
 
 Personal branding gaat niet over een duur logo of een slick website. Het gaat over herkenning, vertrouwen en top-of-mind zijn wanneer iemand een loodgieter nodig heeft.

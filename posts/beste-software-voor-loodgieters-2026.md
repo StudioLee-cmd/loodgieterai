@@ -7,8 +7,6 @@ image: "/images/blog/beste-software-voor-loodgieters-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 ---
 
-# Beste software voor loodgieters 2026: tools vergeleken
-
 Als loodgieter wordt er veel van je gevraagd: spoedklussen, offertes, planning en ondertussen je boekhouding bijhouden. Welke software helpt jou als loodgieter het meest in 2026? In dit overzicht vergelijken we de populairste tools — eerlijk en in het Nederlands.
 
 ## Wat zoekt een loodgieter in software?

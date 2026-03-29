@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-loodgieter-partnerschappen.png"
 tags: ["samenwerkingen", "loodgieter", "groei"]
 ---
 
-# Samenwerken als loodgieter: partnerschappen die meer klussen opleveren
-
 Als loodgieter ben je vaak onderdeel van een groter project: een badkamerrenovatie, een nieuwbouwwoning, een daklekkage. In al die situaties werken meerdere vakmensen samen. Maar de meeste loodgieters benutten die samenwerking niet structureel. Terwijl juist daar de beste klussen vandaan komen.
 
 ## Waarom samenwerking cruciaal is in de bouw
@@ -52,19 +50,19 @@ Elke klus bij een partner is een sollicitatie voor de volgende. Lever [kwaliteit
 Vastgoedbeheerders beheren tientallen tot honderden panden. Ze hebben een vaste loodgieter nodig voor regulier onderhoud en spoedreparaties. Een contract met een vastgoedbeheerder betekent:
 
 - Regelmatig werk het hele jaar door
-- Minder [seizoensschommelingen](/blog/seizoenswerk-loodgieter-cv-vorstschade)
+- Minder [seizoensschommelingen](/blog/seizoenswerk-loodgieter-planning)
 - Snellere betaling via vaste facturatieafspraken
 
 ## Verduurzaming als samenwerkingskans
 
-De energietransitie brengt loodgieters, installateurs en elektriciens samen. [Warmtepompen](/blog/verduurzaming-loodgieter-warmtepompen-cv), hybride systemen en vloerverwarming vereisen meerdere disciplines. Een samenwerkingsverband dat dit gezamenlijk aanbiedt, wint klussen die individuele vakmensen missen.
+De energietransitie brengt loodgieters, installateurs en elektriciens samen. [Warmtepompen](/blog/verduurzaming-loodgieter-warmtepompen), hybride systemen en vloerverwarming vereisen meerdere disciplines. Een samenwerkingsverband dat dit gezamenlijk aanbiedt, wint klussen die individuele vakmensen missen.
 
 Presenteer dit gezamenlijke aanbod op je [website](/blog/loodgieterswebsite-omzetten-leadmachine) en in je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-loodgieter).
 
 ## Tips voor een succesvolle samenwerking
 
 - Communiceer duidelijk wie wat doet
-- Wees transparant over [prijzen](/blog/offerte-loodgieter-sneller-klussen) richting de klant
+- Wees transparant over [prijzen](/blog/offertes-loodgieter-sneller-reageren) richting de klant
 - Houd bij hoeveel klussen via elke partner binnenkomen
 - Evalueer elk kwartaal: werkt de samenwerking voor beide partijen?
 

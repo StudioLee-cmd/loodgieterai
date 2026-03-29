@@ -7,8 +7,6 @@ image: "/images/blog/online-reputatie-loodgieter.png"
 tags: ["online reputatie", "loodgieter", "reviews"]
 ---
 
-# Online reputatie als loodgieter: reviews die klanten overtuigen
-
 Een lekkende kraan, een verstopte afvoer, een kapotte cv-ketel — klanten zoeken een loodgieter op het moment dat ze een probleem hebben. Ze googelen, zien drie resultaten en kiezen op basis van reviews. Jouw online reputatie is het eerste filter.
 
 ## Waarom reviews alles bepalen voor loodgieters

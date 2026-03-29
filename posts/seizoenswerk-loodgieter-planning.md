@@ -7,8 +7,6 @@ image: "/images/blog/seizoenswerk-loodgieter-planning.png"
 tags: ["seizoenswerk", "loodgieter", "planning"]
 ---
 
-# Seizoenswerk als loodgieter: planning van cv-checks tot vorstschade
-
 Als loodgieter ken je het patroon: in de winter staat de telefoon roodgloeiend met lekkages en cv-storingen, terwijl je in de zomer soms moet zoeken naar werk. Die pieken en dalen horen bij het vak, maar je kunt er veel beter op inspelen dan de meeste loodgieters doen.
 
 In dit artikel leer je hoe je seizoensgebonden werk omzet in een voorspelbare planning met stabiele inkomsten.

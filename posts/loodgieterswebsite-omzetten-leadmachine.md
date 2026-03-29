@@ -7,8 +7,6 @@ image: "/images/blog/loodgieterswebsite-omzetten-leadmachine.png"
 tags: ["Website", "Leads", "Conversie"]
 ---
 
-# Je loodgieterswebsite omzetten in een leadmachine
-
 Je hebt een website. Misschien zelfs een mooie. Maar als je eerlijk bent: hoeveel aanvragen komen er daadwerkelijk binnen via die site? Voor veel loodgieters is het antwoord teleurstellend. De website staat er, maar werkt niet als verkoopinstrument. Dat is zonde — want met een paar gerichte aanpassingen kan je website je beste bron van nieuwe klanten worden.
 
 In dit artikel laten we zien hoe je van een passieve website een actieve leadmachine maakt. Geen vage marketingtaal, maar concrete stappen die je vandaag kunt toepassen.

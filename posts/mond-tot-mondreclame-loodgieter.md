@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-loodgieter.png"
 tags: ["mond-tot-mond", "loodgieter", "klantwerving"]
 ---
 
-# Mond-tot-mondreclame als loodgieter: hoe tevreden klanten je agenda vullen
-
 De meeste succesvolle loodgieters bouwen hun bedrijf op aanbevelingen. Een buurman die zegt "die loodgieter is betrouwbaar" weegt zwaarder dan welke advertentie ook. Maar de meeste loodgieters laten mond-tot-mondreclame aan het toeval over.
 
 In dit artikel leer je hoe je er als loodgieter actief aan werkt.
