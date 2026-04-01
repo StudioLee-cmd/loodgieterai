@@ -7,19 +7,19 @@ export const menuItems: IMenuItem[] = [
     },
     {
         text: "Tarieven",
-        url: "/#pricing"
+        url: "/tarieven"
     },
     {
-        text: "Review Pakket",
+        text: "Reviews",
         url: "/review-pakket"
     },
     {
-        text: "Gratis Readiness Scan",
+        text: "Gratis Scan",
         url: "/gratis-scan"
     },
     {
-        text: "Ervaringen",
-        url: "/#testimonials"
+        text: "Gratis Website",
+        url: "/gratis-website"
     },
     {
         text: "Blog",
