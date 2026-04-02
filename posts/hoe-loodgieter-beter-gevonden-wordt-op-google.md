@@ -5,6 +5,7 @@ date: "2026-03-08"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-loodgieter-beter-gevonden-wordt-op-google.png"
 tags: ["SEO", "Google", "Vindbaarheid"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom online vindbaarheid alles bepaalt

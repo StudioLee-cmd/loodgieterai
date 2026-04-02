@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-loodgieter-partnerschappen.png"
 tags: ["samenwerkingen", "loodgieter", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Als loodgieter ben je vaak onderdeel van een groter project: een badkamerrenovatie, een nieuwbouwwoning, een daklekkage. In al die situaties werken meerdere vakmensen samen. Maar de meeste loodgieters benutten die samenwerking niet structureel. Terwijl juist daar de beste klussen vandaan komen.

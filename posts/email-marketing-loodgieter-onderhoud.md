@@ -7,6 +7,7 @@ image: "/images/blog/email-marketing-loodgieter-onderhoud.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "loodgieter", "onderhoud"]
+cluster: "email-marketing"
 ---
 
 ## Waarom email marketing werkt voor loodgieters

@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-google-reviews-als-loodgieter.png"
 tags: ["Reviews", "Google", "Vindbaarheid", "Automatisering"]
+cluster: "review-automatisering"
 ---
 
 ## Waarom Google-reviews voor loodgieters extra zwaar wegen

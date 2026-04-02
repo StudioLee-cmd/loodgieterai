@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-loodgieter.png"
 tags: ["online reputatie", "loodgieter", "reviews"]
+cluster: "online-reputatie"
 ---
 
 Een lekkende kraan, een verstopte afvoer, een kapotte cv-ketel — klanten zoeken een loodgieter op het moment dat ze een probleem hebben. Ze googelen, zien drie resultaten en kiezen op basis van reviews. Jouw online reputatie is het eerste filter.

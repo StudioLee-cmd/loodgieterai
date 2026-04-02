@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/robot-loodgieter-lekkage.jpg"
 tags: ["1 April", "Vindbaarheid", "SEO"]
+cluster: "vindbaarheid"
 ---
 
 ## De robot die je lekkage in 3 minuten fixt

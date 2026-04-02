@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoenswerk-loodgieter-planning.png"
 tags: ["seizoenswerk", "loodgieter", "planning"]
+cluster: "seizoenswerk"
 ---
 
 Als loodgieter ken je het patroon: in de winter staat de telefoon roodgloeiend met lekkages en cv-storingen, terwijl je in de zomer soms moet zoeken naar werk. Die pieken en dalen horen bij het vak, maar je kunt er veel beter op inspelen dan de meeste loodgieters doen.

@@ -7,6 +7,7 @@ image: "/images/blog/specialiseren-loodgieter-expert.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["specialisatie", "loodgieter", "groei"]
+cluster: "specialisatie"
 ---
 
 ## Waarom alleskunner zijn je groei remt

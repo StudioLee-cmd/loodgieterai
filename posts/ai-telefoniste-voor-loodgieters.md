@@ -5,6 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-loodgieters.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
+cluster: ""
 ---
 
 Het meest frustrerende geluid voor een loodgieter? Je telefoon die gaat terwijl je net met twee handen vol kit zit, of onder een krappe kruipruimte ligt. Je wéét dat het een klant kan zijn. Een lekkage? Een ketelstoring? Snel geld. Maar je kunt niet opnemen. Je laat hem gaan.

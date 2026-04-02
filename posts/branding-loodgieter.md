@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-loodgieter.png"
 tags: ["branding", "loodgieter", "personal branding"]
+cluster: "branding"
 ---
 
 Als loodgieter concurreer je met tientallen collega's in je regio. Allemaal doen ze min of meer hetzelfde werk, tegen vergelijkbare prijzen. Wat maakt dat een klant jou belt in plaats van de concurrent? Het antwoord is branding.

@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-loodgieter-sneller-reageren.jpg"
 tags: ["Lead opvolging", "Klanten", "Groei"]
+cluster: "lead-opvolging"
 ---
 
 ## 78% koopt bij de eerste die reageert

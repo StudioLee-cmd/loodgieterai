@@ -5,6 +5,7 @@ date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-loodgieter.jpg"
 tags: ["Vindbaarheid", "Google", "Lokale SEO"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom je Google Bedrijfsprofiel je belangrijkste etalage is

@@ -5,6 +5,7 @@ date: "2026-01-18"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/facturatie-administratie-loodgieter.png"
 tags: ["Administratie", "Vrijheid", "Geldzaken"]
+cluster: ""
 ---
 
 De grootste leugen die elke ZZP'er zichzelf vertelt: "Ik doe de administratie vanavond wel even." Of erger: "Dat doe ik in het weekend wel."

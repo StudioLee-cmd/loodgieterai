@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieterswebsite-omzetten-leadmachine.png"
 tags: ["Website", "Leads", "Conversie"]
+cluster: "website-conversie"
 ---
 
 Je hebt een website. Misschien zelfs een mooie. Maar als je eerlijk bent: hoeveel aanvragen komen er daadwerkelijk binnen via die site? Voor veel loodgieters is het antwoord teleurstellend. De website staat er, maar werkt niet als verkoopinstrument. Dat is zonde — want met een paar gerichte aanpassingen kan je website je beste bron van nieuwe klanten worden.

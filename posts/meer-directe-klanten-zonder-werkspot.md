@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-directe-klanten-zonder-werkspot.png"
 tags: ["Loodgieter", "Directe Klanten", "Werkspot"]
+cluster: "directe klanten"
 ---
 
 ## Het Werkspot-dilemma voor loodgieters

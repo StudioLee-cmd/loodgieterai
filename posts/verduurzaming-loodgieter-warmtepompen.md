@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/verduurzaming-loodgieter-warmtepompen.png"
 tags: ["Verduurzaming", "Warmtepompen", "Groei"]
+cluster: "verduurzaming"
 ---
 
 De Nederlandse woningmarkt verandert in rap tempo. Met het Klimaatakkoord, stijgende gasprijzen en de ambitie om in 2050 CO₂-neutraal te zijn, groeit de vraag naar duurzame verwarmingsoplossingen explosief. En als loodgieter zit je precies in het hart van deze transitie.
