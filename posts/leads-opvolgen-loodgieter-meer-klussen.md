@@ -21,7 +21,7 @@ Die ene telefoontje verhoogt je conversie met 30 tot 50 procent. Klanten waarder
 
 ## Automatische follow-up als je het vergeet
 
-Handmatig bellen vergeet je na een drukke werkdag. Automatiseer de opvolging:
+Handmatig bellen vergeet je na een drukke werkdag. [Automatiseer de opvolging](/chatbot):
 
 1. **Dag 0:** Offerte verstuurd per mail
 2. **Dag 1:** Automatische WhatsApp: "De offerte staat in uw mail. Heeft u vragen?"
