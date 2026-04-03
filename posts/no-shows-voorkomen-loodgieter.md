@@ -15,7 +15,7 @@ Voor loodgieters is het probleem extra vervelend omdat veel klussen tijdgebonden
 
 ## Tip 1: stuur een automatische herinnering via WhatsApp
 
-De eenvoudigste manier om no-shows te verminderen is een automatische herinnering 24 uur en 2 uur voor de afspraak. WhatsApp werkt hiervoor beter dan SMS of e-mail — de open rate ligt boven de 90 procent in Nederland.
+De eenvoudigste manier om no-shows te verminderen is een [automatische herinneringen](/chatbot) 24 uur en 2 uur voor de afspraak. WhatsApp werkt hiervoor beter dan SMS of e-mail — de open rate ligt boven de 90 procent in Nederland.
 
 Moderne planningstools zoals die van [LoodgieterAI](/) sturen deze herinneringen automatisch. De klant hoeft alleen te bevestigen met een klik. Geen reactie? Dan weet je op tijd dat je het tijdslot kunt hervullen.
 
