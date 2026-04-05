@@ -52,6 +52,16 @@ Na 3 dagen geen reactie? Het systeem stuurt automatisch: "Hoi [naam], heb je mij
 
 Het mooiste: als de klant akkoord gaat, zet je de offerte met één klik om naar een werkorder en later naar een factuur. Geen dubbel werk, geen overtikfouten, geen vergeten facturen.
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als loodgieter.
+
+Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [AI chatbot](/chatbot) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [tarieven](/tarieven) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Je concurrent die altijd vol zit, is niet per se beter dan jij. Hij reageert alleen sneller. Met de juiste tools verstuur je offertes in minuten, volg je automatisch op, en zet je meer aanvragen om in opdrachten.
