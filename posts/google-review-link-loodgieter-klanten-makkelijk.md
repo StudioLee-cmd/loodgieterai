@@ -37,7 +37,7 @@ Timing is cruciaal. Binnen 2 uur na de klus is ideaal. Na 24 uur halveert de kan
 
 Handmatig na elke klus een WhatsApp sturen met de review link werkt, maar je vergeet het. Na een drukke dag met vier klussen is het laatste waar je aan denkt een berichtje sturen. En de volgende ochtend zit je al weer bij de volgende klant.
 
-Een [AI-systeem](/reviews) stuurt het bericht automatisch. Zodra je een klus als afgerond markeert in je planning, gaat het review-verzoek eruit. Geen actie van jou nodig. De klant krijgt het bericht op het perfecte moment, elke keer.
+Een [review-automatisering](/reviews) stuurt het bericht automatisch. Zodra je een klus als afgerond markeert in je planning, gaat het review-verzoek eruit. Geen actie van jou nodig. De klant krijgt het bericht op het perfecte moment, elke keer.
 
 Het systeem houdt ook bij wie al een review heeft geschreven en wie niet. Klanten die na 3 dagen niet hebben gereageerd, krijgen een vriendelijke herinnering. Niet opdringerig, gewoon een kort bericht: "We hopen dat alles nog goed werkt. Als je even tijd hebt, zou een korte review ons enorm helpen."
 
@@ -65,4 +65,4 @@ Het vliegwieleffect is krachtig: meer reviews betekent hogere positie op Google 
 
 Een Google review link is gratis, kost vijf minuten om aan te maken, en levert maand na maand meer [reviews](/reviews) en meer klanten op. Combineer het met automatische verzending na elke klus en je hebt een systeem dat je reputatie continu versterkt.
 
-Wil je weten hoe je review-automatisering instelt voor jouw loodgietersbedrijf? Vraag een [gratis scan](/gratis-scan) aan en we laten het je zien.
+Een goed reviewsysteem versterkt ook je [vindbaarheid op Google](/seo). Wil je weten hoe je review-automatisering instelt voor jouw loodgietersbedrijf? Vraag een [gratis scan](/gratis-scan) aan en we laten het je zien.
