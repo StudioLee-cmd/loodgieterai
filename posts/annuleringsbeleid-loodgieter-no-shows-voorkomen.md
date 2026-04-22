@@ -2,11 +2,11 @@
 title: "Annuleringsbeleid als loodgieter: duidelijke afspraken die no-shows voorkomen"
 excerpt: "Een helder annuleringsbeleid voorkomt no-shows en beschermt je omzet als loodgieter. Zo stel je het op zonder klanten af te schrikken."
 date: "2026-04-09"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/annuleringsbeleid-loodgieter-no-shows-voorkomen.jpg"
 tags: ["No-shows", "Loodgieter", "Planning"]
 ---
-
 ## Waarom een annuleringsbeleid onmisbaar is
 
 Elke loodgieter kent het: je rijdt naar een adres, gereedschap in de bus, en niemand doet open. Die ene gemiste afspraak kost je al snel een halve dag omzet. Tel daar de brandstofkosten bij op en je bent zo honderd euro kwijt, zonder ook maar een moersleutel aan te raken.

@@ -2,11 +2,11 @@
 title: "Meer klanten als loodgieter: 7 gratis tips"
 excerpt: "Meer opdrachten als loodgieter zonder te betalen voor leads? Deze 7 praktische tips helpen je vindbaar worden en vaste klanten opbouwen."
 date: "2026-04-19"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieter-online-meer-klanten-gratis-tips.jpg"
 tags: ["Vindbaarheid", "Groei", "Tips"]
 ---
-
 ## Waarom betalen voor leads als je ze zelf kunt aantrekken?
 
 Platforms als Werkspot rekenen €5-30 per lead, en die lead belt ook drie andere loodgieters. Je betaalt voor een wedstrijd die je misschien niet wint. Ondertussen zijn er loodgieters die structureel volle agenda's hebben zonder een cent aan leadplatformen uit te geven. Het verschil? Ze zijn zelf vindbaar geworden.

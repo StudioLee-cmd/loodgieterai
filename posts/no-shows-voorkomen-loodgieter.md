@@ -2,11 +2,11 @@
 title: "No-shows voorkomen als loodgieter: 5 bewezen methoden"
 excerpt: "Lege ritten kosten je als loodgieter honderden euro's per maand. Ontdek 5 bewezen methoden om no-shows drastisch te verminderen."
 date: "2026-04-05"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-loodgieter.jpg"
 tags: ["No-shows", "Loodgieter", "Automatisering"]
 ---
-
 ## Weer voor een dichte deur
 
 Je hebt je bus ingepakt, bent een half uur gereden en staat voor de deur. Niemand thuis. Telefoon gaat over op voicemail. Weer een no-show — weer een gat in je planning dat je niet meer kunt opvullen.

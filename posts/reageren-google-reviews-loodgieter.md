@@ -2,11 +2,11 @@
 title: "Reageren op Google reviews als loodgieter"
 excerpt: "Hoe reageer je professioneel op Google reviews als loodgieter? Tips voor positieve en negatieve beoordelingen die vertrouwen opbouwen."
 date: "2026-04-17"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reageren-google-reviews-loodgieter.jpg"
 tags: ["Reviews", "Google", "Reputatie"]
 ---
-
 ## Waarom reageren op reviews verschil maakt
 
 Je hebt twintig positieve Google reviews en dan staat het er ineens: drie sterren met een klacht over de prijs. De verleiding is groot om het te negeren of je te verdedigen. Maar hoe je reageert bepaalt wat de volgende potentiële klant van je denkt. Onderzoek laat zien dat bijna de helft van de mensen eerder een bedrijf belt dat actief reageert op beoordelingen, ook op de negatieve.

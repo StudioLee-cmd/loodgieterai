@@ -2,11 +2,11 @@
 title: "AI telefonist vs kantoormedewerker loodgieter: wat kies je?"
 excerpt: "Een eerlijke vergelijking tussen een AI telefonist en een parttime kantoormedewerker voor een loodgietersbedrijf, met cijfers over kosten, dekking en leadsnelheid."
 date: "2026-04-22"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefonist-vs-kantoormedewerker-loodgieter-vergelijking.jpg"
 tags: ["Loodgieter", "Voice AI", "Bedrijfsvoering", "Vergelijking"]
 ---
-
 Een loodgieter met een groeiend bedrijf komt vroeg of laat op het punt dat hij zelf de telefoon niet meer goed kan beheren. Tijdens een lekkage-klus ligt hij onder een wastafel, zijn telefoon trilt in zijn zak, en tegen de tijd dat hij eruit komt, heeft de beller al iemand anders gebeld. Op dat moment speelt de vraag: is het tijd om een parttime kantoormedewerker aan te nemen, of stap je direct over op een AI telefonist?
 
 Beide oplossingen beantwoorden hetzelfde probleem. Maar ze doen dat op heel verschillende manieren, met heel verschillende kostenplaatjes en hele andere grenzen. In dit artikel een eerlijke vergelijking tussen de twee, op vijf dimensies die er voor een loodgietersbedrijf echt toe doen: kosten, dekking, snelheid, kwaliteit en schaalbaarheid. Aan het eind weet je welke keuze bij jouw bedrijf past.

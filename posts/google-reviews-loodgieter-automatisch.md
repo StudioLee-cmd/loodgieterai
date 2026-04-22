@@ -2,11 +2,11 @@
 title: "Google Reviews als loodgieter automatisch verzamelen"
 excerpt: "Als loodgieter zijn Google Reviews je beste marketing. Ontdek hoe je automatisch meer reviews verzamelt na elke klus — zonder er tijd aan kwijt te zijn."
 date: "2026-04-04"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-loodgieter-automatisch.jpg"
 tags: ["Reviews", "Automatisering", "Loodgieter"]
 ---
-
 ## Waarom Google Reviews goud waard zijn als loodgieter
 
 Een lekkende kraan, een verstopte afvoer, een kapotte cv-ketel — klanten zoeken een loodgieter wanneer ze een urgent probleem hebben. Ze pakken hun telefoon, typen 'loodgieter in de buurt' en bellen de eerste met goede reviews.

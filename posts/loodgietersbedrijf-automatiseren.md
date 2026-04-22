@@ -2,11 +2,11 @@
 title: "Loodgietersbedrijf automatiseren: minder admin, meer klussen"
 excerpt: "Loodgieters besteden tot 15 uur per week aan administratie. Ontdek welke processen je kunt automatiseren en hoeveel tijd je terugwint."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgietersbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Loodgieter", "Tijdbesparing"]
 ---
-
 ## De helft van je werkweek zit niet in de buizen
 
 Werkbonnen uitschrijven, offertes opstellen, facturen versturen, klanten terugbellen die vragen wanneer je langskomt. Als loodgieter ben je ondernemer, planner, administrateur en klantenservice tegelijk. En dat naast het echte werk: lekkages verhelpen, cv-ketels installeren en leidingen aanleggen.

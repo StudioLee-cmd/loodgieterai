@@ -2,11 +2,11 @@
 title: "Hoe vinden klanten jou via ChatGPT en AI-zoekmachines?"
 excerpt: "Steeds meer klanten zoeken een loodgieter via ChatGPT of Perplexity. Ontdek wat dit betekent voor jouw vindbaarheid en wat je eraan kunt doen."
 date: "2026-04-14"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-zoekmachines-loodgieter-vindbaarheid.jpg"
 tags: ["Vindbaarheid", "AI", "SEO"]
 ---
-
 ## Klanten zoeken anders dan vijf jaar geleden
 
 Vroeger typte iemand met een lekkage "loodgieter [stad]" in Google en belde het eerste bedrijf in de lijst. Dat verandert snel. Steeds meer mensen stellen hun vraag aan ChatGPT, Perplexity of Google Gemini. En die geven niet tien blauwe links, maar één direct antwoord.

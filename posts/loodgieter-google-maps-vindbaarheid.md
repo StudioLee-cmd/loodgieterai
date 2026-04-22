@@ -2,11 +2,11 @@
 title: "Loodgieter beter vindbaar in Google Maps: complete gids"
 excerpt: "Klanten zoeken loodgieters via Google Maps. Hoe kom je in de top 3? Een complete gids met concrete stappen voor lokale vindbaarheid."
 date: "2026-04-08"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieter-google-maps-vindbaarheid.jpg"
 tags: ["SEO", "Google Maps", "Loodgieter"]
 ---
-
 ## Waarom Google Maps het belangrijkste kanaal is voor loodgieters
 
 Iemand ontdekt een lekkage. Wat doet die persoon? Google openen op de telefoon, "loodgieter [stad]" intypen, en kijken naar de drie bedrijven die bovenaan in het kaartresultaat staan. Niet de eerste tien. Alleen de top drie. Daar wordt 80 procent van de klikken geboekt.

@@ -2,11 +2,11 @@
 title: "Prijzen op je website als loodgieter: wel of niet?"
 excerpt: "Moet je als loodgieter je tarieven op je website zetten? De voor- en nadelen van prijstransparantie en wanneer het je meer klussen oplevert."
 date: "2026-04-18"
+cluster: "prijzen-communiceren"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-loodgieter-wel-of-niet.jpg"
 tags: ["Website", "Prijzen", "Klanten"]
 ---
-
 ## Het dilemma dat elke loodgieter herkent
 
 Je overweegt om je prijzen op je website te zetten. Maar dan denk je: als ik mijn tarieven laat zien, vergelijken klanten me direct met de goedkoopste concurrent. Of erger: ze bellen niet eens omdat ze schrikken van het bedrag. Dus laat je het weg. "Bel voor een offerte" staat er, en daarmee is de kous af.

@@ -2,11 +2,11 @@
 title: "Google review link delen als loodgieter: maak het klanten makkelijk"
 excerpt: "Een directe Google review link stuurt klanten met een klik naar je reviewpagina. Zo maak en deel je de link als loodgieter."
 date: "2026-04-10"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-review-link-loodgieter-klanten-makkelijk.jpg"
 tags: ["Reviews", "Loodgieter", "Google"]
 ---
-
 ## Waarom de meeste klanten geen review achterlaten
 
 Je hebt net een lekkage opgelost. De klant is blij, bedankt je uitgebreid, en zegt: "Ik zal zeker een review voor je achterlaten!" Twee weken later: niets. Niet omdat de klant ontevreden is, maar omdat het te veel moeite kost. Ze moeten Google openen, je bedrijf zoeken, op reviews klikken, en dan pas schrijven. Die vier stappen zijn genoeg om het uit te stellen en te vergeten.

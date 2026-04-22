@@ -2,11 +2,11 @@
 title: "Leads opvolgen als loodgieter: meer klussen winnen"
 excerpt: "Offerte gestuurd maar niets meer gehoord? Ontdek hoe je als loodgieter leads slim opvolgt en meer offertes omzet in opdrachten."
 date: "2026-04-03"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-loodgieter-meer-klussen.jpg"
 tags: ["Leads", "Lead opvolging", "Loodgieter", "Offertes"]
 ---
-
 ## Het gat tussen offerte en opdracht
 
 Je rijdt naar een klant, bekijkt de situatie, stuurt een offerte en dan... stilte. De klant heeft drie offertes opgevraagd en kiest degene die het beste opvolgt — niet altijd de goedkoopste. Opvolging wint klussen.

@@ -2,11 +2,11 @@
 title: "Offertes sneller versturen als loodgieter: van aanvraag naar klant"
 excerpt: "Te laat met je offerte? Dan is de klant al bij de concurrent. Leer hoe je als loodgieter offertes sneller en professioneler verstuurt."
 date: "2026-04-05"
+cluster: "offerte-proces"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-sneller-versturen-loodgieter.jpg"
 tags: ["Offertes", "Loodgieter", "Verkoop"]
 ---
-
 ## De klant die niet wacht
 
 Een huiseigenaar heeft een lekkage. Hij belt drie loodgieters. De eerste stuurt dezelfde dag nog een offerte. De tweede belt de volgende dag terug. De derde? Die was het vergeten — te druk met klussen.

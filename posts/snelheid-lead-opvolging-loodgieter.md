@@ -2,11 +2,11 @@
 title: "Snelheid bij leads opvolgen: waarom loodgieters binnen 5 minuten moeten reageren"
 excerpt: "78 procent van de klanten kiest de loodgieter die het eerst reageert. Ontdek waarom snelheid bij lead opvolging alles bepaalt."
 date: "2026-04-07"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/snelheid-lead-opvolging-loodgieter.jpg"
 tags: ["Leads", "Opvolging", "Loodgieter"]
 ---
-
 ## De klant kiest wie het eerst reageert
 
 Een huiseigenaar ontdekt een lekkage onder de keuken. Water druppelt langs de afvoer, de vloer wordt nat. Wat doet die persoon? Google openen, "loodgieter [stad]" intypen, en de eerste drie resultaten bellen of een formulier invullen. Vaak bij alledrie tegelijk.

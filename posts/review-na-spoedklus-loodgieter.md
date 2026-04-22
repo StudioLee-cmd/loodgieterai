@@ -2,11 +2,11 @@
 title: "Reviews na een spoedklus: waarom loodgieters hier kansen missen"
 excerpt: "Na een spoedklus is de klant opgelucht en dankbaar. Dat is het perfecte moment voor een review. Toch vragen de meeste loodgieters het nooit."
 date: "2026-04-11"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-na-spoedklus-loodgieter.jpg"
 tags: ["Reviews", "Spoedklussen", "Groei"]
 ---
-
 ## Spoedklanten zijn je beste reviewschrijvers
 
 Een lekkage, een verstopte afvoer, geen warm water. Als jij dat binnen een uur oplost, is de klant niet gewoon tevreden. Die is opgelucht, dankbaar en onder de indruk. Dat gevoel is precies waar vijf-sterren reviews uit ontstaan.

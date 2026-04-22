@@ -2,11 +2,11 @@
 title: "Wat kost een gemiste afspraak je loodgietersbedrijf?"
 excerpt: "No-shows kosten loodgieters meer dan je denkt. Reken uit hoeveel omzet je mist en ontdek wat je eraan kunt doen."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-afspraak-kosten-loodgietersbedrijf.jpg"
 tags: ["No-shows", "Omzet", "Planning"]
 ---
-
 ## Een leeg uur is duurder dan je denkt
 
 Als loodgieter rijd je naar een adres voor een geplande klus. Je arriveert, belt aan, maar er wordt niet opengedaan. De klant is het vergeten of heeft zonder bericht geannuleerd. Dat ene lege uur is niet alleen verloren werktijd. Het is ook benzinekosten, een plek in je planning die een betalende klant had kunnen vullen en de vervolgklussen die uit dat bezoek hadden kunnen komen.

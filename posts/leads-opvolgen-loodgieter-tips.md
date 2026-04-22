@@ -2,11 +2,11 @@
 title: "Leads opvolgen als loodgieter: van aanvraag naar opdracht"
 excerpt: "De meeste loodgieters verliezen klanten door te langzaam te reageren. Leer hoe je met snelle opvolging meer opdrachten binnenhaalt."
 date: "2026-04-06"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-loodgieter-tips.jpg"
 tags: ["Leads", "Loodgieter", "Opvolging"]
 ---
-
 ## Die klant die je net bent misgelopen
 
 Je zit onder een wastafel wanneer je telefoon gaat. Je kunt niet opnemen. Een uur later bel je terug, maar de klant heeft al een andere loodgieter gebeld die wél direct opnam. Dit scenario speelt zich dagelijks af bij loodgieters door het hele land.

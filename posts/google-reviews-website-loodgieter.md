@@ -2,11 +2,11 @@
 title: "Google reviews op je website als loodgieter: zo doe je dat"
 excerpt: "Toon je beste Google reviews op je eigen website. Ontdek welke reviews het meest overtuigen en waar je ze plaatst."
 date: "2026-04-12"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-website-loodgieter.jpg"
 tags: ["Reviews", "Website", "Groei"]
 ---
-
 ## Reviews op Google zijn goed, reviews op je website zijn beter
 
 Klanten checken je Google reviews voordat ze bellen. Dat is stap één. Maar als ze doorklikken naar je website voor meer informatie en daar geen reviews zien, missen ze de bevestiging. Je website voelt dan als een losstaand ding dat niks te maken heeft met je goede reputatie op Google.

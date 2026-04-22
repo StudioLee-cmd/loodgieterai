@@ -2,11 +2,11 @@
 title: "Afspraakbevestiging loodgieter: WhatsApp templates"
 excerpt: "Afspraakbevestiging voor loodgieters: 8 WhatsApp templates en een timing-framework dat no-shows halveert en je planning strakker maakt."
 date: "2026-04-21"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakbevestiging-loodgieter-whatsapp-templates.jpg"
 tags: ["Loodgieter", "WhatsApp", "Automatisering", "Klantcommunicatie"]
 ---
-
 Een klant belt maandag voor een CV-beurt op vrijdag. Donderdagavond denkt hij: "hebben we die afspraak überhaupt nog?" Vrijdagochtend om kwart over negen staat jouw monteur voor een dichte deur omdat niemand thuis is. Dat is geen lastige klant, dat is een gat in je communicatiestroom.
 
 Een goede afspraakbevestiging sluit dat gat. Niet door één standaard e-mail op het moment van boeken, maar door vier korte WhatsApp-berichten op de momenten waarop een klant nog kan reageren. In deze gids staan acht Nederlandse templates voor je loodgietersbedrijf, plus de timing die het verschil maakt tussen een volle agenda en drie onverklaarbare gaten per week.
