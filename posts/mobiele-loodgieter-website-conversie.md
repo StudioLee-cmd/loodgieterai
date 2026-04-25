@@ -29,6 +29,8 @@ Voor de loodgieter-business-owner betekent dit dat je site twee verschillende er
 
 ## De 5 fricties die het meeste afval veroorzaken op mobiel
 
+![Smartphone met een loodgieter-website op een houten werkbank, naast moersleutel en notitieboek](/images/blog/mobiele-loodgieter-website-conversie-2.jpg)
+
 ### 1. Laadtijd boven 3 seconden
 
 Google's eigen onderzoek wijst uit dat 53 procent van de mobiele bezoekers afhaakt als een pagina langer dan 3 seconden laadt. Voor loodgieter-zoekers met haast ligt dat nog lager: vermoedelijk 60 tot 70 procent stopt al bij 4 seconden. De grootste oorzaak van trage loodgieter-websites is bijna altijd dezelfde: ongoptimaliseerde foto's. Een hero-banner die op desktop 2 MB weegt, weegt op mobiel ook 2 MB en moet via een trage 4G-verbinding worden geladen.
