@@ -1,7 +1,7 @@
 ---
 title: "Lokale linkbuilding voor loodgieters: hoger in Google zonder advertenties"
 slug: loodgieter-lokale-linkbuilding-hoger-in-google
-date: 2026-05-01
+date: "2026-05-01"
 excerpt: "Geen Ads-budget? Lokale linkbuilding levert duurzame Google-rankings op voor loodgieters. 8 concrete bronnen die werken in 2026 — meestal gratis."
 image: "/images/blog/loodgieter-lokale-linkbuilding-hoger-in-google.jpg"
 authorSlug: "tim-van-der-lee"
