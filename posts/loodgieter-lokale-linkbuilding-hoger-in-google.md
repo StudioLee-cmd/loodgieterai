@@ -1,5 +1,5 @@
 ---
-title: "Lokale linkbuilding voor loodgieters: hoger in Google zonder advertenties"
+title: "Lokale linkbuilding loodgieter: hoger in Google zonder Ads"
 slug: loodgieter-lokale-linkbuilding-hoger-in-google
 date: "2026-05-01"
 excerpt: "Geen Ads-budget? Lokale linkbuilding levert duurzame Google-rankings op voor loodgieters. 8 concrete bronnen die werken in 2026 — meestal gratis."
