@@ -1,0 +1,25 @@
+{
+  "slug": "facebook-voor-loodgieters-buurtgroepen-leads",
+  "supporting": {
+    "model": "gpt-image-2-text-to-image",
+    "cost": "$0.03",
+    "task_id": "3727a2536ace53edb8314fa05bcacfb8",
+    "aspect_ratio": "1:1",
+    "resolution": "1K",
+    "output_url": "https://tempfile.aiquickdraw.com/images/chatgpt/file_000000004b1871fd93b137215ed32d67.png",
+    "prompt": "Photographic close-up inside a plumber's work van interior in soft early-morning light coming through the windscreen. On the worn vinyl passenger seat: an open metal toolbox with pipe wrenches, copper couplings and brass fittings neatly arranged, a small spiral-bound paper notepad with handwritten Dutch street-address style pencil lines (no readable text, just abstract pen marks), a blue thermos flask, a folded blue cotton work-jacket hanging from a hook on the side panel, and a matte-black smartphone resting screen-up on top of the toolbox lid showing soft blue wallpaper (no readable text or UI). Background slightly blurred: the dashboard with a steering wheel partly visible and morning daylight through the windscreen. Photographic realism, working-vehicle authenticity, warm muted palette (denim blue, brass copper, off-white, charcoal). No people, no faces, no logos, no readable text."
+  },
+  "hero": {
+    "model": "nano-banana-2",
+    "cost": "$0.04",
+    "task_id": "471eaff08cd351885c3f6d0282fff9e9",
+    "aspect_ratio": "16:9",
+    "resolution": "1K",
+    "output_format": "jpg",
+    "image_input": "[supporting URL]",
+    "output_url": "https://tempfile.aiquickdraw.com/na2/471eaff08cd351885c3f6d0282fff9e91363837.jpeg",
+    "prompt": "Wide cinematic 16:9 photo of the same plumber's work-van interior from the reference image, soft early-morning light through the windscreen, dashboard and partial steering wheel visible at the left edge. In the foreground a man's hand (no face visible, only fingers and forearm in a slightly oil-smudged blue cotton work-jacket sleeve) reaching for the SAME matte-black smartphone now lifted slightly off the SAME open metal toolbox lid. The smartphone screen shows a soft blue wallpaper with two pale-grey abstract speech-bubble shapes (no readable text, no UI). The SAME red-handled pipe wrench rests inside the toolbox. The SAME copper couplings and brass fittings neatly arranged. The SAME spiral-bound paper notepad lies on the leather passenger seat with abstract handwritten lines. The SAME blue thermos flask stands upright to the right. The SAME folded blue work-jacket on the hook in the background. Photographic realism, NO face, NO logos, NO readable text or screen UI, single coherent work-van scene matching the reference image lighting, palette and anchor objects. Action conveys 'checking phone before driving to next job': hand mid-reach, smartphone slightly lifted."
+  },
+  "total_cost": "$0.07",
+  "date": "2026-05-18"
+}
