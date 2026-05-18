@@ -2,7 +2,7 @@
 title: "Reviews na een spoedklus: waarom loodgieters hier kansen missen"
 excerpt: "Na een spoedklus is de klant opgelucht en dankbaar. Dat is het perfecte moment voor een review. Toch vragen de meeste loodgieters het nooit."
 date: "2026-04-11"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-na-spoedklus-loodgieter.jpg"
 tags: ["Reviews", "Spoedklussen", "Groei"]

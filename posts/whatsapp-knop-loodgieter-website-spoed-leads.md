@@ -5,7 +5,7 @@ date: "2026-04-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-knop-loodgieter-website-spoed-leads.jpg"
 tags: ["Website", "Conversie", "WhatsApp", "Loodgieter"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 ## In het kort

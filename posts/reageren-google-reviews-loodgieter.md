@@ -2,7 +2,7 @@
 title: "Reageren op Google reviews als loodgieter"
 excerpt: "Hoe reageer je professioneel op Google reviews als loodgieter? Tips voor positieve en negatieve beoordelingen die vertrouwen opbouwen."
 date: "2026-04-17"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reageren-google-reviews-loodgieter.jpg"
 tags: ["Reviews", "Google", "Reputatie"]

@@ -5,7 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-reviews-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
-cluster: ""
+cluster: "reviews"
 ---
 
 Als je zelf iets koopt of een restaurant zoekt, wat doe je dan? Precies: je kijkt op Google Maps en checkt de sterren. Heeft een tent 3,4 sterren? Dan loop je door. Heeft hij 4,8 sterren met 200 reviews? Dan ga je naar binnen.

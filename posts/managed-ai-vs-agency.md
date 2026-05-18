@@ -5,7 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/managed-ai-vs-agency.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
-cluster: ""
+cluster: "automatisering"
 ---
 
 Als je als loodgietersbedrijf wilt groeien, kom je op een punt dat je het niet meer alleen afkunt. Je hebt marketing nodig. Je hebt structuur nodig. Je moet zichtbaar zijn. De logische stap was altijd: we huren een marketingbureau in.

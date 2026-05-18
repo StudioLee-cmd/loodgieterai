@@ -2,7 +2,7 @@
 title: "Google review link delen als loodgieter: maak het klanten makkelijk"
 excerpt: "Een directe Google review link stuurt klanten met een klik naar je reviewpagina. Zo maak en deel je de link als loodgieter."
 date: "2026-04-10"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-review-link-loodgieter-klanten-makkelijk.jpg"
 tags: ["Reviews", "Loodgieter", "Google"]

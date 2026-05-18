@@ -2,7 +2,7 @@
 title: "Prijzen op je website als loodgieter: wel of niet?"
 excerpt: "Moet je als loodgieter je tarieven op je website zetten? De voor- en nadelen van prijstransparantie en wanneer het je meer klussen oplevert."
 date: "2026-04-18"
-cluster: "prijzen-communiceren"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-loodgieter-wel-of-niet.jpg"
 tags: ["Website", "Prijzen", "Klanten"]

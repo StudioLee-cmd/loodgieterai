@@ -2,7 +2,7 @@
 title: "Wachtlijst als loodgieter: annuleringen direct opvullen"
 excerpt: "Een klant annuleert, jij hebt een lege ochtend. Met een standby-lijst van klanten die snel geholpen willen worden vul je het gat direct op."
 date: "2026-04-12"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-loodgieter-annuleringen-opvangen.jpg"
 tags: ["No-shows", "Planning", "Groei"]

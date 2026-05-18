@@ -2,7 +2,7 @@
 title: "No-shows voorkomen als loodgieter: 5 bewezen methoden"
 excerpt: "Lege ritten kosten je als loodgieter honderden euro's per maand. Ontdek 5 bewezen methoden om no-shows drastisch te verminderen."
 date: "2026-04-05"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-loodgieter.jpg"
 tags: ["No-shows", "Loodgieter", "Automatisering"]

@@ -5,7 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-loodgieters-ai-gebruiken-meer-opdrachten.png"
 tags: ["AI", "Automatisering", "Loodgieters"]
-cluster: "ai-automatisering"
+cluster: "automatisering"
 ---
 
 Als loodgieter ben je de hele dag in touw. Lekkages oplossen, cv-installaties afmaken, spoedklussen tussendoor — en dan ook nog offertes schrijven, klanten terugbellen en facturen versturen. De administratieve druk groeit, terwijl de agenda al vol zit. AI biedt hier uitkomst.

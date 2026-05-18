@@ -6,7 +6,7 @@ excerpt: "Hoe je in januari en februari de vorstschade-piek beheerst zonder uit 
 image: "/images/blog/vorstschade-winter-spoed-systeem-loodgieter-spoedklussen.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Spoedklussen", "Winter", "Vorstschade"]
-cluster: "spoedklussen"
+cluster: "voice-ai"
 ---
 
 In een normale winterweek bel je 15-25 spoedklussen af. In een vorstweek (4 dagen achtereen onder -3°C) loopt dat naar 60-90 oproepen per dag. Loodgieters zonder vorst-protocol verliezen 40-60% van die oproepen omdat ze niet snel genoeg kunnen reageren, geen voorraad hebben van de juiste onderdelen, of personeel niet kunnen schalen. Klanten met gesprongen leidingen vinden binnen 30 minuten een andere loodgieter, en die andere loodgieter wordt vervolgens hun vaste loodgieter voor de komende jaren.

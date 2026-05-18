@@ -2,7 +2,7 @@
 title: "Afspraakbevestiging loodgieter: WhatsApp templates"
 excerpt: "Afspraakbevestiging voor loodgieters: 8 WhatsApp templates en een timing-framework dat no-shows halveert en je planning strakker maakt."
 date: "2026-04-21"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakbevestiging-loodgieter-whatsapp-templates.jpg"
 tags: ["Loodgieter", "WhatsApp", "Automatisering", "Klantcommunicatie"]

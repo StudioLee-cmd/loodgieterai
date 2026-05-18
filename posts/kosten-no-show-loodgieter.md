@@ -2,7 +2,7 @@
 title: "Hoeveel kost een no-show je als loodgieter?"
 excerpt: "Een no-show kost een loodgieter al snel €150 tot €300 per gemiste afspraak. Ontdek de werkelijke kosten en hoe je ze voorkomt."
 date: "2026-04-15"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kosten-no-show-loodgieter.jpg"
 tags: ["No-shows", "Kosten", "Automatisering"]

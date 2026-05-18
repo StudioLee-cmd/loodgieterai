@@ -6,7 +6,7 @@ excerpt: "Openingstijden + 24/7 spoeddienst op je Google Bedrijfsprofiel als loo
 image: "/images/blog/gbp-openingstijden-spoeddienst-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Google Bedrijfsprofiel", "Spoeddienst", "Lokale SEO", "Loodgieter"]
-cluster: google-bedrijfsprofiel
+cluster: "vindbaarheid"
 ---
 
 # Google Bedrijfsprofiel openingstijden + spoeddienst voor loodgieter: zonder verwarring

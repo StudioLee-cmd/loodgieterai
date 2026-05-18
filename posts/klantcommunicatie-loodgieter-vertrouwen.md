@@ -7,7 +7,7 @@ image: "/images/blog/klantcommunicatie-loodgieter-vertrouwen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["klantcommunicatie", "loodgieter", "vertrouwen"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 ## Waarom communicatie het verschil maakt

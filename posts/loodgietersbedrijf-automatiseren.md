@@ -2,7 +2,7 @@
 title: "Loodgietersbedrijf automatiseren: minder admin, meer klussen"
 excerpt: "Loodgieters besteden tot 15 uur per week aan administratie. Ontdek welke processen je kunt automatiseren en hoeveel tijd je terugwint."
 date: "2026-04-06"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgietersbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Loodgieter", "Tijdbesparing"]

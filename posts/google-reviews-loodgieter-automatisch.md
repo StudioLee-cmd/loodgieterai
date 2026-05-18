@@ -2,7 +2,7 @@
 title: "Google Reviews als loodgieter automatisch verzamelen"
 excerpt: "Als loodgieter zijn Google Reviews je beste marketing. Ontdek hoe je automatisch meer reviews verzamelt na elke klus — zonder er tijd aan kwijt te zijn."
 date: "2026-04-04"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-loodgieter-automatisch.jpg"
 tags: ["Reviews", "Automatisering", "Loodgieter"]

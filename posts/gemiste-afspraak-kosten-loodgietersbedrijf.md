@@ -2,7 +2,7 @@
 title: "Wat kost een gemiste afspraak je loodgietersbedrijf?"
 excerpt: "No-shows kosten loodgieters meer dan je denkt. Reken uit hoeveel omzet je mist en ontdek wat je eraan kunt doen."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-afspraak-kosten-loodgietersbedrijf.jpg"
 tags: ["No-shows", "Omzet", "Planning"]

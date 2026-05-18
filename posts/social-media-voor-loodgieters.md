@@ -5,7 +5,7 @@ date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-loodgieters.png"
 tags: ["Social Media", "Branding", "Automatisering"]
-cluster: ""
+cluster: "social-media"
 ---
 
 Ik hoor het je denken: "Social Media? Daar heb ik toch geen tijd voor? Ik ben loodgieter, geen influencer!" En je hebt gelijk. Je moet niet gaan staan dansen op TikTok of foto's van je lunch posten. Dat is voor tieners.

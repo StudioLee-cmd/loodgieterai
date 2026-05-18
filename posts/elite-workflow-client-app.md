@@ -5,7 +5,7 @@ date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-workflow-client-app.png"
 tags: ["Elite Plan", "Client App", "Innovatie"]
-cluster: ""
+cluster: "website"
 ---
 
 In de zakelijke dienstverlening is er één sleutel tot succes: **Gemak.** (Convenience). Waarom bestellen we bij Coolblue? Omdat het makkelijk is. Waarom gebruiken we Uber? Omdat het makkelijker is dan een taxicentrale bellen.

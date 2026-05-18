@@ -2,7 +2,7 @@
 title: "Leads opvolgen als loodgieter: van aanvraag naar opdracht"
 excerpt: "De meeste loodgieters verliezen klanten door te langzaam te reageren. Leer hoe je met snelle opvolging meer opdrachten binnenhaalt."
 date: "2026-04-06"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-loodgieter-tips.jpg"
 tags: ["Leads", "Loodgieter", "Opvolging"]

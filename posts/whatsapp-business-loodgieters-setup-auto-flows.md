@@ -6,7 +6,7 @@ excerpt: "WhatsApp Business met de juiste auto-flows scheelt loodgieters 6 tot 1
 image: "/images/blog/whatsapp-business-loodgieters-setup-auto-flows.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["WhatsApp", "Klantcontact", "Automatisering", "Tijdbesparing", "Loodgieter"]
-cluster: "sms-whatsapp"
+cluster: "automatisering"
 ---
 
 **In het kort:**

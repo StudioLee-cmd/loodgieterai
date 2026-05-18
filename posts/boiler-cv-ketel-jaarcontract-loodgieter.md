@@ -6,7 +6,7 @@ excerpt: "CV-ketel en boiler jaarcontracten als loodgieter-specialisme: marges, 
 image: "/images/blog/boiler-cv-ketel-jaarcontract-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "CV Ketel", "Boiler", "Jaarcontract", "Loodgieter"]
-cluster: "specialisatie"
+cluster: "automatisering"
 ---
 
 Een gemiddelde Nederlandse loodgieter rekent voor een spoedklus aan een lekke leiding €145-€225 per uur met marges van 35-50 procent — eenmalig, geen herhaal-relatie. Een CV-ketel + boiler jaarcontract levert €165-€295 per huishouden per jaar op, met 70-80 procent marge en 90+ procent jaarlijkse verlenging. Bij 200 actieve jaarcontracten ontvangt een loodgieter €33.000-€59.000 per jaar aan voorspelbare basis-inkomsten — voor 2-3 dagen werk per maand. Toch positioneert slechts 1 op de 4 Nederlandse loodgieters jaarcontracten actief als basis-omzet-bron, ondanks dat het de stabielste manier is om door winter en zomer heen niet leeg te zitten. Dit artikel legt uit waar de marge zit en in welke twee scenario's het juist niet werkt.

@@ -2,7 +2,7 @@
 title: "WhatsApp voor loodgieters: leads binnenhalen zonder bellen"
 excerpt: "Klanten bellen minder, ze appen. Zo zet je WhatsApp slim in als loodgieter om leads snel op te volgen, offertes te sturen en klussen binnen te halen."
 date: "2026-04-16"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-loodgieter-leads-binnenhalen.jpg"
 tags: ["WhatsApp", "Leads", "Loodgieter"]

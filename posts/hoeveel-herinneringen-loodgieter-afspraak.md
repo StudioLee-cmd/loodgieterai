@@ -5,7 +5,7 @@ date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoeveel-herinneringen-loodgieter-afspraak.jpg"
 tags: ["Afspraken", "WhatsApp", "Automatisering"]
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 ---
 
 ## In het kort

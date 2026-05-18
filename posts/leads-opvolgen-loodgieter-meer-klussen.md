@@ -2,7 +2,7 @@
 title: "Leads opvolgen als loodgieter: meer klussen winnen"
 excerpt: "Offerte gestuurd maar niets meer gehoord? Ontdek hoe je als loodgieter leads slim opvolgt en meer offertes omzet in opdrachten."
 date: "2026-04-03"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-loodgieter-meer-klussen.jpg"
 tags: ["Leads", "Lead opvolging", "Loodgieter", "Offertes"]

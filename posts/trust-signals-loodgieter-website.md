@@ -5,7 +5,7 @@ date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/trust-signals-loodgieter-website.jpg"
 tags: ["Website", "Conversie", "Trust"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 Een loodgieter wordt 9 van de 10 keer gezocht in een spoedmoment. Lekkage, geen warm water, verstopte afvoer. De bezoeker opent 3 tabbladen tegelijk en kiest binnen seconden. Wat onbewust beslist? Trust signals: kleine signalen op je website die zeggen "dit bedrijf bestaat echt en is betrouwbaar". Heb je die niet, dan gaat de klus naar de loodgieter ernaast.

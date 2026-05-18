@@ -4,7 +4,7 @@ excerpt: "Een korte reminder de dag voor de klus zorgt dat klanten klaar zijn al
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dag-van-klus-reminder-loodgieter-voorbereiden.jpg"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 tags: ["Afspraakherinneringen", "WhatsApp", "Klantcommunicatie"]
 ---
 

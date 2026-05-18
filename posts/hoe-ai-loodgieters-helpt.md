@@ -5,7 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-loodgieters-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
-cluster: ""
+cluster: "automatisering"
 ---
 
 Het runnen van een loodgietersbedrijf anno 2026 is topsport. Je bent niet alleen vakman die de beste installaties moet leveren, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel loodgieters die wij spreken, werken 60 tot 70 uur per week, maar als ze eerlijk kijken, zijn ze daarvan maar 30 uur écht productief aan het sleutelen. De rest? Dat is "ruis". Ruis in de vorm van eindeloze telefoontjes, emails, offertes tikken en facturen najagen.

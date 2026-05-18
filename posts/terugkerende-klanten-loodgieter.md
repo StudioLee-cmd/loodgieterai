@@ -5,7 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/terugkerende-klanten-loodgieter.png"
 tags: ["Klantbehoud", "Onderhoud", "Groei"]
-cluster: "crm-klantbeheer"
+cluster: "automatisering"
 ---
 
 ## Waarom terugkerende klanten goud waard zijn
