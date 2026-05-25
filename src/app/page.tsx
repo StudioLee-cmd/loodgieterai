@@ -9,6 +9,7 @@ import Benefits from "@/components/Benefits/Benefits";
 import Container from "@/components/Container";
 import Section from "@/components/Section";
 
+import HomeLatestBlogs from "@/components/HomeLatestBlogs";
 
 import CostComparison from "@/components/CostComparison/CostComparison";
 import FallingText from "@/components/FallingText";
@@ -64,6 +65,9 @@ const HomePage: React.FC = () => {
 
 
       </Container>
+
+      <HomeLatestBlogs />
+
       <FallingText />
     </>
   );
