@@ -4,7 +4,7 @@ import { authors } from '@/data/authors'
 
 // Hardcoded lastmod for static landing pages. Bump manually when you meaningfully edit one of these pages.
 // Using a stable date avoids signalling to Google that every URL changed on every build.
-const STATIC_LASTMOD = new Date('2026-04-01T00:00:00Z')
+const STATIC_LASTMOD = new Date('2026-05-25T00:00:00Z')
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const baseUrl = 'https://www.loodgieterai.nl'
@@ -22,6 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         '/gratis-scan', '/review-pakket',
         '/tarieven', '/gratis-website',
         '/chatbot', '/voice-ai', '/seo', '/reviews', '/social-media',
+        '/crm', '/automatisering', '/free-trial',
         '/privacy', '/legal', '/algemene-voorwaarden',
     ]
     const staticRoutes = staticPages.map((route) => ({
