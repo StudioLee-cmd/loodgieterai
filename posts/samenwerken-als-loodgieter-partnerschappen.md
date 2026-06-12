@@ -56,7 +56,7 @@ Vastgoedbeheerders beheren tientallen tot honderden panden. Ze hebben een vaste 
 
 ## Verduurzaming als samenwerkingskans
 
-De energietransitie brengt loodgieters, installateurs en elektriciens samen. [Warmtepompen](/blog/verduurzaming-loodgieter-warmtepompen), hybride systemen en vloerverwarming vereisen meerdere disciplines. Een samenwerkingsverband dat dit gezamenlijk aanbiedt, wint klussen die individuele vakmensen missen.
+De energietransitie brengt loodgieters, installateurs en elektriciens samen. Warmtepompen, hybride systemen en vloerverwarming vereisen meerdere disciplines. Een samenwerkingsverband dat dit gezamenlijk aanbiedt, wint klussen die individuele vakmensen missen.
 
 Presenteer dit gezamenlijke aanbod op je [website](/blog/loodgieterswebsite-omzetten-leadmachine) en in je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-loodgieter).
 

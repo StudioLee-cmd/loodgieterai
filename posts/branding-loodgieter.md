@@ -29,7 +29,7 @@ Met een sterk merk draai je dat om:
 
 Generalist zijn is geen merk. Kies een specialisatie waar je je in profileert:
 
-- [Verduurzaming en warmtepompen](/blog/verduurzaming-loodgieter-warmtepompen) — groeiende markt
+- Verduurzaming en warmtepompen — groeiende markt
 - Badkamerrenovaties — visueel aantrekkelijk voor portfolio
 - Spoedservice — 24/7 bereikbaarheid als USP
 - Nieuwbouw — grotere projecten, stabiel werk
