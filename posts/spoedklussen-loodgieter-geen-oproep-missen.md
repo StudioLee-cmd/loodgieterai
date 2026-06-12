@@ -1,5 +1,6 @@
 ---
 title: "Spoedklussen als loodgieter: zo mis je nooit meer een noodoproep"
+seoTitle: "Spoedklussen als loodgieter"
 excerpt: "Als loodgieter mis je oproepen terwijl je onder een wastafel ligt. Ontdek hoe je spoedklussen opvangt zonder 24/7 aan je telefoon gekluisterd te zitten."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

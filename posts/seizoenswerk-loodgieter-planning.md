@@ -1,6 +1,7 @@
 ---
 title: "Seizoenswerk als loodgieter: planning van cv-checks tot vorstschade"
-excerpt: "Loodgieterswerk is seizoensgebonden. Leer hoe je als loodgieter het hele jaar door slim plant en je omzet stabiliseert."
+seoTitle: "Seizoenswerk als loodgieter"
+excerpt: "Loodgieterswerk is seizoensgebonden. Leer hoe je als loodgieter het hele jaar door slim plant en je omzet stabiliseert. Met jaarplanning."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoenswerk-loodgieter-planning.png"

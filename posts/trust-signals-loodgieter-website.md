@@ -1,5 +1,6 @@
 ---
 title: "Trust signals op je loodgieter-website: 5 elementen die scoren"
+seoTitle: "Trust signals op je loodgieter-website"
 excerpt: "Bezoekers beslissen in 5 seconden of ze jou bellen of de volgende loodgieter. Deze 5 trust signals op je website verhogen je conversie zichtbaar."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

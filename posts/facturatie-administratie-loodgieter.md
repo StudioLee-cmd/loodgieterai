@@ -1,5 +1,6 @@
 ---
 title: "Factureren zonder Avondwerk: Klaar voordat je de straat uit rijdt"
+seoTitle: "Factureren zonder Avondwerk"
 excerpt: "Stop met je zondagen verpesten achter de laptop. Onze Offerte & Contract AI maakt visuele offertes en facturen in een paar klikken."
 date: "2026-01-18"
 authorSlug: "tim-van-der-lee"

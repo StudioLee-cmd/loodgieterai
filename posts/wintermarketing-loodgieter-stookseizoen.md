@@ -1,5 +1,6 @@
 ---
 title: "Wintermarketing voor loodgieters: zo maak je van het stookseizoen je drukste periode"
+seoTitle: "Wintermarketing voor loodgieters"
 excerpt: "Het stookseizoen is goud voor loodgieters — als je er op tijd op inspeelt. Zo bouw je een wintercampagne die klanten naar jou laat komen."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"

@@ -1,6 +1,6 @@
 ---
 title: "Loodgieter website laten maken: wat heb je nodig in 2026?"
-excerpt: "Alles over een professionele loodgieter website. Van must-have functies tot kosten en SEO-tips voor meer klanten."
+excerpt: "Alles over een professionele loodgieter website. Van must-have functies tot kosten en SEO-tips voor meer klanten. Praktisch overzicht."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieter-website-laten-maken.jpg"

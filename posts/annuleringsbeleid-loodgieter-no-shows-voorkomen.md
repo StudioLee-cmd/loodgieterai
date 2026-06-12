@@ -1,5 +1,6 @@
 ---
 title: "Annuleringsbeleid als loodgieter: duidelijke afspraken die no-shows voorkomen"
+seoTitle: "Annuleringsbeleid als loodgieter"
 excerpt: "Een helder annuleringsbeleid voorkomt no-shows en beschermt je omzet als loodgieter. Zo stel je het op zonder klanten af te schrikken."
 date: "2026-04-09"
 cluster: "automatisering"

@@ -1,6 +1,6 @@
 ---
 title: "AI telefonist vs kantoormedewerker loodgieter: wat kies je?"
-excerpt: "Een eerlijke vergelijking tussen een AI telefonist en een parttime kantoormedewerker voor een loodgietersbedrijf, met cijfers over kosten, dekking en leadsnelheid."
+excerpt: "Een eerlijke vergelijking tussen een AI telefonist en een parttime kantoormedewerker voor een loodgietersbedrijf, met cijfers over kosten."
 date: "2026-04-22"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"

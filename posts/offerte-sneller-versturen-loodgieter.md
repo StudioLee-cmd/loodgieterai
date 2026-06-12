@@ -1,5 +1,6 @@
 ---
 title: "Offertes sneller versturen als loodgieter: van aanvraag naar klant"
+seoTitle: "Offertes sneller versturen als loodgieter"
 excerpt: "Te laat met je offerte? Dan is de klant al bij de concurrent. Leer hoe je als loodgieter offertes sneller en professioneler verstuurt."
 date: "2026-04-05"
 cluster: "automatisering"

@@ -1,6 +1,6 @@
 ---
 title: "Beste software voor loodgieters 2026: tools vergeleken"
-excerpt: "Welke software past bij jouw loodgietersbedrijf? Een eerlijke vergelijking van de beste tools voor loodgieters in 2026."
+excerpt: "Welke software past bij jouw loodgietersbedrijf? Een eerlijke vergelijking van de beste tools voor loodgieters in 2026. Met prijzen."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-software-voor-loodgieters-2026.png"

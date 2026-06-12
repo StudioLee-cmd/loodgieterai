@@ -1,6 +1,6 @@
 ---
 title: "Waarom loodgieters 50 procent van de avondoproepen missen"
-excerpt: "Na 17 uur rinkelt de telefoon bij loodgieters meer dan overdag, maar dan is het bedrijf dicht. Dit artikel legt uit waarom dit patroon ontstaat en hoe je er omzet uithaalt."
+excerpt: "Na 17 uur rinkelt de telefoon bij loodgieters vaker dan overdag, maar dan is het bedrijf dicht. Waarom dat zo is en hoe je er omzet uithaalt."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieter-avondoproepen-missen.jpg"

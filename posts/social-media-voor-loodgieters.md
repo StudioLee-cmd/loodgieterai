@@ -1,5 +1,6 @@
 ---
 title: "Social Media voor Loodgieters die een Hekel hebben aan Social Media (De \"Luie Methode\")"
+seoTitle: "Social media voor loodgieters: de luie methode"
 excerpt: "Geen dansjes op TikTok. Gewoon je vakmanschap tonen. Met onze AI bouw je een portfolio op Instagram en Facebook in 5 seconden per week."
 date: "2026-01-15"
 authorSlug: "tim-van-der-lee"

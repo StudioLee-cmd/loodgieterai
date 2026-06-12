@@ -1,5 +1,6 @@
 ---
 title: "Google review link delen als loodgieter: maak het klanten makkelijk"
+seoTitle: "Google review link delen als loodgieter"
 excerpt: "Een directe Google review link stuurt klanten met een klik naar je reviewpagina. Zo maak en deel je de link als loodgieter."
 date: "2026-04-10"
 cluster: "reviews"

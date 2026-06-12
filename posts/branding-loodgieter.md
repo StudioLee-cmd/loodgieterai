@@ -1,6 +1,7 @@
 ---
 title: "Personal branding als loodgieter: zo word je de eerste keuze in je regio"
-excerpt: "Een sterk persoonlijk merk als loodgieter zorgt voor meer directe aanvragen en hogere prijzen. Leer hoe je jezelf positioneert als de specialist in jouw regio."
+seoTitle: "Personal branding als loodgieter"
+excerpt: "Een sterk persoonlijk merk als loodgieter zorgt voor meer directe aanvragen en hogere prijzen. Zo positioneer je jezelf als specialist in je regio."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-loodgieter.png"

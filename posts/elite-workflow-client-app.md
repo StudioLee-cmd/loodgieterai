@@ -1,6 +1,7 @@
 ---
 title: "De Elite Workflow: Geef je klanten hun eigen \"Loodgieter App\" en bind ze voor het leven"
-excerpt: "Onderscheid jezelf van elke beunhaas in de regio. Met de Client App in het Elite plan kunnen jouw vaste klanten zelf afspraken schieten. Ultiem gemak = Ultieme loyaliteit."
+seoTitle: "De Elite Workflow: een eigen Loodgieter App"
+excerpt: "Onderscheid jezelf van elke beunhaas in de regio. Met de Client App in het Elite plan kunnen jouw vaste klanten zelf afspraken schieten."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-workflow-client-app.png"

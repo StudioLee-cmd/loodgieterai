@@ -1,8 +1,9 @@
 ---
 title: "Email marketing voor loodgieters: onderhoudsherinneringen die werk opleveren"
+seoTitle: "Email marketing voor loodgieters"
 slug: "email-marketing-loodgieter-onderhoud"
 date: "2026-03-23"
-excerpt: "CV-ketels, leidingen en afvoeren hebben allemaal onderhoud nodig. Met slimme email marketing herinner je klanten op het juiste moment en genereer je doorlopend werk."
+excerpt: "CV-ketels, leidingen en afvoeren hebben onderhoud nodig. Met slimme e-mail marketing herinner je klanten op tijd en genereer je doorlopend werk."
 image: "/images/blog/email-marketing-loodgieter-onderhoud.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

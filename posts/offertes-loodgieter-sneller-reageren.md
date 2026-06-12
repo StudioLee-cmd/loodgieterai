@@ -1,6 +1,7 @@
 ---
 title: "Offertes als loodgieter: sneller reageren, meer klussen winnen"
-excerpt: "Ontdek hoe je als loodgieter met snelle, duidelijke offertes meer opdrachten binnenhaalt en klanten overtuigt."
+seoTitle: "Offertes als loodgieter"
+excerpt: "Ontdek hoe je als loodgieter met snelle, duidelijke offertes meer opdrachten binnenhaalt en klanten overtuigt. Met concrete templates."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-loodgieter-sneller-reageren.png"

@@ -1,5 +1,6 @@
 ---
 title: "Managed AI Service vs. Marketing Bureau: Waarom meer betalen als het minder oplevert?"
+seoTitle: "Managed AI Service vs. Marketing Bureau"
 excerpt: "Waarom zou je €1500 per maand betalen aan een bureau als AI het beter kan voor een fractie van de prijs? Een eerlijke, confronterende vergelijking."
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"

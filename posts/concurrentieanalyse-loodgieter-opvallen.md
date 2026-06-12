@@ -1,6 +1,7 @@
 ---
 title: "Concurrentieanalyse voor loodgieters: zo val je op in jouw regio"
-excerpt: "Leer hoe je als loodgieter de concurrentie analyseert en je onderscheidt met betere service en zichtbaarheid."
+seoTitle: "Concurrentieanalyse voor loodgieters"
+excerpt: "Leer hoe je als loodgieter de concurrentie analyseert en je onderscheidt met betere service en zichtbaarheid. Met praktisch stappenplan."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-loodgieter-opvallen.jpg"

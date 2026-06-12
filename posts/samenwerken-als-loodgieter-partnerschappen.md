@@ -1,5 +1,6 @@
 ---
 title: "Samenwerken als loodgieter: partnerschappen die meer klussen opleveren"
+seoTitle: "Samenwerken als loodgieter"
 excerpt: "Strategische samenwerkingen met dakdekkers, installateurs en aannemers helpen loodgieters aan een constante stroom werk."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

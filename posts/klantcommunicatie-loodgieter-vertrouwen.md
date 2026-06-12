@@ -1,8 +1,9 @@
 ---
 title: "Klantcommunicatie als loodgieter: zo bouw je vertrouwen van offerte tot factuur"
+seoTitle: "Klantcommunicatie als loodgieter"
 slug: "klantcommunicatie-loodgieter-vertrouwen"
 date: "2026-03-22"
-excerpt: "Goede communicatie maakt het verschil tussen een eenmalige klus en een vaste klant. Ontdek hoe je als loodgieter vertrouwen opbouwt door professioneel te communiceren."
+excerpt: "Goede communicatie maakt het verschil tussen een eenmalige klus en een vaste klant. Zo bouw je als loodgieter vertrouwen op in elke fase."
 image: "/images/blog/klantcommunicatie-loodgieter-vertrouwen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"

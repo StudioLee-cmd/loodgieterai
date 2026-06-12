@@ -1,5 +1,6 @@
 ---
 title: "Waarom \"De Beste Loodgieter\" Vaak Verliest van de \"Bekendste Loodgieter\" (Social Proof)"
+seoTitle: "De psychologie van reviews voor loodgieters"
 excerpt: "Klanten kunnen jouw vakmanschap niet technisch beoordelen. Ze beoordelen je reputatie. Win de strijd op Google en je wint de klant, ongeacht je prijs."
 date: "2026-01-12"
 authorSlug: "tim-van-der-lee"

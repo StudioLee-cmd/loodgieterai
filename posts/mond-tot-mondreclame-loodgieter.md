@@ -1,5 +1,6 @@
 ---
 title: "Mond-tot-mondreclame als loodgieter: hoe tevreden klanten je agenda vullen"
+seoTitle: "Mond-tot-mondreclame als loodgieter"
 excerpt: "Mond-tot-mondreclame is de krachtigste marketingvorm voor loodgieters. Leer hoe je er actief voor zorgt dat klanten je aanbevelen."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

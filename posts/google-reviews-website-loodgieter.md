@@ -1,6 +1,6 @@
 ---
 title: "Google reviews op je website als loodgieter: zo doe je dat"
-excerpt: "Toon je beste Google reviews op je eigen website. Ontdek welke reviews het meest overtuigen en waar je ze plaatst."
+excerpt: "Toon je beste Google reviews op je eigen website. Ontdek welke reviews het meest overtuigen en waar je ze plaatst. Met voorbeelden."
 date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

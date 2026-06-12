@@ -1,5 +1,6 @@
 ---
 title: "Snelheid bij leads opvolgen: waarom loodgieters binnen 5 minuten moeten reageren"
+seoTitle: "Snelheid bij leads opvolgen"
 excerpt: "78 procent van de klanten kiest de loodgieter die het eerst reageert. Ontdek waarom snelheid bij lead opvolging alles bepaalt."
 date: "2026-04-07"
 cluster: "automatisering"

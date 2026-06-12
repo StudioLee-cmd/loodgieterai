@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als loodgieter: reviews die klanten overtuigen"
+seoTitle: "Online reputatie als loodgieter"
 excerpt: "Je online reputatie bepaalt of klanten jou bellen of de concurrent. Leer hoe je als loodgieter reviews verzamelt en je imago versterkt."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

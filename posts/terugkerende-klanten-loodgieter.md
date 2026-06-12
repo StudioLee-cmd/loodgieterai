@@ -1,6 +1,7 @@
 ---
 title: "Terugkerende klanten als loodgieter: van reparatie naar vaste klant"
-excerpt: "Leer hoe je als loodgieter eenmalige reparatieklanten omzet in vaste relaties die jaar na jaar terugkomen."
+seoTitle: "Terugkerende klanten als loodgieter"
+excerpt: "Leer hoe je als loodgieter eenmalige reparatieklanten omzet in vaste relaties die jaar na jaar terugkomen. Met onderhoudscontracten en herinneringen."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/terugkerende-klanten-loodgieter.png"

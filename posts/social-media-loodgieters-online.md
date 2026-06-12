@@ -1,5 +1,6 @@
 ---
 title: "Social media voor loodgieters: meer opdrachten via online zichtbaarheid"
+seoTitle: "Social media voor loodgieters"
 excerpt: "Ontdek hoe loodgieters social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor loodgieters in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

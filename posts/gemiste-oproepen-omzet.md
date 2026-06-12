@@ -1,5 +1,6 @@
 ---
 title: "Het Lek in je Portemonnee: Waarom 1 Gemiste Oproep je €14.000 per jaar kost"
+seoTitle: "Het Lek in je Portemonnee"
 excerpt: "Onderzoek wijst uit: 62% van de bellers belt direct de volgende als er niet wordt opgenomen. Stop met omzet verliezen en dicht het lek vandaag nog."
 date: "2026-01-08"
 authorSlug: "tim-van-der-lee"

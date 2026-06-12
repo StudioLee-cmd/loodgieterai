@@ -1,5 +1,6 @@
 ---
 title: "Reviews na een spoedklus: waarom loodgieters hier kansen missen"
+seoTitle: "Reviews na een spoedklus als loodgieter"
 excerpt: "Na een spoedklus is de klant opgelucht en dankbaar. Dat is het perfecte moment voor een review. Toch vragen de meeste loodgieters het nooit."
 date: "2026-04-11"
 cluster: "reviews"

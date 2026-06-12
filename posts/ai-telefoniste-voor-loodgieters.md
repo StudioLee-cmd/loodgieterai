@@ -1,5 +1,6 @@
 ---
 title: "De Einde van de \"Rinkelende Bus\": 24/7 Bereikbaar Zonder Personeel"
+seoTitle: "De Einde van de \"Rinkelende Bus\""
 excerpt: "Mis nooit meer een spoedklus omdat je onder een vloer ligt. Onze Voice AI neemt op als een mens, plant afspraken en filtert de onzin."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

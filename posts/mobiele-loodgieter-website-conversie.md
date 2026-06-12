@@ -1,6 +1,7 @@
 ---
 title: "Mobiele loodgieter-website: waarom 70% afhaakt op de telefoon"
-excerpt: "De meeste loodgieter-websites verliezen drie van elke vier mobiele bezoekers binnen 30 seconden. Dit is wat dat veroorzaakt en hoe je het oplost zonder je site opnieuw te bouwen."
+seoTitle: "Mobiele loodgieter-website"
+excerpt: "De meeste loodgieter-websites verliezen drie van de vier mobiele bezoekers binnen 30 seconden. Dit veroorzaakt het en zo los je het op."
 date: "2026-04-25"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
