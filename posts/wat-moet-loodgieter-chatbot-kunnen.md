@@ -11,7 +11,7 @@ cluster: "chatbot"
 
 De meeste chatbots op loodgieterssites doen precies één ding: een bezoeker een tekstvak geven en daarna beloven dat "een medewerker zo snel mogelijk contact opneemt". Dat is geen chatbot, dat is een contactformulier met een praatballon eromheen. De bezoeker met een natte meterkast heeft daar niets aan, en jij krijgt er geen klus bij.
 
-Een chatbot is pas zijn geld waard als hij doet wat jij aan de telefoon zou doen: uitvragen wat er aan de hand is, inschatten hoe dringend het is, en zorgen dat de aanvraag niet verdampt. De vraag is dus niet of je een chatbot wilt, maar wat hij moet kunnen voordat hij iets oplevert. Hieronder de 6 functies waarop je een goede [ai chatbot voor loodgieters](/chatbot) herkent.
+Een chatbot is pas zijn geld waard als hij doet wat jij aan de telefoon zou doen. Dat betekent: uitvragen wat er aan de hand is, inschatten hoe dringend het is, en zorgen dat de aanvraag niet verdampt. De vraag is dus niet of je een chatbot wilt, maar wat hij moet kunnen voordat hij iets oplevert. Hieronder de 6 functies waarop je een goede [ai chatbot voor loodgieters](/chatbot) herkent.
 
 **In het kort:**
 
@@ -44,7 +44,7 @@ Voor niet-spoed werkt dat met een keuze uit beschikbare dagdelen. Voor spoed is 
 
 Geen enkele bot mag de illusie wekken dat hij alles zelf afhandelt. Bij een echt spoedgeval, of bij een vraag die buiten zijn boekje valt, moet hij naadloos doorschakelen naar een mens, mét het hele gesprek erbij. Jij pakt het op waar de bot stopte, zonder dat de klant zijn verhaal opnieuw moet doen.
 
-Die doorschakeling is precies waar veel goedkope chatbots stuklopen: ze laten de klant in een doodlopende lus achter. Een serieuze opzet werkt daarom samen met je telefonie. Komt er midden in de nacht een gesprongen leiding binnen, dan kan de bot doorzetten naar een [ai telefonist voor loodgieters](/voice-ai) die de melding aanneemt en jou alleen wakker maakt als het echt niet kan wachten.
+Die doorschakeling is precies waar veel goedkope chatbots stuklopen: ze laten de klant in een doodlopende lus achter. Een serieuze opzet werkt daarom samen met je telefonie. Komt er midden in de nacht een gesprongen leiding binnen, dan kan de bot doorzetten naar een [ai telefonist voor loodgieters](/voice-ai). Die neemt de melding aan en maakt jou alleen wakker als het echt niet kan wachten.
 
 ## Functie 5: Alles vastleggen in je CRM
 
