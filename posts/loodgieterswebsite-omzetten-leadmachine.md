@@ -76,4 +76,4 @@ Controleer maandelijks je cijfers. Als je 500 bezoekers per maand hebt en 10 aan
 
 Je website hoeft geen kunstwerk te zijn — het moet een machine zijn die aanvragen genereert. Focus op snelheid, duidelijkheid, vertrouwen en een laagdrempelige contactmogelijkheid op elke pagina. Combineer dat met sterke lokale content en goede reviews, en je hebt een leadmachine die 24/7 voor je werkt.
 
-Wil je weten hoe jouw website scoort en waar de verbeterkansen liggen? Bekijk wat [LoodgieterAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je weten hoe jouw website scoort en waar de verbeterkansen liggen? Bekijk wat [LoodgieterAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).

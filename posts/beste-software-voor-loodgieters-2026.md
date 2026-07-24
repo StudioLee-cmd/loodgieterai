@@ -88,4 +88,4 @@ Als loodgieter wordt er veel van je gevraagd: spoedklussen, offertes, planning e
 - **Boekhouding?** Moneybird regelt facturen en BTW.
 - **Compleet systeem met AI?** [LoodgieterAI](/) combineert planning, facturatie, reviews, chatbot, Voice AI en vindbaarheid in één — zonder commissie.
 
-Benieuwd wat LoodgieterAI voor jouw bedrijf kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Benieuwd wat LoodgieterAI voor jouw bedrijf kan betekenen? [Plan een gratis gesprek](https://cal.com/studiolee).
