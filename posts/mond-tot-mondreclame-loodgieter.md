@@ -8,7 +8,6 @@ image: "/images/blog/mond-tot-mondreclame-loodgieter.png"
 tags: ["mond-tot-mond", "loodgieter", "klantwerving"]
 cluster: "branding"
 ---
-
 De meeste succesvolle loodgieters bouwen hun bedrijf op aanbevelingen. Een buurman die zegt "die loodgieter is betrouwbaar" weegt zwaarder dan welke advertentie ook. Maar de meeste loodgieters laten mond-tot-mondreclame aan het toeval over.
 
 In dit artikel leer je hoe je er als loodgieter actief aan werkt.
@@ -51,7 +50,7 @@ Als je in een wijk werkt, zijn de buren potentiele klanten. Zelfde type installa
 
 ### 6. Online mond-tot-mond versterken
 
-Google reviews zijn de digitale versie van mond-tot-mond. Een review verdwijnt niet — het staat permanent online voor iedereen. Combineer offline aanbevelingen met online reviews voor maximaal effect.
+[Google reviews](/reviews) zijn de digitale versie van mond-tot-mond. Een review verdwijnt niet — het staat permanent online voor iedereen. Combineer offline aanbevelingen met online reviews voor maximaal effect.
 
 ## De kracht van de spoedklus
 
