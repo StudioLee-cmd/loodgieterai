@@ -8,7 +8,6 @@ image: "/images/blog/gemiste-oproepen-omzet.png"
 tags: ["Geld Verdienen", "Sales", "Groei"]
 cluster: "voice-ai"
 ---
-
 Als loodgieter weet je als geen ander: een klein lek kan grote gevolgen hebben. Een druppelende kraan lijkt onschuldig, maar kan duizenden liters water verspillen. Precies zo werkt het met je bereikbaarheid. Die ene gemiste oproep lijkt geen ramp. "Ik bel zo wel terug", denk je. Maar de realiteit van de markt is keihard.
 
 ## De "Nu-Economie" en de ongeduldige klant
@@ -21,7 +20,7 @@ Onderzoek wijst uit dat **62% van de bellers niet terugbelt** en geen voicemail 
 
 ## De Pijnlijke Rekensom
 
-Laten we het eens concreet maken. Stel, je bent een ZZP'er. Je werkt hard. Je telefoon gaat 5 keer per dag. Je mist er gemiddeld 1 omdat je net staat te boren of in een vergadering zit met een aannemer. Dat zijn 5 gemiste oproepen per week.
+Laten we het eens concreet maken. Stel, je bent een ZZP'er. Je werkt hard. Je telefoon gaat 5 keer per dag. Je mist er gemiddeld 1 omdat je net staat te boren of in een vergadering zit met een aannemer. Dat zijn 5 [gemiste oproepen](/voice-ai) per week.
 - Van die 5 bellers, bellen er 3 direct een ander.
 - Stel dat die 3 klussen gemiddeld een waarde (winst) hadden van €100. (En dan rekenen we heel conservatief, geen nieuwe CV-ketels of badkamers).
 - Dat is €300 per week die je laat liggen.
