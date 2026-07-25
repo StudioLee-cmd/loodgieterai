@@ -7,7 +7,6 @@ image: "/images/blog/werkspot-alternatief-loodgieter.jpg"
 tags: ["Vergelijking", "Werkspot", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Het Werkspot-model: wat het je echt kost
 
 Werkspot rekent €15 tot €30 per reactie op een aanvraag. Niet per gewonnen klus — per reactie. Of je de klus krijgt of niet, je betaalt. Bij 20 reacties per maand zit je al snel op €300 tot €600 aan leadkosten, terwijl je slechts een fractie van die leads daadwerkelijk omzet in werk.
@@ -67,7 +66,7 @@ Wat dat betekent in de praktijk:
 
 Jouw bijdrage: **15 minuten per maand**. Dat is alles. De rest doen wij. Dat is geen software kopen — dat is een traditioneel marketingbureau vervangen voor een fractie van de prijs.
 
-Voor loodgieters betekent dit concreet: als een klant belt terwijl jij onder een aanrecht ligt, neemt de AI telefoniste op. De klant wordt geholpen, de lead wordt vastgelegd, en jij belt terug zodra je klaar bent. Geen gemiste oproepen, geen verloren klussen.
+Voor loodgieters betekent dit concreet: als een klant belt terwijl jij onder een aanrecht ligt, neemt de AI telefoniste op. De klant wordt geholpen, de lead wordt vastgelegd, en jij belt terug zodra je klaar bent. Geen [gemiste oproepen](/voice-ai), geen verloren klussen.
 
 ## Wat je opbouwt blijft van jou
 
