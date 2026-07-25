@@ -49,6 +49,8 @@ Een daling van 50 procent in no-shows levert bij het eerder genoemde voorbeeld a
 
 De investering in een goed systeem voor herinneringen en planning betaalt zich binnen enkele weken terug. Hoe eerder je begint, hoe eerder dat geld weer in je bedrijf zit in plaats van op de weg te verdampen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/loodgietersbedrijf-automatiseren" class="text-dark fw-semibold">Loodgietersbedrijf automatiseren: minder admin, meer klussen</a> →</p></div></div></div>
+
 ## Reken het uit voor jouw bedrijf
 
 Hoeveel no-shows heb je gemiddeld per week? Vermenigvuldig dat met je gemiddelde opdrachtwaarde plus reiskosten. Het resultaat is het bedrag dat je jaarlijks kunt terugwinnen. Wil je weten welke aanpassingen het meeste opleveren voor jouw situatie? Vraag een [gratis scan](/gratis-scan) aan en krijg een persoonlijk advies.
