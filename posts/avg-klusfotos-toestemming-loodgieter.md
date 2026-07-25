@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Social Media", "AVG", "Privacy"]
 cluster: "social-media"
 ---
-
 Een strak gemonteerde cv-ketel, een badkamer die van gedateerd naar showroom ging, een lekkage die je in een half uur onder controle had: dat zijn de foto's die op Instagram en Facebook nieuwe klanten opleveren. Alleen twijfel je bij het uploaden soms een seconde. Mag dit eigenlijk wel? Er staat een stukje van de woonkamer op, of de klant liep net door beeld. En dan blijft de foto in je fotorol hangen in plaats van dat hij je agenda vult.
 
 Die twijfel is terecht, maar hij hoeft je niet stil te zetten. Klusfoto's zijn een van de sterkste vormen van [social media voor loodgieters](/social-media), en het zou zonde zijn om ze om de verkeerde reden te laten liggen. In de meeste gevallen mag je gewoon posten, mits je een paar simpele regels kent. Dit artikel legt uit wanneer een klusfoto onder de AVG valt, wanneer je toestemming nodig hebt en wanneer niet, en hoe je dat in tien seconden regelt zonder dat het administratie wordt.
@@ -77,7 +76,7 @@ De kern: maak van toestemming een vast, klein stapje in je werkproces. Niet een 
 
 ## Blijf posten zonder er wakker van te liggen
 
-De grootste fout die loodgieters maken met de AVG is niet dat ze de regels overtreden. Het is dat ze uit voorzichtigheid stóppen met posten. En dat is precies het tegenovergestelde van wat je bedrijf nodig heeft. Zichtbaarheid op social media levert opdrachten op; een stille pagina levert niets op. De regels zijn er niet om je monddood te maken, maar om te zorgen dat je mensen respecteert. Dat kun je prima, en tegelijk gewoon blijven laten zien wat je maakt.
+De grootste fout die loodgieters maken met de AVG is niet dat ze de regels overtreden. Het is dat ze uit voorzichtigheid stóppen met posten. En dat is precies het tegenovergestelde van wat je bedrijf nodig heeft. Zichtbaarheid op [social media](/blog/social-media-voor-loodgieters) levert opdrachten op; een stille pagina levert niets op. De regels zijn er niet om je monddood te maken, maar om te zorgen dat je mensen respecteert. Dat kun je prima, en tegelijk gewoon blijven laten zien wat je maakt.
 
 Heb je simpelweg de tijd niet om er consequent mee bezig te zijn, dan is dat geen reden om het te laten liggen. Steeds meer installatiebedrijven laten hun [social media uitbesteden voor loodgieters](/social-media), inclusief de check of een foto zonder gedoe geplaatst kan worden. Je levert het beeldmateriaal aan, en de posts, de planning en de nette afhandeling lopen door terwijl jij aan het werk bent. Wil je eerst weten waar bij jou de meeste winst zit, vraag dan een [gratis AI-scan voor loodgieters](/gratis-scan) aan; dan zie je in één overzicht wat je online laat liggen.
 
