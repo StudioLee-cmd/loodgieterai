@@ -7,7 +7,6 @@ image: "/images/blog/hoe-loodgieters-ai-gebruiken-meer-opdrachten.png"
 tags: ["AI", "Automatisering", "Loodgieters"]
 cluster: "automatisering"
 ---
-
 Als loodgieter ben je de hele dag in touw. Lekkages oplossen, cv-installaties afmaken, spoedklussen tussendoor — en dan ook nog offertes schrijven, klanten terugbellen en facturen versturen. De administratieve druk groeit, terwijl de agenda al vol zit. AI biedt hier uitkomst.
 
 Loodgietersbedrijven die AI-tools inzetten, besparen gemiddeld 6–10 uur per week op administratie. Dat zijn uren die je terugstopt in opdrachten — of in je vrije tijd. In dit artikel lees je hoe AI concreet werkt voor loodgieters en hoe je er eenvoudig mee begint.
@@ -54,6 +53,8 @@ LoodgieterAI combineert dit met geautomatiseerde Google Business-updates, zodat 
 **Stap 3 — Activeer review-automation.** Koppel je job-management systeem aan een review-tool. Na elke afgeronde klus gaat automatisch een reviewverzoek de deur uit.
 
 Na 60 dagen zie je het verschil in je Google-beoordeling en je agenda-bezetting.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/onderhoudscycli-per-adres-loodgieter" class="text-dark fw-semibold">Onderhoudscycli per adres bijhouden als loodgieter</a> →</p></div></div></div>
 
 ## Conclusie
 
