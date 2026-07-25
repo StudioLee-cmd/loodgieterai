@@ -11,7 +11,7 @@ tags: ["Reviews", "Automatisering", "Loodgieter"]
 
 Een lekkende kraan, een verstopte afvoer, een kapotte cv-ketel — klanten zoeken een loodgieter wanneer ze een urgent probleem hebben. Ze pakken hun telefoon, typen 'loodgieter in de buurt' en bellen de eerste met goede reviews.
 
-Dat is geen overdrijving. Uit onderzoek blijkt dat 87% van de consumenten online reviews leest voordat ze een lokaal bedrijf kiezen. Voor loodgieters is dat percentage nog hoger, omdat het om werk in huis gaat. Vertrouwen is alles.
+Dat is geen overdrijving. Uit onderzoek blijkt dat 87% van de consumenten [online reviews](/reviews) leest voordat ze een lokaal bedrijf kiezen. Voor loodgieters is dat percentage nog hoger, omdat het om werk in huis gaat. Vertrouwen is alles.
 
 ## Het probleem: te druk voor reviews
 
@@ -35,7 +35,7 @@ Direct na een succesvolle reparatie is de klant opgelucht en dankbaar. Dat is he
 
 ## Werkspot en Google Reviews versterken elkaar
 
-Veel loodgieters werken met Werkspot voor leadgeneratie. Wat veel ondernemers niet weten: Google Reviews versterken ook je Werkspot-positie. Klanten die je op Werkspot vinden, checken vaak ook je Google-profiel. Een sterk Google-profiel met veel reviews geeft extra vertrouwen — ook voor Werkspot-klanten.
+Veel loodgieters werken met Werkspot voor leadgeneratie. Wat veel ondernemers niet weten: [Google Reviews](/blog/google-reviews-website-loodgieter) versterken ook je Werkspot-positie. Klanten die je op Werkspot vinden, checken vaak ook je Google-profiel. Een sterk Google-profiel met veel reviews geeft extra vertrouwen — ook voor Werkspot-klanten.
 
 Bovendien: hoe meer directe klanten je via Google binnenhaalt, hoe minder afhankelijk je bent van Werkspot en de bijbehorende commissiekosten.
 
@@ -78,6 +78,6 @@ De meeste loodgieters zien binnen twee weken meer reviews binnenkomen. Het effec
 
 ## Conclusie
 
-Als loodgieter zijn Google Reviews je krachtigste marketingtool. Automatische opvolging zorgt ervoor dat elke tevreden klant de kans krijgt om zijn ervaring te delen — zonder dat jij er tijd aan kwijt bent. Meer reviews, hogere ranking, meer klussen.
+Als loodgieter zijn [Google Reviews](/blog/review-respons-automatiseren-loodgieter) je krachtigste marketingtool. Automatische opvolging zorgt ervoor dat elke tevreden klant de kans krijgt om zijn ervaring te delen — zonder dat jij er tijd aan kwijt bent. Meer reviews, hogere ranking, meer klussen.
 
 Wil je weten hoeveel reviews je mist? Start een [gratis scan](/gratis-scan) en ontdek wat automatisering voor jouw loodgietersbedrijf kan betekenen.
