@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-loodgieter-sneller-reageren.jpg"
 tags: ["Lead opvolging", "Klanten", "Groei"]
 cluster: "automatisering"
 ---
-
 ## 78% koopt bij de eerste die reageert
 
 Dit cijfer is geen overdrijving. Onderzoek toont consequent aan dat de meerderheid van de klanten kiest voor het bedrijf dat als eerste reageert op hun aanvraag. Niet het goedkoopste bedrijf. Niet het bedrijf met de meeste reviews. Het bedrijf dat het snelst opneemt.
@@ -60,6 +59,8 @@ Met de juiste tools kan een aanvraag binnen 5 minuten een ingeplande afspraak wo
 4. Je plant de afspraak direct in of belt terug zodra je klaar bent
 
 Geen gemiste oproepen, geen verloren leads, geen klanten die wegglippen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/snelheid-lead-opvolging-loodgieter" class="text-dark fw-semibold">Snelheid bij leads opvolgen: waarom loodgieters binnen 5 minuten moeten reageren</a> →</p></div></div></div>
 
 ## Wat als je niet kunt opnemen?
 
