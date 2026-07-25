@@ -8,7 +8,6 @@ image: "/images/blog/offertes-loodgieter-sneller-reageren.png"
 tags: ["Offertes", "Klussen", "Bedrijfsvoering"]
 cluster: "automatisering"
 ---
-
 ## Waarom snelheid alles is bij offertes
 
 Als loodgieter ken je het: een potentiële klant belt met een lekkage of een badkamerverbouwing. Je rijdt langs, bekijkt de situatie en belooft een offerte te sturen. Maar tussen de klus van vandaag en de administratie van morgen schuift die offerte steeds verder naar achteren.
@@ -51,6 +50,8 @@ Een veelgesteld dilemma: moet je vaste prijzen hanteren of per situatie calculer
 - **Maatwerk** (badkamerverbouwing, leidingwerk): bereken per project, maar wees transparant over je uurtarief en materialenkosten
 
 Transparantie bouwt vertrouwen. Klanten die je prijsopbouw begrijpen, kiezen sneller voor jou — ook als je niet de goedkoopste bent. Combineer dit met goede [Google reviews](/blog/meer-google-reviews-als-loodgieter) en je bent de betrouwbare keuze.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/offerte-sneller-versturen-loodgieter" class="text-dark fw-semibold">Offertes sneller versturen als loodgieter: van aanvraag naar klant</a> →</p></div></div></div>
 
 ## Conclusie
 
