@@ -7,7 +7,6 @@ image: "/images/blog/loodgieter-website-laten-maken.jpg"
 tags: ["Website", "Marketing"]
 cluster: "website"
 ---
-
 Als loodgieter heb je gouden handen — maar zonder een goede website vindt niemand je. In 2026 begint vrijwel elke klant met een zoekopdracht op Google. Heb je geen website? Dan besta je niet.
 
 ## Waarom een website onmisbaar is als loodgieter
@@ -47,7 +46,7 @@ Klanten willen weten wat ze kunnen verwachten. Je hoeft geen exacte prijzen te n
 
 ### 5. Werkgebied op een kaart
 
-Toon duidelijk in welke regio je werkt. Een Google Maps integratie met je werkgebied helpt klanten inschatten of je bij hen in de buurt komt.
+Toon duidelijk in welke regio je werkt. Een [Google Maps](/seo) integratie met je werkgebied helpt klanten inschatten of je bij hen in de buurt komt.
 
 ### 6. Reviews en referenties
 
@@ -128,6 +127,8 @@ Op een minimum: contactgegevens, diensten, werkgebied en reviews. Alles daarbove
 ### Moet ik een blog bijhouden?
 
 Het is niet verplicht, maar het helpt enorm. Eén artikel per maand over een veelgesteld probleem kan honderden extra bezoekers per jaar opleveren.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/mobiele-loodgieter-website-conversie" class="text-dark fw-semibold">Mobiele loodgieter-website: waarom 70% afhaakt op de telefoon</a> →</p></div></div></div>
 
 ## Conclusie
 
