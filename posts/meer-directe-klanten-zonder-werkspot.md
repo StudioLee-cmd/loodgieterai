@@ -7,7 +7,6 @@ image: "/images/blog/meer-directe-klanten-zonder-werkspot.png"
 tags: ["Loodgieter", "Directe Klanten", "Werkspot"]
 cluster: "automatisering"
 ---
-
 ## Het Werkspot-dilemma voor loodgieters
 
 Werkspot is voor veel loodgieters de belangrijkste bron van nieuwe klanten. Je schrijft je in, je biedt op klussen, en als het goed gaat krijg je de opdracht. Maar het kost je per lead, de concurrentie is moordend, en je bouwt geen eigen klantenkring op.
@@ -31,7 +30,7 @@ Wanneer iemand zoekt op "loodgieter [plaatsnaam] spoed", verschijnt het Google L
 
 Wat je nodig hebt:
 - Compleet ingevuld profiel (adres, telefoon, openingstijden, diensten)
-- Minimaal 20 Google reviews met een score van 4.5+
+- Minimaal 20 [Google reviews](/reviews) met een score van 4.5+
 - Regelmatig foto's van afgeronde projecten
 - Reacties op alle reviews
 
@@ -97,11 +96,13 @@ Het doel is niet om Werkspot te verlaten — het is om er niet meer afhankelijk 
 | Mond-tot-mond | €0 | €500-2.000 |
 | AI-telefonie | €79-297/maand vast | Elke gemiste oproep = €0 verlies |
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wachtlijst-loodgieter-annuleringen-opvangen" class="text-dark fw-semibold">Wachtlijst als loodgieter: annuleringen direct opvullen</a> →</p></div></div></div>
+
 ## Conclusie
 
 Werkspot is een prima startpunt, maar geen eindstation. De loodgieter die investeert in zijn eigen online aanwezigheid — Google profiel, reviews, website en bereikbaarheid — bouwt een bedrijf dat draait zonder commissies.
 
-Met [LoodgieterAI](/) automatiseren we je reviewverzoeken, bereikbaarheid en klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [LoodgieterAI](/) automatiseren we je reviewverzoeken, bereikbaarheid en klantcommunicatie. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer directe klanten krijgt.
 
