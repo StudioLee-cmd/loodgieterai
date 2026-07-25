@@ -7,7 +7,6 @@ image: "/images/blog/hoe-loodgieter-beter-gevonden-wordt-op-google.png"
 tags: ["SEO", "Google", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom online vindbaarheid alles bepaalt
 
 Wanneer een leiding springt of de cv-ketel uitvalt, pakt iemand de telefoon en zoekt op Google: "loodgieter in de buurt." Binnen 10 seconden heeft diegene gekozen — en die keuze valt vrijwel altijd op een van de bovenste drie resultaten in Google Maps.
@@ -28,7 +27,7 @@ Veel loodgieters vullen hun profiel half in en laten het dan liggen. Dat is een 
 
 ## Lokale SEO: gevonden worden bij "[dienst] + [stad]"
 
-Lokale SEO draait om één ding: gevonden worden als iemand in jouw regio zoekt. De belangrijkste factoren:
+Lokale SEO draait om één ding: [gevonden worden](/seo) als iemand in jouw regio zoekt. De belangrijkste factoren:
 
 ### NAW-consistentie
 
