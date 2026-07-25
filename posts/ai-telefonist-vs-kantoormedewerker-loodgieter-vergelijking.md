@@ -88,6 +88,8 @@ Zonder deze integraties is een losse AI telefonist slechts 30 procent van wat hi
 
 Een AI telefonist werkt het beste als je website zelf ook conversie-sterk is. Een [goede website](/gratis-website) met een duidelijke prijsindicatie, live agenda-beschikbaarheid en zowel telefoon- als WhatsApp-contactopties zorgt dat de helft van de klanten zelf boekt en de andere helft via een kanaal komt dat de AI perfect afhandelt. Samen dekt dit 95 procent van je klantcontact af.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/gemiste-oproepen-omzet" class="text-dark fw-semibold">Het Lek in je Portemonnee: Waarom 1 Gemiste Oproep je €14.000 per jaar kost</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Wij bouwen deze hele setup voor loodgietersbedrijven in onze managed service. Als de lead-opvang na drie maanden niet meetbaar is gestegen, krijg je je investering terug. Bekijk de [tarieven](/tarieven) om te zien wat dit kost, of vraag een [gratis scan](/gratis-scan) aan om eerst te laten uitrekenen hoeveel omzet jij nu mist door gemiste telefoontjes. Jij lost de lekkage op, wij regelen de rest.
