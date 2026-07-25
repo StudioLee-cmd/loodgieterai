@@ -67,6 +67,8 @@ Dit werkt ook andersom. Als een klant in ChatGPT vraagt "welke loodgieter heeft 
 
 AI-systemen geven voorkeur aan recente informatie. Een artikel uit 2021 over cv-ketel subsidies is niet meer relevant. Werk je content regelmatig bij en publiceer nieuwe artikelen over actuele onderwerpen in je vakgebied. Denk aan warmtepompen, hybride ketels en nieuwe subsidieregels.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/loodgieter-online-meer-klanten-gratis-tips" class="text-dark fw-semibold">Meer klanten als loodgieter: 7 gratis tips</a> →</p></div></div></div>
+
 ## De toekomst van klanten vinden begint nu
 
 AI-zoekmachines zijn geen toekomstmuziek meer. Miljoenen Nederlanders gebruiken ChatGPT al dagelijks. De loodgieters die nu investeren in goede content, reviews en een sterke online aanwezigheid, worden straks aanbevolen. De rest wordt overgeslagen.
