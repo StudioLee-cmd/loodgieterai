@@ -58,6 +58,8 @@ Ondanks je beleid zul je af en toe een no-show hebben. De vraag is hoe je daarme
 
 Pas bij herhaaldelijke no-shows het voorrijbedrag toe. Eenmalig vergeten kan iedereen overkomen, maar als het een patroon wordt, bescherm je jezelf. Houd bij welke klanten vaker niet komen opdagen in je [CRM-systeem](/chatbot) en markeer ze als risico.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/gemiste-afspraak-kosten-loodgietersbedrijf" class="text-dark fw-semibold">Wat kost een gemiste afspraak je loodgietersbedrijf?</a> →</p></div></div></div>
+
 ## Conclusie: duidelijkheid is de beste preventie
 
 Een annuleringsbeleid is geen strafmaatregel. Het is een afspraak die duidelijkheid schept voor beide partijen. Combineer het met automatische herinneringen en je hebt een systeem dat no-shows minimaliseert zonder je klantrelaties te schaden.
