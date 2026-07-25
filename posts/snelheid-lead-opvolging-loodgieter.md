@@ -87,6 +87,8 @@ Dit kun je deze week al instellen:
 
 Elke stap die je doorloopt, maakt het verschil. Je hoeft niet alles tegelijk te doen. Begin met de automatische bevestiging en bouw van daaruit verder.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-loodgieter-leads-binnenhalen" class="text-dark fw-semibold">WhatsApp voor loodgieters: leads binnenhalen zonder bellen</a> →</p></div></div></div>
+
 ## Snelheid wint, altijd
 
 De beste loodgieter van de stad verliest klanten aan een gemiddelde concurrent die simpelweg sneller opneemt. Dat is frustrerend, maar het is de realiteit van een markt waar klanten kiezen op beschikbaarheid.
