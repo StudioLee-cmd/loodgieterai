@@ -8,7 +8,6 @@ image: "/images/blog/terugkerende-klanten-loodgieter.png"
 tags: ["Klantbehoud", "Onderhoud", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom terugkerende klanten goud waard zijn
 
 De meeste loodgieters leven van klus naar klus. Een lekkage hier, een verstopt riool daar. Maar steeds nieuwe klanten werven is duur en tijdrovend. Een bestaande klant die terugkomt, kost je geen acquisitie-inspanning — en besteedt gemiddeld 67% meer dan een nieuwe klant.
@@ -36,7 +35,7 @@ Veel loodgieters denken dat onderhoudscontracten alleen iets zijn voor grote bed
 
 ## Herinneringen automatiseren
 
-De kracht zit in automatisering. Met een eenvoudig systeem stuur je automatisch herinneringen naar klanten:
+De kracht zit in [automatisering](/automatisering). Met een eenvoudig systeem stuur je automatisch herinneringen naar klanten:
 
 - **Jaarlijkse ketelservice**: herinnering 11 maanden na de laatste beurt
 - **Seizoenstips**: voor het stookseizoen een check aanbieden
