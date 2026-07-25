@@ -183,6 +183,8 @@ Zorg dat je realistisch bent. SEO en lokale vindbaarheid zijn geen knop. Gemidde
 
 De meeste loodgieters geven het na een maand op omdat ze geen directe resultaten zien. De loodgieters die doorgaan, staan na zes maanden bovenaan en blijven daar.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/loodgieter-leads-kopen-of-zelf-genereren" class="text-dark fw-semibold">Loodgieter leads kopen of zelf genereren? Kosten per lead</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Drie acties voor de komende zeven dagen:
