@@ -8,7 +8,6 @@ image: "/images/blog/ai-telefoniste-voor-loodgieters.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
 cluster: "voice-ai"
 ---
-
 Het meest frustrerende geluid voor een loodgieter? Je telefoon die gaat terwijl je net met twee handen vol kit zit, of onder een krappe kruipruimte ligt. Je wéét dat het een klant kan zijn. Een lekkage? Een ketelstoring? Snel geld. Maar je kunt niet opnemen. Je laat hem gaan.
 
 Wat doet die klant? Spreekt hij netjes de voicemail in? Nee. In 2026 heeft niemand meer geduld. Hij hangt op, scrolt één centimeter naar beneden in Google, en belt de volgende loodgieter. Weg klus. Weg omzet. Weg nieuwe vaste klant.
@@ -17,7 +16,7 @@ Wat doet die klant? Spreekt hij netjes de voicemail in? Nee. In 2026 heeft niema
 
 Vaak denken mensen bij "automatische telefoonbeantwoorders" aan die vreselijke keuzemenu's. "Toets 1 voor administratie..." Vreselijk. Dat jaagt klanten weg.
 
-Onze Voice AI is totaal anders. Dit is geen bandje. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze luistert, ze begrijpt de context, en ze reageert intelligent. Ze is vriendelijk, professioneel en ze weet alles van je bedrijf.
+Onze [Voice AI](/voice-ai) is totaal anders. Dit is geen bandje. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze luistert, ze begrijpt de context, en ze reageert intelligent. Ze is vriendelijk, professioneel en ze weet alles van je bedrijf.
 
 ### Wat ze voor je doet (terwijl jij werkt):
 - **24/7 Opnemen:** Of het nu dinsdagochtend 10:00 uur is of zaterdagnacht 03:00 uur. Sarah is er. Altijd. Je mist nooit meer een gesprek.
