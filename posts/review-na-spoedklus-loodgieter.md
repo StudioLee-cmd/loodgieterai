@@ -35,7 +35,7 @@ De meeste klanten zeggen direct ja. Stuur dan binnen het uur het WhatsApp-berich
 
 Houd het kort en verwijs naar de specifieke klus. Dat maakt het persoonlijk en makkelijk voor de klant om een relevante review te schrijven.
 
-"Hoi [naam], fijn dat de lekkage verholpen is! Zou je een korte Google review willen achterlaten? Dat helpt ons enorm. Hier is de link: [directe link]. Alvast bedankt!"
+"Hoi [naam], fijn dat de lekkage verholpen is! Zou je een korte [Google review](/blog/google-review-link-loodgieter-klanten-makkelijk) willen achterlaten? Dat helpt ons enorm. Hier is de link: [directe link]. Alvast bedankt!"
 
 De directe link is essentieel. Zonder link moet de klant zelf je bedrijf opzoeken op Google, het juiste profiel vinden en dan pas een review schrijven. Elke extra stap verlaagt de kans met 50%.
 
