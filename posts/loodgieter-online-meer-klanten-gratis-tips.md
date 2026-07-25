@@ -51,6 +51,8 @@ Vraag tevreden klanten of ze je willen aanbevelen bij buren, familie of collega'
 
 Werk samen met aanverwante vakmensen: een elektricien, een dakdekker, een aannemer. Verwijs klanten naar elkaar door. Dat levert niet alleen opdrachten op, het bouwt ook aan je reputatie als betrouwbare vakman.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-zoekmachines-loodgieter-vindbaarheid" class="text-dark fw-semibold">Hoe vinden klanten jou via ChatGPT en AI-zoekmachines?</a> →</p></div></div></div>
+
 ## 7. Maak je vindbaarheid een systeem, niet een taak
 
 De loodgieters die structureel groeien, doen dit niet af en toe als ze eraan denken. Ze hebben een systeem: automatische review-verzoeken, wekelijkse content, een geoptimaliseerd Google-profiel. Alles draait op de achtergrond terwijl zij gewoon klussen.
