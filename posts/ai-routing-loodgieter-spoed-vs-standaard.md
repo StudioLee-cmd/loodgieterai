@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Voice AI", "Bereikbaarheid", "Spoed", "Automatisering"]
 cluster: "voice-ai"
 ---
-
 Niet elke oproep is evenveel waard. Een klant met een sproeiende leiding om tien uur 's avonds wil binnen een kwartier iemand aan de lijn, en betaalt daar ook naar. De buurman die wil weten wat een nieuwe kraan ongeveer kost, kan prima tot morgen wachten. Het probleem is dat je telefoon geen onderscheid maakt. Beide komen binnen op hetzelfde nummer, en als jij onder een wastafel ligt mis je ze allebei even hard.
 
 Dat is precies waar call-routing om draait: niet elk telefoontje hetzelfde behandelen, maar de spoedklus er meteen uithalen en de rest netjes laten afhandelen. Met een [ai telefonist voor loodgieters](/voice-ai) hoef je daar zelf niet meer voor naast je gereedschap te zitten.
@@ -71,6 +70,8 @@ Ja. De oproepen blijven binnenkomen op je bestaande nummer en worden via doorver
 Daarom hou je de spoed-definitie kort en stel je een veilige terugval in: bij twijfel kan het systeem altijd doorverbinden of een terugbelverzoek aanmaken. Hoe vaker je de samenvattingen terugleest en bijstuurt, hoe scherper de routing wordt.
 
 **Lees ook:** [AI telefonist vs kantoormedewerker loodgieter: wat kies je?](/blog/ai-telefonist-vs-kantoormedewerker-loodgieter-vergelijking), voor de afweging tussen een AI-telefonist en een vaste kracht op de lijn.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/spoedtarief-loodgieter-toeslag-uitleggen" class="text-dark fw-semibold">Spoedtarief loodgieter: toeslag uitleggen zonder discussie</a> →</p></div></div></div>
 
 ## Nooit meer de dure spoedklus mislopen
 
