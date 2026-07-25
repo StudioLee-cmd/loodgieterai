@@ -124,6 +124,8 @@ Realistisch: 8 tot 15 procent van de mobiele bezoekers belt of WhatsAppt na een 
 
 Minimaal eens per kwartaal volledig (op een ander toestel dan dat van jezelf) en bij elke grotere wijziging — nieuwe foto's uploaden, een plugin updaten, een redesign van één pagina. Veel loodgieters merken pas dat hun site traag is geworden als de telefoon stopt te rinkelen, en dat is twee tot drie maanden te laat.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-workflow-client-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
+
 ## Conclusie
 
 Mobiele optimalisatie van je loodgieter-website is geen "leuk extra" meer — het is voor de meeste Nederlandse loodgieters het verschil tussen 3 procent en 12 procent conversie op je belangrijkste verkeer. De vijf fricties hierboven zijn binnen één tot twee weken op te lossen, vrijwel altijd zonder een complete herbouw. Het effect zie je terug in twee weken: meer telefoontjes en WhatsApps op de drukke avonden en weekends die je hardste verkeer geven.
