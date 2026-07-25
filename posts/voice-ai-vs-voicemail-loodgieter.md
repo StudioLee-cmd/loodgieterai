@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Voice AI", "Bereikbaarheid", "Voicemail", "Spoed"]
 cluster: "voice-ai"
 ---
-
 Het is 22:47 als je telefoon overgaat en jij hem niet hoort. Iemand met een lekkende wasmachine-aansluiting staat met een dweil in de hand, het water kruipt richting de plint, en na vier keer overgaan krijgt hij jouw voicemail. "Spreek een bericht in na de piep." Hij hangt op, typt twee tellen later "loodgieter spoed" in Google en belt de volgende in de lijst. Die neemt wél op.
 
 Die voicemail heeft niks voor je gered. Hij heeft de klus keurig ingepakt en aan je concurrent gegeven. En het pijnlijke is: je hebt die oproep niet gemist omdat je onbereikbaar was, je hebt hem gemist omdat je bereikbaarheid ophield bij een bandje. Voice AI of voicemail is daarom geen technische discussie, het is de vraag wie er vanavond die spoedklus binnenhaalt: jij of de loodgieter drie plaatsen lager in Google.
@@ -73,6 +72,8 @@ Dan schakelt het systeem door of maakt het een terugbelverzoek aan, precies zoal
 Die herkent de AI aan de intake en zet hij meteen naar je door volgens je dienstrooster, terwijl een offertevraag netjes tot de ochtend wacht. Zo word je alleen wakker gebeld als het de moeite waard is, en [geen oproepen meer missen als loodgieter](/voice-ai) betekent dus niet dat je nooit meer slaapt.
 
 **Lees ook:** [AI-routing voor loodgieters: spoed vs standaard](/blog/ai-routing-loodgieter-spoed-vs-standaard), voor hoe je die spoed- en standaardoproepen automatisch uit elkaar houdt.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefoniste-voor-loodgieters" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Stop met bereikbaarheid die ophoudt bij een bandje
 
