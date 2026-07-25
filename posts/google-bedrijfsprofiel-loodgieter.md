@@ -7,10 +7,9 @@ image: "/images/blog/google-bedrijfsprofiel-loodgieter.jpg"
 tags: ["Vindbaarheid", "Google", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom je Google Bedrijfsprofiel je belangrijkste etalage is
 
-Als loodgieter kom je klanten niet tegen op Instagram of LinkedIn. Ze vinden je op Google — specifiek in de kaartresultaten die verschijnen bij zoekopdrachten als "loodgieter in de buurt" of "lekkage verhelpen [plaatsnaam]".
+Als loodgieter kom je klanten niet tegen op [Instagram](/social-media) of LinkedIn. Ze vinden je op Google — specifiek in de kaartresultaten die verschijnen bij zoekopdrachten als "loodgieter in de buurt" of "lekkage verhelpen [plaatsnaam]".
 
 Je Google Bedrijfsprofiel (vroeger Google Mijn Bedrijf) is het eerste wat potentiële klanten zien. Je telefoonnummer, openingstijden, reviews en foto's — alles staat er. En Google bepaalt op basis van je profiel of je in die kaartresultaten verschijnt.
 
@@ -49,7 +48,7 @@ Upload minimaal 10 foto's en voeg elke maand nieuwe toe. Google geeft voorkeur a
 
 ## Reviews verzamelen via je profiel
 
-Reviews zijn de belangrijkste rankingfactor voor je Google Bedrijfsprofiel. Meer reviews met een hoge score betekent een hogere positie in de kaartresultaten.
+Reviews zijn de belangrijkste rankingfactor voor je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-services-loodgieter). Meer reviews met een hoge score betekent een hogere positie in de kaartresultaten.
 
 De drie factoren die Google weegt:
 
@@ -70,6 +69,8 @@ Schakel deze functie in en reageer snel. Snelle reacties:
 - Worden door Google beloond met een hogere ranking
 
 Stel een automatisch welkomstbericht in: "Bedankt voor uw bericht. We reageren binnen 1 uur." Dit schept verwachtingen en geeft je tijd om te antwoorden.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/loodgieter-lokale-linkbuilding-hoger-in-google" class="text-dark fw-semibold">Lokale linkbuilding loodgieter: hoger in Google zonder Ads</a> →</p></div></div></div>
 
 ## Lokaal gevonden worden in de kaartresultaten
 
