@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Chatbot", "Leads", "Website", "Loodgieter"]
 cluster: "chatbot"
 ---
-
 Een loodgieter uit Zwolle keek vorig jaar voor het eerst echt naar zijn website-statistieken. 340 bezoekers in een maand, waarvan bijna de helft tussen 18:00 en 23:00. Aanvragen via het contactformulier: zeven. De rest klikte weg. Toen hij doorklikte naar de tijdstippen zag hij het patroon: de avondbezoekers waren de spoedklanten, mensen met een lekkage of een uitgevallen cv-ketel die NU iemand zochten. Hij stond op dat moment zelf onder een gootsteen of lag al in bed. Tegen de tijd dat hij 's ochtends het formulier zag, had de klant allang iemand anders gevonden. Niet omdat zijn site lelijk was. Omdat er niemand opnam toen de klant een vraag had.
 
 Dat is het echte lek in de meeste loodgieterswebsites. Niet de vormgeving, niet de snelheid, maar het gat tussen "bezoeker heeft een vraag" en "iemand geeft antwoord". Een chatbot dicht precies dat gat. Dit artikel laat zien waarom website-bezoekers afhaken voordat ze contact opnemen, wat een chatbot doet wat een formulier of een belknop niet doet, en wat jouw chatbot concreet moet kunnen om van een avondbezoeker een geboekte klus te maken.
@@ -86,6 +85,8 @@ Ja, dat is juist het hele punt. Een [ai chatbot voor jouw loodgieter](/chatbot) 
 ### Klinkt een chatbot niet onpersoonlijk voor mijn klanten?
 
 Dat hangt volledig af van hoe hij is ingericht. Een chatbot die in jouw toon korte, eerlijke antwoorden geeft en snel een mens inschakelt bij spoed, voelt voor de klant als snelle service. Een klant die binnen tien seconden antwoord krijgt op "kom je ook in mijn dorp", ervaart dat als beter, niet als kouder.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-chatbot-trainen-loodgieter-data" class="text-dark fw-semibold">AI-chatbot trainen op je loodgieter-data: 4 manieren</a> →</p></div></div></div>
 
 ## Groei-of-Geld-Terug Garantie
 
