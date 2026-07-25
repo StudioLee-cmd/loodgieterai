@@ -8,7 +8,6 @@ image: "/images/blog/hoe-ai-loodgieters-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
 cluster: "automatisering"
 ---
-
 Het runnen van een loodgietersbedrijf anno 2026 is topsport. Je bent niet alleen vakman die de beste installaties moet leveren, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel loodgieters die wij spreken, werken 60 tot 70 uur per week, maar als ze eerlijk kijken, zijn ze daarvan maar 30 uur écht productief aan het sleutelen. De rest? Dat is "ruis". Ruis in de vorm van eindeloze telefoontjes, emails, offertes tikken en facturen najagen.
 
 ## De "Oude" Manier vs. De AI Manier
@@ -20,7 +19,7 @@ Laten we de situatie eens schetsen. **Vroeger** zag je dag er zo uit: Je staat v
 ## Wat vervangt dit systeem precies?
 
 Veel loodgieters denken bij AI aan robots die leidingen leggen. Dat is onzin. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen die je anders klauwen met geld kosten:
-- **De Secretaresse:** Een parttime kracht op kantoor kost je al snel €30.000 per jaar. Onze Voice AI (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, beantwoordt vragen over tarieven en filtert verkopers eruit. Hij wordt nooit ziek, vraagt geen vakantiegeld en werkt ook in het weekend.
+- **De Secretaresse:** Een parttime kracht op kantoor kost je al snel €30.000 per jaar. Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, beantwoordt vragen over tarieven en filtert verkopers eruit. Hij wordt nooit ziek, vraagt geen vakantiegeld en werkt ook in het weekend.
 - **Het Marketingbureau:** Wil je meer klanten? Vroeger betaalde je een bureau €1.500 per maand voor SEO en Social Media. Onze Social Media AI & Tekstschrijver AI regelen je zichtbaarheid volledig automatisch. Ze posten je werk op Facebook en Instagram en schrijven blogs die je hoog in Google krijgen. Besparing: minimaal €12.000 per jaar.
 - **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig voor de jaarrekening. Maar het dagelijkse werk? Factuur AI stuurt direct foutloze facturen, herinnert klanten die te laat betalen automatisch, en zorgt dat je bonnetjes direct verwerkt zijn. Geen schoenendoos met bonnetjes meer.
 
