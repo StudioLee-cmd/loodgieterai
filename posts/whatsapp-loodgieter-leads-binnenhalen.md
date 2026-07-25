@@ -109,6 +109,8 @@ WhatsApp is sterk, maar niet alles. Een deel van je doelgroep belt nog steeds (o
 
 Pas als deze drie samenwerken, ben je echt onverslaanbaar bereikbaar. En het mooie: jij hoeft maar één inbox te onderhouden, want alles loopt centraal binnen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoeveel-herinneringen-loodgieter-afspraak" class="text-dark fw-semibold">Afspraakherinneringen loodgieter: hoeveel en wanneer?</a> →</p></div></div></div>
+
 ## Aan de slag: morgen je eerste WhatsApp-leads vangen
 
 Begin klein. Installeer vandaag WhatsApp Business, vul je profiel in, stel een welkomst- en afwezigheidsbericht in. Voeg een WhatsApp-knop toe aan je website. Activeer berichten op je Google Bedrijfsprofiel. Dat is een avond werk en het verandert je inkomende leads-stroom binnen een week.
