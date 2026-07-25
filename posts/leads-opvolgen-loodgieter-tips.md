@@ -75,6 +75,6 @@ Automatiseer de relatie:
 
 ## Conclusie
 
-Leads opvolgen hoeft niet handmatig. Met de juiste automatisering reageert je bedrijf binnen een minuut, ook als jij tot je ellebogen in de buizen zit.
+[Leads opvolgen](/blog/leads-opvolgen-loodgieter-meer-klussen) hoeft niet handmatig. Met de juiste automatisering reageert je bedrijf binnen een minuut, ook als jij tot je ellebogen in de buizen zit.
 
 Wil je weten hoeveel leads je nu mist? [Vraag een gratis scan aan](/gratis-scan) en krijg inzicht in je huidige opvolgsnelheid. Of bekijk hoe een [AI chatbot](/chatbot) 24/7 spoedaanvragen voor je opvangt.
