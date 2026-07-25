@@ -8,8 +8,7 @@ image: "/images/blog/social-media-voor-loodgieters.png"
 tags: ["Social Media", "Branding", "Automatisering"]
 cluster: "social-media"
 ---
-
-Ik hoor het je denken: "Social Media? Daar heb ik toch geen tijd voor? Ik ben loodgieter, geen influencer!" En je hebt gelijk. Je moet niet gaan staan dansen op TikTok of foto's van je lunch posten. Dat is voor tieners.
+Ik hoor het je denken: "[Social Media](/social-media)? Daar heb ik toch geen tijd voor? Ik ben loodgieter, geen influencer!" En je hebt gelijk. Je moet niet gaan staan dansen op TikTok of foto's van je lunch posten. Dat is voor tieners.
 
 Maar: Social Media, als je het zakelijk inzet, is het krachtigste portfolio dat je kunt hebben. Mensen zijn visueel ingesteld. Als iemand een nieuwe badkamer wil, of een warmtepomp, willen ze zien wat je kunt. Ze willen bewijs van jouw vakmanschap.
 
