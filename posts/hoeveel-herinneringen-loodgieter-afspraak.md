@@ -7,7 +7,6 @@ image: "/images/blog/hoeveel-herinneringen-loodgieter-afspraak.jpg"
 tags: ["Afspraken", "WhatsApp", "Automatisering"]
 cluster: "automatisering"
 ---
-
 ## In het kort
 
 - **De zoete plek is twee herinneringen:** bevestiging bij boeking + herinnering 24 uur van tevoren. Soms een derde 2 uur ervoor bij ochtendklussen.
@@ -121,6 +120,8 @@ Een rekenvoorbeeld voor een gemiddeld loodgieterbedrijf met 4 afspraken per dag,
 En dat is alleen het direct-zichtbare effect. De indirecte voordelen (klanten die je als professioneel ervaren, hogere review-scores, minder telefonisch nabellen) tellen daar nog eens bij op.
 
 Voor de [tarieven van LoodgieterAI](/tarieven) zit een complete reminder-flow inbegrepen. Minder dan een gemiste klus per maand maakt het terugverdiend. De rekensom maakt het verhaal kort.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kosten-no-show-loodgieter" class="text-dark fw-semibold">Hoeveel kost een no-show je als loodgieter?</a> →</p></div></div></div>
 
 ## Conclusie
 
