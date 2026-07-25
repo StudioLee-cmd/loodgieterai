@@ -71,6 +71,8 @@ Totaal: gemiddeld 8 tot 12 uur per week. Bij een uurtarief van 65 euro is dat 52
 
 De kosten van bedrijfssoftware voor loodgieters liggen tussen de 30 en 100 euro per maand. De terugverdientijd is minder dan een dag.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-meten-als-loodgieter-3-snelle-methodes" class="text-dark fw-semibold">Klanttevredenheid meten als loodgieter: 3 snelle methodes</a> →</p></div></div></div>
+
 ## Direct beginnen: 3 stappen
 
 1. **Digitale werkbonnen**: download een app als Fieldcode of gebruik Google Forms als startpunt. Vul werkbonnen in op locatie in plaats van 's avonds thuis
