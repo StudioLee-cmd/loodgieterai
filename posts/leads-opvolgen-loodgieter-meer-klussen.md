@@ -54,6 +54,6 @@ Nee. Niet-reageren betekent zelden dat je te duur bent. Het betekent meestal dat
 
 ## Conclusie
 
-Leads opvolgen als loodgieter is geen verkooptruc — het is professionaliteit. Automatiseer je follow-up, bel na elke offerte en reageer razendsnel op spoedaanvragen. Het verschil tussen een volle en een lege agenda zit in de opvolging.
+[Leads opvolgen als loodgieter](/blog/leads-opvolgen-loodgieter-tips) is geen verkooptruc — het is professionaliteit. Automatiseer je follow-up, bel na elke offerte en reageer razendsnel op spoedaanvragen. Het verschil tussen een volle en een lege agenda zit in de opvolging.
 
 Wil je ontdekken hoe LoodgieterAI je lead opvolging automatiseert? Vraag een [gratis scan](/gratis-scan) aan. Wij regelen het — jij hoeft er maar 15 minuten per maand aan te besteden.
