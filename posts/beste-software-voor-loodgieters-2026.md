@@ -7,7 +7,6 @@ image: "/images/blog/beste-software-voor-loodgieters-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 cluster: "automatisering"
 ---
-
 Als loodgieter wordt er veel van je gevraagd: spoedklussen, offertes, planning en ondertussen je boekhouding bijhouden. Welke software helpt jou als loodgieter het meest in 2026? In dit overzicht vergelijken we de populairste tools — eerlijk en in het Nederlands.
 
 ## Wat zoekt een loodgieter in software?
@@ -80,6 +79,8 @@ Als loodgieter wordt er veel van je gevraagd: spoedklussen, offertes, planning e
 | **Voice AI-telefonist** | ✗ | ✗ | ✗ | ✗ | ✓ |
 | **Exclusieve leads** | Nee | Ja | Ja | n.v.t. | Ja |
 | **Betaalmodel** | Per reactie | Commissie | Vast/maand | Vast/maand | Vast/maand |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klusio-vs-loodgieterai-welke-past-bij-jouw-bedrijf" class="text-dark fw-semibold">Klusio vs LoodgieterAI: welke past bij jouw bedrijf?</a> →</p></div></div></div>
 
 ## Conclusie: kies wat bij jouw bedrijf past
 
