@@ -56,7 +56,7 @@ Op je bus: een QR-code op je servicebus die naar je review link leidt. Buren die
 
 ## Hoeveel reviews heb je nodig
 
-Voor een loodgieter in een middelgrote stad is 30 tot 50 Google reviews het punt waarop je consequent in de top 3 van Google Maps verschijnt. Onder de 10 reviews val je weg tegen concurrenten die er meer hebben.
+Voor een loodgieter in een middelgrote stad is 30 tot 50 [Google reviews](/blog/google-reviews-loodgieter-automatisch) het punt waarop je consequent in de top 3 van Google Maps verschijnt. Onder de 10 reviews val je weg tegen concurrenten die er meer hebben.
 
 Bij een instroom van 5 reviews per maand ben je na 6 maanden op 30. Na een jaar op 60. Dat klinkt veel, maar met een automatische link na elke klus en 15 tot 20 klussen per maand is 5 reviews haalbaar.
 
