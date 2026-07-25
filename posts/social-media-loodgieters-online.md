@@ -8,10 +8,9 @@ image: "/images/blog/social-media-loodgieters-online.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor loodgieters
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke loodgieter die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke loodgieter die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. Facebook werkt het best voor lo
 
 ## Projectfoto's zijn je beste verkooptool
 
-Als loodgieter heb je een gouden content-bron: je dagelijkse werk. Elke klus is een potentiële social media post. Het verschil tussen een loodgieter met een volle agenda en eentje die op opdrachten wacht? Vaak simpelweg online zichtbaarheid.
+Als loodgieter heb je een gouden content-bron: je dagelijkse werk. Elke klus is een potentiële [social media](/blog/avg-klusfotos-toestemming-loodgieter) post. Het verschil tussen een loodgieter met een volle agenda en eentje die op opdrachten wacht? Vaak simpelweg online zichtbaarheid.
 
 Maak het een gewoonte: neem bij elke klus een 'voor'-foto en een 'na'-foto. Dat kost je 30 seconden en levert content op die wekenlang werkt.
 
