@@ -8,12 +8,11 @@ image: "/images/blog/concurrentieanalyse-loodgieter-opvallen.jpg"
 tags: ["Concurrentie", "Strategie", "Groei"]
 cluster: "branding"
 ---
-
 ## Waarom een concurrentieanalyse loont
 
 Als loodgieter heb je te maken met flinke concurrentie. Van grote installatiebedrijven tot eenpitters die via mond-tot-mondreclame werken — iedereen vecht om dezelfde klanten. Toch nemen weinig loodgieters de tijd om systematisch naar hun concurrentie te kijken.
 
-Dat is een gemiste kans. Een goede concurrentieanalyse laat je zien waar kansen liggen die anderen missen. Misschien is er in jouw regio geen loodgieter die gespecialiseerd is in warmtepompen. Of misschien scoren alle concurrenten slecht op Google Reviews. Die gaten in de markt zijn jouw kans om te groeien.
+Dat is een gemiste kans. Een goede concurrentieanalyse laat je zien waar kansen liggen die anderen missen. Misschien is er in jouw regio geen loodgieter die gespecialiseerd is in warmtepompen. Of misschien scoren alle concurrenten slecht op [Google Reviews](/reviews). Die gaten in de markt zijn jouw kans om te groeien.
 
 Het hoeft geen ingewikkelde exercitie te zijn. Met een paar uur onderzoek heb je al waardevolle inzichten die je direct kunt toepassen.
 
@@ -63,6 +62,8 @@ Kijk wat concurrenten rekenen voor vergelijkbare klussen. Je hoeft niet de goedk
 Als jouw tarieven hoger zijn, zorg dan dat klanten begrijpen waarom. Snellere service, betere garantie, schoner werken, duidelijkere communicatie — dat zijn allemaal redenen waarom klanten meer willen betalen.
 
 Transparantie over prijzen op je website kan ook een onderscheidende factor zijn. Veel loodgieters vermijden dit, maar klanten waarderen het als ze vooraf een indicatie krijgen. Het bouwt vertrouwen op nog voordat ze contact opnemen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/samenwerken-als-loodgieter-partnerschappen" class="text-dark fw-semibold">Samenwerken als loodgieter: partnerschappen die meer klussen opleveren</a> →</p></div></div></div>
 
 ## Actieplan: opvallen als loodgieter
 
