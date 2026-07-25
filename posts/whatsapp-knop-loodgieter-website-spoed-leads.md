@@ -7,7 +7,6 @@ image: "/images/blog/whatsapp-knop-loodgieter-website-spoed-leads.jpg"
 tags: ["Website", "Conversie", "WhatsApp", "Loodgieter"]
 cluster: "website"
 ---
-
 ## In het kort
 
 - **Een zichtbare WhatsApp-knop op je loodgieterwebsite verdubbelt gemiddeld de aanvraag-conversie**, van 1.4 procent naar 2.8 procent op spoed-pagina's.
@@ -121,6 +120,8 @@ Ja, maar de conversie-stijging is kleiner (gemiddeld 30 tot 50 procent in plaats
 ### Heb ik een nieuwe website nodig om dit toe te voegen?
 
 Nee, een wa.me-knop is op elke website toe te voegen, ook op WordPress, Wix of een statische HTML-site. Wil je een hele website-overhaul met geïntegreerde AI-conversie? Wij bieden een [gratis website voor loodgieters](/gratis-website) inclusief WhatsApp-flow, schema markup en AI-chatbot.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/loodgieter-website-laten-maken" class="text-dark fw-semibold">Loodgieter website laten maken: wat heb je nodig in 2026?</a> →</p></div></div></div>
 
 ## Aan de slag
 
