@@ -58,6 +58,8 @@ Een goede prijspagina bevat meer dan alleen bedragen. Het bevat ook:
 
 Overweeg een <a href="/gratis-website" class="text-primary">professionele website</a> als je huidige site geen prijspagina heeft of als het design verouderd is.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/trust-signals-loodgieter-website" class="text-dark fw-semibold">Trust signals op je loodgieter-website: 5 elementen die scoren</a> →</p></div></div></div>
+
 ## Probeer het een maand
 
 Begin met het toevoegen van richtprijzen voor je drie meest voorkomende klussen. Meet een maand lang hoeveel offerteaanvragen je krijgt en vergelijk dat met de maand ervoor. De meeste loodgieters die de stap zetten, merken dat ze meer aanvragen krijgen en dat die aanvragen serieuzer zijn.
