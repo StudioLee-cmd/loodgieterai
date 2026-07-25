@@ -8,7 +8,6 @@ image: "/images/blog/branding-loodgieter.png"
 tags: ["branding", "loodgieter", "personal branding"]
 cluster: "branding"
 ---
-
 Als loodgieter concurreer je met tientallen collega's in je regio. Allemaal doen ze min of meer hetzelfde werk, tegen vergelijkbare prijzen. Wat maakt dat een klant jou belt in plaats van de concurrent? Het antwoord is branding.
 
 Personal branding gaat niet over een duur logo of een slick website. Het gaat over herkenning, vertrouwen en top-of-mind zijn wanneer iemand een loodgieter nodig heeft.
@@ -94,4 +93,4 @@ De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 
 ## Conclusie
 
-Personal branding is het verschil tussen "een loodgieter" en "dé loodgieter" in je regio. Het kost geen fortuin, maar vraagt wel consistentie. Begin vandaag met je specialisatie, visuele identiteit en online zichtbaarheid — en zie hoe klanten vanzelf naar je toe komen.
+Personal branding is het verschil tussen "een loodgieter" en "dé loodgieter" in je regio. Het kost geen fortuin, maar vraagt wel consistentie. Begin vandaag met je specialisatie, visuele identiteit en [online zichtbaarheid](/social-media) — en zie hoe klanten vanzelf naar je toe komen.
