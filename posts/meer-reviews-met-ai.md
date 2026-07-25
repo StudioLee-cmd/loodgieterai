@@ -8,10 +8,9 @@ image: "/images/blog/meer-reviews-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
 Als je zelf iets koopt of een restaurant zoekt, wat doe je dan? Precies: je kijkt op Google Maps en checkt de sterren. Heeft een tent 3,4 sterren? Dan loop je door. Heeft hij 4,8 sterren met 200 reviews? Dan ga je naar binnen.
 
-Voor jouw loodgietersbedrijf werkt het precies hetzelfde. Google Reviews zijn de levensader van de moderne vakman. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne consument eigenlijk niet. En nog erger: als je "gemiddeld" bent (4,2 sterren), kiezen ze alsnog voor je concurrent met die perfecte score.
+Voor jouw loodgietersbedrijf werkt het precies hetzelfde. [Google Reviews](/reviews) zijn de levensader van de moderne vakman. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne consument eigenlijk niet. En nog erger: als je "gemiddeld" bent (4,2 sterren), kiezen ze alsnog voor je concurrent met die perfecte score.
 
 ## Het Probleem: Vragen is Ongemakkelijk (en inefficiënt)
 
@@ -31,7 +30,7 @@ Dit is de truc die slimme marketingbureaus gebruiken en die nu ook voor jou besc
 - **Is de klant blij (duim omhoog)?** -> Super! Dan stuurt de AI direct de link naar je Google Bedrijfsprofiel. De klant hoeft alleen nog maar op de sterren te klikken. Drempel verlaagd, resultaat binnen.
 - **Is de klant NIET blij (duim omlaag)?** -> Ai, dat kan gebeuren. Maar in plaats van dat ze hun gal spuwen op Google waar iedereen het kan zien, opent er een feedback formulier dat **rechtstreeks naar jou** gaat.
 
-Snap je de kracht hiervan? Je vangt de ontevreden klanten af vòòrdat ze schade aanrichten. Je kunt het netjes met ze oplossen, ze alsnog blij maken, en ze dàn pas om een review vragen. Zo bescherm je je online reputatie als een leeuw, terwijl je de 5-sterren reviews met bakken binnenharkt.
+Snap je de kracht hiervan? Je vangt de ontevreden klanten af vòòrdat ze schade aanrichten. Je kunt het netjes met ze oplossen, ze alsnog blij maken, en ze dàn pas om een review vragen. Zo bescherm je je [online reputatie](/blog/online-reputatie-loodgieter) als een leeuw, terwijl je de 5-sterren reviews met bakken binnenharkt.
 
 ## Het Vervangt dure marketingbureaus
 
