@@ -8,7 +8,6 @@ image: "/images/blog/spoedklussen-loodgieter-geen-oproep-missen.png"
 tags: ["Loodgieter", "Bereikbaarheid", "Spoedklussen"]
 cluster: "voice-ai"
 ---
-
 ## Het probleem dat elke loodgieter herkent
 
 Je zit tot je ellebogen in een lekkage-reparatie. Je telefoon gaat. Je kunt niet opnemen. Tegen de tijd dat je terugbelt, heeft de klant al een andere loodgieter gebeld. Herkenbaar?
@@ -39,7 +38,7 @@ Onpraktisch, onprofessioneel, en gevaarlijk als je met gereedschap werkt.
 
 ## De moderne oplossing: AI-telefonie
 
-Voice AI is geen sciencefiction meer — het is een praktische tool die in 2026 al duizenden bedrijven gebruiken. Voor loodgieters werkt het zo:
+[Voice AI](/voice-ai) is geen sciencefiction meer — het is een praktische tool die in 2026 al duizenden bedrijven gebruiken. Voor loodgieters werkt het zo:
 
 1. **Klant belt je nummer** — niets verandert voor de klant
 2. **AI neemt op als jij niet kunt** — professioneel, in jouw naam
