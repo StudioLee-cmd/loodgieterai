@@ -1,5 +1,5 @@
 ---
-title: "Chatbot of FAQ-pagina: wat levert loodgieters leads op?"
+title: "Chatbot of FAQ-pagina: zo mist een loodgieter geen klus"
 slug: chatbot-vs-faq-pagina-loodgieter-spoed-leads
 date: "2026-07-27"
 excerpt: "Een FAQ-pagina wordt gevonden, een chatbot vangt op. Waarom loodgieters die alleen de vragenpagina bouwen hun spoedaanvragen alsnog kwijtraken."
