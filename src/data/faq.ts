@@ -30,8 +30,8 @@ export const faqs: IFAQ[] = [
         answer: "Zeker. Je kunt specifieke 'flows' instellen voor buiten openingstijden. Bijvoorbeeld: 'Alleen doorverbinden bij spoed, anders een afspraak inplannen voor maandagochtend'. Zo heb je ook écht weekend.",
     },
     {
-        question: "Is het testen echt gratis?",
-        answer: "Ja, de software-toegang is 14 dagen 100% gratis. Je betaalt alleen voor je daadwerkelijke verbruik (zoals belminuten, AI-generaties en SMS'jes), omdat wij deze kosten ook direct moeten afdragen. Je zit nergens aan vast.",
+        question: "Wat kost het testen?",
+        answer: "Je krijgt 14 dagen volledige software-toegang voor eenmalig €1. Daarnaast betaal je alleen je daadwerkelijke verbruik (zoals belminuten, AI-generaties en SMS'jes), omdat wij deze kosten ook direct moeten afdragen. Je zit nergens aan vast.",
     },
     {
         question: "Is de strategie-call echt gratis?",
