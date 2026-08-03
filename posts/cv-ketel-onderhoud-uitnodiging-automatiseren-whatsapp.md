@@ -77,7 +77,7 @@ En misschien wel de grootste winst: het gebeurt zonder jou. Geen belrondes op vr
 
 ## Zelf bouwen of laten draaien?
 
-Je kunt dit zelf bouwen met de WhatsApp Business API, een agenda-koppeling en een flinke avond puzzelen. Kun je prima, als je dat leuk vindt. Vind je het niks, dan is dit precies wat LoodgieterAI voor installatiebedrijven inricht: de [CV-ketel onderhoud-uitnodiging](/automatisering) als kant-en-klare flow, gekoppeld aan je agenda en je klantenbestand, inclusief de reminders, de heractivatie en het reviewverzoek na afloop. Met Groei-of-Geld-Terug Garantie: levert het systeem aantoonbaar niets op, dan betaal je niet.
+Je kunt dit zelf bouwen met de WhatsApp Business API, een agenda-koppeling en een flinke avond puzzelen. Kun je prima, als je dat leuk vindt. Vind je het niks, dan is dit precies wat LoodgieterAI voor installatiebedrijven inricht: de [CV-ketel onderhoud-uitnodiging](/automatisering) als kant-en-klare flow, gekoppeld aan je agenda en je klantenbestand, inclusief de reminders, de heractivatie en het reviewverzoek na afloop. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Benieuwd waar jouw bestand nu lekt? Vraag de [gratis ai scan voor loodgieters](/gratis-scan) aan. Dan zie je zwart op wit hoeveel onderhoudsomzet er op dit moment ligt te wachten, en welke flow die het eerst binnenhaalt. Jij lost de lekkage op, wij regelen de rest. En die waakvlam uit de eerste alinea? Die brandt vanaf dan het hele jaar door, zonder dat jij er een lucifer bij hoeft te houden.
 

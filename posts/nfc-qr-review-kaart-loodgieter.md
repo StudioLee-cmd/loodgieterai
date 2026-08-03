@@ -74,7 +74,7 @@ Een paar praktische zaken maken het verschil tussen een kaart die stof vangt en 
 
 Recente reviews doen bovendien meer dan vertrouwen wekken. Ze zijn een sterk signaal voor je lokale ranking, en dus helpt een gestage stroom je ook om beter [gevonden te worden als loodgieter](/seo) op het moment dat iemand met spoed zoekt.
 
-Wil je weten hoeveel reviews je nu laat liggen en waar de winst zit? Vraag een [gratis AI-scan voor loodgieters](/gratis-scan) aan, dan zie je precies waar je staat. En omdat wij geloven in resultaat, geldt bij onze aanpak een Groei-of-Geld-Terug Garantie: groeit het niet, dan krijg je je geld terug.
+Wil je weten hoeveel reviews je nu laat liggen en waar de winst zit? Vraag een [gratis AI-scan voor loodgieters](/gratis-scan) aan, dan zie je precies waar je staat. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Een kaartje is een prima begin, maar het is het systeem eromheen dat het verschil maakt. Reageer je ook slim op de beoordelingen die binnenkomen? Dat leest [reviews na een spoedklus](/blog/review-na-spoedklus-loodgieter) je zo bij.
 

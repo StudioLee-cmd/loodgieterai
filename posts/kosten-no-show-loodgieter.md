@@ -9,7 +9,7 @@ tags: ["No-shows", "Kosten", "Automatisering"]
 ---
 Je staat om half negen voor de deur. Gereedschap in de bus, materiaal ingekocht, route gereden. Je belt aan. Niemand thuis. Geen bericht, geen afmelding, geen reactie. Weer een no-show.
 
-Voor veel loodgieters is dit wekelijkse realiteit. En hoewel het voelt als "ach, volgende klus dan maar," zit er een prijskaartje aan dat veel hoger is dan je denkt. In dit artikel rekenen we uit wat een no-show je werkelijk kost, en hoe je dat geld terugpakt.
+Voor veel loodgieters is dit wekelijkse realiteit. En hoewel het voelt als "ach, volgende klus dan maar," zit er een prijskaartje aan dat veel hoger is dan je denkt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## De directe kosten van een gemiste afspraak
 
@@ -61,6 +61,6 @@ De kosten van een automatisch herinneringssysteem? Vanaf €79 per maand bij Loo
 
 ## Begin vandaag
 
-Elke week dat je wacht, verlies je twee afspraken. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel no-shows je kunt voorkomen. Groei-of-Geld-Terug Garantie: als het niet werkt, betaal je niets.
+Elke week dat je wacht, verlies je twee afspraken. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel no-shows je kunt voorkomen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wil je eerst meer lezen over hoe andere loodgieters no-shows aanpakken? Bekijk ons artikel over [no-shows voorkomen als loodgieter](/blog/no-shows-voorkomen-loodgieter).

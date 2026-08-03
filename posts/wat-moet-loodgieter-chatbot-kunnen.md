@@ -89,6 +89,6 @@ Dan zet hij het gesprek door naar jou, compleet met alles wat al gevraagd is. Ni
 
 Een chatbot is geen knopje dat je aanzet en vergeet. Hij is pas waardevol als hij triëert, doorvraagt, boekt, doorschakelt en vastlegt, net als jij aan de telefoon zou doen. Kan hij dat niet, dan is het een duur contactformulier. Kan hij het wel, dan vangt hij de klussen op die nu langs je heen lopen. Jij lost de lekkage op, de bot regelt de inbox.
 
-Benieuwd hoeveel aanvragen er nu blijven liggen op je site? Vraag de [gratis ai scan voor loodgieters](/gratis-scan) aan. Bij LoodgieterAI laten we precies zien waar je leads weglekken en hoe je dat dichtzet, met onze Groei-of-Geld-Terug Garantie: levert het systeem aantoonbaar niets op, dan betaal je niet.
+Benieuwd hoeveel aanvragen er nu blijven liggen op je site? Vraag de [gratis ai scan voor loodgieters](/gratis-scan) aan. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-chatbot-loodgieter-lekkage-aanvragen" class="text-dark fw-semibold">WhatsApp chatbot voor loodgieters: lekkages 24/7 opvangen</a> →</p></div></div></div>

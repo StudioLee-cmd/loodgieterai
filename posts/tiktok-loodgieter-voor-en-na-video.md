@@ -71,7 +71,7 @@ Herplaats je beste video's daarna gerust op Instagram Reels en Facebook. Zelfde 
 
 ## Zelf doen of laten draaien?
 
-Filmen kun jij het beste, want jij staat bij de klus. Alles daarna is uit te besteden. Vind je het knippen, plannen en posten na twee weken al een blok aan je been, dan is dat precies wat LoodgieterAI regelt met [social media beheer voor loodgieters](/social-media): jij stuurt de ruwe clips door, het systeem maakt er geplande posts van met de juiste teksten, plaatsnamen en hashtags, week in week uit. Met Groei-of-Geld-Terug Garantie: levert het aantoonbaar niets op, dan betaal je niet.
+Filmen kun jij het beste, want jij staat bij de klus. Alles daarna is uit te besteden. Vind je het knippen, plannen en posten na twee weken al een blok aan je been, dan is dat precies wat LoodgieterAI regelt met [social media beheer voor loodgieters](/social-media): jij stuurt de ruwe clips door, het systeem maakt er geplande posts van met de juiste teksten, plaatsnamen en hashtags, week in week uit. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Twijfel je of TikTok voor jouw bedrijf de eerste stap moet zijn, of eerst je vindbaarheid of reviews? Dan is [social media uitbesteden voor loodgieters](/social-media) niet per se stap één en kijk je eerst naar het hele plaatje.
 

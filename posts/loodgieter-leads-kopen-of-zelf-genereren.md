@@ -67,7 +67,7 @@ Je hoeft niet alles tegelijk te doen. Deze volgorde levert het snelst resultaat 
 4. **Werk aan lokale vindbaarheid.** Zorg dat je opduikt bij "loodgieter" plus de plaatsnamen in je werkgebied. Dat is een kwestie van de juiste pagina's en volhouden, geen trucje van één week.
 5. **Meet wat binnenkomt.** Weet je van elke aanvraag waar hij vandaan kwam, dan zie je zwart-op-wit wanneer je eigen kanaal de betaalde leads overneemt.
 
-Wil je weten hoe je bedrijf er nu online voor staat en waar je snelste winst zit? Vraag een [gratis AI-scan voor je loodgietersbedrijf](/gratis-scan) aan. Je krijgt een concreet beeld van je vindbaarheid en een plan om aan je eigen leadkanaal te bouwen. En omdat wij achter die aanpak staan, geldt de Groei-of-Geld-Terug Garantie: levert het geen groei op, dan krijg je je geld terug.
+Wil je weten hoe je bedrijf er nu online voor staat en waar je snelste winst zit? Vraag een [gratis AI-scan voor je loodgietersbedrijf](/gratis-scan) aan. Je krijgt een concreet beeld van je vindbaarheid en een plan om aan je eigen leadkanaal te bouwen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Jij lost de lekkage op, wij zorgen dat de juiste klant je vindt. Gevonden worden als er iemand nodig is, dat is het doel. En dat is precies wat een eigen kanaal je geeft en een gekochte lead nooit kan: een klant die alleen van jou is.
 

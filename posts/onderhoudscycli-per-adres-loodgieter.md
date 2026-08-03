@@ -133,7 +133,7 @@ Juist daar. Bij huur en VVE wisselen de bewoners het snelst en is de opdrachtgev
 
 Begin bij je facturen van de afgelopen drie jaar en bouw de lijst met die zeven kolommen. Dat is de stap die niemand voor je kan doen, en het is ook de stap waar de meeste winst zit.
 
-De rest kunnen wij inrichten. Met LoodgieterAI zetten we het klantbestand op adresniveau op en koppelen we de onderhoudscyclus aan een agenda die klanten zelf kunnen vullen. Daarna gaan de [automatische herinneringen voor loodgieters](/automatisering) uit zonder dat jij eraan denkt. Dat valt onder onze Groei-of-Geld-Terug Garantie: levert het je aantoonbaar geen extra opdrachten en tijd op, dan krijg je je geld terug.
+De rest kunnen wij inrichten. Met LoodgieterAI zetten we het klantbestand op adresniveau op en koppelen we de onderhoudscyclus aan een agenda die klanten zelf kunnen vullen. Daarna gaan de [automatische herinneringen voor loodgieters](/automatisering) uit zonder dat jij eraan denkt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wil je eerst weten hoeveel adressen jij eigenlijk in beheer hebt zonder het te weten? Vraag een [gratis ai scan voor loodgieters](/gratis-scan) aan. We kijken mee naar je huidige bestand en laten zien welk deel van je onderhoud nu buiten beeld valt.
 

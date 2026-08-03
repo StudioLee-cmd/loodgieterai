@@ -90,7 +90,7 @@ Eerlijk antwoord: dat snappen we. Je bent loodgieter, geen contentmaker. Tussen 
 
 Daarom kun je dit hele verhaal ook uit handen geven. Bij LoodgieterAI draaien we de complete cyclus voor loodgieters: jij stuurt af en toe een paar foto's vanaf de klus, wij maken er met AI nette posts van, schrijven de teksten in jouw toon en plannen alles in. Jij hoeft nooit meer naar dat lege vakje te staren. Bekijk wat [social media beheer voor loodgieters](/social-media) inhoudt, of laat eerst vrijblijvend zien waar je nu staat met een [gratis ai scan voor loodgieters](/gratis-scan).
 
-En omdat we ergens in moeten geloven: het werkt met onze Groei-of-Geld-Terug Garantie. Levert het je na een afgesproken periode geen meetbare groei op, dan krijg je je geld terug. Zo simpel is het.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Zo simpel is het.
 
 ## Veelgestelde vragen
 

@@ -84,7 +84,7 @@ Voor een eenmanszaak of klein installatiebedrijf werkt de combinatie van FAQ-imp
 
 De volgorde is belangrijker dan de techniek. Begin met de gegevens waar de meeste misverstanden uit ontstaan, dat zijn bij elke loodgieter tarieven en werkgebied, en breid daarna uit.
 
-Bij LoodgieterAI doen wij die training zelf: wij verzamelen je tarieven, je werkgebied, je veelgestelde vragen en je tone of voice, richten de [ai-chatbot](/chatbot) daarop in en houden hem actueel. Dat valt onder onze Groei-of-Geld-Terug Garantie, dus levert het je geen extra opdrachten op, dan krijg je je geld terug.
+Bij LoodgieterAI doen wij die training zelf: wij verzamelen je tarieven, je werkgebied, je veelgestelde vragen en je tone of voice, richten de [ai-chatbot](/chatbot) daarop in en houden hem actueel. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wil je eerst weten wat er in jouw geval nodig is, vraag dan een [gratis ai scan voor loodgieters](/gratis-scan) aan. Je krijgt te horen welke informatie je al online hebt staan, wat er ontbreekt en welke van de vier routes bij jouw bedrijf past.
 

@@ -95,7 +95,7 @@ Alleen de bovenkant: een bevestiging met duidelijk tijdvak, een bericht als de m
 
 ## Zelf aan de slag
 
-Je hoeft dit niet in een weekend te bouwen. Met LoodgieterAI richten wij de complete workflow voor je in: dispatch-regels, buffer-blokken, klantberichten en de digitale werkbon-afronding, afgestemd op jouw team en werkgebied. Dat valt onder onze Groei-of-Geld-Terug Garantie: levert het je aantoonbaar geen tijd en opdrachten op, dan krijg je je geld terug.
+Je hoeft dit niet in een weekend te bouwen. Met LoodgieterAI richten wij de complete workflow voor je in: dispatch-regels, buffer-blokken, klantberichten en de digitale werkbon-afronding, afgestemd op jouw team en werkgebied. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Benieuwd waar bij jou de meeste tijd weglekt? Vraag een [gratis ai scan voor loodgieters](/gratis-scan) aan. Je ziet direct welke stappen in jouw planning nu handwerk zijn en welke je deze maand al kunt automatiseren.
 

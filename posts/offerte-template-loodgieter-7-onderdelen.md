@@ -99,7 +99,7 @@ Jij lost de lekkage op. Je offerte moet ondertussen jouw verhaal vertellen aan e
 
 Bouw het één keer goed op en je hergebruikt het honderd keer.
 
-Wil je dat sjabloon niet alleen netjes hebben maar ook automatisch laten opvolgen, en wil je dat je offerte verwijst naar een website die er professioneel uitziet? Dat is precies wat we bij LoodgieterAI regelen. Bekijk wat we doen met een [gratis website voor loodgieters](/gratis-website) en vraag vrijblijvend een gesprek aan. Op onze managed service zit een Groei-of-Geld-Terug Garantie: levert het niet op wat we afspreken, dan krijg je je geld terug.
+Wil je dat sjabloon niet alleen netjes hebben maar ook automatisch laten opvolgen, en wil je dat je offerte verwijst naar een website die er professioneel uitziet? Dat is precies wat we bij LoodgieterAI regelen. Bekijk wat we doen met een [gratis website voor loodgieters](/gratis-website) en vraag vrijblijvend een gesprek aan. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Meer opdrachten, minder gedoe.
 

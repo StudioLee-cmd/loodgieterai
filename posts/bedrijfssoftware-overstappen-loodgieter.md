@@ -78,6 +78,6 @@ De grootste winst is rust. Geen halve klantgegevens meer in je telefoon, geen ge
 
 ## Klaar om over te stappen?
 
-Weet je niet zeker of jouw huidige systeem de zwakke schakel is, begin dan met een [gratis ai scan voor loodgieters](/gratis-scan). We kijken mee naar je administratie, planning en vindbaarheid, en laten zien wat een overstap je concreet oplevert. En omdat we in resultaat geloven, werken we met een Groei-of-Geld-Terug Garantie: levert het niet op wat we beloven, dan krijg je je geld terug.
+Weet je niet zeker of jouw huidige systeem de zwakke schakel is, begin dan met een [gratis ai scan voor loodgieters](/gratis-scan). We kijken mee naar je administratie, planning en vindbaarheid, en laten zien wat een overstap je concreet oplevert. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/welkom-mailflow-loodgieter-nieuwe-klanten" class="text-dark fw-semibold">Welkom-mailflow loodgieter: 4 mails na de eerste klus</a> →</p>

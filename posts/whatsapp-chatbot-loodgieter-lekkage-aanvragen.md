@@ -91,6 +91,6 @@ Die worden doorgezet naar jou, met het hele gesprek erbij. Jij pakt het op waar 
 
 De klant met waterschade kiest de loodgieter die antwoord geeft. Met een 24/7 chatbot voor loodgieters geef je dat antwoord altijd, compleet met intake, foto en triage, terwijl jij gewoon je werk doet. Jij lost de lekkage op, de [ai-chatbot](/chatbot) regelt de inbox.
 
-Benieuwd hoeveel avond-aanvragen er nu langs je heen lopen? Vraag de [gratis ai scan voor loodgieters](/gratis-scan) aan. Bij LoodgieterAI laten we zien waar je leads weglekken en hoe je dat dichtzet, met onze Groei-of-Geld-Terug Garantie: levert het systeem aantoonbaar niets op, dan betaal je niet.
+Benieuwd hoeveel avond-aanvragen er nu langs je heen lopen? Vraag de [gratis ai scan voor loodgieters](/gratis-scan) aan. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/website-chat-loodgieter-leads-opvangen" class="text-dark fw-semibold">Chat op je loodgieterswebsite: vang leads 24/7 op</a> →</p></div></div></div>

@@ -60,7 +60,7 @@ Google beloont actieve bedrijfsprofielen. Reageren op reviews is een signaal dat
 
 Automatische review-opvolging instellen, monitoren, reageren op reviews en je Google Bedrijfsprofiel optimaliseren — het kost meer tijd dan je denkt als je het zelf doet. Met een managed service wordt alles geregeld. Jij focust op klussen, de reviews komen vanzelf.
 
-Bij [StudioLee](/tarieven) krijg je een complete review-automatisering inclusief de Groei-of-Geld-Terug Garantie. Geen stijging in reviews? Geld terug. Het risico ligt 100% bij ons. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld.
+Bij [StudioLee](/tarieven) krijg je een complete review-automatisering inclusief de Groei-of-Geld-Terug Garantie. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld.
 
 ## Veelgestelde vragen
 
