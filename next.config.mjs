@@ -18,6 +18,7 @@ const nextConfig = {
             { source: '/blog/sanitair-badkamer-renovatie-loodgieter-high-ticket', destination: '/', permanent: true },
             { source: '/blog/verduurzaming-loodgieter-warmtepompen', destination: '/', permanent: true },
             { source: '/blog/robot-loodgieter-lekkage', destination: '/', permanent: true },
+            { source: '/blog/social-media-voor-loodgieters', destination: '/blog/social-media-loodgieters-online', permanent: true },
         ];
     },
 };

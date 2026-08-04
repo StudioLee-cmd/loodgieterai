@@ -76,7 +76,7 @@ De kern: maak van toestemming een vast, klein stapje in je werkproces. Niet een 
 
 ## Blijf posten zonder er wakker van te liggen
 
-De grootste fout die loodgieters maken met de AVG is niet dat ze de regels overtreden. Het is dat ze uit voorzichtigheid stóppen met posten. En dat is precies het tegenovergestelde van wat je bedrijf nodig heeft. Zichtbaarheid op [social media](/blog/social-media-voor-loodgieters) levert opdrachten op; een stille pagina levert niets op. De regels zijn er niet om je monddood te maken, maar om te zorgen dat je mensen respecteert. Dat kun je prima, en tegelijk gewoon blijven laten zien wat je maakt.
+De grootste fout die loodgieters maken met de AVG is niet dat ze de regels overtreden. Het is dat ze uit voorzichtigheid stóppen met posten. En dat is precies het tegenovergestelde van wat je bedrijf nodig heeft. Zichtbaarheid op [social media](/blog/social-media-loodgieters-online) levert opdrachten op; een stille pagina levert niets op. De regels zijn er niet om je monddood te maken, maar om te zorgen dat je mensen respecteert. Dat kun je prima, en tegelijk gewoon blijven laten zien wat je maakt.
 
 Heb je simpelweg de tijd niet om er consequent mee bezig te zijn, dan is dat geen reden om het te laten liggen. Steeds meer installatiebedrijven laten hun [social media uitbesteden voor loodgieters](/social-media), inclusief de check of een foto zonder gedoe geplaatst kan worden. Je levert het beeldmateriaal aan, en de posts, de planning en de nette afhandeling lopen door terwijl jij aan het werk bent. Wil je eerst weten waar bij jou de meeste winst zit, vraag dan een [gratis AI-scan voor loodgieters](/gratis-scan) aan; dan zie je in één overzicht wat je online laat liggen.
 
