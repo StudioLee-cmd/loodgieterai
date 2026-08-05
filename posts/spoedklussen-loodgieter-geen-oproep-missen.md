@@ -82,6 +82,8 @@ Een spoedklus is het perfecte moment om een langdurige relatie te bouwen:
 
 Een loodgieter die elke oproep opvangt, verdient structureel meer dan een betere vakman die onbereikbaar is.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/voice-ai-trainen-loodgieter-welke-data" class="text-dark fw-semibold">Voice AI trainen als loodgieter: welke data heb je nodig</a> →</p></div></div></div>
+
 ## Conclusie
 
 Als loodgieter verdien je je geld met je handen — niet door aan de telefoon te hangen. Maar elke gemiste oproep is een gemiste klus. De oplossing is niet harder werken, maar slimmer organiseren.
