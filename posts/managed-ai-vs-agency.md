@@ -33,6 +33,6 @@ Waarom zou je een tekstschrijver betalen (€80 per uur) als AI binnen 10 second
 
 Begrijp ons niet verkeerd: AI is een tool. Je moet hem wel bedienen. Maar wij snappen dat jij daar als drukke ondernemer geen zin in hebt. Je wilt geen "prompts" leren schrijven.
 
-Daarom is er het **Elite Managed Plan**. Hierin combineren we het beste van twee werelden. Je krijgt de brute kracht en snelheid van AI, maar wij (echte mensen, specialisten) bedienen de knoppen voor je.
+Daarom is er het **Managed Groei Elite**. Hierin combineren we het beste van twee werelden. Je krijgt de brute kracht en snelheid van AI, maar wij (echte mensen, specialisten) bedienen de knoppen voor je.
 
 Je krijgt een persoonlijke accountmanager. We hebben maandelijkse strategie-calls om je groei te bespreken. Wij richten de flows in. Wij optimaliseren de advertenties. Het is de volledige "Agency Experience", het comfort van ontzorgd worden, maar dan aangedreven door AI. Dus sneller, en veel voordeliger.
