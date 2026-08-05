@@ -53,6 +53,8 @@ Bespreek reviews maandelijks met je team. Wat komt terug? Wat kunnen jullie verb
 
 Wil je meer reviews verzamelen zodat het totaalplaatje je kwaliteit weerspiegelt? Bekijk hoe [review management](/reviews) je hierbij helpt of gebruik een [review pakket](/review-pakket) met NFC-kaarten voor moeiteloze reviews na elke klus.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-verzoek-timing-loodgieter" class="text-dark fw-semibold">Review-verzoek timing voor loodgieters: 3 momenten</a> →</p></div></div></div>
+
 ## Maak van reviews een sterk punt
 
 Reageren op Google reviews kost je een paar minuten per week en levert vertrouwen op dat je op geen andere manier kunt kopen. Begin vandaag: open je Google Bedrijfsprofiel, scroll door je reviews en reageer op de laatste vijf. Wil je weten hoe je profiel er nu voorstaat? Vraag een [gratis scan](/gratis-scan) aan voor een compleet overzicht.
