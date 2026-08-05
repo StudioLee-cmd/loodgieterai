@@ -19,6 +19,7 @@ const nextConfig = {
             { source: '/blog/verduurzaming-loodgieter-warmtepompen', destination: '/', permanent: true },
             { source: '/blog/robot-loodgieter-lekkage', destination: '/', permanent: true },
             { source: '/blog/social-media-voor-loodgieters', destination: '/blog/social-media-loodgieters-online', permanent: true },
+            { source: '/blog/meer-reviews-met-ai', destination: '/blog/meer-google-reviews-als-loodgieter', permanent: true },
         ];
     },
 };

@@ -11,7 +11,7 @@ tags: ["Reviews", "Website", "Groei"]
 
 Klanten checken je Google reviews voordat ze bellen. Dat is stap één. Maar als ze doorklikken naar je website voor meer informatie en daar geen reviews zien, missen ze de bevestiging. Je website voelt dan als een losstaand ding dat niks te maken heeft met je goede reputatie op Google.
 
-Door je sterkste [Google reviews](/blog/meer-reviews-met-ai) op je website te tonen, versterk je elk verkoopargument. Je diensten worden geloofwaardiger, je contactformulier wordt aantrekkelijker en je conversie stijgt.
+Door je sterkste [Google reviews](/blog/meer-google-reviews-als-loodgieter) op je website te tonen, versterk je elk verkoopargument. Je diensten worden geloofwaardiger, je contactformulier wordt aantrekkelijker en je conversie stijgt.
 
 ## Welke reviews selecteer je?
 
