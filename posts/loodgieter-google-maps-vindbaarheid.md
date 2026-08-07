@@ -131,17 +131,15 @@ Onder "Verwarmingsmonteur":
 
 Elke dienst die je toevoegt vergroot de kans dat je in zoekresultaten verschijnt voor die specifieke zoekterm. Het kost je 20 minuten en het levert maandenlang extra zichtbaarheid op.
 
-## Stap 8: Maak gebruik van Q&A
+## Stap 8: Zorg dat het antwoord op de standaardvragen ergens staat
 
-In je Bedrijfsprofiel kunnen klanten vragen stellen die zichtbaar zijn voor anderen. Zoals: "Wat kost een lekkage opsporen?" of "Werken jullie ook in het weekend?".
+In je Bedrijfsprofiel konden klanten vroeger een vraag stellen die zichtbaar was voor anderen. Die sectie bestaat niet meer: Google stopte op 3 november 2025 de koppeling ernaartoe en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen zijn er nog wel, en Google stelt het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat het er staat:
 
-Als je deze vragen leeg laat, beantwoorden anderen ze (verkeerd) of blijven ze hangen. Beter: stel zelf vijf veelgestelde vragen in en beantwoord ze direct vanuit je beheeraccount. Voorbeelden:
+- "Werken jullie ook in het weekend?" — in je bedrijfsomschrijving en met één zin bovenaan je contactpagina: "Voor spoedklussen zijn we 7 dagen per week bereikbaar."
+- "Wat kost een ontstopping?" — op je tarievenpagina, met het bedrag er echt bij: "Onze ontstoppingen starten vanaf 95 euro inclusief BTW. Bij complexe situaties bespreken we de prijs vooraf."
+- "In welke regio werken jullie?" — in het servicegebied van je profiel én als zin op je site: "Wij werken in [stad] en omgeving, tot 30 km."
 
-- "Werken jullie ook in het weekend?" — "Ja, voor spoedklussen zijn we 7 dagen per week bereikbaar via [nummer]."
-- "Wat kost een ontstopping?" — "Onze ontstoppingen starten vanaf 95 euro inclusief BTW. Bij complexe situaties bespreken we de prijs vooraf."
-- "In welke regio werken jullie?" — "Wij werken in [stad] en omgeving, tot 30 km."
-
-Deze antwoorden verschijnen direct in je profiel en geven Google extra signalen over wat je doet.
+Deze antwoorden staan daarmee op de plek waar Google ze leest, en anders dan in de oude vragensectie kan niemand anders ze voor je invullen. Wat er precies veranderd is staat in [Google Q&A loodgieter: weg, en waar je antwoord nu hoort](/blog/google-qa-sectie-loodgieter).
 
 ## Stap 9: Koppel je website aan je profiel
 

@@ -79,7 +79,7 @@ Nee, alleen als je de tekst kopieert. Een stadspagina met eigen, plaatsgebonden 
 
 Ja. Je hebt geen vestiging in elke plaats nodig om er te ranken. Wel moet je aantoonbaar leveren: klussen, reviews, werkgebied en reistijd op de pagina, plus een consistent Google Bedrijfsprofiel. Verzin geen nepadres, dat werkt averechts.
 
-**Lees ook:** [Google Q&A voor loodgieters: spoedvragen vooraf invullen](/blog/google-qa-sectie-loodgieter), zodat je profiel de twijfelaars opvangt die via je stadspagina binnenkomen.
+**Lees ook:** [Google Q&A loodgieter: weg, en waar je antwoord nu hoort](/blog/google-qa-sectie-loodgieter), zodat je profiel de twijfelaars opvangt die via je stadspagina binnenkomen.
 
 ## Groei-of-Geld-Terug Garantie
 
