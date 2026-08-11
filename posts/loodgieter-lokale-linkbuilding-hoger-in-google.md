@@ -116,7 +116,7 @@ Bij [een complete SEO-aanpak voor loodgieters](https://www.loodgieterai.nl/seo) 
 
 De ondersteunende infrastructuur die linkbuilding effectief maakt:
 
-- **Een loodgieter-website** die ranking-friendly is opgebouwd: €0 (DIY) tot €69-149 per maand (een [AI-platform met SEO-fundament](https://www.loodgieterai.nl/gratis-website))
+- **Een loodgieter-website** die ranking-friendly is opgebouwd: €0 (DIY) tot een vaste maandlicentie bij een [AI-platform met SEO-fundament](https://www.loodgieterai.nl/gratis-website), bedragen op /tarieven
 - **Een Google Bedrijfsprofiel-strategie:** gratis (eigen werk) of inbegrepen in een managed service
 - **Tooling om backlinks te tracken (Ahrefs, SEMrush, of een eenvoudige tool):** €0-€89 per maand
 
