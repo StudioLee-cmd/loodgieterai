@@ -30,7 +30,7 @@ Sterker nog: Bedrijven met veel goede reviews kunnen vaak **hogere tarieven** vr
 
 Je hebt geen tijd om marketingexpert te worden. Je wilt niet elke avond klanten gaan mailen om te smeken om reviews. Dat hoeft ook niet.
 
-Onze Reputatie Manager AI is jouw automatische marketingafdeling. Hij jaagt elke tevreden klant na tot die 5 sterren staan. Het systeem is persistent maar vriendelijk. Het stuurt een appje, en als er niet gereageerd wordt, na 2 dagen nog een vriendelijke herinnering.
+Onze Reputatie Manager is jouw automatische marketingafdeling. Hij jaagt elke tevreden klant na tot die 5 sterren staan. Het systeem is persistent maar vriendelijk. Het stuurt een appje, en als er niet gereageerd wordt, na 2 dagen nog een vriendelijke herinnering.
 
 Met onze **Elite Managed Service** gaan we nog een stap verder. Wij beheren actief je profiel. We zorgen dat er geantwoord wordt op reviews (ook heel belangrijk voor Google!). We zorgen dat je nieuwe foto's op je profiel komen. Wij doen de techniek, de psychologie en de uitvoering. Jij doet het werk bij de klant.
 

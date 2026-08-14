@@ -20,7 +20,7 @@ Laten we de situatie eens schetsen. **Vroeger** zag je dag er zo uit: Je staat v
 
 Veel loodgieters denken bij AI aan robots die leidingen leggen. Dat is onzin. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen die je anders klauwen met geld kosten:
 - **De Secretaresse:** Een parttime kracht op kantoor kost je al snel €30.000 per jaar. Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, beantwoordt vragen over tarieven en filtert verkopers eruit. Hij wordt nooit ziek, vraagt geen vakantiegeld en werkt ook in het weekend.
-- **Het Marketingbureau:** Wil je meer klanten? Vroeger betaalde je een bureau €1.500 per maand voor SEO en Social Media. Onze Social Media AI & Tekstschrijver AI regelen je zichtbaarheid volledig automatisch. Ze posten je werk op Facebook en Instagram en schrijven blogs die je hoog in Google krijgen. Besparing: minimaal €12.000 per jaar.
+- **Het Marketingbureau:** Wil je meer klanten? Vroeger betaalde je een bureau €1.500 per maand voor SEO en Social Media. Onze Social Media AI & SEO Blog AI regelen je zichtbaarheid volledig automatisch. Ze posten je werk op Facebook en Instagram en schrijven blogs die je hoog in Google krijgen. Besparing: minimaal €12.000 per jaar.
 - **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig voor de jaarrekening. Maar het dagelijkse werk? Factuur AI stuurt direct foutloze facturen, herinnert klanten die te laat betalen automatisch, en zorgt dat je bonnetjes direct verwerkt zijn. Geen schoenendoos met bonnetjes meer.
 
 ## Waarom het een No-Brainer is voor elke loodgieter

@@ -31,7 +31,7 @@ Voor €14.400 kun je een hele mooie nieuwe bedrijfswagen leasen. Of twee keer p
 
 ## De "SMS-Back" Revolutie: Simpel maar Geniaal
 
-Niet iedereen heeft direct full-blown Voice AI nodig (hoewel dat wel het beste werkt). Er is een laagdrempelige tussenoplossing: onze **Missed Call AI**.
+Niet iedereen heeft direct full-blown Voice AI nodig (hoewel dat wel het beste werkt). Er is een laagdrempelige tussenoplossing: onze **Gemiste Oproep Service**.
 
 Hoe werkt het? Op het moment dat jij een oproep mist, "voelt" ons systeem dat. Binnen 3 seconden stuurt het systeem automatisch een SMS (of Whatsapp) naar de beller.
 

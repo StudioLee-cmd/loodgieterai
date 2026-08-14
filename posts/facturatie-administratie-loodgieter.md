@@ -1,7 +1,7 @@
 ---
 title: "Factureren zonder Avondwerk: Klaar voordat je de straat uit rijdt"
 seoTitle: "Factureren zonder Avondwerk"
-excerpt: "Stop met je zondagen verpesten achter de laptop. Onze Offerte & Contract AI maakt visuele offertes en facturen in een paar klikken."
+excerpt: "Stop met je zondagen verpesten achter de laptop. Onze Sales Deck AI maakt visuele offertes en facturen in een paar klikken."
 date: "2026-01-18"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/facturatie-administratie-loodgieter.png"
@@ -27,7 +27,7 @@ Je loopt naar buiten bij de klant. Je opent de app. Je klikt je pakketten aan ("
 
 Stuur je nog van die saaie Word-documentjes met alleen maar tekst en een prijs? Dat is zó 2010. Mensen lezen niet meer, ze scannen.
 
-Onze Offerte AI maakt prachtige, visuele presentaties. Stel je biedt een warmtepomp aan. Onze offerte laat niet alleen de prijs zien ("€3.500"), maar toont er direct een mooie foto van het apparaat bij. Een grafiekje van de verwachte besparing. Een paar reviews van andere klanten die blij zijn met die pomp. Logo's van de keurmerken die je hebt.
+Onze Sales Deck AI maakt prachtige, visuele presentaties. Stel je biedt een warmtepomp aan. Onze offerte laat niet alleen de prijs zien ("€3.500"), maar toont er direct een mooie foto van het apparaat bij. Een grafiekje van de verwachte besparing. Een paar reviews van andere klanten die blij zijn met die pomp. Logo's van de keurmerken die je hebt.
 
 Het resultaat? Je offerte ziet eruit als een cadeau, niet als een rekening. Je komt professioneler over dan 90% van je concurrenten. De klant denkt: "Zo, als zijn offertes er zo verzorgd uitzien, zal zijn werk ook wel goed zijn." Psychologie van de bovenste plank.
 
