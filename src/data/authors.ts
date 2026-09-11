@@ -1,3 +1,5 @@
+
+import { publicContacts } from "@/data/publicContacts";
 export interface IAuthor {
     slug: string;
     name: string;
@@ -19,7 +21,7 @@ export const authors: IAuthor[] = [
         bio: 'Tim is de oprichter van LoodgieterAI en specialist in AI-automatisering voor lokale bedrijven. Met jarenlange ervaring in technologie en ondernemerschap helpt hij bedrijven om efficiënter te werken door slimme automatisering.',
         image: '/images/authors/tim-van-der-lee.jpg',
         social: {
-            email: 'tim@loodgieterai.nl'
+            email: publicContacts.primary.email
         }
     }
 ];
