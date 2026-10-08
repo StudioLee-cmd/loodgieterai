@@ -2,20 +2,20 @@
 title: "Bedrijfssoftware overstappen als loodgieter: 3 valkuilen"
 slug: "bedrijfssoftware-overstappen-loodgieter"
 date: "2026-07-07"
-excerpt: "Overstappen naar andere bedrijfssoftware voelt riskant als loodgieter. Zo migreer je klantdata en planning zonder je agenda stil te leggen."
+excerpt: "Overstappen naar andere bedrijfssoftware als loodgieter? Zo controleer je klantdata, test je koppelingen en beperk je het risico op verstoring."
 image: "/images/blog/bedrijfssoftware-overstappen-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Automatisering", "Bedrijfssoftware", "CRM"]
 cluster: "automatisering"
 ---
 
-Je weet allang dat je huidige software niet meer past. De planning zit in de ene app, de facturen in de andere, en je klantgegevens staan half in je telefoon en half in je hoofd. Toch stel je de overstap uit, en dat is logisch: de grootste angst van elke loodgieter is niet de nieuwe tool, maar de vraag of je maandag nog gewoon kunt werken. Raak je je klantbestand kwijt? Ligt de agenda een week plat? Dat risico is echt, maar het is te beheersen. Met een plan is overstappen geen sprong in het diepe, maar een projectje van een paar avonden.
+Je weet allang dat je huidige software niet meer past. De planning zit in de ene app, de facturen in de andere, en je klantgegevens staan half in je telefoon en half in je hoofd. Toch stel je de overstap uit, en dat is logisch: de grootste angst van elke loodgieter is niet de nieuwe tool, maar de vraag of je maandag nog gewoon kunt werken. Raak je je klantbestand kwijt? Ligt de agenda een week plat? Dat risico is echt, maar het is te beheersen. Met een plan maak je de overstap beheersbaar. Hoeveel tijd nodig is, hangt af van de hoeveelheid gegevens, koppelingen en controles.
 
-In dit artikel lees je wat je precies migreert, welke drie valkuilen de meeste installatiebedrijven de das omdoen, en hoe je in vijf fasen overstapt terwijl je klussen gewoon doorlopen.
+Je leest hier wat je precies migreert, welke drie valkuilen je kunt vermijden en hoe je in vijf fasen overstapt met aandacht voor je lopende klussen.
 
 ## Waarom loodgieters te lang op de verkeerde software blijven
 
-De rekensom klopt zelden in je nadeel, en toch blijf je hangen. Dat komt door drie dingen. De kosten van je huidige pakket vallen weg in de vaste lasten, dus je merkt niet dat je te veel betaalt voor te weinig. De gedachte aan het overzetten van jaren aan klantdata voelt als een verloren weekend. En je hebt geen tijd: je bent te druk met de daadwerkelijke klussen om ook nog eens een softwaremigratie te managen.
+Ook wanneer je huidige pakket niet meer goed past, kun je tegen de overstap opzien. Dat komt door drie dingen. De kosten van je huidige pakket vallen weg in de vaste lasten, dus je merkt niet dat je te veel betaalt voor te weinig. De gedachte aan het overzetten van jaren aan klantdata voelt als een verloren weekend. En je hebt geen tijd: je bent te druk met de daadwerkelijke klussen om ook nog eens een softwaremigratie te managen.
 
 Het gevolg is een sluipend probleem. Je werkt om je tool heen in plaats van ermee. Je typt dezelfde klantgegevens over in drie systemen, je mist afspraken omdat de herinneringen niet automatisch lopen, en je bent uren per week kwijt aan administratie die een fatsoenlijk systeem voor je zou doen. Op het moment dat je die uren optelt, is de vraag niet meer of je moet overstappen, maar hoe je het veilig doet.
 
@@ -32,52 +32,54 @@ Deze gegevens neem je altijd mee:
 
 Deze data laat je meestal staan of archiveer je apart:
 
-- Facturen van meer dan zeven jaar oud (bewaarplicht vervalt, dus alleen archiveren voor de zekerheid).
+- Oudere facturen die niet nodig zijn in de dagelijkse werkvoorraad. Bewaar ze wel toegankelijk in je archief zolang de toepasselijke bewaartermijn loopt.
 - Klanten waar je in jaren niets mee hebt gedaan.
 - Losse notities zonder context die toch niemand meer terugleest.
 
+Archiveren is niet hetzelfde als verwijderen. De [Belastingdienst legt uit welke bewaartermijnen gelden](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/administratie_bewaren/administratie_bewaren): voor veel administratie is dat zeven jaar, maar voor onder meer gegevens over onroerende zaken tien jaar. Stem bij de overstap met je boekhouder af wat toegankelijk moet blijven en vanaf wanneer de termijn loopt.
+
 Je klantdata is het waardevolste dat je bezit, en het hoort centraal in een [crm voor loodgieters](/crm) te staan, niet verspreid over drie apps. Zie de migratie daarom niet als een technische klus, maar als het moment waarop je eindelijk orde schept. Wat je nu netjes overzet, plukt straks jaren de vruchten.
 
-![Loodgieter exporteert klantgegevens en cv-ketel onderhoudscontracten uit oude software op een tablet naast koperen leidingen en een drukmeter](/images/blog/bedrijfssoftware-overstappen-loodgieter-2.jpg)
+![Clay-illustratie van klantdossiers en een vergrootglas: controleer gegevens voordat je ze naar nieuwe bedrijfssoftware overzet](/images/blog/bedrijfssoftware-overstappen-loodgieter-2.jpg)
 
 ## Valkuil 1: je exporteert alles, maar importeert rommel
 
 De klassieke fout is dat je op de exportknop drukt, het bestand in de nieuwe software gooit en denkt dat je klaar bent. Wat je dan importeert, is de rommel van jaren: dubbele klanten, adressen zonder postcode, telefoonnummers in vijf verschillende schrijfwijzen. In je oude systeem viel dat niet op, maar je nieuwe automatiseringen struikelen erover. Een herinnering die naar een leeg telefoonveld gaat, wordt simpelweg niet verstuurd.
 
-Doe daarom eerst een datacontrole, en pas daarna een export. Open je exportbestand in een spreadsheet en ruim het op: gooi dubbelen eruit, zet telefoonnummers in een vast formaat en vul ontbrekende velden aan waar het kan. Een uur opschonen vooraf bespaart je weken van rare foutmeldingen achteraf. Kies je een nieuw pakket, kijk dan meteen welke tools de beste basis bieden, want ook dat scheelt gedoe bij de import. In [de beste software voor loodgieters op een rij](/blog/beste-software-voor-loodgieters-2026) zie je waar je op moet letten.
+Maak eerst een export en bewaar een ongewijzigde kopie als back-up. Controleer een werkkopie in een spreadsheet: voeg dubbele klantkaarten zorgvuldig samen, zet telefoonnummers in een vast formaat en vul ontbrekende velden aan waar het kan. Importeer pas na die controle. Opschonen vooraf verkleint de kans dat onvolledige gegevens later foutmeldingen of verkeerde herinneringen veroorzaken. Controleer bij je nieuwe pakket welke gegevens en bestandsformaten je kunt importeren. In [de beste software voor loodgieters op een rij](/blog/beste-software-voor-loodgieters-2026) vergelijk je de verschillende soorten tools; vraag de leverancier afzonderlijk naar de migratiemogelijkheden.
 
 ## Valkuil 2: je zet de oude software te vroeg uit
 
 De verleiding is groot om je oude abonnement direct op te zeggen zodra de nieuwe tool draait. Zonde van het geld, denk je. Maar als je twee dagen later merkt dat de helft van je onderhoudscontracten niet is meegekomen, heb je geen bron meer om op terug te vallen.
 
-Laat je oude software minstens een maand parallel draaien. Je hoeft er niet actief in te werken, maar je hebt hem achter de hand om gegevens te controleren en na te sturen. Zeg pas op als je een volle werkweek zonder problemen op het nieuwe systeem hebt gedraaid en je alle actieve klanten en contracten hebt teruggevonden. Die ene maand dubbel betalen is verzekeringsgeld, geen verspilling.
+Spreek vooraf een testperiode en een terugvalmogelijkheid af. Houd de oude gegevens toegankelijk zolang de controles nog niet zijn afgerond; afhankelijk van het pakket kan dat met tijdelijke toegang of een controleerbaar archief. Zeg het oude abonnement pas op als klantgegevens, contracten, planning en facturatie zijn gecontroleerd en je weet hoe je fouten herstelt. Neem ook de opzegtermijn en eventuele dubbele abonnementskosten mee in je planning.
 
 ## Valkuil 3: je vergeet je automatiseringen opnieuw op te bouwen
 
-Data migreert, workflows niet. Je automatische afspraakherinneringen, je review-verzoek na een klus, je welkomstberichten voor nieuwe klanten: die staan in je oude systeem en komen niet vanzelf mee. Veel loodgieters ontdekken pas na een paar weken dat de reviews opdrogen of dat de no-shows terugkomen, omdat de stille motor onder hun bedrijf niet opnieuw is aangezet.
+Dat je klantgegevens kunt importeren, betekent nog niet dat je automatiseringen meekomen. Je automatische afspraakherinneringen, je review-verzoek na een klus, je welkomstberichten voor nieuwe klanten: die moet je per koppeling controleren en waar nodig opnieuw inrichten. Veel loodgieters ontdekken pas na een paar weken dat de reviews opdrogen of dat de no-shows terugkomen, omdat de stille motor onder hun bedrijf niet opnieuw is aangezet.
 
-Maak vooraf een lijstje van elke automatisering die nu voor je werkt en bouw die als eerste opnieuw op in je nieuwe omgeving. Ziet dat lijstje er lang uit? Dan weet je meteen hoeveel werk je software stilletjes voor je deed. Wil je dat niet zelf uitzoeken, dan neemt [workflow automatisering voor loodgieters](/automatisering) dit voor je over: de herinneringen, opvolging en review-verzoeken lopen dan vanaf dag één weer. En een goed opgezette overstap hoeft niet weken te duren, zoals je ziet in [hoe je een crm in vijf dagen live krijgt](/blog/crm-implementatie-loodgieter-5-dagen).
+Maak vooraf een lijstje van elke automatisering die nu voor je werkt en bouw die als eerste opnieuw op in je nieuwe omgeving. Ziet dat lijstje er lang uit? Dan weet je meteen hoeveel werk je software stilletjes voor je deed. Via [workflow automatisering voor loodgieters](/automatisering) kun je hulp krijgen bij het inrichten en testen van herinneringen, opvolging en review-verzoeken. Test elke belangrijke flow met proefgegevens voordat je erop vertrouwt. Een voorbeeld van een compacte aanpak staat in [een vijfdaags plan voor crm-implementatie](/blog/crm-implementatie-loodgieter-5-dagen); jouw doorlooptijd hangt af van de gekozen scope en voorbereiding.
 
-## Overstappen in vijf fasen zonder je agenda stil te leggen
+## Overstappen in vijf fasen met een terugvalplan
 
-Een migratie mislukt bijna nooit door de techniek, maar door slechte timing. Werk daarom in fasen en kies een rustige week, geen piek in het stookseizoen.
+Zowel technische beperkingen als onhandige timing kunnen een migratie verstoren. Werk daarom in fasen en kies een rustige week, geen piek in het stookseizoen.
 
 1. **Voorbereiden.** Inventariseer je data en je automatiseringen, en doe de datacontrole uit valkuil 1.
 2. **Exporteren en opschonen.** Trek je opgeschoonde klantbestand, contracten en offertes uit de oude tool.
-3. **Importeren en testen.** Zet de data over en controleer een steekproef: kloppen tien willekeurige klanten en hun contracten?
-4. **Parallel draaien.** Werk een week in het nieuwe systeem terwijl de oude nog aanstaat, en bouw je automatiseringen opnieuw op.
-5. **Afsluiten.** Alles gecontroleerd en een week probleemloos gedraaid? Dan zeg je de oude software op.
+3. **Importeren en testen.** Zet de data over en controleer bijvoorbeeld tien willekeurige klantkaarten. Controleer daarnaast alle openstaande opdrachten, afspraken en financiële totalen. Een steekproef alleen bewijst niet dat de hele import klopt.
+4. **Parallel draaien.** Werk gedurende de afgesproken testperiode in het nieuwe systeem, houd de oude gegevens beschikbaar en test je opnieuw ingerichte automatiseringen.
+5. **Afsluiten.** Zijn de afgesproken controles geslaagd, werkt je terugvalplan en is de benodigde administratie gearchiveerd? Rond dan de overstap af volgens de afgesproken opzegtermijn.
 
-In geen van deze fasen ligt je bedrijf stil. Je blijft klussen aannemen, plannen en factureren, alleen loopt dat gaandeweg over naar het nieuwe systeem. Je [klantbeheer software voor loodgieters](/crm) is dan geen losse app meer, maar de plek waar planning, klanthistorie en communicatie samenkomen.
+Plan de omzetting buiten drukke werkmomenten en leg vooraf vast hoe je tijdelijk afspraken en facturen bijhoudt als een koppeling uitvalt. Zo beperk je het risico op verstoring terwijl je overgaat naar het nieuwe systeem. Je [klantbeheer software voor loodgieters](/crm) is dan geen losse app meer, maar de plek waar planning, klanthistorie en communicatie samenkomen.
 
 ## Wat kost overstappen, en wat levert het op
 
-De directe kosten van een overstap zijn beperkt: een maand dubbel abonnement en een paar avonden werk. Daar staat tegenover dat je stopt met dubbel typen, dat je herinneringen en review-verzoeken weer automatisch lopen, en dat je klantdata eindelijk op één plek staat. Reken zelf eens uit hoeveel uur per week je nu kwijt bent aan administratie die een fatsoenlijk systeem overneemt. Wat [ai voor loodgieters precies kost](/tarieven) hangt af van je pakket, maar het verdient zich vrijwel altijd terug in tijd.
+Begroot vooraf de abonnementen tijdens de overgang, eventuele importhulp, koppelingen en de tijd voor controles en training. Daar kan tijdwinst tegenover staan doordat je minder dubbel invoert en opvolging automatiseert. Controleer na de overstap of die tijdwinst in jouw bedrijf ook wordt gehaald. Reken zelf eens uit hoeveel uur per week je nu kwijt bent aan administratie die een fatsoenlijk systeem overneemt. Wat [ai voor loodgieters precies kost](/tarieven) hangt af van je pakket. Vergelijk de totale kosten met de tijdwinst die je daadwerkelijk meet.
 
-De grootste winst is rust. Geen halve klantgegevens meer in je telefoon, geen gemiste onderhoudsbeurten, geen reviews die opdrogen omdat je het vergat te vragen. Jij lost de lekkage op, je software regelt de rest.
+Het doel is meer overzicht: complete klantkaarten, zichtbare onderhoudsafspraken en controleerbare opvolging. Software kan je daarbij helpen, maar blijf controleren of gegevens kloppen en herinneringen daadwerkelijk worden verstuurd.
 
 ## Klaar om over te stappen?
 
-Weet je niet zeker of jouw huidige systeem de zwakke schakel is, begin dan met een [gratis ai scan voor loodgieters](/gratis-scan). We kijken mee naar je administratie, planning en vindbaarheid, en laten zien wat een overstap je concreet oplevert. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Weet je niet zeker of jouw huidige systeem de zwakke schakel is, begin dan met een [gratis ai scan voor loodgieters](/gratis-scan). We kijken mee naar je administratie, planning en vindbaarheid en bespreken welke verbeteringen bij jouw bedrijf passen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/welkom-mailflow-loodgieter-nieuwe-klanten" class="text-dark fw-semibold">Welkom-mailflow loodgieter: 4 mails na de eerste klus</a> →</p>
