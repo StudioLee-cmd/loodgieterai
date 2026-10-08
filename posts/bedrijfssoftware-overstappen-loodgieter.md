@@ -80,6 +80,6 @@ Het doel is meer overzicht: complete klantkaarten, zichtbare onderhoudsafspraken
 
 ## Klaar om over te stappen?
 
-Weet je niet zeker of jouw huidige systeem de zwakke schakel is, begin dan met een [gratis ai scan voor loodgieters](/gratis-scan). We kijken mee naar je administratie, planning en vindbaarheid en bespreken welke verbeteringen bij jouw bedrijf passen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Weet je niet zeker of jouw huidige systeem de zwakke schakel is, begin dan met een [gratis ai scan voor loodgieters](/gratis-scan). We kijken mee naar je administratie, planning en vindbaarheid en bespreken welke verbeteringen bij jouw bedrijf passen. Voor apart betaalde SEO- of resultaatdiensten leggen we het afgesproken resultaat, de termijn en de gedekte kosten vast onder de Groei-of-Geld-Terug Garantie. Kunnen we dat resultaat binnen de overeengekomen termijn niet aantonen, dan worden de gedekte kosten van die aanvullende dienst terugbetaald. De standaard maandprijs valt buiten deze resultaatgarantie.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/welkom-mailflow-loodgieter-nieuwe-klanten" class="text-dark fw-semibold">Welkom-mailflow loodgieter: 4 mails na de eerste klus</a> →</p>
