@@ -82,6 +82,13 @@ export default function GratisWebsiteContent() {
                 Wij maken een volledig nieuw website design op maat voor jouw {nicheSingular}sbedrijf.
                 Met moderne animaties, SEO optimalisatie en een live preview link. Meestal binnen 48 uur klaar.
               </motion.p>
+              {/* On a phone the form sits below the offer and its prices; this takes the visitor straight to it */}
+              <a
+                href="#aanvraag"
+                className="lg:hidden flex w-full justify-center bg-primary text-black py-3.5 rounded-xl font-bold hover:bg-primary-accent transition-all mb-8"
+              >
+                Vraag Gratis Design Aan
+              </a>
 
               <motion.div
                 className="space-y-3 mb-8 sl-reveal sl-reveal-2"
@@ -120,7 +127,8 @@ export default function GratisWebsiteContent() {
 
             {/* Right: Form */}
             <motion.div
-              className="bg-[var(--card-background)] border border-[var(--card-border)] rounded-2xl p-6 md:p-8 shadow-xl sl-reveal sl-reveal-2"
+              id="aanvraag"
+              className="scroll-mt-28 bg-[var(--card-background)] border border-[var(--card-border)] rounded-2xl p-6 md:p-8 shadow-xl sl-reveal sl-reveal-2"
             >
               <AnimatePresence mode="wait">
                 {isSubmitted ? (
