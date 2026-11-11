@@ -93,4 +93,4 @@ Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 
 
 Online vindbaarheid is geen luxe voor loodgieters — het is de basis van je klantenwerving. Met een geoptimaliseerd Google Bedrijfsprofiel, lokale SEO, reviews op autopilot en AI-vindbaarheid zorg je ervoor dat je altijd bovenaan staat als iemand een loodgieter nodig heeft.
 
-Wil je weten waar je nu staat en wat er beter kan? [Plan een gratis gesprek](https://cal.com/studiolee) en we doen een nulmeting van je online vindbaarheid.
+Wil je weten waar je nu staat en wat er beter kan? [Plan een gratis gesprek](/demo) en we doen een nulmeting van je online vindbaarheid.
