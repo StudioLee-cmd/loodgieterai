@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Kan ik de AI koppelen aan mijn eigen software?",
-        answer: "Ja, wij integreren naadloos met systemen zoals Google Calendar, Outlook, Syntess, Exact en vele anderen. Via ons open platform kunnen we vrijwel elke koppeling realiseren om jouw workflow te automatiseren.",
+        answer: "De intake komt direct in je agenda of planning. Moneybird, e-Boekhouden, Jortt en Exact Online koppelen we automatisch; SnelStart en WeFact via een export die wij inladen. Kan je planningssoftware niet koppelen, dan krijgt de beller een boekingslink of komt de aanvraag als bericht bij jou.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
