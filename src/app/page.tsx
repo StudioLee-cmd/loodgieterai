@@ -12,13 +12,13 @@ import Section from "@/components/Section";
 // zodat ze nooit iets anders kunnen beweren dan wat eronder staat (src/data/testimonials.ts).
 import { proofBlock } from "@/data/testimonials";
 
-import HomeLatestBlogs from "@/components/HomeLatestBlogs";
 
 import CostComparison from "@/components/CostComparison/CostComparison";
 import FallingText from "@/components/FallingText";
 
 import USPPillars from "@/components/USPPillars";
 import SetupSupport from "@/components/SetupSupport";
+import HomeLatestBlogs from "@/components/HomeLatestBlogs";
 
 import type { Metadata } from 'next';
 
@@ -73,10 +73,8 @@ const HomePage: React.FC = () => {
 
 
       </Container>
-
-      <HomeLatestBlogs />
-
       <FallingText />
+    <HomeLatestBlogs />
     </>
   );
 };
