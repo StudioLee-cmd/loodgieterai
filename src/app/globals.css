@@ -65,6 +65,13 @@ body {
   font-style: normal;
 }
 
+/* Page content never makes the page wider than the screen: a card that slides in from the side
+   (framer-motion x offset) stayed 15 px past the edge on a 390 px phone until it was scrolled into view,
+   so service pages scrolled sideways. clip, not hidden: no scroll container, sticky keeps working. */
+main {
+  overflow-x: clip;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
