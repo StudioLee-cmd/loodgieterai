@@ -1,4 +1,5 @@
 import React from 'react';
+import { postModified } from '@/utils/lastmod';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -67,7 +68,7 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
         description: post.excerpt,
         url: postUrl,
         datePublished: post.date,
-        dateModified: post.date,
+        dateModified: postModified(slug, post.date),
         image: post.image?.startsWith('http') ? post.image : `${SITE_URL}${post.image}`,
         author: {
             '@type': 'Person',

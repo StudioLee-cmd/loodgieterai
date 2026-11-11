@@ -1,46 +1,19 @@
 import { MetadataRoute } from 'next'
 import { getAllPosts } from '@/utils/posts'
 import { authors } from '@/data/authors'
+import { postModified, routeModified } from '@/utils/lastmod'
 
-// ─── SITEMAP-LASTMOD:START — gegenereerd door alpha1/scripts/sitemap_lastmod.py (niet met de hand bewerken)
-// Per route de datum van de NIEUWSTE commit die inhoud onder src/app/<route>/ toevoegde of
-// wijzigde. Handmatig bijwerken hoeft niet en mag niet — draai het script hierboven opnieuw.
-// De vloot-gate `check_fleet_deploys.py --sitemap-lastmod` wordt rood zodra een route een
-// nieuwere inhoud-commit draagt dan de datum hieronder; de oude regel 'bump manually' hield
-// van 2026-04-01 tot 2026-08-05 niet, en dat kostte 210 URL's hun vers-signaal bij Google.
-const STATIC_LASTMOD_BY_ROUTE: Record<string, string> = {
-    '/gratis-scan': '2026-08-07',
-    '/review-pakket': '2026-07-25',
-    '/tarieven': '2026-08-14',
-    '/gratis-website': '2026-07-25',
-    '/chatbot': '2026-07-25',
-    '/voice-ai': '2026-07-25',
-    '/seo': '2026-07-25',
-    '/reviews': '2026-07-25',
-    '/social-media': '2026-07-25',
-    '/crm': '2026-07-25',
-    '/automatisering': '2026-07-25',
-    '/free-trial': '2026-08-12',
-    '/privacy': '2026-07-25',
-    '/legal': '2026-07-25',
-    '/algemene-voorwaarden': '2026-07-27',
-}
-const STATIC_LASTMOD_FALLBACK = '2026-08-14'
-const STATIC_LASTMOD = new Date(`${STATIC_LASTMOD_FALLBACK}T00:00:00Z`)
-const staticLastmod = (route: string): Date =>
-    new Date(`${STATIC_LASTMOD_BY_ROUTE[route] ?? STATIC_LASTMOD_FALLBACK}T00:00:00Z`)
-// ─── SITEMAP-LASTMOD:EIND
+// Each <lastmod> is the day the page's own content last changed (src/utils/lastmod.ts, from src/data/lastmod.json,
+// written by `npm run lastmod`). A page that changed after that file was written is dated on the build day.
+const day = (date: string): Date => new Date(`${date.slice(0, 10)}T00:00:00Z`)
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const baseUrl = 'https://www.loodgieterai.nl'
 
     const posts = getAllPosts()
-    // Latest article date = proxy for "/ and /blog last changed"
-    const latestPostDate = posts.length
-        ? new Date(
-            posts.reduce((max, p) => (new Date(p.date) > new Date(max) ? p.date : max), posts[0].date)
-          )
-        : STATIC_LASTMOD
+    // The newest article change = when the listings on / and /blog last changed
+    const postDates = new Map(posts.map((p) => [p.slug, postModified(p.slug, p.date)]))
+    const latestPost = Array.from(postDates.values()).reduce((max, d) => (d > max ? d : max), '1970-01-01')
 
     // Static routes — rarely change. Stable lastmod.
     const staticPages = [
@@ -52,7 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ]
     const staticRoutes = staticPages.map((route) => ({
         url: `${baseUrl}${route}`,
-        lastModified: staticLastmod(route),
+        lastModified: day(routeModified(route)),
         changeFrequency: (route === '/tarieven' || route === '/gratis-website') ? 'monthly' as const : 'yearly' as const,
         priority: (route === '/tarieven' || route === '/gratis-website') ? 0.9 : 0.7,
     }))
@@ -60,7 +33,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Homepage — gets a "fresh" signal whenever a new article is published
     const home = [{
         url: `${baseUrl}/`,
-        lastModified: latestPostDate,
+        lastModified: day([latestPost, routeModified('/')].sort()[1]),
         changeFrequency: 'daily' as const,
         priority: 1,
     }]
@@ -68,15 +41,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Blog index
     const blogIndex = [{
         url: `${baseUrl}/blog`,
-        lastModified: latestPostDate,
+        lastModified: day(latestPost),
         changeFrequency: 'daily' as const,
         priority: 0.9,
     }]
 
-    // Individual blog posts — true per-article lastmod
+    // Individual blog posts: the day each article's content last changed
     const blogRoutes = posts.map((post) => ({
         url: `${baseUrl}/blog/${post.slug}`,
-        lastModified: new Date(post.date),
+        lastModified: day(postDates.get(post.slug) as string),
         changeFrequency: 'yearly' as const,
         priority: 0.6,
     }))
@@ -85,13 +58,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const authorRoutes = authors.map((author) => {
         const authorLatest = posts
             .filter((p) => p.authorSlug === author.slug)
-            .reduce<Date>((max, p) => {
-                const d = new Date(p.date)
+            .reduce((max, p) => {
+                const d = postDates.get(p.slug) as string
                 return d > max ? d : max
-            }, STATIC_LASTMOD)
+            }, '1970-01-01')
         return {
             url: `${baseUrl}/author/${author.slug}`,
-            lastModified: authorLatest,
+            lastModified: day(authorLatest),
             changeFrequency: 'weekly' as const,
             priority: 0.3,
         }
