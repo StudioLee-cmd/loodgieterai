@@ -88,7 +88,7 @@ Een loodgieter die elke oproep opvangt, verdient structureel meer dan een betere
 
 Als loodgieter verdien je je geld met je handen — niet door aan de telefoon te hangen. Maar elke gemiste oproep is een gemiste klus. De oplossing is niet harder werken, maar slimmer organiseren.
 
-Met [LoodgieterAI](/) vang je elke spoedoproep op, ook als je midden in een klus zit. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [LoodgieterAI](/) vang je elke spoedoproep op, ook als je midden in een klus zit. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel klussen je nu mist.
 

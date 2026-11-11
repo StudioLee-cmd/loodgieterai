@@ -75,4 +75,4 @@ AI-zoekmachines zijn geen toekomstmuziek meer. Miljoenen Nederlanders gebruiken 
 
 Het goede nieuws: veel van wat werkt voor AI-vindbaarheid, werkt ook voor Google. Goede content, betrouwbare reviews en een snelle website helpen je in beide werelden.
 
-Wil je weten hoe jouw loodgietersbedrijf er nu voorstaat? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw loodgietersbedrijf er nu voorstaat? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

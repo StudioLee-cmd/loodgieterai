@@ -80,7 +80,7 @@ Automatisch bericht: "Vorst op komst! Laat je kraan bij onverwarmde buitenmuren 
 
 De winter is geen druk seizoen dat je overkomt — het is een marketingkans. Door in september te beginnen met onderhoudscampagnes en proactief te communiceren bij vorst, maak je van het stookseizoen je meest winstgevende periode.
 
-Met [LoodgieterAI](/) automatiseren we je seizoenscampagnes en klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [LoodgieterAI](/) automatiseren we je seizoenscampagnes en klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer haalt uit het stookseizoen.
 

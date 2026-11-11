@@ -115,6 +115,6 @@ Als je vanavond één ding opschrijft, maak het dan de drie vragen waarmee je be
 
 Wil je weten wat er in jouw huidige opzet ontbreekt voordat je begint, vraag dan een [gratis ai scan voor loodgieters](/gratis-scan) aan. Dan krijg je te zien welke gegevens al bruikbaar zijn en welke je nog moet aanleveren.
 
-En als je het liever helemaal uit handen geeft: bij ons managed abonnement richten wij de volledige virtuele telefonist voor je in, inclusief de testgesprekken, met onze Groei-of-Geld-Terug Garantie. Dan is de enige input die wij van je nodig hebben dat ene gesprek over hoe jij zelf bepaalt of je je jas aantrekt.
+Dan is de enige input die wij van je nodig hebben dat ene gesprek over hoe jij zelf bepaalt of je je jas aantrekt.
 
 Want dat is uiteindelijk waar dit over gaat: [geen oproepen meer missen als loodgieter](/voice-ai) is geen kwestie van betere techniek. Het is een kwestie van jouw manier van werken opschrijven, één keer, goed.

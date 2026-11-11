@@ -106,6 +106,4 @@ Wij bouwen dit systeem voor loodgietersbedrijven in onze managed service. Gebase
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/facturatie-administratie-loodgieter" class="text-dark fw-semibold">Factureren zonder Avondwerk: Klaar voordat je de straat uit rijdt</a> →</p></div></div></div>
 
-## Groei-of-Geld-Terug Garantie
-
-Als de no-shows en dichte deuren na drie maanden niet meetbaar gedaald zijn, krijg je je investering terug. Wil je eerst zien wat het voor jouw bedrijf kan betekenen, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven) voor het complete pakket. We zetten het systeem live, jij fixt de leidingen.
+Wil je eerst zien wat het voor jouw bedrijf kan betekenen, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven) voor het complete pakket. We zetten het systeem live, jij fixt de leidingen.

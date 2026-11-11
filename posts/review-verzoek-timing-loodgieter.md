@@ -89,4 +89,4 @@ Zie je je klanten meestal wel, dan zit je verlies bij de factuur en bij de opvol
 
 Kies er één, koppel hem aan iets dat je toch al doet, en laat de andere twee even liggen. Jij lost de lekkage op, wij regelen de rest.
 
-Wil je weten welke van de drie momenten bij jou het meeste laat liggen? Vraag een [gratis ai scan voor loodgieters](/gratis-scan) aan. Je krijgt inzicht in je huidige reviewprofiel, je vindbaarheid en concrete stappen om er meer uit te halen. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie van LoodgieterAI.
+Wil je weten welke van de drie momenten bij jou het meeste laat liggen? Vraag een [gratis ai scan voor loodgieters](/gratis-scan) aan. Je krijgt inzicht in je huidige reviewprofiel, je vindbaarheid en concrete stappen om er meer uit te halen.

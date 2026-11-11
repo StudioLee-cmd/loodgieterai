@@ -61,4 +61,4 @@ Elke review die je niet vraagt is een potentiële klant die een concurrent kiest
 
 Begin vandaag. Na je eerstvolgende spoedklus: zeg het op de stoep en stuur de link vanuit de auto. Het kost je 30 seconden en het effect stapelt maand na maand.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je reviews, je vindbaarheid en concrete stappen om meer klanten te trekken. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je reviews, je vindbaarheid en concrete stappen om meer klanten te trekken.

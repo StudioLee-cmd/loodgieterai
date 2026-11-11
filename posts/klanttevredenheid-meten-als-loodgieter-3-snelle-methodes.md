@@ -75,6 +75,4 @@ Na 12 weken heb je voor elke monteur, elke kluscategorie en elke wijk een gemidd
 
 Niet meer dan deze drie analyses in een kwartaal. Meer data verzamelen dan je gebruikt is verspilling.
 
-## Groei-of-Geld-Terug Garantie
-
-LoodgieterAI bouwt voor installatiebedrijven de volledige meet-flow plus de Google-review-funnel die er logisch op aansluit. Drie methodes opzetten, gekoppeld aan WhatsApp Business, Google Forms en SMS, plus de interne notificaties die jou waarschuwen bij een 1-3 score zodat je dezelfde dag kunt terugbellen. Geen contract, wel een Groei-of-Geld-Terug Garantie. Wil je weten waar bij jouw team de eerste meting al een verschil zou maken, plan dan een [gratis website voor loodgieters](/gratis-website) of [tarieven LoodgieterAI](/tarieven) gesprek in. Twintig minuten, geen verplichting.
+LoodgieterAI bouwt voor installatiebedrijven de volledige meet-flow plus de Google-review-funnel die er logisch op aansluit. Drie methodes opzetten, gekoppeld aan WhatsApp Business, Google Forms en SMS, plus de interne notificaties die jou waarschuwen bij een 1-3 score zodat je dezelfde dag kunt terugbellen. Wil je weten waar bij jouw team de eerste meting al een verschil zou maken, plan dan een [gratis website voor loodgieters](/gratis-website) of [tarieven LoodgieterAI](/tarieven) gesprek in. Twintig minuten, geen verplichting.

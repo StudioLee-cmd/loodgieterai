@@ -120,12 +120,10 @@ De ondersteunende infrastructuur die linkbuilding effectief maakt:
 - **Een Google Bedrijfsprofiel-strategie:** gratis (eigen werk) of inbegrepen in een managed service
 - **Tooling om backlinks te tracken (Ahrefs, SEMrush, of een eenvoudige tool):** €0-€89 per maand
 
-Voor de [tarieven van een complete loodgieter SEO-aanpak](https://www.loodgieterai.nl/tarieven) inclusief Groei-of-Geld-Terug Garantie, zie de pagina hierboven.
-
 ## Begin deze week, niet over een kwartaal
 
 Het mooie aan lokale linkbuilding: je kunt vandaag al beginnen. Stuur deze week 5 mailtjes naar lokale samenwerkingspartners en stel een link-uitwisseling voor. Meld je aan bij de gemeentelijke ondernemers-pagina. Sponsor een lokaal evenement. Binnen 60-90 dagen heb je 5-8 nieuwe lokale links binnen — en dat verschuift Google al voldoende om in maand 4-6 boven je concurrent uit te komen.
 
-Wil je weten hoe een [complete vindbaarheids-aanpak voor loodgieters](https://www.loodgieterai.nl/seo) eruit kan zien inclusief linkbuilding? Plan een vrijblijvend gesprek of bekijk de [gratis website voor loodgieters](https://www.loodgieterai.nl/gratis-website) inclusief SEO-fundament — Groei-of-Geld-Terug Garantie.
+Wil je weten hoe een [complete vindbaarheids-aanpak voor loodgieters](https://www.loodgieterai.nl/seo) eruit kan zien inclusief linkbuilding?
 
 Lees ook onze [andere artikelen over groei en marketing voor loodgieters](https://www.loodgieterai.nl/blog).

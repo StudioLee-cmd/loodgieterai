@@ -80,8 +80,6 @@ De grootste fout die loodgieters maken met de AVG is niet dat ze de regels overt
 
 Heb je simpelweg de tijd niet om er consequent mee bezig te zijn, dan is dat geen reden om het te laten liggen. Steeds meer installatiebedrijven laten hun [social media uitbesteden voor loodgieters](/social-media), inclusief de check of een foto zonder gedoe geplaatst kan worden. Je levert het beeldmateriaal aan, en de posts, de planning en de nette afhandeling lopen door terwijl jij aan het werk bent. Wil je eerst weten waar bij jou de meeste winst zit, vraag dan een [gratis AI-scan voor loodgieters](/gratis-scan) aan; dan zie je in één overzicht wat je online laat liggen.
 
-En ja, dat mag met vertrouwen: onze aanpak werkt met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast als het niet oplevert wat je zoekt.
-
 <div class="lees-ook" style="border-left:3px solid #C1FF72;background:rgba(193,255,114,0.12);padding:12px 16px;margin:28px 0;border-radius:6px;"><strong>Lees ook:</strong> <a href="/blog/instagram-reels-loodgieter-5-formats">Instagram Reels voor loodgieters: 5 formats die werken</a> &rarr;</div>
 
 ## Veelgestelde vragen

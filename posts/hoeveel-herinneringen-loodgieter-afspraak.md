@@ -127,4 +127,4 @@ Voor de [tarieven van LoodgieterAI](/tarieven) zit een complete reminder-flow in
 
 Twee herinneringen, goede timing, kort en persoonlijk. Dat is de hele formule. WhatsApp voor het hoofdmoment, SMS als backup, e-mail voor de uitgebreide bevestiging. Niet meer, niet minder.
 
-De winst zit niet in technologie maar in consequentie: elke afspraak krijgt dezelfde flow, automatisch. Wil je deze flow voor je eigen bedrijf inrichten zonder zelf te tikken? Plan een [gratis ai scan voor loodgieters](/gratis-scan) en we laten zien hoe het er bij jou uit kan zien, inclusief de Groei-of-Geld-Terug Garantie.
+De winst zit niet in technologie maar in consequentie: elke afspraak krijgt dezelfde flow, automatisch. Wil je deze flow voor je eigen bedrijf inrichten zonder zelf te tikken?

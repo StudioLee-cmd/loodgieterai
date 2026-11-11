@@ -75,4 +75,4 @@ Daarom hou je de spoed-definitie kort en stel je een veilige terugval in: bij tw
 
 ## Nooit meer de dure spoedklus mislopen
 
-Je telefoon hoeft niet langer elk gesprek hetzelfde te behandelen. Met slimme routing landt de spoedklus bij jou en handelt de AI de rest af, zodat jij je op het werk kunt richten. Bij LoodgieterAI zetten we dat voor je op, inclusief de spoed-definitie en de opvolging, met een Groei-of-Geld-Terug Garantie. Begin met een [gratis ai scan voor loodgieters](/gratis-scan) en zie precies waar je nu klussen laat liggen.
+Je telefoon hoeft niet langer elk gesprek hetzelfde te behandelen. Met slimme routing landt de spoedklus bij jou en handelt de AI de rest af, zodat jij je op het werk kunt richten. Begin met een [gratis ai scan voor loodgieters](/gratis-scan) en zie precies waar je nu klussen laat liggen.

@@ -114,7 +114,7 @@ Ja, juist dan. Reels worden ook getoond aan mensen die je niet volgen, dus een k
 
 ## Conclusie: laat je werk het werk doen
 
-Je hoeft niet te kunnen dansen, presenteren of monteren. Je hoeft alleen je telefoon neer te zetten op de klussen die je toch al doet, en dezelfde vijf formats te blijven herhalen: de lekkage-fix, de bus-tour, de transformatie, het CV-checkje en de review-reel. Meer opdrachten, minder gedoe. Wil je dat er ook iemand meekijkt of je account technisch goed staat afgesteld, dan regelt [social media beheer voor loodgieters](/social-media) van LoodgieterAI het complete ritme voor je, inclusief onze Groei-of-Geld-Terug Garantie.
+Je hoeft niet te kunnen dansen, presenteren of monteren. Je hoeft alleen je telefoon neer te zetten op de klussen die je toch al doet, en dezelfde vijf formats te blijven herhalen: de lekkage-fix, de bus-tour, de transformatie, het CV-checkje en de review-reel. Meer opdrachten, minder gedoe.
 
 Benieuwd waar jouw bedrijf nu staat qua online zichtbaarheid? Vraag de [gratis ai scan voor loodgieters](/gratis-scan) aan en je ziet binnen een paar minuten wat er vandaag al beter kan.
 

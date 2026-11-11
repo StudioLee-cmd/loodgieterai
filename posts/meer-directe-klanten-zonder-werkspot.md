@@ -102,7 +102,7 @@ Het doel is niet om Werkspot te verlaten — het is om er niet meer afhankelijk 
 
 Werkspot is een prima startpunt, maar geen eindstation. De loodgieter die investeert in zijn eigen online aanwezigheid — Google profiel, reviews, website en bereikbaarheid — bouwt een bedrijf dat draait zonder commissies.
 
-Met [LoodgieterAI](/) automatiseren we je reviewverzoeken, bereikbaarheid en klantcommunicatie. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [LoodgieterAI](/) automatiseren we je reviewverzoeken, bereikbaarheid en klantcommunicatie. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer directe klanten krijgt.
 

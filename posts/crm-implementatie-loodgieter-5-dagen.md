@@ -95,7 +95,7 @@ Nee. De koppelingen met je agenda, telefoon en facturatie worden voor je ingeric
 
 CRM-implementatie klinkt groter dan het voor een loodgieter is. Je hebt geen afdeling, geen consultant en geen half jaar nodig. Je hebt vijf dagen nodig, een beetje discipline, en de keuze om je klantdata één keer goed neer te zetten in plaats van hem voor altijd verspreid te houden.
 
-Wil je dat systeem niet zelf opzetten? Bij LoodgieterAI richten we een [alles-in-één crm voor loodgieters](/crm) volledig voor je in, gekoppeld aan de agenda en het telefoonnummer die je al gebruikt. Doe de [gratis ai scan voor loodgieters](/gratis-scan) en je ziet precies waar in jouw bedrijf de meeste tijd en omzet weglekt. We werken met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast. Jij lost de lekkage op, wij regelen de rest.
+Wil je dat systeem niet zelf opzetten? Bij LoodgieterAI richten we een [alles-in-één crm voor loodgieters](/crm) volledig voor je in, gekoppeld aan de agenda en het telefoonnummer die je al gebruikt. Doe de [gratis ai scan voor loodgieters](/gratis-scan) en je ziet precies waar in jouw bedrijf de meeste tijd en omzet weglekt. Jij lost de lekkage op, wij regelen de rest.
 
 <div class="lees-ook" style="margin:2.5rem 0; padding:1rem 1.25rem; border-radius:0.75rem; background-color:rgba(37, 99, 235, 0.08);">
 <strong>Lees ook:</strong> <a href="/blog/klant-onderweg-bericht-automatiseren-loodgieter">Klant-onderweg-bericht automatiseren als loodgieter</a> &rarr;

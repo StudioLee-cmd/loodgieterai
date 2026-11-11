@@ -88,6 +88,6 @@ Loop deze punten langs voordat je tekent, bij welke aanbieder dan ook:
 
 Die trillende telefoon in je broekzak, terwijl jij met twee handen aan een koppeling hangt: dat moment hoeft geen omzet meer te kosten. Een antwoorddienst vangt de oproep op, maar schuift het echte werk naar jou door. Een AI-telefonist maakt het af: opnemen, uitvragen, inplannen, bevestigen. Zo hoef je [geen oproepen meer te missen als loodgieter](/voice-ai), ook niet tijdens die klus, die vakantie of dat verjaardagsfeestje.
 
-Bij LoodgieterAI richten we de AI-telefonist volledig in op jouw bedrijf, inclusief spoedherkenning en agendakoppeling, met onze Groei-of-Geld-Terug Garantie. Wil je eerst zien waar jouw bereikbaarheid nu lekt? Vraag de [gratis AI-scan voor loodgieters](/gratis-scan) aan en je weet binnen een paar minuten waar de klussen weglopen.
+Wil je eerst zien waar jouw bereikbaarheid nu lekt? Vraag de [gratis AI-scan voor loodgieters](/gratis-scan) aan en je weet binnen een paar minuten waar de klussen weglopen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/voice-ai-vs-voicemail-loodgieter" class="text-dark fw-semibold">Voice AI vs voicemail voor loodgieters: wat wint?</a> →</p></div></div></div>

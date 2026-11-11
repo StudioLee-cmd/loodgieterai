@@ -43,4 +43,4 @@ Reageer ook op elke review op Google. Dat versterkt je [vindbaarheid](/seo) en l
 
 Kopieer je zes beste reviews naar je homepage. Dat kost een half uur. Het effect op je conversie is direct merkbaar.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan.

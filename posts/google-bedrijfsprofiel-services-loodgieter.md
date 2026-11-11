@@ -58,6 +58,4 @@ Loop je services elk kwartaal even na. Breid je uit met vloerverwarming of warmt
 
 **Lees ook:** [Google Bedrijfsprofiel als loodgieter optimaliseren](/blog/google-bedrijfsprofiel-loodgieter), waar je de rest van je profiel (foto's, openingstijden en kaartresultaten) aanpakt zodat je services-sectie maximaal rendeert.
 
-## Groei-of-Geld-Terug Garantie
-
-LoodgieterAI richt voor installatiebedrijven het complete Google Bedrijfsprofiel in: elke dienst als losse service-entry, beschrijvingen die ranken, plus de review-funnel die er logisch op aansluit. Zo noemen klanten in hun tekst vanzelf de juiste klussen. Geen contract, wel een Groei-of-Geld-Terug Garantie, zodat je zeker weet dat de investering rendement oplevert. Wil je weten welke diensten in jouw regio nog onbenut blijven, vraag dan een [gratis ai scan voor loodgieters](/gratis-scan) aan. We laten zien op welke zoekopdrachten je nu misloopt en geven een concreet plan voor de komende 30 dagen.
+LoodgieterAI richt voor installatiebedrijven het complete Google Bedrijfsprofiel in: elke dienst als losse service-entry, beschrijvingen die ranken, plus de review-funnel die er logisch op aansluit. Zo noemen klanten in hun tekst vanzelf de juiste klussen. Wil je weten welke diensten in jouw regio nog onbenut blijven, vraag dan een [gratis ai scan voor loodgieters](/gratis-scan) aan. We laten zien op welke zoekopdrachten je nu misloopt en geven een concreet plan voor de komende 30 dagen.

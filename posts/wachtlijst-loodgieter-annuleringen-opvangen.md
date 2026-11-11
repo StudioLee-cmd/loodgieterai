@@ -59,4 +59,4 @@ En het kost je niks. Alleen een telefoon en de discipline om het te vragen.
 
 De volgende keer dat je een klant moet teleurstellen met een wachttijd van twee weken: vraag of diegene op de standby-lijst wil. Noteer het. Volgende keer dat iemand afzegt, heb je direct een vervanger.
 
-Wil je weten hoe je je hele planning kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele planning kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan.
