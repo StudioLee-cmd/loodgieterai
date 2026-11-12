@@ -4,7 +4,7 @@ excerpt: "Werkspot kost je per lead — maar je kunt ook directe klanten aantrek
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-directe-klanten-zonder-werkspot.png"
-tags: ["Loodgieter", "Directe Klanten", "Werkspot"]
+tags: ["Werkspot", "Klanten"]
 cluster: "automatisering"
 ---
 ## Het Werkspot-dilemma voor loodgieters

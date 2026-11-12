@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als loodgieter met snelle, duidelijke offertes meer opdr
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-loodgieter-sneller-reageren.png"
-tags: ["Offertes", "Klussen", "Bedrijfsvoering"]
+tags: ["Offertes", "Bedrijfsvoering"]
 cluster: "automatisering"
 ---
 ## Waarom snelheid alles is bij offertes

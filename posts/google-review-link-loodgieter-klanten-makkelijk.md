@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-review-link-loodgieter-klanten-makkelijk.jpg"
-tags: ["Reviews", "Loodgieter", "Google"]
+tags: ["Reviews", "Google"]
 ---
 ## Waarom de meeste klanten geen review achterlaten
 

@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "De discussie over je spoedtarief gaat zelden over het bedrag zelf, maar over het moment waarop de klant het hoort. Zo leg je de toeslag uit voordat je rijdt."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedtarief-loodgieter-toeslag-uitleggen.jpg"
-tags: ["Voice AI", "Spoed", "Klantcommunicatie", "Loodgieter"]
+tags: ["Voice AI", "Spoed"]
 cluster: "voice-ai"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Geen IT-afdeling en geen half jaar nodig. Zo zet je als loodgieter in vijf werkdagen een werkend CRM op dat je klantdata en onderhoud-cycli op orde brengt."
 image: "/images/blog/crm-implementatie-loodgieter-5-dagen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM", "Klantbeheer"]
+tags: ["Automatisering", "CRM"]
 cluster: "automatisering"
 ---
 

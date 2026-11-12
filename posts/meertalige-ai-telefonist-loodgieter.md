@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Een lekkage wacht niet op vertaling. Zo vangt een meertalige AI-telefonist je Engelse, Poolse en Arabische spoedbellers op en verlies je geen klus meer."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meertalige-ai-telefonist-loodgieter.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Spoed", "Loodgieter"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

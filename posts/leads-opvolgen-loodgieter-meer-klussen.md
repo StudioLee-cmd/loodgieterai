@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-loodgieter-meer-klussen.jpg"
-tags: ["Leads", "Lead opvolging", "Loodgieter", "Offertes"]
+tags: ["Leads", "Lead opvolging"]
 ---
 ## Het gat tussen offerte en opdracht
 

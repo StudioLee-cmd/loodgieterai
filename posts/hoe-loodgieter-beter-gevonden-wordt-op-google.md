@@ -4,7 +4,7 @@ excerpt: "Als loodgieter wil je gevonden worden op het moment dat iemand je nodi
 date: "2026-03-08"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-loodgieter-beter-gevonden-wordt-op-google.png"
-tags: ["SEO", "Google", "Vindbaarheid"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 ## Waarom online vindbaarheid alles bepaalt

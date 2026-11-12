@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/dag-van-klus-reminder-loodgieter-voorbereiden.jpg"
 cluster: "automatisering"
-tags: ["Afspraakherinneringen", "WhatsApp", "Klantcommunicatie"]
+tags: ["WhatsApp", "Automatisering"]
 ---
 
 Een loodgieter rijdt naar een klus voor een lekkende kraan. Hij komt aan, belt aan, klant doet open en zegt: "Oh, het is in de kelder, ik moet eerst even spullen weghalen voor je erbij kunt." Vijftien minuten van het uur is op aan stoelen verzetten. Dat probleem ontstaat door één ontbrekend bericht: de dag-van-de-klus reminder. Een kort, gericht WhatsApp-bericht 12 tot 24 uur voor de afspraak waarin je vertelt wat de klant moet voorbereiden. Vijf zinnen. Vijf minuten setup. Tot een uur winst per dag.

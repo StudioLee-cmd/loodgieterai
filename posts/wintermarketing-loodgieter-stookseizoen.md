@@ -5,7 +5,7 @@ excerpt: "Het stookseizoen is goud voor loodgieters — als je er op tijd op ins
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wintermarketing-loodgieter-stookseizoen.png"
-tags: ["Loodgieter", "Wintermarketing", "Stookseizoen"]
+tags: ["Marketing", "Automatisering"]
 cluster: "automatisering"
 ---
 

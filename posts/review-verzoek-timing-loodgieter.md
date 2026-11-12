@@ -5,7 +5,7 @@ date: "2026-08-01"
 excerpt: "Direct na de klus is het beste moment voor een review. Maar wat als de klant er niet is? Drie momenten, en welke past bij welke klus."
 image: "/images/blog/review-verzoek-timing-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Klantcommunicatie", "Automatisering"]
+tags: ["Reviews", "Klantcommunicatie"]
 cluster: "reviews"
 ---
 

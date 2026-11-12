@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-zoekmachines-loodgieter-vindbaarheid.jpg"
-tags: ["Vindbaarheid", "AI", "SEO"]
+tags: ["Vindbaarheid", "AI"]
 ---
 ## Klanten zoeken anders dan vijf jaar geleden
 

@@ -5,7 +5,7 @@ excerpt: "Onderscheid jezelf van elke beunhaas in de regio. Met de Client App in
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-workflow-client-app.png"
-tags: ["Elite Plan", "Client App", "Innovatie"]
+tags: ["Innovatie", "Website", "Klanten"]
 cluster: "website"
 ---
 

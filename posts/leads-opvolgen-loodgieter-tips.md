@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-loodgieter-tips.jpg"
-tags: ["Leads", "Loodgieter", "Opvolging"]
+tags: ["Leads", "Lead opvolging"]
 ---
 ## Die klant die je net bent misgelopen
 

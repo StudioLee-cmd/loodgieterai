@@ -4,7 +4,7 @@ excerpt: "Google-reviews zijn goud waard voor loodgieters — maar de meeste kla
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-google-reviews-als-loodgieter.png"
-tags: ["Reviews", "Google", "Vindbaarheid", "Automatisering"]
+tags: ["Reviews", "Google"]
 cluster: "reviews"
 ---
 ## Waarom Google-reviews voor loodgieters extra zwaar wegen

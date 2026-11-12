@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mobiele-loodgieter-website-conversie.jpg"
-tags: ["Loodgieter", "Website", "Mobiel", "Conversie"]
+tags: ["Website", "Conversie"]
 ---
 Iemand zit met een lekkende kraan in de keuken en pakt zijn telefoon. Hij Google't "loodgieter [stad]", klikt op het derde resultaat — jouw website. Hij ziet een trage pagina, een hero-foto die maar half laadt, een menu met een hamburger-icoon waar hij eerst op moet zoeken om je telefoonnummer te vinden, en een contactformulier met acht velden. Hij sluit het tabblad en gaat door naar de volgende loodgieter. Dat zijn 30 seconden waarin je een potentiële spoedklus van €280 verliest, en je merkt het nooit.
 

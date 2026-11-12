@@ -5,7 +5,7 @@ excerpt: "Als loodgieter mis je oproepen terwijl je onder een wastafel ligt. Ont
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedklussen-loodgieter-geen-oproep-missen.png"
-tags: ["Loodgieter", "Bereikbaarheid", "Spoedklussen"]
+tags: ["Bereikbaarheid", "Spoed"]
 cluster: "voice-ai"
 ---
 ## Het probleem dat elke loodgieter herkent

@@ -4,7 +4,7 @@ excerpt: "Welke software past bij jouw loodgietersbedrijf? Een eerlijke vergelij
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-software-voor-loodgieters-2026.png"
-tags: ["Software", "Vergelijking", "Tools"]
+tags: ["Vergelijking", "Tools"]
 cluster: "automatisering"
 ---
 Als loodgieter wordt er veel van je gevraagd: spoedklussen, offertes, planning en ondertussen je boekhouding bijhouden. Welke software helpt jou als loodgieter het meest in 2026? In dit overzicht vergelijken we de populairste tools — eerlijk en in het Nederlands.

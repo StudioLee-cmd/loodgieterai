@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Na de eerste klus verdwijnt de meeste loodgieter-omzet in stilte. Met deze 4 automatische welkom-mails maak je van een nieuwe klant een vaste klant."
 image: "/images/blog/welkom-mailflow-loodgieter-nieuwe-klanten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "E-mail", "Klantbehoud"]
+tags: ["Automatisering", "E-mail"]
 cluster: "automatisering"
 ---
 

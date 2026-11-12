@@ -5,7 +5,7 @@ date: "2026-07-16"
 excerpt: "Reageren op elke Google review kost tijd die je als loodgieter niet hebt. Zo automatiseer je review-respons met AI-templates die toch persoonlijk blijven."
 image: "/images/blog/review-respons-automatiseren-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Google reviews", "Automatisering", "Loodgieter"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 

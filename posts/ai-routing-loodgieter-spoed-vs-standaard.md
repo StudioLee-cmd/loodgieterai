@@ -5,7 +5,7 @@ date: "2026-06-07"
 excerpt: "Een lekkage om 22:00 is geld waard, een prijsvraag kan wachten. Zo laat je AI je spoedoproepen onderscheiden van standaardvragen, zonder dat je zelf opneemt."
 image: "/images/blog/ai-routing-loodgieter-spoed-vs-standaard.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Spoed", "Automatisering"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 Niet elke oproep is evenveel waard. Een klant met een sproeiende leiding om tien uur 's avonds wil binnen een kwartier iemand aan de lijn, en betaalt daar ook naar. De buurman die wil weten wat een nieuwe kraan ongeveer kost, kan prima tot morgen wachten. Het probleem is dat je telefoon geen onderscheid maakt. Beide komen binnen op hetzelfde nummer, en als jij onder een wastafel ligt mis je ze allebei even hard.

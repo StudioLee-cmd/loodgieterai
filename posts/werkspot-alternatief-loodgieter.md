@@ -4,7 +4,7 @@ excerpt: "Ontdek waarom steeds meer loodgieters stoppen met Werkspot en kiezen v
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkspot-alternatief-loodgieter.jpg"
-tags: ["Vergelijking", "Werkspot", "Groei"]
+tags: ["Vergelijking", "Werkspot"]
 cluster: "automatisering"
 ---
 ## Het Werkspot-model: wat het je echt kost

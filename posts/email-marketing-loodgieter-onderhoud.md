@@ -7,7 +7,7 @@ excerpt: "CV-ketels, leidingen en afvoeren hebben onderhoud nodig. Met slimme e-
 image: "/images/blog/email-marketing-loodgieter-onderhoud.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["email marketing", "loodgieter", "onderhoud"]
+tags: ["E-mail", "Onderhoud"]
 cluster: "automatisering"
 ---
 

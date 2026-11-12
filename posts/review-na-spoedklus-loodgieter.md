@@ -6,7 +6,7 @@ date: "2026-04-11"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-na-spoedklus-loodgieter.jpg"
-tags: ["Reviews", "Spoedklussen", "Groei"]
+tags: ["Reviews", "Spoed", "Groei"]
 ---
 ## Spoedklanten zijn je beste reviewschrijvers
 

@@ -5,7 +5,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-loodgieter.jpg"
-tags: ["No-shows", "Loodgieter", "Automatisering"]
+tags: ["No-shows", "Automatisering"]
 ---
 ## Weer voor een dichte deur
 

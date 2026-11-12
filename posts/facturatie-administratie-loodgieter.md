@@ -5,7 +5,7 @@ excerpt: "Stop met je zondagen verpesten achter de laptop. Onze Sales Deck AI ma
 date: "2026-01-18"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/facturatie-administratie-loodgieter.png"
-tags: ["Administratie", "Vrijheid", "Geldzaken"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

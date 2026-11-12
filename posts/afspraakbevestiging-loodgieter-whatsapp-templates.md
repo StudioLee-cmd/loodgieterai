@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakbevestiging-loodgieter-whatsapp-templates.jpg"
-tags: ["Loodgieter", "WhatsApp", "Automatisering", "Klantcommunicatie"]
+tags: ["WhatsApp", "Automatisering"]
 ---
 Een klant belt maandag voor een CV-beurt op vrijdag. Donderdagavond denkt hij: "hebben we die afspraak überhaupt nog?" Vrijdagochtend om kwart over negen staat jouw monteur voor een dichte deur omdat niemand thuis is. Dat is geen lastige klant, dat is een gat in je communicatiestroom.
 

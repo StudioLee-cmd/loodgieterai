@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "NFC-kaart, QR-code of een fysiek kaartje: welke reviewtool levert een loodgieter echt meer Google reviews op? Een eerlijke vergelijking plus de snelste route."
 image: "/images/blog/nfc-qr-review-kaart-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Google reviews", "Loodgieter"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 

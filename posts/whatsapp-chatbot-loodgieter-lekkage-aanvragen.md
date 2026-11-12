@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Een WhatsApp chatbot vangt lekkage-aanvragen 24/7 op: triage van spoed, foto vooraf en een geboekte afspraak terwijl jij gewoon doorwerkt."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-chatbot-loodgieter-lekkage-aanvragen.jpg"
-tags: ["Chatbot", "WhatsApp", "Automatisering"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: "chatbot"
 ---
 

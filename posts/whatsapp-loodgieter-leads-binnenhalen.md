@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-loodgieter-leads-binnenhalen.jpg"
-tags: ["WhatsApp", "Leads", "Loodgieter"]
+tags: ["WhatsApp", "Leads"]
 ---
 ## Waarom bellen niet meer genoeg is voor loodgieters
 

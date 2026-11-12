@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als loodgieter je Google Bedrijfsprofiel optimaliseert voo
 date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-loodgieter.jpg"
-tags: ["Vindbaarheid", "Google", "Lokale SEO"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 ## Waarom je Google Bedrijfsprofiel je belangrijkste etalage is

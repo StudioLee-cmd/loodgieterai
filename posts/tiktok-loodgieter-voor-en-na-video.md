@@ -5,7 +5,7 @@ date: "2026-07-11"
 excerpt: "Voor-en-na beelden van klussen scoren op TikTok. Zo film je als loodgieter in drie korte clips per klus en maak je van views echte lokale opdrachten."
 image: "/images/blog/tiktok-loodgieter-voor-en-na-video.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "TikTok", "Video", "Lokale zichtbaarheid"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 

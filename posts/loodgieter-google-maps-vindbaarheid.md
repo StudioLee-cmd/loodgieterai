@@ -5,7 +5,7 @@ date: "2026-04-08"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieter-google-maps-vindbaarheid.jpg"
-tags: ["SEO", "Google Maps", "Loodgieter"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Waarom Google Maps het belangrijkste kanaal is voor loodgieters
 

@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "Klanten vergeten hun cv-ketel onderhoud en jij bent te druk om te bellen. Zo haalt een automatische WhatsApp-uitnodiging ze elk stookseizoen terug."
 image: "/images/blog/cv-ketel-onderhoud-uitnodiging-automatiseren-whatsapp.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "WhatsApp", "Onderhoud", "Terugkerende omzet"]
+tags: ["Automatisering", "WhatsApp"]
 cluster: "automatisering"
 ---
 

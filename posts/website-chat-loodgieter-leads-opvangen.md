@@ -5,7 +5,7 @@ date: "2026-05-29"
 excerpt: "Bezoekers komen 's avonds of tijdens een klus op je site, krijgen geen antwoord en bellen de concurrent. Zo vangt een chatbot die leads 24/7 voor je op."
 image: "/images/blog/website-chat-loodgieter-leads-opvangen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Leads", "Website", "Loodgieter"]
+tags: ["Chatbot", "Leads", "Website"]
 cluster: "chatbot"
 ---
 Een loodgieter uit Zwolle keek vorig jaar voor het eerst echt naar zijn website-statistieken. 340 bezoekers in een maand, waarvan bijna de helft tussen 18:00 en 23:00. Aanvragen via het contactformulier: zeven. De rest klikte weg. Toen hij doorklikte naar de tijdstippen zag hij het patroon: de avondbezoekers waren de spoedklanten, mensen met een lekkage of een uitgevallen cv-ketel die NU iemand zochten. Hij stond op dat moment zelf onder een gootsteen of lag al in bed. Tegen de tijd dat hij 's ochtends het formulier zag, had de klant allang iemand anders gevonden. Niet omdat zijn site lelijk was. Omdat er niemand opnam toen de klant een vraag had.

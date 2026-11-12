@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "Meerdere monteurs aansturen zonder planbord-chaos: dispatch-criteria, spoed-triage, routeplanning en automatische klantberichten voor loodgieters."
 image: "/images/blog/workflow-loodgieter-meerdere-monteurs.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Planning", "Workflow"]
+tags: ["Automatisering", "Planning"]
 cluster: "automatisering"
 ---
 

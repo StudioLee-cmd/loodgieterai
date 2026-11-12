@@ -6,7 +6,7 @@ date: "2026-04-07"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/snelheid-lead-opvolging-loodgieter.jpg"
-tags: ["Leads", "Opvolging", "Loodgieter"]
+tags: ["Leads", "Lead opvolging"]
 ---
 ## De klant kiest wie het eerst reageert
 

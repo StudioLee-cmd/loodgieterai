@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met dakdekkers, installateurs en aannemers
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-loodgieter-partnerschappen.png"
-tags: ["samenwerkingen", "loodgieter", "groei"]
+tags: ["Groei"]
 cluster: "branding"
 ---
 

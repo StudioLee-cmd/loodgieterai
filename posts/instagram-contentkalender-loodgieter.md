@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer twijfelen wat je moet posten. Een kant-en-klare contentkalender met 30 dagen aan Instagram-ideeen, speciaal voor loodgieters."
 image: "/images/blog/instagram-contentkalender-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram", "Marketing"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

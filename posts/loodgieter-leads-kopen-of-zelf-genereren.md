@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Een gekochte loodgieter-lead kost 6 tot 40 euro, maar wordt gedeeld met je concurrenten. Zo bereken je de echte kosten per lead en je eigen kanaal."
 image: "/images/blog/loodgieter-leads-kopen-of-zelf-genereren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Leadgeneratie", "Vindbaarheid", "Kosten per lead"]
+tags: ["Leads", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

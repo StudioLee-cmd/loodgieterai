@@ -4,7 +4,7 @@ excerpt: "Na 17 uur rinkelt de telefoon bij loodgieters vaker dan overdag, maar 
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieter-avondoproepen-missen.jpg"
-tags: ["Bereikbaarheid", "Spoedklussen", "Omzet"]
+tags: ["Bereikbaarheid", "Spoed", "Omzet"]
 cluster: "voice-ai"
 ---
 

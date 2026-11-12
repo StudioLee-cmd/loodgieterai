@@ -5,7 +5,7 @@ excerpt: "Klanten kunnen jouw vakmanschap niet technisch beoordelen. Ze beoordel
 date: "2026-01-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/psychologie-van-reviews.png"
-tags: ["Reviews", "Reputatie", "Winnen"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 Stel je voor: er zijn twee loodgieters in het dorp. Loodgieter A is een absolute vakman. 30 jaar ervaring, werkt 100% netjes, gebruikt de beste materialen. Maar Loodgieter A heeft geen website en 3 [reviews](/reviews) op Google. Loodgieter B is een jonge gozer, levert prima werk maar is lang niet zo ervaren als A. Echter, Loodgieter B heeft 150 reviews op Google met een gemiddelde van 4,8 sterren.

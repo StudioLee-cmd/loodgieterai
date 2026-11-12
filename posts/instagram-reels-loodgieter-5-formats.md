@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Vijf Instagram Reels formats die voor loodgieters bewezen werken: van lekkage-fix tot CV-onderhoud. Met hooks, filmtips en een aanpak die tijd bespaart."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-reels-loodgieter-5-formats.jpg"
-tags: ["Instagram", "Social Media", "Reels", "Marketing"]
+tags: ["Instagram", "Social Media"]
 cluster: "social-media"
 ---
 

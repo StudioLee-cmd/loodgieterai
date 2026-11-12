@@ -5,7 +5,7 @@ excerpt: "Bezoekers beslissen in 5 seconden of ze jou bellen of de volgende lood
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/trust-signals-loodgieter-website.jpg"
-tags: ["Website", "Conversie", "Trust"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 

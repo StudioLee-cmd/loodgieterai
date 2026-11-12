@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Een chatbot die generieke antwoorden geeft kost je klussen. Zo train je hem op je eigen tarieven, werkgebied en spoedafspraken via 4 routes."
 image: "/images/blog/ai-chatbot-trainen-loodgieter-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["AI", "Chatbot", "Klantcontact"]
+tags: ["AI", "Chatbot"]
 cluster: "chatbot"
 ---
 

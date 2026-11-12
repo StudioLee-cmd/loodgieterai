@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-loodgieter-automatisch.jpg"
-tags: ["Reviews", "Automatisering", "Loodgieter"]
+tags: ["Reviews", "Automatisering"]
 ---
 ## Waarom Google Reviews goud waard zijn als loodgieter
 

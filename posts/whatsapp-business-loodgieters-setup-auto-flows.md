@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "WhatsApp Business met de juiste auto-flows scheelt loodgieters 6 tot 12 uur admin per week. Zakelijk profiel, snelle antwoorden en spoedklus-flow in 2026."
 image: "/images/blog/whatsapp-business-loodgieters-setup-auto-flows.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Klantcontact", "Automatisering", "Tijdbesparing", "Loodgieter"]
+tags: ["WhatsApp", "Automatisering"]
 cluster: "automatisering"
 ---
 

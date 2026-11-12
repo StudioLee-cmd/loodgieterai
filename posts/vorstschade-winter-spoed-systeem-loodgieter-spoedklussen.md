@@ -5,7 +5,7 @@ date: "2026-05-09"
 excerpt: "Hoe je in januari en februari de vorstschade-piek beheerst zonder uit te branden: voorraad-protocol, weer-trigger, 5-min-respons en team-rotatie."
 image: "/images/blog/vorstschade-winter-spoed-systeem-loodgieter-spoedklussen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Spoedklussen", "Winter", "Vorstschade"]
+tags: ["Spoed", "Voice AI"]
 cluster: "voice-ai"
 ---
 

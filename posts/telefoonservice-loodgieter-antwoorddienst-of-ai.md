@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Een antwoorddienst neemt je telefoon aan, een AI-telefonist handelt het gesprek meteen af. De eerlijke vergelijking in kosten en resultaat."
 image: "/images/blog/telefoonservice-loodgieter-antwoorddienst-of-ai.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Telefoonservice", "Antwoorddienst"]
+tags: ["Voice AI", "Bereikbaarheid", "AI"]
 cluster: "voice-ai"
 ---
 

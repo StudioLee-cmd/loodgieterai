@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-sneller-versturen-loodgieter.jpg"
-tags: ["Offertes", "Loodgieter", "Verkoop"]
+tags: ["Offertes", "Automatisering"]
 ---
 ## De klant die niet wacht
 

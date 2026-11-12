@@ -4,7 +4,7 @@ excerpt: "Een wa.me click-to-chat knop op je loodgieterwebsite kan spoed-convers
 date: "2026-04-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-knop-loodgieter-website-spoed-leads.jpg"
-tags: ["Website", "Conversie", "WhatsApp", "Loodgieter"]
+tags: ["Website", "Conversie", "WhatsApp"]
 cluster: "website"
 ---
 ## In het kort

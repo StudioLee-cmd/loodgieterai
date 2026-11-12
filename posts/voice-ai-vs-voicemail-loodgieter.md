@@ -5,7 +5,7 @@ date: "2026-07-01"
 excerpt: "Een spoedbeller om 22:00 spreekt geen voicemail in, hij belt de volgende loodgieter. Voice AI vs voicemail: zo houd je die dure avondklus zelf binnen."
 image: "/images/blog/voice-ai-vs-voicemail-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Voicemail", "Spoed"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 Het is 22:47 als je telefoon overgaat en jij hem niet hoort. Iemand met een lekkende wasmachine-aansluiting staat met een dweil in de hand, het water kruipt richting de plint, en na vier keer overgaan krijgt hij jouw voicemail. "Spreek een bericht in na de piep." Hij hangt op, typt twee tellen later "loodgieter spoed" in Google en belt de volgende in de lijst. Die neemt wél op.

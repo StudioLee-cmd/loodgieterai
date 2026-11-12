@@ -7,7 +7,7 @@ excerpt: "Goede communicatie maakt het verschil tussen een eenmalige klus en een
 image: "/images/blog/klantcommunicatie-loodgieter-vertrouwen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["klantcommunicatie", "loodgieter", "vertrouwen"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

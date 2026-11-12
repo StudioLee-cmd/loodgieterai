@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Werk je in meerdere plaatsen maar sta je alleen in je eigen stad bovenaan? Zo bouw je een pagina per stad zonder dat Google dubbele content ziet."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stadspaginas-loodgieter-zonder-duplicate-content.jpg"
-tags: ["Vindbaarheid", "Lokale SEO", "Website", "Loodgieter"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

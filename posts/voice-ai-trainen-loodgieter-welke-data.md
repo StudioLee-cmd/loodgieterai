@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Een AI telefonist is nooit beter dan de gegevens die jij aanlevert. Dit zijn de zes dingen die hij van jouw loodgietersbedrijf moet weten."
 image: "/images/blog/voice-ai-trainen-loodgieter-welke-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Spoed"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

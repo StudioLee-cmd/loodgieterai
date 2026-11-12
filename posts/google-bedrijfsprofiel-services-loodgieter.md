@@ -4,7 +4,7 @@ excerpt: "Zet elke loodgieter-dienst apart in je Google Bedrijfsprofiel en word 
 date: "2026-05-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-services-loodgieter.jpg"
-tags: ["Vindbaarheid", "Google", "Lokale SEO", "Loodgieter"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 

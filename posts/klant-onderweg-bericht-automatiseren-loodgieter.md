@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Automatiseer het 'ik kom over 20 minuten'-bericht naar je klant. Minder waar-blijf-je-telefoontjes, minder no-shows en een professioneler beeld."
 image: "/images/blog/klant-onderweg-bericht-automatiseren-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Klantcommunicatie", "WhatsApp"]
+tags: ["Automatisering", "WhatsApp"]
 cluster: "automatisering"
 ---
 

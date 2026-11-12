@@ -4,7 +4,7 @@ excerpt: "Hoeveel herinneringen stuur je voor een loodgieter-afspraak? Praktisch
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoeveel-herinneringen-loodgieter-afspraak.jpg"
-tags: ["Afspraken", "WhatsApp", "Automatisering"]
+tags: ["WhatsApp", "Automatisering"]
 cluster: "automatisering"
 ---
 ## In het kort

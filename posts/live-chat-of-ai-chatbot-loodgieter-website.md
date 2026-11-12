@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Live chat klinkt persoonlijk, maar wie bemant hem tijdens een klus? Waarom een AI chatbot voor loodgieters bijna altijd de slimmere keuze is."
 image: "/images/blog/live-chat-of-ai-chatbot-loodgieter-website.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Live chat", "Website", "Spoedklussen"]
+tags: ["Chatbot", "Website", "Spoed"]
 cluster: "chatbot"
 ---
 

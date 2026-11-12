@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/annuleringsbeleid-loodgieter-no-shows-voorkomen.jpg"
-tags: ["No-shows", "Loodgieter", "Planning"]
+tags: ["No-shows", "Planning"]
 ---
 ## Waarom een annuleringsbeleid onmisbaar is
 

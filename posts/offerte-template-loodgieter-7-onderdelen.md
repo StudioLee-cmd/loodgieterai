@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Een offerte die blijft liggen kost je de klus. Dit zijn de zeven onderdelen die elke loodgieter-offerte nodig heeft om getekend terug te komen."
 image: "/images/blog/offerte-template-loodgieter-7-onderdelen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Offertes", "Automatisering", "Klantcommunicatie"]
+tags: ["Offertes", "Automatisering"]
 cluster: "automatisering"
 ---
 

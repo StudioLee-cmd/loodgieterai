@@ -4,7 +4,7 @@ excerpt: "Klusio biedt een paar handige functies voor vaklui, maar hoe verhoudt 
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klusio-vs-loodgieterai-welke-past-bij-jouw-bedrijf.png"
-tags: ["Tools", "Vergelijking", "Loodgieters"]
+tags: ["Tools", "Vergelijking"]
 cluster: "automatisering"
 ---
 Als loodgieter wil je software die je werk efficiënter maakt — niet nóg een tool erbij die maar een deel van het probleem oplost. Klusio is een platform dat een aantal functies biedt voor vaklui, maar hoe verhoudt het zich tot een compleet AI-gestuurd platform als LoodgieterAI?

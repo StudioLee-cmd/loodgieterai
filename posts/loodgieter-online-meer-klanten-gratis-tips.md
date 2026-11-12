@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieter-online-meer-klanten-gratis-tips.jpg"
-tags: ["Vindbaarheid", "Groei", "Tips"]
+tags: ["Vindbaarheid", "Groei"]
 ---
 ## Waarom betalen voor leads als je ze zelf kunt aantrekken?
 
