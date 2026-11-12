@@ -27,6 +27,8 @@ In de tijdlijn van Facebook zoekt niemand een loodgieter. Mensen kijken naar fot
 
 ## Adverteer wat te plannen valt, niet de spoed
 
+![Adverteer wat te plannen valt, niet de spoed](/images/blog/facebook-ads-loodgieter-klein-budget-2.jpg)
+
 Wie een gesprongen leiding heeft, scrolt niet door Facebook. Die belt. Spoedwerk haal je via Google en via een telefoon die altijd wordt opgenomen. Facebook is er voor het werk waar mensen al weken over nadenken en niet aan toekomen. Dat zijn klussen die jij inplant op de dagen dat het jou uitkomt, en dat maakt ze geschikt voor een rustig lopende advertentie.
 
 Kies per periode 1 klus en maak daar 1 advertentie voor. Wie alles tegelijk aanbiedt, valt nergens mee op. Een indeling die bij de meeste loodgieters past:
@@ -71,8 +73,6 @@ Stel dat je dit voor je eigen klus uitrekent. Doe het met je eigen cijfers:
 Deel het testbedrag door het aantal dagen en je hebt je dagbudget. Zet er een einddatum op, zodat de advertentie niet doorloopt als je het druk krijgt en er niet meer naar kijkt.
 
 ## De 8 instellingen voor een klein dagbudget
-
-![De 8 instellingen voor een klein dagbudget](/images/blog/facebook-ads-loodgieter-klein-budget-2.jpg)
 
 Op een klein budget is minder meer. Elke extra advertentieset verdeelt hetzelfde geld over meer proeven, en dan leert Meta van niets genoeg. Loop deze 8 instellingen af in Advertentiebeheer:
 
