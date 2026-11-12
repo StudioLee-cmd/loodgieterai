@@ -4,7 +4,7 @@ export const siteDetails = {
     siteUrl: 'https://www.loodgieterai.nl/',
     metadata: {
         title: 'LoodgieterAI - AI voor jouw loodgietersbedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. LoodgieterAI regelt je agenda, telefoon en administratie volledig automatisch.',
+        description: 'LoodgieterAI: wij maken de website voor jouw loodgietersbedrijf. Chatbot, telefoon en marketing sluit je erop aan via je pakket.',
     },
     language: 'nl-NL',
     locale: 'nl-NL',
