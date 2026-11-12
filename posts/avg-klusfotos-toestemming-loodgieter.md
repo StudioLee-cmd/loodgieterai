@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Werkfotos delen als loodgieter zonder AVG-gedoe: wanneer je toestemming nodig hebt, wat je nooit online zet en hoe je het in tien seconden regelt op de klus."
 image: "/images/blog/avg-klusfotos-toestemming-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media"]
+tags: ["Social Media", "AVG", "Privacy"]
 cluster: "social-media"
 ---
 Een strak gemonteerde cv-ketel, een badkamer die van gedateerd naar showroom ging, een lekkage die je in een half uur onder controle had: dat zijn de foto's die op Instagram en Facebook nieuwe klanten opleveren. Alleen twijfel je bij het uploaden soms een seconde. Mag dit eigenlijk wel? Er staat een stukje van de woonkamer op, of de klant liep net door beeld. En dan blijft de foto in je fotorol hangen in plaats van dat hij je agenda vult.

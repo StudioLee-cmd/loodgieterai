@@ -5,7 +5,7 @@ excerpt: "Loodgieterswerk is seizoensgebonden. Leer hoe je als loodgieter het he
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoenswerk-loodgieter-planning.png"
-tags: ["Planning", "Automatisering"]
+tags: ["Seizoenswerk", "Planning"]
 cluster: "automatisering"
 ---
 

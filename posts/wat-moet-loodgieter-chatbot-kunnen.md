@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Een chatbot op je loodgieterssite is pas waardevol als hij spoed herkent, doorvraagt en een afspraak boekt. Dit zijn de 6 functies die je nodig hebt."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-moet-loodgieter-chatbot-kunnen.jpg"
-tags: ["Chatbot", "Lead opvolging", "AI"]
+tags: ["Chatbot", "Lead opvolging"]
 cluster: "chatbot"
 ---
 

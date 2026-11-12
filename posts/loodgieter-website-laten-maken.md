@@ -4,7 +4,7 @@ excerpt: "Alles over een professionele loodgieter website. Van must-have functie
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgieter-website-laten-maken.jpg"
-tags: ["Website", "Marketing"]
+tags: ["Website"]
 cluster: "website"
 ---
 Als loodgieter heb je gouden handen — maar zonder een goede website vindt niemand je. In 2026 begint vrijwel elke klant met een zoekopdracht op Google. Heb je geen website? Dan besta je niet.

@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Overstappen naar andere bedrijfssoftware als loodgieter? Zo controleer je klantdata, test je koppelingen en beperk je het risico op verstoring."
 image: "/images/blog/bedrijfssoftware-overstappen-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM"]
+tags: ["Bedrijfssoftware", "CRM"]
 cluster: "automatisering"
 ---
 

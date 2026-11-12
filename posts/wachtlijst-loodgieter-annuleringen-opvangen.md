@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-loodgieter-annuleringen-opvangen.jpg"
-tags: ["No-shows", "Planning", "Groei"]
+tags: ["No-shows", "Planning"]
 ---
 ## Elke loodgieter kent het gat in de planning
 

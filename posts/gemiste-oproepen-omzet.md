@@ -5,7 +5,7 @@ excerpt: "Onderzoek wijst uit: 62% van de bellers belt direct de volgende als er
 date: "2026-01-08"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-oproepen-omzet.png"
-tags: ["Groei", "Voice AI"]
+tags: ["Geld Verdienen", "Sales"]
 cluster: "voice-ai"
 ---
 Als loodgieter weet je als geen ander: een klein lek kan grote gevolgen hebben. Een druppelende kraan lijkt onschuldig, maar kan duizenden liters water verspillen. Precies zo werkt het met je bereikbaarheid. Die ene gemiste oproep lijkt geen ramp. "Ik bel zo wel terug", denk je. Maar de realiteit van de markt is keihard.

@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Je klantenbestand staat op naam, maar onderhoud hoort bij het pand. Zo leg je onderhoudscycli per adres vast en mis je geen beurt meer."
 image: "/images/blog/onderhoudscycli-per-adres-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "CRM"]
+tags: ["CRM", "Onderhoud"]
 cluster: "automatisering"
 ---
 

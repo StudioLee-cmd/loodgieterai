@@ -5,7 +5,7 @@ date: "2026-04-29"
 excerpt: "Openingstijden + 24/7 spoeddienst op je Google Bedrijfsprofiel als loodgieter zonder dat Google verward raakt. Twee profielen, één profiel."
 image: "/images/blog/gbp-openingstijden-spoeddienst-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Lokale SEO", "Google", "Spoed"]
+tags: ["Spoeddienst", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

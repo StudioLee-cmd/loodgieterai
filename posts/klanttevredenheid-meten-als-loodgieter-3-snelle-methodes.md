@@ -5,7 +5,7 @@ date: "2026-05-25"
 excerpt: "Drie kant-en-klare methodes om na elke klus te meten of de klant tevreden is. Setup onder 1 uur, werkt zonder receptie en zonder marketing-afdeling."
 image: "/images/blog/klanttevredenheid-meten-als-loodgieter-3-snelle-methodes.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Reviews"]
+tags: ["Klanttevredenheid", "Reviews"]
 cluster: "automatisering"
 ---
 

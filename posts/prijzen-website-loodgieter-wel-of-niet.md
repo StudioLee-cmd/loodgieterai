@@ -5,7 +5,7 @@ date: "2026-04-18"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-loodgieter-wel-of-niet.jpg"
-tags: ["Website", "Klanten"]
+tags: ["Website", "Prijzen"]
 ---
 ## Het dilemma dat elke loodgieter herkent
 

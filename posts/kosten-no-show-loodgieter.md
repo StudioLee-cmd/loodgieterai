@@ -5,7 +5,7 @@ date: "2026-04-15"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kosten-no-show-loodgieter.jpg"
-tags: ["No-shows", "Automatisering"]
+tags: ["No-shows", "Kosten"]
 ---
 Je staat om half negen voor de deur. Gereedschap in de bus, materiaal ingekocht, route gereden. Je belt aan. Niemand thuis. Geen bericht, geen afmelding, geen reactie. Weer een no-show.
 

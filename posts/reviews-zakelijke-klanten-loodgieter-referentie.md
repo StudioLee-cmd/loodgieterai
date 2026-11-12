@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Je zakelijke opdrachtgever zet nooit een ster op Google, en daar heeft hij een reden voor. Dit vraag je in plaats daarvan, en waar het wel werkt."
 image: "/images/blog/reviews-zakelijke-klanten-loodgieter-referentie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Klanten"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 

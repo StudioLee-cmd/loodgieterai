@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe loodgieters social media inzetten om meer klanten te bereik
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-loodgieters-online.png"
-tags: ["Social Media", "Marketing"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 ## Waarom social media onmisbaar is voor loodgieters

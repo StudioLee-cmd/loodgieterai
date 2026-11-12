@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "De vragen-sectie van je Google Bedrijfsprofiel bestaat niet meer. Waar je spoed-, prijs- en werkgebiedantwoorden vanaf nu moeten staan om gevonden te worden."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-qa-sectie-loodgieter.jpg"
-tags: ["Vindbaarheid", "Google"]
+tags: ["Google", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

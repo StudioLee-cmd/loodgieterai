@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/loodgietersbedrijf-automatiseren.jpg"
-tags: ["Automatisering"]
+tags: ["Tijdbesparing"]
 ---
 ## De helft van je werkweek zit niet in de buizen
 

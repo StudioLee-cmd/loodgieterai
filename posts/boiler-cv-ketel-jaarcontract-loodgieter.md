@@ -5,7 +5,7 @@ date: "2026-05-02"
 excerpt: "CV-ketel en boiler jaarcontracten als loodgieter-specialisme: marges, klantbinding, en de twee scenario's waarin het juist niet rendabel is."
 image: "/images/blog/boiler-cv-ketel-jaarcontract-loodgieter.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie"]
+tags: ["CV Ketel", "Boiler"]
 cluster: "automatisering"
 ---
 

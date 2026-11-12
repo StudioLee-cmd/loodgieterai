@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "Facebook ads als loodgieter op een tientje per dag: welke klus je adverteert, de 8 instellingen en hoe je in 10 minuten per week ziet of het loont."
 image: "/images/blog/facebook-ads-loodgieter-klein-budget.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Facebook", "Social Media"]
+tags: ["Facebook", "Ads", "Social Media"]
 cluster: "social-media"
 ---
 

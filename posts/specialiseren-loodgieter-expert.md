@@ -6,7 +6,7 @@ excerpt: "Als loodgieter kun je alles doen, maar moet je dat ook? Ontdek waarom 
 image: "/images/blog/specialiseren-loodgieter-expert.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Groei"]
+tags: ["Specialisatie"]
 cluster: "branding"
 ---
 

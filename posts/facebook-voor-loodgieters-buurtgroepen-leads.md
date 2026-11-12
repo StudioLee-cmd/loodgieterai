@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Instagram is mooi maar levert geen lekkage-klussen op. Lees waarom Facebook-buurtgroepen 3x meer loodgieter-leads brengen en hoe je er zonder spam binnenkomt."
 image: "/images/blog/facebook-voor-loodgieters-buurtgroepen-leads.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Facebook"]
+tags: ["Facebook", "Lokale leads"]
 cluster: "social-media"
 ---
 

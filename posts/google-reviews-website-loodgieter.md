@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-website-loodgieter.jpg"
-tags: ["Reviews", "Website", "Groei"]
+tags: ["Reviews", "Website"]
 ---
 ## Reviews op Google zijn goed, reviews op je website zijn beter
 
