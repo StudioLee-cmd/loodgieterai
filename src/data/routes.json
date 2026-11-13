@@ -3,7 +3,7 @@
   "kicker": "AI telefonist voor loodgieters",
   "title": "Wat gebeurt er als een klant belt?",
   "shape": "fork",
-  "sum": "Elk gesprek eindigt bij jou: als afspraak in je agenda of, bij spoed, direct aan de lijn. Daarna de samenvatting.",
+  "sum": "Elk gesprek eindigt bij jou: als afspraak of, bij spoed, direct aan de lijn.",
   "cols": "repeat(4,1fr)",
   "mcols": "1fr 1fr",
   "mgap": "40px 12px",
@@ -133,7 +133,7 @@
   "kicker": "Chatbot voor loodgieters",
   "title": "Wat gebeurt er met een vraag op je website?",
   "shape": "conversation",
-  "sum": "De bezoeker kreeg meteen antwoord, jij hebt de lead in WhatsApp. Ook 's avonds en in het weekend.",
+  "sum": "Meteen antwoord voor de klant, de lead in jouw WhatsApp. Ook in het weekend.",
   "cols": "1.3fr 1fr",
   "mcols": "1fr",
   "gap": "16px 48px",
@@ -159,7 +159,7 @@
     "n": 2,
     "kind": "us",
     "when": "Chatbot, direct",
-    "label": "“Dit zijn onze prijzen en openingstijden. Zal ik je laten terugbellen?”",
+    "label": "“Hier zijn onze tarieven. Zal ik meteen een afspraak voor je inplannen?”",
     "say": "De chatbot antwoordt met jouw diensten, prijzen en veelgestelde vragen.",
     "at": [
      "1",
@@ -175,7 +175,7 @@
     "n": 3,
     "kind": "us",
     "when": "Chatbot",
-    "label": "“Wat is je naam en telefoonnummer?”",
+    "label": "“Graag. Wat is je naam en telefoonnummer?”",
     "say": "Hij vraagt naam en telefoonnummer.",
     "at": [
      "1",
@@ -230,7 +230,7 @@
   "title": "Hoe word je gevonden in Google?",
   "shape": "loop",
   "max": 760,
-  "sum": "Elke maand nieuwe artikelen, een bijgewerkt bedrijfsprofiel en een rapport van wat het opleverde.",
+  "sum": "Elke maand nieuwe artikelen, een bijgewerkt profiel en een rapport.",
   "cols": "1fr 1fr",
   "mcols": "1fr 1fr",
   "gap": "44px 64px",
@@ -332,7 +332,7 @@
   "kicker": "Reviews voor loodgieters",
   "title": "Hoe wordt een klus een Google review?",
   "shape": "split",
-  "sum": "Goede reviews komen vanzelf op Google; bij een negatieve weet jij het direct en reageer je professioneel.",
+  "sum": "Goede reviews komen op Google; bij een negatieve weet jij het direct.",
   "cols": "repeat(4,1fr)",
   "mcols": "1fr 1fr",
   "mgap": "40px 12px",
@@ -456,12 +456,12 @@
  },
  "social-media": {
   "kicker": "Social media voor loodgieters",
-  "title": "Hoe komt er elke week content op je kanalen?",
+  "title": "Hoe komt er content op je kanalen?",
   "shape": "entry-loop",
-  "sum": "Eén keer de analyse, daarna elke maand: kalender, posts, automatisch geplaatst en bijgestuurd op wat werkte.",
-  "cols": "repeat(3,1fr)",
+  "sum": "Eén keer de analyse, daarna elke maand: kalender, posts, posten en bijsturen.",
+  "cols": "repeat(4,1fr)",
   "mcols": "1fr 1fr",
-  "gap": "34px 40px",
+  "gap": "34px 34px",
   "mgap": "30px 14px",
   "steps": [
    {
@@ -523,8 +523,8 @@
     "sub": "op het ingeplande moment",
     "say": "Alles wordt automatisch gepost.",
     "at": [
-     "3",
-     "2"
+     "4",
+     "1"
     ],
     "m": [
      "2",
@@ -540,7 +540,7 @@
     "sub": "wat werkte",
     "say": "Elke maand kijken we wat werkte en sturen we bij.",
     "at": [
-     "2",
+     "3",
      "2"
     ],
     "m": [
@@ -581,7 +581,7 @@
   "kicker": "CRM voor loodgieters",
   "title": "Waar blijven al je klantgegevens?",
   "shape": "merge",
-  "sum": "Wat nu op vier plekken staat, staat op één: per klant alles terug te vinden, en de opvolging gaat vanzelf.",
+  "sum": "Wat op vier plekken stond, staat op één, en de opvolging gaat vanzelf.",
   "cols": "1fr 1.3fr 1fr",
   "mcols": "1fr 1fr",
   "gap": "12px 44px",
@@ -724,7 +724,7 @@
   "kicker": "Automatisering voor loodgieters",
   "title": "Wat loopt er vanzelf rond een afspraak?",
   "shape": "timeline",
-  "sum": "Van eerste aanvraag tot review gaat elk bericht op het juiste moment, zonder dat jij er aan hoeft te denken.",
+  "sum": "Van aanvraag tot review gaat elk bericht vanzelf op het juiste moment.",
   "cols": "repeat(3,1fr)",
   "mcols": "1fr",
   "gap": "32px 40px",

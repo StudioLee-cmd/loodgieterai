@@ -9,7 +9,7 @@ import "./route/route.css";
 // in StudioLee Northstar (build.py json niche --trade <trade>); route.js and route.css are copied from there.
 type Slot = keyof typeof routes;
 type Step = { id: string; n: number; kind?: string; icon?: string; path?: string; warn?: boolean; tight?: boolean; when?: string; label: string; sub?: string; show?: string[]; say?: string; at: string[]; m: string[] };
-type Scene = { kicker: string; title: string; sum: string; shape: string; cols: string; mcols: string; gap?: string; mgap?: string; mrows?: string; max?: number; steps: Step[]; edges: unknown[]; lanes?: { label: string; at: string[]; m: string[] }[] };
+type Scene = { kicker: string; title: string; sum: string; shape: string; cols: string; mcols: string; gap?: string; mgap?: string; mrows?: string; max?: number; steps: Step[]; edges: unknown[]; lanes?: { label: string; at: string[]; m: string[]; mhide?: boolean }[] };
 
 const RouteExplainer: React.FC<{ slot: Slot }> = ({ slot }) => {
   const ref = useRef<HTMLElement>(null);
@@ -43,10 +43,9 @@ const RouteExplainer: React.FC<{ slot: Slot }> = ({ slot }) => {
           data-sum={s.sum}
           style={s.max ? { maxWidth: s.max, marginLeft: "auto", marginRight: "auto" } : undefined}
         >
-          <figcaption className="rt-head"><span className="rt-kicker">{s.kicker}</span></figcaption>
           <ol className="rt-map" style={map as React.CSSProperties}>
             {(s.lanes || []).map((lane) => (
-              <li key={lane.label} className="rt-lane" aria-hidden="true" style={place(lane.at, lane.m)}>{lane.label}</li>
+              <li key={lane.label} className="rt-lane" aria-hidden="true" data-m={lane.mhide ? "none" : undefined} style={place(lane.at, lane.m)}>{lane.label}</li>
             ))}
             {s.steps.map((st) => {
               const kind = st.kind || "card";
