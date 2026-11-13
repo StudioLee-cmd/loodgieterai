@@ -143,7 +143,7 @@
     "n": 1,
     "kind": "them",
     "when": "Bezoeker, zondagavond",
-    "label": "“Wat kost dat ongeveer, en wanneer kunnen jullie?”",
+    "label": "“Wat kosten jullie ongeveer, en wanneer kunnen jullie langskomen?”",
     "say": "Een bezoeker stelt een vraag op je website, ook 's avonds en in het weekend.",
     "at": [
      "1",
@@ -159,7 +159,11 @@
     "n": 2,
     "kind": "us",
     "when": "Chatbot, direct",
-    "label": "“Ik noem je meteen onze prijzen. Zal ik ook een afspraak voor je inplannen?”",
+    "label": "“Dat hangt af van de klus; onze tarieven staan hieronder. Zal ik een afspraak voor je inplannen?”",
+    "show": [
+     "jouw tarieven",
+     "jouw openingstijden"
+    ],
     "say": "De chatbot antwoordt met jouw diensten, prijzen en veelgestelde vragen.",
     "at": [
      "1",
@@ -171,12 +175,12 @@
     ]
    },
    {
-    "id": "gegevens",
+    "id": "ja",
     "n": 3,
-    "kind": "us",
-    "when": "Chatbot",
-    "label": "“Graag. Wat is je naam en telefoonnummer?”",
-    "say": "Hij vraagt naam en telefoonnummer.",
+    "kind": "them",
+    "when": "Bezoeker",
+    "label": "“Ja graag, liefst deze week.”",
+    "say": "De bezoeker wil een afspraak.",
     "at": [
      "1",
      "3"
@@ -187,8 +191,24 @@
     ]
    },
    {
-    "id": "lead",
+    "id": "gegevens",
     "n": 4,
+    "kind": "us",
+    "when": "Chatbot",
+    "label": "“Wat is je naam en telefoonnummer?”",
+    "say": "Hij vraagt naam en telefoonnummer.",
+    "at": [
+     "1",
+     "4"
+    ],
+    "m": [
+     "1",
+     "4"
+    ]
+   },
+   {
+    "id": "lead",
+    "n": 5,
     "icon": "whatsapp",
     "label": "Lead via WhatsApp",
     "sub": "direct naar jou",
@@ -200,11 +220,11 @@
     "say": "Elke lead, afspraak of vraag komt direct bij jou binnen via WhatsApp.",
     "at": [
      "2",
-     "1/span 3"
+     "1/span 4"
     ],
     "m": [
      "1",
-     "4"
+     "5"
     ],
     "path": "M7.9 20A9 9 0 1 0 4 16.1L2 22zM9 10h.01M12 10h.01M15 10h.01"
    }
@@ -216,6 +236,10 @@
    ],
    [
     "antwoord",
+    "ja"
+   ],
+   [
+    "ja",
     "gegevens"
    ],
    [
