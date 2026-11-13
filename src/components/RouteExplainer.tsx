@@ -69,7 +69,6 @@ const RouteExplainer: React.FC<{ slot: Slot }> = ({ slot }) => {
               );
             })}
           </ol>
-          <p className="rt-hint">Wijs een stap aan of tik erop om hem rustig te lezen.</p>
         </figure>
       </div>
     </section>

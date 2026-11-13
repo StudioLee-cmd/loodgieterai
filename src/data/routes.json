@@ -159,7 +159,7 @@
     "n": 2,
     "kind": "us",
     "when": "Chatbot, direct",
-    "label": "“Hier zijn onze tarieven. Zal ik meteen een afspraak voor je inplannen?”",
+    "label": "“Ik noem je meteen onze prijzen. Zal ik ook een afspraak voor je inplannen?”",
     "say": "De chatbot antwoordt met jouw diensten, prijzen en veelgestelde vragen.",
     "at": [
      "1",
@@ -490,7 +490,7 @@
     "say": "Er komt een contentkalender voor de hele maand.",
     "at": [
      "2",
-     "1"
+     "1/span 2"
     ],
     "m": [
      "1",
@@ -540,7 +540,7 @@
     "sub": "wat werkte",
     "say": "Elke maand kijken we wat werkte en sturen we bij.",
     "at": [
-     "3",
+     "4",
      "2"
     ],
     "m": [
