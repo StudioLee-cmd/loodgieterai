@@ -17,9 +17,16 @@ function files(target: string): string[] {
     return fs.readdirSync(full).sort().flatMap((name) => (name.startsWith('.') ? [] : files(path.join(target, name))));
 }
 
+// The article as a reader sees it: its frontmatter tags: line is taxonomy, so a tag change dates nothing (same rule
+// in scripts/lastmod.mjs).
+const content = (text: string): string => text.replace(/^tags:.*\r?\n/m, '');
+
 function digest(paths: string[]): string {
     const hash = createHash('sha256');
-    for (const file of paths) hash.update(file).update('\0').update(fs.readFileSync(path.join(ROOT, file))).update('\0');
+    for (const file of paths) {
+        const raw = fs.readFileSync(path.join(ROOT, file));
+        hash.update(file).update('\0').update(file.endsWith('.md') ? content(raw.toString('utf8')) : raw).update('\0');
+    }
     return hash.digest('hex').slice(0, 16);
 }
 
