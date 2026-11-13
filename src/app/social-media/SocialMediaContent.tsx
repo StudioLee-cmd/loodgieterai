@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import { BsCheck2Circle, BsArrowRight, BsWhatsapp, BsCalendar3, BsBarChart, BsCamera, BsMegaphone, BsPalette, BsGraphUp, BsPeople } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
+import RouteExplainer from "@/components/RouteExplainer";
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
 const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;
 const brand = siteDetails.siteName;
@@ -113,6 +114,9 @@ export default function SocialMediaContent() {
           </div>
         </div>
       </section>
+
+      <RouteExplainer slot="social-media" />
+
 
       {/* Pain Points */}
       <section className="py-16 px-4">
