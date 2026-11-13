@@ -1,0 +1,68 @@
+{
+ "voice-ai": {
+  "title": "Wat gebeurt er als een klant belt?",
+  "steps": [
+   "Een klant belt: \"Mijn afvoer in de badkamer loopt niet meer door.\"",
+   "De AI telefonist neemt op in de naam van jouw loodgietersbedrijf.",
+   "Hij checkt je beschikbaarheid en plant de afspraak in.",
+   "Spoed? Dan verbindt hij direct met jou door.",
+   "Na elk gesprek krijg je een samenvatting via WhatsApp."
+  ]
+ },
+ "chatbot": {
+  "title": "Wat gebeurt er met een vraag op je website?",
+  "steps": [
+   "Een bezoeker stelt een vraag op je website.",
+   "De chatbot antwoordt met jouw diensten, prijzen en veelgestelde vragen.",
+   "Hij vraagt naam en telefoonnummer.",
+   "Elke lead, afspraak of vraag komt direct bij jou binnen via WhatsApp."
+  ]
+ },
+ "seo": {
+  "title": "Hoe word je gevonden in Google?",
+  "steps": [
+   "Wij zoeken uit op welke woorden klanten in jouw regio zoeken.",
+   "Daarover verschijnen automatisch blogartikelen op je website.",
+   "Je lokale vindbaarheid en Google bedrijfsprofiel worden bijgewerkt.",
+   "Elke maand zie je in een rapport wat het opleverde."
+  ]
+ },
+ "reviews": {
+  "title": "Hoe wordt een klus een Google review?",
+  "steps": [
+   "De klus is klaar en de klant is geholpen.",
+   "De klant krijgt automatisch een reviewverzoek.",
+   "De klant laat in een paar tikken een review achter.",
+   "De review verschijnt op Google bij jouw bedrijf."
+  ]
+ },
+ "social-media": {
+  "title": "Hoe komt er elke week content op je kanalen?",
+  "steps": [
+   "We analyseren je huidige social media en je concurrenten.",
+   "Er komt een contentkalender voor de hele maand.",
+   "De posts worden met AI gemaakt, passend bij je merk.",
+   "Alles wordt automatisch gepost.",
+   "Elke maand kijken we wat werkte en sturen we bij."
+  ]
+ },
+ "crm": {
+  "title": "Waar blijven al je klantgegevens?",
+  "steps": [
+   "We importeren je huidige klantenbestand.",
+   "Alle klanten staan daarna op één plek.",
+   "Per klant zie je de volledige historie.",
+   "De opvolging gaat automatisch, zodat je geen klant vergeet."
+  ]
+ },
+ "automatisering": {
+  "title": "Wat loopt er vanzelf rond een afspraak?",
+  "steps": [
+   "Er komt een aanvraag binnen, of je mist een oproep.",
+   "De lead krijgt automatisch een bericht via WhatsApp of sms.",
+   "De afspraak staat in je agenda.",
+   "De klant krijgt een herinnering voor je langskomt.",
+   "Na de klus gaat het reviewverzoek er vanzelf uit."
+  ]
+ }
+}

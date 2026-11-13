@@ -20,6 +20,7 @@ import {
   BsShieldCheck,
   BsQuestionCircle,
 } from "react-icons/bs";
+import ExplainerVideo from "@/components/ExplainerVideo";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = 'loodgieter';
@@ -207,6 +208,8 @@ export default function ReviewsContent() {
         </motion.div>
 
       </section>
+
+      <ExplainerVideo slot="reviews" />
 
       {/* Waarom zijn reviews belangrijk? */}
       <section className="py-20 bg-gray-50 dark:bg-neutral-800/50">

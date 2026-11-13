@@ -17,6 +17,7 @@ import {
   BsQuestionCircle,
   BsXCircle,
 } from "react-icons/bs";
+import ExplainerVideo from "@/components/ExplainerVideo";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
@@ -175,6 +176,8 @@ export default function ChatbotContent() {
         </motion.div>
 
       </section>
+
+      <ExplainerVideo slot="chatbot" />
 
       {/* Wat is een AI Chatbot? */}
       <section className="py-16 px-4">

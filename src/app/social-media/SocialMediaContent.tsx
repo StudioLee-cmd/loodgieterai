@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { BsCheck2Circle, BsArrowRight, BsWhatsapp, BsCalendar3, BsBarChart, BsCamera, BsMegaphone, BsPalette, BsGraphUp, BsPeople } from "react-icons/bs";
+import ExplainerVideo from "@/components/ExplainerVideo";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
@@ -93,6 +94,8 @@ export default function SocialMediaContent() {
         </motion.div>
 
       </section>
+
+      <ExplainerVideo slot="social-media" />
 
       {/* What is this - SEO content */}
       <section className="py-16 px-4 bg-[var(--card-background)]">

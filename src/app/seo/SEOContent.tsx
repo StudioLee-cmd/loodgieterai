@@ -20,6 +20,7 @@ import {
   BsCalendarCheck,
   BsQuestionCircle,
 } from "react-icons/bs";
+import ExplainerVideo from "@/components/ExplainerVideo";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = 'loodgieter';
@@ -205,6 +206,8 @@ export default function SEOContent() {
         </motion.div>
 
       </section>
+
+      <ExplainerVideo slot="seo" />
 
       {/* Wat is SEO? */}
       <section className="py-20 bg-gray-50 dark:bg-neutral-800/50">

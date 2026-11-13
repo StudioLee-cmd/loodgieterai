@@ -19,6 +19,7 @@ import {
   BsCalendar3,
   BsBookmark,
 } from "react-icons/bs";
+import ExplainerVideo from "@/components/ExplainerVideo";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
@@ -175,6 +176,8 @@ export default function CrmContent() {
         </motion.div>
 
       </section>
+
+      <ExplainerVideo slot="crm" />
 
       {/* Pain points */}
       <section className="py-12 md:py-16 px-4 bg-foreground/5">

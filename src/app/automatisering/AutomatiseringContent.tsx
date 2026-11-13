@@ -19,6 +19,7 @@ import {
   BsBoxSeam,
   BsTelephone,
 } from "react-icons/bs";
+import ExplainerVideo from "@/components/ExplainerVideo";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = siteDetails.niche?.toLowerCase() || "loodgieters";
@@ -202,6 +203,8 @@ export default function AutomatiseringContent() {
           </div>
         </motion.div>
       </section>
+
+      <ExplainerVideo slot="automatisering" />
 
       {/* Wat is workflow automatisering? */}
       <section className="py-16 px-4">

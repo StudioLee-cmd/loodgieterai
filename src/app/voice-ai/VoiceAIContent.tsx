@@ -17,6 +17,7 @@ import {
   BsXCircle,
   BsTelephoneX,
 } from "react-icons/bs";
+import ExplainerVideo from "@/components/ExplainerVideo";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
@@ -175,6 +176,8 @@ export default function VoiceAIContent() {
         </motion.div>
 
       </section>
+
+      <ExplainerVideo slot="voice-ai" />
 
       {/* Wat is een Voice AI telefonist? */}
       <section className="py-16 px-4">
