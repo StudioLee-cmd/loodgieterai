@@ -4,6 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Header from "@/components/Header";
 import ReviewPricing from "@/components/Review/ReviewPricing";
+import RouteExplainer from "@/components/RouteExplainer";
 import { motion } from "framer-motion";
 import { BsArrowRight, BsWhatsapp, BsCalendarCheck, BsPen, BsBoxSeam, BsSend } from 'react-icons/bs';
 
@@ -53,38 +54,10 @@ export default function ReviewPage() {
             {/* Pricing Section */}
             <ReviewPricing />
 
-            {/* Process Explanation Section */}
-            <section className="py-20 bg-gray-50 dark:bg-neutral-800/50">
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <div className="text-center mb-16">
-                        <span className="text-blue-600 dark:text-blue-400 font-bold tracking-wider uppercase text-sm">Onze Werkwijze</span>
-                        <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mt-2">
-                            Van Bestelling tot Review-Magneet
-                        </h2>
-                    </div>
-
-                    <div className="grid grid-cols-1 md:grid-cols-5 gap-4 relative">
-                        {/* Connecting Line (Desktop) */}
-                        <div className="hidden md:block absolute top-12 left-[10%] right-[10%] h-0.5 bg-gray-200 dark:bg-gray-700 -z-10"></div>
-
-                        {[
-                            { icon: BsBoxSeam, title: "1. Bestel of Bel", desc: "Bestel direct of plan eerst een gratis adviesgesprek." },
-                            { icon: BsSend, title: "2. Upload", desc: "Je ontvangt een mail om je logo en wensen te sturen." },
-                            { icon: BsPen, title: "3. Design", desc: "Binnen 7 dagen ontvang je professionele ontwerpen." },
-                            { icon: BsWhatsapp, title: "4. Feedback", desc: "Jij geeft akkoord of vraagt aanpassingen." },
-                            { icon: BsCheckCircleFill, title: "5. Productie", desc: "Na akkoord starten we productie (+- 1 week)." }
-                        ].map((step, idx) => (
-                            <div key={idx} className="flex flex-col items-center text-center group">
-                                <div className="w-24 h-24 bg-white dark:bg-white/5 rounded-full flex items-center justify-center shadow-lg border-4 border-white dark:border-white/5 mb-6 group-hover:border-blue-100 dark:group-hover:border-blue-900 group-hover:scale-110 transition-all">
-                                    <step.icon size={32} className="text-blue-600 dark:text-blue-400" />
-                                </div>
-                                <h3 className="text-lg font-bold mb-2 dark:text-gray-100">{step.title}</h3>
-                                <p className="text-sm text-gray-500 dark:text-gray-400 max-w-[150px]">{step.desc}</p>
-                            </div>
-                        ))}
-                    </div>
-                </div>
-            </section>
+            {/* Zo werkt het: the route from order to review, built in the page (scene niche/review-pakket) */}
+            <div className="bg-gray-50 dark:bg-neutral-800/50">
+                <RouteExplainer slot="review-pakket" />
+            </div>
             {/* Workflow image */}
             <section className="py-12 px-4">
                 <div className="max-w-5xl mx-auto">
