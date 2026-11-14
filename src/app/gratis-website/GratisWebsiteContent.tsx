@@ -7,6 +7,7 @@ import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsTelephone, BsGeoAlt, BsCheckCircleFill, BsArrowRight } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
+import RouteExplainer from "@/components/RouteExplainer";
 
 const niche = siteDetails.niche || "Bedrijven";
 const nicheLower = niche.toLowerCase();
@@ -231,27 +232,10 @@ export default function GratisWebsiteContent() {
 
       </section>
 
-      {/* How it works */}
-      <section className="py-16 px-4 bg-[var(--card-background)]">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-10">Hoe het werkt</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {[
-              { step: "1", title: "Naam, plaats, en hoe we je bereiken", desc: "Meer vragen we niet. Minder dan een minuut werk, geen account, geen betaalgegevens." },
-              { step: "2", title: "Wij zetten jouw gegevens in het ontwerp", desc: "Je hoeft zelf niets in te richten. Wij kijken naar je huidige site en je omgeving en maken het ontwerp klaar." },
-              { step: "3", title: "Je krijgt meteen een live link plus het bestand", desc: "Binnen 48 uur staat je ontwerp online op een eigen link en is het bestand van jou. Wil je 'm ook echt laten draaien, dan begint dat bij €79 per maand." },
-            ].map((s) => (
-              <div key={s.step} className="text-center">
-                <div className="w-12 h-12 rounded-full bg-primary text-black font-bold text-xl flex items-center justify-center mx-auto mb-4">
-                  {s.step}
-                </div>
-                <h3 className="text-lg font-bold mb-2">{s.title}</h3>
-                <p className="text-foreground-accent text-sm">{s.desc}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      
+      {/* How it works: the route after the request, built in the page (scene niche/gratis-website) */}
+      <section className="pb-16 bg-[var(--card-background)]">
+        <RouteExplainer slot="gratis-website" />
+        <div className="px-4">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -273,6 +257,7 @@ export default function GratisWebsiteContent() {
             </p>
           </motion.div>
 
+        </div>
       </section>
 
       {/* Why free section - SEO content */}
