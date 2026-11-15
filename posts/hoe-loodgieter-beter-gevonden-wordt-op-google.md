@@ -87,8 +87,6 @@ Bij LoodgieterAI combineren we alles: Google Bedrijfsprofiel optimalisatie, loka
 
 Je hoeft maar **15 minuten per maand** te investeren voor een update-call. De rest regelen wij.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 ## Conclusie
 
 Online vindbaarheid is geen luxe voor loodgieters — het is de basis van je klantenwerving. Met een geoptimaliseerd Google Bedrijfsprofiel, lokale SEO, reviews op autopilot en AI-vindbaarheid zorg je ervoor dat je altijd bovenaan staat als iemand een loodgieter nodig heeft.

@@ -99,4 +99,4 @@ Juist dan. De meeste anderstalige spoedbellers bellen buiten kantooruren, precie
 
 Je bent loodgieter, geen telefonist en al helemaal geen tolk. Jij lost de lekkage op, wij regelen de rest. Een meertalige [virtuele telefonist](/voice-ai) zorgt dat elke beller, in welke taal dan ook, netjes te woord wordt gestaan en dat de klus in je agenda belandt. Twijfel je of het bij jouw werkgebied past, dan zie je dat het snelst met een [gratis ai scan voor loodgieters](/gratis-scan): daarin kijken we mee welke talen en welke bereikbaarheid voor jouw bedrijf het meeste opleveren.
 
-Bij LoodgieterAI werken we bovendien met een Groei-of-Geld-Terug Garantie, dus je probeert het zonder risico. Wil je liever eerst zien hoe binnenkomende chats werken, bekijk dan ook de [ai chatbot voor loodgieters](/chatbot) voor anderstalige bezoekers op je website. Meer opdrachten, minder gedoe, in elke taal.
+Wil je liever eerst zien hoe binnenkomende chats werken, bekijk dan ook de [ai chatbot voor loodgieters](/chatbot) voor anderstalige bezoekers op je website. Meer opdrachten, minder gedoe, in elke taal.

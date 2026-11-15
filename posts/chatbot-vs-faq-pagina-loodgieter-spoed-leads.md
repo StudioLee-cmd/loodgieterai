@@ -83,6 +83,6 @@ De opzet die het beste werkt zet beide in voor waar ze goed in zijn. De FAQ-pagi
 
 Zet daarom onder elk FAQ-antwoord de mogelijkheid om door te vragen, en laat je bot verwijzen naar de pagina als iemand het uitgebreide verhaal wil. Welke functies zo'n bot minimaal moet hebben, hebben we [per functie uitgewerkt](/blog/wat-moet-loodgieter-chatbot-kunnen), en hoe je de opvang zelf inricht staat in ons stuk over [chat op je loodgieterswebsite](/blog/website-chat-loodgieter-leads-opvangen).
 
-Jij lost de lekkage op, wij regelen de rest. Wil je dat je site dit allebei doet zonder dat je er zelf een avond in gaat zitten, dan kijken we mee. Bij een [gratis website voor loodgieters](/gratis-website) zet LoodgieterAI de vragenpagina en een [chatbot voor loodgieters](/chatbot) er meteen goed in, met onze Groei-of-Geld-Terug Garantie erop.
+Jij lost de lekkage op, wij regelen de rest. Wil je dat je site dit allebei doet zonder dat je er zelf een avond in gaat zitten, dan kijken we mee.
 
 <p class="lees-ook"><strong>Lees ook:</strong> <a href="/blog/ai-chatbot-trainen-loodgieter-data">AI-chatbot trainen op je loodgieter-data: 4 manieren</a> &rarr;</p>

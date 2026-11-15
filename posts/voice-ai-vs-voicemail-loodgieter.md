@@ -77,4 +77,4 @@ Die herkent de AI aan de intake en zet hij meteen naar je door volgens je dienst
 
 ## Stop met bereikbaarheid die ophoudt bij een bandje
 
-Een voicemail is geen bereikbaarheid, het is een beleefde manier om "nee" te zeggen tegen een klant die klaarstaat om te betalen. Zolang je concurrent wél opneemt, is dat elke avond een paar klussen die je laat liggen zonder het te merken. Bij LoodgieterAI zetten we een [virtuele telefonist](/voice-ai) voor je op die spoed herkent, afspraken inplant en elk gesprek voor je samenvat, met een Groei-of-Geld-Terug Garantie. Begin met een [gratis ai scan voor loodgieters](/gratis-scan) en zie precies hoeveel avondoproepen je nu naar de voicemail, en dus naar de concurrent, stuurt.
+Een voicemail is geen bereikbaarheid, het is een beleefde manier om "nee" te zeggen tegen een klant die klaarstaat om te betalen. Zolang je concurrent wél opneemt, is dat elke avond een paar klussen die je laat liggen zonder het te merken. Begin met een [gratis ai scan voor loodgieters](/gratis-scan) en zie precies hoeveel avondoproepen je nu naar de voicemail, en dus naar de concurrent, stuurt.

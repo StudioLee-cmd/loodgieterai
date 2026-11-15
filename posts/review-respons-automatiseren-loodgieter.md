@@ -85,6 +85,6 @@ Daarom werkt het het beste als het verzamelen en het reageren in één systeem z
 
 Jij lost de lekkage op, het reageren op reviews hoeft geen aparte avondtaak meer te zijn. Met de juiste templates en een simpele akkoord-stap houd je je profiel bij zonder er tijd in te steken, terwijl elke reactie persoonlijk blijft.
 
-Wil je weten waar bij jou de meeste reviews en reacties blijven liggen? Vraag een [gratis AI-scan voor loodgieters](/gratis-scan) aan en we laten zien wat er automatisch geregeld kan worden. Onze aanpak werkt met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast. Meer opdrachten, minder gedoe, en een reputatie die zichzelf onderhoudt.
+Wil je weten waar bij jou de meeste reviews en reacties blijven liggen? Vraag een [gratis AI-scan voor loodgieters](/gratis-scan) aan en we laten zien wat er automatisch geregeld kan worden. Meer opdrachten, minder gedoe, en een reputatie die zichzelf onderhoudt.
 
 <p style="background-color: rgba(193, 255, 114, 0.18); border-radius: 8px; padding: 12px 16px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/nfc-qr-review-kaart-loodgieter">NFC, QR of kaartje: reviewtools voor loodgieters</a> &rarr;</p>
