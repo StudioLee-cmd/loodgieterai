@@ -85,7 +85,7 @@ Nee. De flow wordt voor je ingericht en gekoppeld aan je bestaande agenda en tel
 
 Het onderweg-bericht is het kleinste stukje communicatie in je hele werkdag, en tegelijk een van de meest bepalende voor hoe een klant je ervaart. Het verschil zit hem niet in of je het stuurt, maar in of je het altijd stuurt, ook op de dag dat je vijf klussen achter elkaar draait. Dat lukt alleen als je het uit je eigen handen haalt.
 
-Benieuwd welke berichten in jouw bedrijf zich het makkelijkst laten automatiseren? Bij LoodgieterAI richten we het ['ik kom eraan' bericht automatiseren](/automatisering) en de rest van je klantcontact volledig voor je in, gekoppeld aan de agenda die je al gebruikt. Doe de [gratis ai scan voor loodgieters](/gratis-scan) en je ziet precies waar je tijd weglekt en wat een geautomatiseerde flow je per week oplevert. We werken met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast. Jij lost de lekkage op, wij regelen de rest.
+Benieuwd welke berichten in jouw bedrijf zich het makkelijkst laten automatiseren? Bij LoodgieterAI richten we het ['ik kom eraan' bericht automatiseren](/automatisering) en de rest van je klantcontact volledig voor je in, gekoppeld aan de agenda die je al gebruikt. Doe de [gratis ai scan voor loodgieters](/gratis-scan) en je ziet precies waar je tijd weglekt en wat een geautomatiseerde flow je per week oplevert. Jij lost de lekkage op, wij regelen de rest.
 
 <div class="lees-ook" style="margin:2.5rem 0; padding:1rem 1.25rem; border-radius:0.75rem; background-color:rgba(37, 99, 235, 0.08);">
 <strong>Lees ook:</strong> <a href="/blog/whatsapp-business-loodgieters-setup-auto-flows">WhatsApp Business automatiseren als loodgieter: zo zet je je auto-flows op</a> &rarr;

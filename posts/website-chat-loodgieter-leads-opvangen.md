@@ -87,7 +87,3 @@ Ja, dat is juist het hele punt. Een [ai chatbot voor jouw loodgieter](/chatbot) 
 Dat hangt volledig af van hoe hij is ingericht. Een chatbot die in jouw toon korte, eerlijke antwoorden geeft en snel een mens inschakelt bij spoed, voelt voor de klant als snelle service. Een klant die binnen tien seconden antwoord krijgt op "kom je ook in mijn dorp", ervaart dat als beter, niet als kouder.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-chatbot-trainen-loodgieter-data" class="text-dark fw-semibold">AI-chatbot trainen op je loodgieter-data: 4 manieren</a> →</p></div></div></div>
-
-## Groei-of-Geld-Terug Garantie
-
-LoodgieterAI bouwt voor installatiebedrijven een chatbot die past bij hoe jij werkt: spoedherkenning, werkgebied-check, prijsindicatie en het vastleggen van complete leads, gekoppeld aan je agenda en je opvolging. Geen losse widget, maar een systeem dat de bezoeker opvangt en doorzet naar een geboekte klus. Geen contract, wel een Groei-of-Geld-Terug Garantie. Wil je zien hoeveel avondbezoekers jouw site nu laat liggen, plan dan een [gratis website voor loodgieters](/gratis-website) of [tarieven LoodgieterAI](/tarieven) gesprek in, of vraag een [gratis ai scan voor loodgieters](/gratis-scan) aan. Twintig minuten, geen verplichting.

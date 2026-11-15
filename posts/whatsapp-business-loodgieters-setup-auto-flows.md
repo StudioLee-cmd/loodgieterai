@@ -148,7 +148,6 @@ Bij LoodgieterAI helpen we loodgieters WhatsApp Business professioneel opzetten 
 - Een [voice ai voor loodgieters](/voice-ai) op je telefoonnummer voor automatische WhatsApp-omzetting van gemiste oproepen
 - Een [crm voor loodgieters](/crm) met WhatsApp-historie per klant in een dossier
 - Automatische review-flow 24 uur na elke klus
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor loodgieters](/gratis-scan) of bekijk onze [tarieven LoodgieterAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

@@ -87,8 +87,6 @@ Je hebt geen duur marketingbureau nodig. Start met:
 
 Bij StudioLee bouwen we merken voor vakmensen. Van [email marketing](/blog/email-marketing-loodgieter-onderhoud) tot social media content — alles afgestemd op jouw specialisatie. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe sterk jouw merk al is.
 
 ## Conclusie

@@ -74,7 +74,3 @@ Na 12 weken heb je voor elke monteur, elke kluscategorie en elke wijk een gemidd
 - **Tevreden klanten omzetten in marketing.** De top-5-procent klanten (5 sterren in alle drie methodes) krijgen een gerichte vraag of ze een korte video-getuigenis willen maken voor je [social media voor loodgieters](/social-media), of ze als referentie bereikbaar willen zijn voor potentiele klanten.
 
 Niet meer dan deze drie analyses in een kwartaal. Meer data verzamelen dan je gebruikt is verspilling.
-
-## Groei-of-Geld-Terug Garantie
-
-LoodgieterAI bouwt voor installatiebedrijven de volledige meet-flow plus de Google-review-funnel die er logisch op aansluit. Drie methodes opzetten, gekoppeld aan WhatsApp Business, Google Forms en SMS, plus de interne notificaties die jou waarschuwen bij een 1-3 score zodat je dezelfde dag kunt terugbellen. Geen contract, wel een Groei-of-Geld-Terug Garantie. Wil je weten waar bij jouw team de eerste meting al een verschil zou maken, plan dan een [gratis website voor loodgieters](/gratis-website) of [tarieven LoodgieterAI](/tarieven) gesprek in. Twintig minuten, geen verplichting.

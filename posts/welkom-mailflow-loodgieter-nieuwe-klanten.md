@@ -89,7 +89,7 @@ Nee. De koppeling tussen je agenda, je klantdata en de mailflow wordt voor je in
 
 Een nieuwe klant binnenhalen is het dure deel. Hem houden is het goedkope deel, en juist dat laten de meeste loodgieters liggen. Een welkom-mailflow van vier mails kost je één keer een avond instellen en verdient zichzelf terug zodra de eerste klant terugkomt voor een tweede klus. Je hoeft er niet harder voor te werken, alleen slimmer om te gaan met het werk dat je al binnen hebt.
 
-Wil je die flow niet zelf bouwen? Bij LoodgieterAI zetten we de complete welkom-mailflow voor je op, gekoppeld aan de agenda en het klantenbestand die je al gebruikt. Doe de [gratis ai scan voor loodgieters](/gratis-scan) en je ziet precies waar in jouw bedrijf omzet weglekt na de eerste klus. We werken met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast. Jij lost de lekkage op, wij regelen de rest.
+Wil je die flow niet zelf bouwen? Bij LoodgieterAI zetten we de complete welkom-mailflow voor je op, gekoppeld aan de agenda en het klantenbestand die je al gebruikt. Doe de [gratis ai scan voor loodgieters](/gratis-scan) en je ziet precies waar in jouw bedrijf omzet weglekt na de eerste klus. Jij lost de lekkage op, wij regelen de rest.
 
 <div class="lees-ook" style="margin:2.5rem 0; padding:1rem 1.25rem; border-radius:0.75rem; background-color:rgba(37, 99, 235, 0.08);">
 <strong>Lees ook:</strong> <a href="/blog/crm-implementatie-loodgieter-5-dagen">CRM-implementatie in 5 dagen voor loodgieters</a> &rarr;
