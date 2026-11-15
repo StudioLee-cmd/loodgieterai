@@ -149,6 +149,6 @@ Bij LoodgieterAI helpen we loodgieters WhatsApp Business professioneel opzetten 
 - Een [crm voor loodgieters](/crm) met WhatsApp-historie per klant in een dossier
 - Automatische review-flow 24 uur na elke klus
 
-[Plan een gratis AI-scan voor loodgieters](/gratis-scan) of bekijk onze [tarieven LoodgieterAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor loodgieters](/gratis-scan) of bekijk onze [tarieven LoodgieterAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/vorstschade-winter-spoed-systeem-loodgieter-spoedklussen" class="text-dark fw-semibold">Vorstschade winter: spoed-systeem voor loodgieters</a> →</p></div></div></div>
