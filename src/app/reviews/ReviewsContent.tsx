@@ -22,6 +22,7 @@ import {
 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
+import RouteExplainer from "@/components/RouteExplainer";
 const niche = 'loodgieter';
 const nichePlural = 'loodgieters';
 
@@ -236,6 +237,9 @@ export default function ReviewsContent() {
           </motion.div>
         </div>
       </section>
+
+      <RouteExplainer slot="reviews" />
+
 
       {/* Herken je dit? */}
       <section className="py-20 bg-white dark:bg-neutral-900">

@@ -21,6 +21,7 @@ import {
 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
+import RouteExplainer from "@/components/RouteExplainer";
 const niche = siteDetails.niche?.toLowerCase() || "loodgieters";
 const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;
 const brand = siteDetails.siteName;
@@ -227,6 +228,9 @@ export default function AutomatiseringContent() {
           </div>
         </div>
       </section>
+
+      <RouteExplainer slot="automatisering" />
+
 
       {/* Herken je dit? */}
       <section className="py-16 px-4 bg-[var(--card-background)]">

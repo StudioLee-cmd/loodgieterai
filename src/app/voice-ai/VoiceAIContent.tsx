@@ -19,6 +19,7 @@ import {
 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
+import RouteExplainer from "@/components/RouteExplainer";
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
 const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;
 const brand = siteDetails.siteName;
@@ -202,6 +203,9 @@ export default function VoiceAIContent() {
           </div>
         </div>
       </section>
+
+      <RouteExplainer slot="voice-ai" />
+
 
       {/* Herken je dit? */}
       <section className="py-16 px-4 bg-[var(--card-background)]">
