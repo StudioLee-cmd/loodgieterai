@@ -21,6 +21,7 @@ import {
 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
+import RouteExplainer from "@/components/RouteExplainer";
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
 const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;
 const brand = siteDetails.siteName;
@@ -200,6 +201,9 @@ export default function CrmContent() {
           </div>
         </div>
       </section>
+
+      <RouteExplainer slot="crm" />
+
 
       {/* Features */}
       <section className="py-12 md:py-20 px-4">
