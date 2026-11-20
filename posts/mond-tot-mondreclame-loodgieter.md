@@ -34,7 +34,7 @@ De basis: kom op tijd, communiceer duidelijk, laat de werkplek schoner achter da
 
 ### 2. Vraag erom op het juiste moment
 
-Na een geslaagde reparatie, als de klant opgelucht is dat het probleem is opgelost — dat is het moment. "Blij dat ik kon helpen. Als u iemand kent die ook een loodgieter zoekt, dan hoor ik het graag."
+Na een geslaagde reparatie, als de klant opgelucht is dat het probleem is opgelost: dat is het moment. "Blij dat ik kon helpen. Als u iemand kent die ook een loodgieter zoekt, dan hoor ik het graag."
 
 ### 3. Maak het makkelijk
 
@@ -50,7 +50,7 @@ Als je in een wijk werkt, zijn de buren potentiele klanten. Zelfde type installa
 
 ### 6. Online mond-tot-mond versterken
 
-[Google reviews](/reviews) zijn de digitale versie van mond-tot-mond. Een review verdwijnt niet — het staat permanent online voor iedereen. Combineer offline aanbevelingen met online reviews voor maximaal effect.
+[Google reviews](/reviews) zijn de digitale versie van mond-tot-mond. Een review verdwijnt niet, maar staat permanent online voor iedereen. Combineer offline aanbevelingen met online reviews voor maximaal effect.
 
 ## De kracht van de spoedklus
 

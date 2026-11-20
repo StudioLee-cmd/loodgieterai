@@ -28,7 +28,7 @@ Elke gemiste oproep is een potentieel verloren klant. En het ergste: je weet nie
 
 ## Automatische opvolging via WhatsApp en SMS
 
-De oplossing is niet meer tijd aan je telefoon besteden — het is automatisering. Bij een gemiste oproep wordt automatisch een WhatsApp-bericht gestuurd:
+De oplossing is niet meer tijd aan je telefoon besteden, maar automatisering. Bij een gemiste oproep wordt automatisch een WhatsApp-bericht gestuurd:
 
 "Bedankt voor je bericht. Ik ben momenteel bij een klant maar bel je binnen 30 minuten terug. Heb je spoed? Laat een kort bericht achter met het probleem."
 
@@ -40,7 +40,7 @@ Dit simpele bericht doet drie dingen:
 
 ## Je eerste reactie bepaalt de deal
 
-Het gaat niet alleen om snelheid — het gaat ook om kwaliteit. Een professionele eerste reactie maakt het verschil:
+Het gaat niet alleen om snelheid, maar ook om kwaliteit. Een professionele eerste reactie maakt het verschil:
 
 - Noem de klant bij naam als het kan
 - Bevestig wat het probleem is
@@ -64,14 +64,14 @@ Geen gemiste oproepen, geen verloren leads, geen klanten die wegglippen.
 
 ## Wat als je niet kunt opnemen?
 
-Hier komt AI-telefonie om de hoek kijken. Een AI-telefoniste neemt 24 uur per dag je telefoon op, noteert het probleem, en stuurt je alle informatie. De klant heeft het gevoel dat er iemand bereikbaar is — en jij verliest geen enkele aanvraag.
+Hier komt AI-telefonie om de hoek kijken. Een AI-telefoniste neemt 24 uur per dag je telefoon op, noteert het probleem, en stuurt je alle informatie. De klant heeft het gevoel dat er iemand bereikbaar is, en jij verliest geen enkele aanvraag.
 
 Dit is geen toekomstmuziek. Loodgieters die AI-telefonie gebruiken rapporteren 30 tot 50 procent meer geboekte klussen per maand. Niet omdat er meer klanten bellen, maar omdat ze eindelijk geen oproepen meer missen.
 
-De AI leert ook van elk gesprek. Na een paar weken herkent het systeem veelvoorkomende problemen — een lekkende kraan, een verstopt toilet, een kapotte cv-ketel — en kan het de klant al informeren over geschatte kosten en beschikbaarheid. Dat bespaart jou tijd bij het terugbellen.
+De AI leert ook van elk gesprek. Na een paar weken herkent het systeem veelvoorkomende problemen (een lekkende kraan, een verstopt toilet, een kapotte cv-ketel) en kan het de klant al informeren over geschatte kosten en beschikbaarheid. Dat bespaart jou tijd bij het terugbellen.
 
-Overweeg ook je weekenduren. Veel loodgietersspoedgevallen gebeuren in het weekend. Een overlopend toilet op zaterdagavond, een lekkende leiding op zondagochtend — klanten die dan bellen betalen graag een spoedtarief. Met een AI die 24/7 bereikbaar is, mis je deze winstgevende klussen niet meer.
+Overweeg ook je weekenduren. Veel loodgietersspoedgevallen gebeuren in het weekend. Een overlopend toilet op zaterdagavond, een lekkende leiding op zondagochtend: klanten die dan bellen betalen graag een spoedtarief. Met een AI die 24/7 bereikbaar is, mis je deze winstgevende klussen niet meer.
 
-De rekensom is simpel: als je per maand vijf extra klussen wint van gemiddeld €300, is dat €1.500 extra omzet. Op jaarbasis is dat €18.000 — meer dan genoeg om de investering in automatisering terug te verdienen.
+De rekensom is simpel: als je per maand vijf extra klussen wint van gemiddeld €300, is dat €1.500 extra omzet. Op jaarbasis is dat €18.000, meer dan genoeg om de investering in automatisering terug te verdienen.
 
 Wil je weten hoeveel klussen jij misloopt? Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek het verschil.

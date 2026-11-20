@@ -9,11 +9,11 @@ cluster: "vindbaarheid"
 ---
 ## Waarom je Google Bedrijfsprofiel je belangrijkste etalage is
 
-Als loodgieter kom je klanten niet tegen op [Instagram](/social-media) of LinkedIn. Ze vinden je op Google — specifiek in de kaartresultaten die verschijnen bij zoekopdrachten als "loodgieter in de buurt" of "lekkage verhelpen [plaatsnaam]".
+Als loodgieter kom je klanten niet tegen op [Instagram](/social-media) of LinkedIn. Ze vinden je op Google, specifiek in de kaartresultaten die verschijnen bij zoekopdrachten als "loodgieter in de buurt" of "lekkage verhelpen [plaatsnaam]".
 
-Je Google Bedrijfsprofiel (vroeger Google Mijn Bedrijf) is het eerste wat potentiële klanten zien. Je telefoonnummer, openingstijden, reviews en foto's — alles staat er. En Google bepaalt op basis van je profiel of je in die kaartresultaten verschijnt.
+Je Google Bedrijfsprofiel (vroeger Google Mijn Bedrijf) is het eerste wat potentiële klanten zien. Je telefoonnummer, openingstijden, reviews en foto's: alles staat er. En Google bepaalt op basis van je profiel of je in die kaartresultaten verschijnt.
 
-Een goed geoptimaliseerd profiel is het verschil tussen 5 en 50 offerteaanvragen per maand. Geen advertentiekosten, geen extra marketing — gewoon een profiel dat werkt.
+Een goed geoptimaliseerd profiel is het verschil tussen 5 en 50 offerteaanvragen per maand. Geen advertentiekosten, geen extra marketing, gewoon een profiel dat werkt.
 
 ## Je profiel volledig en correct invullen
 
@@ -60,7 +60,7 @@ Na elke klus een automatisch reviewverzoek sturen via SMS of WhatsApp is de effi
 
 ## Berichten en vragen beantwoorden
 
-Je Google Bedrijfsprofiel heeft een berichtenfunctie. Potentiële klanten kunnen je direct een vraag sturen — "Doen jullie ook aan cv-onderhoud?" of "Wat zijn de kosten voor een lekkage?"
+Je Google Bedrijfsprofiel heeft een berichtenfunctie. Potentiële klanten kunnen je direct een vraag sturen: "Doen jullie ook aan cv-onderhoud?" of "Wat zijn de kosten voor een lekkage?"
 
 Schakel deze functie in en reageer snel. Snelle reacties:
 
@@ -74,7 +74,7 @@ Stel een automatisch welkomstbericht in: "Bedankt voor uw bericht. We reageren b
 
 ## Lokaal gevonden worden in de kaartresultaten
 
-De kaartresultaten (het "map pack") zijn de drie bedrijven die Google bovenaan toont bij lokale zoekopdrachten. Hier staan is goud waard — deze drie krijgen het leeuwendeel van de kliks.
+De kaartresultaten (het "map pack") zijn de drie bedrijven die Google bovenaan toont bij lokale zoekopdrachten. Hier staan is goud waard, want deze drie krijgen het leeuwendeel van de kliks.
 
 Wat bepaalt je positie:
 

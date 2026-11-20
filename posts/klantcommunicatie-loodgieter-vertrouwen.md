@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 ## Waarom communicatie het verschil maakt
 
-De meeste klanten kunnen niet beoordelen of je technisch goed werk levert. Ze zien het eindresultaat — een lekkage die gestopt is, een cv-ketel die weer werkt — maar de kwaliteit van je soldeerwerk of leidingwerk kunnen ze niet inschatten.
+De meeste klanten kunnen niet beoordelen of je technisch goed werk levert. Ze zien het eindresultaat (een lekkage die gestopt is, een cv-ketel die weer werkt), maar de kwaliteit van je soldeerwerk of leidingwerk kunnen ze niet inschatten.
 
 Wat ze wel beoordelen is hoe je communiceert. Ben je op tijd? Leg je uit wat je doet en waarom? Zijn er geen verrassingen op de factuur? Die dingen bepalen of een klant je aanbeveelt of niet.
 
@@ -31,7 +31,7 @@ De meeste loodgietersklussen beginnen met een telefoontje of een [websiteaanvraa
 
 ## Tijdens de klus: updates en verwachtingen
 
-Zodra je aan het werk bent, is de klant afhankelijk van jou. Dat voelt kwetsbaar — je bent bij hen thuis, je werkt aan iets dat ze niet begrijpen en de kosten lopen op.
+Zodra je aan het werk bent, is de klant afhankelijk van jou. Dat voelt kwetsbaar: je bent bij hen thuis, je werkt aan iets dat ze niet begrijpen en de kosten lopen op.
 
 **Leg uit wat je doet**. Niet in technisch jargon, maar in begrijpelijke taal. "Ik vervang nu de afvoerbuis onder de spoelbak, want die is verkalkt en daar komt de lekkage vandaan." Klanten waarderen transparantie.
 

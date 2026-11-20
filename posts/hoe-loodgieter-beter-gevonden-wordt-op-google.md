@@ -9,7 +9,7 @@ cluster: "vindbaarheid"
 ---
 ## Waarom online vindbaarheid alles bepaalt
 
-Wanneer een leiding springt of de cv-ketel uitvalt, pakt iemand de telefoon en zoekt op Google: "loodgieter in de buurt." Binnen 10 seconden heeft diegene gekozen — en die keuze valt vrijwel altijd op een van de bovenste drie resultaten in Google Maps.
+Wanneer een leiding springt of de cv-ketel uitvalt, pakt iemand de telefoon en zoekt op Google: "loodgieter in de buurt." Binnen 10 seconden heeft diegene gekozen, en die keuze valt vrijwel altijd op een van de bovenste drie resultaten in Google Maps.
 
 Sta jij daar niet bij? Dan besta je niet op het moment dat het ertoe doet. Geen folder, geen visitekaartje en geen advertentie kan tippen aan het moment dat iemand actief naar een loodgieter zoekt. Dat is de kracht van lokale vindbaarheid.
 
@@ -17,11 +17,11 @@ Sta jij daar niet bij? Dan besta je niet op het moment dat het ertoe doet. Geen 
 
 Je Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is je digitale etalage. Het is wat mensen zien als ze zoeken op "loodgieter [stad]." Een compleet en geoptimaliseerd profiel bevat:
 
-- **Correcte bedrijfsgegevens** — naam, adres, telefoonnummer (consistent overal online)
-- **Openingstijden** — inclusief bereikbaarheid voor spoed buiten kantooruren
-- **Foto's** — echte werkfoto's van klussen, je busje, je team
-- **Diensten** — specifiek benoemen wat je doet: lekkage, cv-ketel, aanleg, riool
-- **Reviews** — minstens 20+, met een gemiddelde van 4,5 of hoger
+- **Correcte bedrijfsgegevens**: naam, adres, telefoonnummer (consistent overal online)
+- **Openingstijden**, inclusief bereikbaarheid voor spoed buiten kantooruren
+- **Foto's**: echte werkfoto's van klussen, je busje, je team
+- **Diensten**: specifiek benoemen wat je doet (lekkage, cv-ketel, aanleg, riool)
+- **Reviews**: minstens 20+, met een gemiddelde van 4,5 of hoger
 
 Veel loodgieters vullen hun profiel half in en laten het dan liggen. Dat is een gemiste kans. Google beloont complete profielen met een hogere positie.
 
@@ -31,7 +31,7 @@ Lokale SEO draait om één ding: [gevonden worden](/seo) als iemand in jouw regi
 
 ### NAW-consistentie
 
-Je bedrijfsnaam, adres en telefoonnummer (NAW) moeten overal identiek zijn — op je website, Google Bedrijfsprofiel, KvK, Telefoonboek, Gouden Gids en branchepagina's. Elke afwijking verward Google en kost je posities.
+Je bedrijfsnaam, adres en telefoonnummer (NAW) moeten overal identiek zijn: op je website, Google Bedrijfsprofiel, KvK, Telefoonboek, Gouden Gids en branchepagina's. Elke afwijking verward Google en kost je posities.
 
 ### Lokale zoekwoorden op je website
 
@@ -55,15 +55,15 @@ Elk artikel is een extra ingang naar je website en versterkt je autoriteit bij G
 
 In 2026 zoeken steeds meer mensen via AI. ChatGPT, Perplexity en Google AI Overview geven directe antwoorden in plaats van een lijst met links. Als iemand vraagt "wie is de beste loodgieter in Rotterdam?", baseert de AI zich op:
 
-1. **Google reviews** — aantal, gemiddelde score, hoe recent
-2. **Websiteinhoud** — hoe uitgebreid en specifiek je website is
-3. **Online vermeldingen** — hoe vaak je bedrijf wordt genoemd op andere websites
+1. **Google reviews**: aantal, gemiddelde score, hoe recent
+2. **Websiteinhoud**: hoe uitgebreid en specifiek je website is
+3. **Online vermeldingen**: hoe vaak je bedrijf wordt genoemd op andere websites
 
 Loodgieters die investeren in een sterke online aanwezigheid worden nu al aanbevolen door AI-zoekmachines. Wie niets doet, mist een groeiend kanaal.
 
 ## Google Reviews als ranking-factor
 
-Reviews zijn niet alleen social proof — ze zijn een directe ranking-factor voor Google Maps. Meer reviews met een hoge score betekent een hogere positie. Maar Google kijkt ook naar:
+Reviews zijn niet alleen social proof. Ze zijn een directe ranking-factor voor Google Maps. Meer reviews met een hoge score betekent een hogere positie. Maar Google kijkt ook naar:
 
 - **Hoe recent** de reviews zijn (recente reviews wegen zwaarder)
 - **Of je reageert** op reviews (actieve bedrijven worden beloond)
@@ -83,12 +83,12 @@ Een geautomatiseerd reviewsysteem dat na elke klus een WhatsApp-bericht stuurt m
 
 ## Hoe wij loodgieters helpen met vindbaarheid
 
-Bij LoodgieterAI combineren we alles: Google Bedrijfsprofiel optimalisatie, lokale SEO, blogartikelen, geautomatiseerde reviews en AI-vindbaarheid. Het resultaat is een systeem dat continu werkt aan je online zichtbaarheid — zonder dat jij er zelf tijd aan hoeft te besteden.
+Bij LoodgieterAI combineren we alles: Google Bedrijfsprofiel optimalisatie, lokale SEO, blogartikelen, geautomatiseerde reviews en AI-vindbaarheid. Het resultaat is een systeem dat continu werkt aan je online zichtbaarheid, zonder dat jij er zelf tijd aan hoeft te besteden.
 
 Je hoeft maar **15 minuten per maand** te investeren voor een update-call. De rest regelen wij.
 
 ## Conclusie
 
-Online vindbaarheid is geen luxe voor loodgieters — het is de basis van je klantenwerving. Met een geoptimaliseerd Google Bedrijfsprofiel, lokale SEO, reviews op autopilot en AI-vindbaarheid zorg je ervoor dat je altijd bovenaan staat als iemand een loodgieter nodig heeft.
+Online vindbaarheid is geen luxe voor loodgieters. Het is de basis van je klantenwerving. Met een geoptimaliseerd Google Bedrijfsprofiel, lokale SEO, reviews op autopilot en AI-vindbaarheid zorg je ervoor dat je altijd bovenaan staat als iemand een loodgieter nodig heeft.
 
 Wil je weten waar je nu staat en wat er beter kan? [Plan een gratis gesprek](/demo) en we doen een nulmeting van je online vindbaarheid.

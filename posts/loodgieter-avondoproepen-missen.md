@@ -20,7 +20,7 @@ Drie gedragspatronen versterken elkaar:
 
 **Mensen hebben dan pas tijd om te bellen.** Overdag werken ze zelf. In de pauze is het te kort. 's Avonds is de eerste rust-moment waar ze het gedoe met loodgieters willen aanpakken.
 
-**Spoedklussen concentreren zich in de avond.** Een watermeter die overstroomt om 22:00 — dat is geen probleem voor morgen. Dat is nu. Klanten zijn in paniek, bellen de eerste loodgieter die ze kunnen vinden.
+**Spoedklussen concentreren zich in de avond.** Een watermeter die overstroomt om 22:00 is geen probleem voor morgen. Dat is nu. Klanten zijn in paniek, bellen de eerste loodgieter die ze kunnen vinden.
 
 Samen zorgen deze drie patronen voor wat we als "de avondpiek" noemen: in het uur tussen 18:00 en 19:00 komen bij een actieve loodgieter tussen de 3 en 8 oproepen binnen. Tegen 21:00 is dat bijna nihil meer, want klanten hebben tegen die tijd al iemand gebeld die opnam.
 
@@ -51,7 +51,7 @@ Drie oplossingen die loodgieters vaak proberen en die slecht werken:
 
 Een AI telefonist die specifiek getraind is op loodgieterstaal en de juiste vragenflow heeft, pakt elke oproep op en doet de intake volgens protocollen die een vakman zou gebruiken. Onderscheidt in seconden tussen acute spoed (schakelt direct door naar jouw mobiel) en planwerk (boekt een terugbel of inspectie-afspraak voor de volgende werkdag). Vraagt bij spoed om hoofdkraan-check, omschrijving van de situatie, adres met parkeerinstructies.
 
-Voor niet-spoed plant hij direct een afspraak in jouw agenda als je beschikbare slots hebt — zodat de klant al een afgesproken moment heeft in plaats van het lege gevoel van "we bellen u morgen". Bekijk onze aanpak voor [een AI telefonist voor loodgietersbedrijven](/voice-ai) voor hoe we dit specifiek op loodgieterstaal en protocol trainen.
+Voor niet-spoed plant hij direct een afspraak in jouw agenda als je beschikbare slots hebt, zodat de klant al een afgesproken moment heeft in plaats van het lege gevoel van "we bellen u morgen". Bekijk onze aanpak voor [een AI telefonist voor loodgietersbedrijven](/voice-ai) voor hoe we dit specifiek op loodgieterstaal en protocol trainen.
 
 Voor acute spoed kun je drie scenario's inprogrammeren:
 1. Je bent thuis/beschikbaar → directe doorschakeling

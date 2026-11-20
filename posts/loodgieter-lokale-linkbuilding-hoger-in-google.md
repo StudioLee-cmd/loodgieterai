@@ -2,26 +2,26 @@
 title: "Lokale linkbuilding loodgieter: hoger in Google zonder Ads"
 slug: loodgieter-lokale-linkbuilding-hoger-in-google
 date: "2026-05-01"
-excerpt: "Geen Ads-budget? Lokale linkbuilding levert duurzame Google-rankings op voor loodgieters. 8 concrete bronnen die werken in 2026 — meestal gratis."
+excerpt: "Geen Ads-budget? Lokale linkbuilding levert duurzame Google-rankings op voor loodgieters. 8 concrete bronnen die werken in 2026, meestal gratis."
 image: "/images/blog/loodgieter-lokale-linkbuilding-hoger-in-google.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Linkbuilding", "Backlinks"]
 cluster: "vindbaarheid"
 ---
 
-Een loodgieter die in 2026 niet adverteert maar wel hoger in Google wil komen, heeft één onderschat instrument: lokale linkbuilding. Niet de spam-tactieken uit 2015 met directories en gastblog-ruil — moderne lokale linkbuilding via gemeentelijke websites, brancheverenigingen, samenwerkingspartners, en lokale content-platforms. Per 2026 is dit voor lokale ambachten een van de drie belangrijkste rankingfactoren in Google Maps en lokale zoekresultaten.
+Een loodgieter die in 2026 niet adverteert maar wel hoger in Google wil komen, heeft één onderschat instrument: lokale linkbuilding. Niet de spam-tactieken uit 2015 met directories en gastblog-ruil, maar moderne lokale linkbuilding via gemeentelijke websites, brancheverenigingen, samenwerkingspartners, en lokale content-platforms. Per 2026 is dit voor lokale ambachten een van de drie belangrijkste rankingfactoren in Google Maps en lokale zoekresultaten.
 
-Dit artikel is voor jou als loodgieter-bedrijfseigenaar of zelfstandige die structureel hoger in Google wil komen zonder maandelijks €500-€2.000 aan Google Ads uit te geven. Geen abstracte SEO-theorie — een lijst van 8 concrete linkbuilding-bronnen die in Nederland werken voor lokale loodgieters, inclusief hoe je elk er één binnenhaalt.
+Dit artikel is voor jou als loodgieter-bedrijfseigenaar of zelfstandige die structureel hoger in Google wil komen zonder maandelijks €500-€2.000 aan Google Ads uit te geven. Geen abstracte SEO-theorie, maar een lijst van 8 concrete linkbuilding-bronnen die in Nederland werken voor lokale loodgieters, inclusief hoe je elk er één binnenhaalt.
 
 ## Waarom lokale links zo zwaar wegen voor loodgieters
 
-In het Google Maps-algoritme wegen drie factoren: relevantie (matcht het bedrijf met de zoekvraag?), afstand (hoe ver is het bedrijf van de zoeker?), en prominentie (hoe bekend is het bedrijf?). De prominentie-factor wordt voor een groot deel bepaald door externe links naar je website — vooral lokale links uit Nederland.
+In het Google Maps-algoritme wegen drie factoren: relevantie (matcht het bedrijf met de zoekvraag?), afstand (hoe ver is het bedrijf van de zoeker?), en prominentie (hoe bekend is het bedrijf?). De prominentie-factor wordt voor een groot deel bepaald door externe links naar je website, vooral lokale links uit Nederland.
 
-Een lokale link van bijvoorbeeld de gemeentelijke ondernemers­vereniging weegt voor lokale rankings 8 tot 15 keer zwaarder dan een generieke directory-link uit het buitenland. Een goed-opgebouwd lokaal linkprofiel van 8-15 lokale Nederlandse links levert binnen 6 maanden meetbare beweging op in Google Maps — vaak van pagina 2-3 naar de top-5 voor lokale zoektermen.
+Een lokale link van bijvoorbeeld de gemeentelijke ondernemers­vereniging weegt voor lokale rankings 8 tot 15 keer zwaarder dan een generieke directory-link uit het buitenland. Een goed-opgebouwd lokaal linkprofiel van 8-15 lokale Nederlandse links levert binnen 6 maanden meetbare beweging op in Google Maps, vaak van pagina 2-3 naar de top-5 voor lokale zoektermen.
 
 ## Bron 1: Branchevereniging UNETO-VNI / Techniek Nederland
 
-Voor erkende installateurs/loodgieters is lidmaatschap van Techniek Nederland (voorheen UNETO-VNI) niet alleen een keurmerk — het levert ook een DA-65+ link op via je vermelding in het ledenregister. De link is handmatig toegevoegd, contextueel relevant, en blijft permanent staan.
+Voor erkende installateurs/loodgieters is lidmaatschap van Techniek Nederland (voorheen UNETO-VNI) niet alleen een keurmerk. Het levert ook een DA-65+ link op via je vermelding in het ledenregister. De link is handmatig toegevoegd, contextueel relevant, en blijft permanent staan.
 
 - Kosten: €295-€450 per jaar afhankelijk van bedrijfsgrootte
 - Doorlooptijd: 4-6 weken vanaf aanmelding tot live link
@@ -59,7 +59,7 @@ Gevraagd hoe je het inititeel: bel 5-10 lokale partners, vraag een 15-min gespre
 
 ## Bron 5: Lokale nieuws- en lifestyle-platforms
 
-Dichtbij.nl, AllesOver[stadsnaam].nl, lokale dagbladen — er zijn in vrijwel elke Nederlandse stad 3-8 lokale platforms die graag nieuws van lokale ondernemers publiceren. Een goed gepitched persbericht over een interessant project (bijvoorbeeld "Loodgieter installeert eerste regenwaterhergebruiksysteem in [wijk]") komt vrijwel altijd in de plaatselijke media.
+Dichtbij.nl, AllesOver[stadsnaam].nl, lokale dagbladen: er zijn in vrijwel elke Nederlandse stad 3-8 lokale platforms die graag nieuws van lokale ondernemers publiceren. Een goed gepitched persbericht over een interessant project (bijvoorbeeld "Loodgieter installeert eerste regenwaterhergebruiksysteem in [wijk]") komt vrijwel altijd in de plaatselijke media.
 
 - Kosten: €0 (zelf opstellen) of €100-€300 (laten schrijven)
 - Doorlooptijd: 2-4 weken na pitch
@@ -67,7 +67,7 @@ Dichtbij.nl, AllesOver[stadsnaam].nl, lokale dagbladen — er zijn in vrijwel el
 
 ## Bron 6: Sponsoring van lokale verenigingen of evenementen
 
-Sponsor een lokale voetbalclub, jeugdvereniging, dorpsfeest of straatmarkt. In ruil staat je naam met logo en website-link op de sponsor-pagina van die vereniging — vaak een DA 25+ lokale link met hoge geografische relevantie.
+Sponsor een lokale voetbalclub, jeugdvereniging, dorpsfeest of straatmarkt. In ruil staat je naam met logo en website-link op de sponsor-pagina van die vereniging, vaak een DA 25+ lokale link met hoge geografische relevantie.
 
 - Kosten: €100-€500 per jaar voor kleine sponsoring
 - Doorlooptijd: 2-4 weken na overeenkomst
@@ -102,7 +102,7 @@ Een loodgieter die in 6 maanden 8-12 lokale links opbouwt via bovenstaande bronn
 | Organische bezoekers/maand | 80-150 | 200-400 | 350-700 |
 | Aanvragen via website | 3-8/maand | 8-18/maand | 15-30/maand |
 
-Voor een gemiddelde Nederlandse loodgieter met €350.000 omzet betekent dit 12 tot 22 extra klussen per maand zonder advertenties — €40.000 tot €90.000 extra jaaromzet uit organische groei. Tegenover €0 tot €1.500 per jaar aan lidmaatschappen en sponsorships, wordt dit binnen één maand terugverdiend.
+Voor een gemiddelde Nederlandse loodgieter met €350.000 omzet betekent dit 12 tot 22 extra klussen per maand zonder advertenties: €40.000 tot €90.000 extra jaaromzet uit organische groei. Tegenover €0 tot €1.500 per jaar aan lidmaatschappen en sponsorships, wordt dit binnen één maand terugverdiend.
 
 ## De drie veelgemaakte fouten in lokale linkbuilding
 
@@ -110,7 +110,7 @@ Voor een gemiddelde Nederlandse loodgieter met €350.000 omzet betekent dit 12 
 - **Geen consistente NAP (Naam, Adres, Telefoon) over alle links:** als je bedrijfsnaam op de gemeentewebsite afwijkt van die op de Centrum-vereniging-link, gaat de waarde verloren. Houd alles identiek.
 - **Stoppen na de eerste 5 links:** linkbuilding is een doorlopend proces. Een loodgieter met een professioneel onderhouden linkprofiel groeit elk jaar 5 tot 10 plekken in Google.
 
-Bij [een complete SEO-aanpak voor loodgieters](https://www.loodgieterai.nl/seo) is linkbuilding één van de pijlers. Zie ook ons artikel over [Google Bedrijfsprofiel optimalisatie voor loodgieters](https://www.loodgieterai.nl/blog/google-bedrijfsprofiel-loodgieter) — dit moet eerst staan voordat je linkbuilding zinvol wordt.
+Bij [een complete SEO-aanpak voor loodgieters](https://www.loodgieterai.nl/seo) is linkbuilding één van de pijlers. Zie ook ons artikel over [Google Bedrijfsprofiel optimalisatie voor loodgieters](https://www.loodgieterai.nl/blog/google-bedrijfsprofiel-loodgieter). Dit moet eerst staan voordat je linkbuilding zinvol wordt.
 
 ## Wat een werkende infrastructuur kost
 
@@ -122,7 +122,7 @@ De ondersteunende infrastructuur die linkbuilding effectief maakt:
 
 ## Begin deze week, niet over een kwartaal
 
-Het mooie aan lokale linkbuilding: je kunt vandaag al beginnen. Stuur deze week 5 mailtjes naar lokale samenwerkingspartners en stel een link-uitwisseling voor. Meld je aan bij de gemeentelijke ondernemers-pagina. Sponsor een lokaal evenement. Binnen 60-90 dagen heb je 5-8 nieuwe lokale links binnen — en dat verschuift Google al voldoende om in maand 4-6 boven je concurrent uit te komen.
+Het mooie aan lokale linkbuilding: je kunt vandaag al beginnen. Stuur deze week 5 mailtjes naar lokale samenwerkingspartners en stel een link-uitwisseling voor. Meld je aan bij de gemeentelijke ondernemers-pagina. Sponsor een lokaal evenement. Binnen 60-90 dagen heb je 5-8 nieuwe lokale links binnen, en dat verschuift Google al voldoende om in maand 4-6 boven je concurrent uit te komen.
 
 Wil je weten hoe een [complete vindbaarheids-aanpak voor loodgieters](https://www.loodgieterai.nl/seo) eruit kan zien inclusief linkbuilding?
 

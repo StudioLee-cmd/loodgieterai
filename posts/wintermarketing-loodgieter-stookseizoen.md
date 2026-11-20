@@ -1,7 +1,7 @@
 ---
 title: "Wintermarketing voor loodgieters: zo maak je van het stookseizoen je drukste periode"
 seoTitle: "Wintermarketing voor loodgieters"
-excerpt: "Het stookseizoen is goud voor loodgieters — als je er op tijd op inspeelt. Zo bouw je een wintercampagne die klanten naar jou laat komen."
+excerpt: "Het stookseizoen is goud voor loodgieters, als je er op tijd op inspeelt. Zo bouw je een wintercampagne die klanten naar jou laat komen."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wintermarketing-loodgieter-stookseizoen.png"
@@ -43,7 +43,7 @@ Publiceer content die inspeelt op winterproblemen:
 
 ### Voorrang voor contractklanten
 
-"Bij een storing in de winter krijgen onze onderhoudsklanten voorrang — binnen 4 uur een monteur." Voor €15 per maand is dat de beste verzekering die een huiseigenaar kan kopen.
+"Bij een storing in de winter krijgen onze onderhoudsklanten voorrang: binnen 4 uur een monteur." Voor €15 per maand is dat de beste verzekering die een huiseigenaar kan kopen.
 
 ## De noodoproep-strategie
 
@@ -78,7 +78,7 @@ Automatisch bericht: "Vorst op komst! Laat je kraan bij onverwarmde buitenmuren 
 
 ## Conclusie
 
-De winter is geen druk seizoen dat je overkomt — het is een marketingkans. Door in september te beginnen met onderhoudscampagnes en proactief te communiceren bij vorst, maak je van het stookseizoen je meest winstgevende periode.
+De winter is geen druk seizoen dat je overkomt, maar een marketingkans. Door in september te beginnen met onderhoudscampagnes en proactief te communiceren bij vorst, maak je van het stookseizoen je meest winstgevende periode.
 
 Met [LoodgieterAI](/) automatiseren we je seizoenscampagnes en klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

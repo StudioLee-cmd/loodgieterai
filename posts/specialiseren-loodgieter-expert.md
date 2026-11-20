@@ -12,11 +12,11 @@ cluster: "branding"
 
 ## Waarom alleskunner zijn je groei remt
 
-De meeste loodgieters beginnen als alleskunner. Lekkage, cv-ketel, badkamer, riool — alles wordt aangenomen. In het begin is dat logisch: je hebt omzet nodig en kunt geen klus weigeren.
+De meeste loodgieters beginnen als alleskunner. Lekkage, cv-ketel, badkamer, riool: alles wordt aangenomen. In het begin is dat logisch: je hebt omzet nodig en kunt geen klus weigeren.
 
 Maar na een paar jaar merk je het probleem. Je concurreert met iedereen op dezelfde zoekwoorden, je offertes worden vergeleken op prijs in plaats van expertise, en klanten zien je als inwisselbaar. Je bent goed in alles, maar expert in niets.
 
-Specialisatie doorbreekt dat patroon. Een loodgieter die zich profileert als badkamerspecialist of cv-ketel-expert, trekt andere klanten aan — klanten die bereid zijn meer te betalen voor zekerheid.
+Specialisatie doorbreekt dat patroon. Een loodgieter die zich profileert als badkamerspecialist of cv-ketel-expert, trekt andere klanten aan: klanten die bereid zijn meer te betalen voor zekerheid.
 
 ## De meest winstgevende specialisaties
 
@@ -56,7 +56,7 @@ Zodra je je niche hebt gekozen, moet je [online zichtbaarheid](/blog/hoe-loodgie
 
 ## Prijzen en marge verhogen
 
-Specialisatie geeft je het recht om meer te vragen. Klanten die een specialist zoeken, verwachten een hogere prijs — en accepteren die ook.
+Specialisatie geeft je het recht om meer te vragen. Klanten die een specialist zoeken, verwachten een hogere prijs, en accepteren die ook.
 
 Drie manieren om je marge te verhogen na specialisatie:
 

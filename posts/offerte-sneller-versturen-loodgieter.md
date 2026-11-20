@@ -10,9 +10,9 @@ tags: ["Offertes", "Verkoop"]
 ---
 ## De klant die niet wacht
 
-Een huiseigenaar heeft een lekkage. Hij belt drie loodgieters. De eerste stuurt dezelfde dag nog een offerte. De tweede belt de volgende dag terug. De derde? Die was het vergeten — te druk met klussen.
+Een huiseigenaar heeft een lekkage. Hij belt drie loodgieters. De eerste stuurt dezelfde dag nog een offerte. De tweede belt de volgende dag terug. De derde? Die was het vergeten: te druk met klussen.
 
-Wie denk je dat de opdracht krijgt? In 90% van de gevallen wint de snelste. Niet de goedkoopste, niet de beste — de snelste.
+Wie denk je dat de opdracht krijgt? In 90% van de gevallen wint de snelste. Niet de goedkoopste, niet de beste, maar de snelste.
 
 ## Waarom snelheid je verkooptool is
 
@@ -34,16 +34,16 @@ Je komt 's avonds thuis na een lange dag, opent je laptop, en moet nog drie offe
 
 Maak standaardtemplates voor je meest voorkomende klussen:
 
-- **Lekkage verhelpen** — standaardtarief + mogelijke extra's
-- **Cv-ketel onderhoud** — vast tarief per type ketel
-- **Badkamer renovatie** — modulair met keuzes
-- **Verstopt riool** — basis + eventuele camera-inspectie
+- **Lekkage verhelpen**: standaardtarief + mogelijke extra's
+- **Cv-ketel onderhoud**: vast tarief per type ketel
+- **Badkamer renovatie**: modulair met keuzes
+- **Verstopt riool**: basis + eventuele camera-inspectie
 
 Met een template pas je alleen de specifieke details aan. In 5 minuten is je offerte klaar, in plaats van 30.
 
 ### Digitale offerte vanuit je telefoon
 
-Moderne offertetools laten je direct na de inspectie een offerte versturen — nog voordat je in de bus stapt. Je selecteert het template, vult de details in, en de klant ontvangt een professionele PDF op zijn telefoon.
+Moderne offertetools laten je direct na de inspectie een offerte versturen, nog voordat je in de bus stapt. Je selecteert het template, vult de details in, en de klant ontvangt een professionele PDF op zijn telefoon.
 
 ### Automatische follow-up
 
@@ -59,9 +59,9 @@ Het mooiste: als de klant akkoord gaat, zet je de offerte met één klik om naar
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als loodgieter.
 
-Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [AI chatbot](/chatbot) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [AI chatbot](/chatbot) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [tarieven](/tarieven) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [tarieven](/tarieven): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/offerte-template-loodgieter-7-onderdelen" class="text-dark fw-semibold">Offerte template loodgieter: 7 onderdelen die overtuigen</a> →</p></div></div></div>
 

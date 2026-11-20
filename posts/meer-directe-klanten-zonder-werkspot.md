@@ -1,6 +1,6 @@
 ---
 title: "Meer directe klanten als loodgieter zonder Werkspot"
-excerpt: "Werkspot kost je per lead — maar je kunt ook directe klanten aantrekken via je eigen kanalen. Zo bouw je een klantenstroom zonder commissies."
+excerpt: "Werkspot kost je per lead, maar je kunt ook directe klanten aantrekken via je eigen kanalen. Zo bouw je een klantenstroom zonder commissies."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-directe-klanten-zonder-werkspot.png"
@@ -15,18 +15,18 @@ Elke klant via Werkspot is een gehuurde klant. Zodra je stopt met betalen, stopt
 
 ## Waarom Werkspot niet genoeg is
 
-Werkspot heeft voordelen — dat ontkennen we niet. Maar er zitten structurele nadelen aan:
+Werkspot heeft voordelen, dat ontkennen we niet. Maar er zitten structurele nadelen aan:
 
-- **Kosten per lead** — je betaalt voor elke offerte-aanvraag, ook als je de klus niet krijgt
-- **Prijsconcurrentie** — klanten kiezen vaak de goedkoopste, niet de beste
-- **Geen merkloyaliteit** — de klant is loyaal aan Werkspot, niet aan jou
-- **Afhankelijkheid** — als Werkspot de prijzen verhoogt of de spelregels wijzigt, sta je machteloos
+- **Kosten per lead**: je betaalt voor elke offerte-aanvraag, ook als je de klus niet krijgt
+- **Prijsconcurrentie**: klanten kiezen vaak de goedkoopste, niet de beste
+- **Geen merkloyaliteit**: de klant is loyaal aan Werkspot, niet aan jou
+- **Afhankelijkheid**: als Werkspot de prijzen verhoogt of de spelregels wijzigt, sta je machteloos
 
 De slimste loodgieters gebruiken Werkspot als startpunt, maar bouwen tegelijkertijd hun eigen kanalen.
 
 ## Stap 1: Maak je Google Bedrijfsprofiel je prioriteit
 
-Wanneer iemand zoekt op "loodgieter [plaatsnaam] spoed", verschijnt het Google Local Pack bovenaan — nog voor de Werkspot-resultaten. Met een geoptimaliseerd Google Bedrijfsprofiel verschijn je gratis in dat Local Pack.
+Wanneer iemand zoekt op "loodgieter [plaatsnaam] spoed", verschijnt het Google Local Pack bovenaan, nog voor de Werkspot-resultaten. Met een geoptimaliseerd Google Bedrijfsprofiel verschijn je gratis in dat Local Pack.
 
 Wat je nodig hebt:
 - Compleet ingevuld profiel (adres, telefoon, openingstijden, diensten)
@@ -49,10 +49,10 @@ Elke Werkspot-klus is een kans om een Google review te verdienen. Automatiseer d
 ## Stap 3: Bouw een eigen website die klanten trekt
 
 Een eenvoudige website met deze pagina's volstaat:
-- **Homepage** — wie je bent, wat je doet, je werkgebied
-- **Diensten** — duidelijke beschrijving per dienst met richtprijzen
-- **Reviews** — je beste Google reviews prominent in beeld
-- **Contact** — telefoonnummer, contactformulier, WhatsApp-knop
+- **Homepage**: wie je bent, wat je doet, je werkgebied
+- **Diensten**: duidelijke beschrijving per dienst met richtprijzen
+- **Reviews**: je beste Google reviews prominent in beeld
+- **Contact**: telefoonnummer, contactformulier, WhatsApp-knop
 
 Zorg dat je website snel laadt, mobielvriendelijk is en je telefoonnummer direct klikbaar is. 70% van de noodoproepen komt van een mobiel apparaat.
 
@@ -85,7 +85,7 @@ Dit is het traject dat succesvolle loodgieters volgen:
 | 12 maanden | 50% | 50% | Mond-tot-mond + AI-telefonie |
 | 18 maanden | 30% | 70% | Eigen klantenstroom draait |
 
-Het doel is niet om Werkspot te verlaten — het is om er niet meer afhankelijk van te zijn.
+Het doel is niet om Werkspot te verlaten, maar om er niet meer afhankelijk van te zijn.
 
 ## Wat levert het financieel op?
 
@@ -100,7 +100,7 @@ Het doel is niet om Werkspot te verlaten — het is om er niet meer afhankelijk 
 
 ## Conclusie
 
-Werkspot is een prima startpunt, maar geen eindstation. De loodgieter die investeert in zijn eigen online aanwezigheid — Google profiel, reviews, website en bereikbaarheid — bouwt een bedrijf dat draait zonder commissies.
+Werkspot is een prima startpunt, maar geen eindstation. De loodgieter die investeert in zijn eigen online aanwezigheid (Google profiel, reviews, website en bereikbaarheid) bouwt een bedrijf dat draait zonder commissies.
 
 Met [LoodgieterAI](/) automatiseren we je reviewverzoeken, bereikbaarheid en klantcommunicatie. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand.
 

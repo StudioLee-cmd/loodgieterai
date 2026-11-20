@@ -8,20 +8,20 @@ image: "/images/blog/online-reputatie-loodgieter.png"
 tags: ["Online reputatie", "Reviews"]
 cluster: "reviews"
 ---
-Een lekkende kraan, een verstopte afvoer, een kapotte cv-ketel — klanten zoeken een loodgieter op het moment dat ze een probleem hebben. Ze googelen, zien drie resultaten en kiezen op basis van reviews. Jouw online [reputatie](/reviews) is het eerste filter.
+Een lekkende kraan, een verstopte afvoer, een kapotte cv-ketel: klanten zoeken een loodgieter op het moment dat ze een probleem hebben. Ze googelen, zien drie resultaten en kiezen op basis van reviews. Jouw online [reputatie](/reviews) is het eerste filter.
 
 ## Waarom reviews alles bepalen voor loodgieters
 
 Loodgieterswerk is urgent en vertrouwenswerk. Klanten laten iemand in hun huis. Ze willen zekerheid dat die persoon betrouwbaar en vakkundig is. Reviews geven die zekerheid.
 
-Een loodgieter met 35 positieve reviews en 4,8 sterren wint het altijd van een concurrent zonder reviews — ongeacht ervaring.
+Een loodgieter met 35 positieve reviews en 4,8 sterren wint het altijd van een concurrent zonder reviews, ongeacht ervaring.
 
 ## Waar klanten je beoordelen
 
 | Platform | Belang |
 |----------|--------|
-| Google | Zeer hoog — eerste zoekresultaat |
-| Klusio | Hoog — veel loodgieters actief |
+| Google | Zeer hoog, eerste zoekresultaat |
+| Klusio | Hoog: veel loodgieters actief |
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-loodgieter) is je belangrijkste digitale visitekaartje.
 
@@ -53,11 +53,11 @@ Combineer reviews met een professionele [website](/blog/loodgieterswebsite-omzet
 
 ## Het verschil in de praktijk
 
-Een loodgieter met 5 reviews en een loodgieter met 50 reviews — de klant kiest altijd voor meer reviews. Het verschil is niet de kwaliteit van het werk, maar de structuur van het reviewproces. De beste loodgieters hebben een systeem dat na elke klus automatisch een verzoek stuurt.
+Een loodgieter met 5 reviews en een loodgieter met 50 reviews: de klant kiest altijd voor meer reviews. Het verschil is niet de kwaliteit van het werk, maar de structuur van het reviewproces. De beste loodgieters hebben een systeem dat na elke klus automatisch een verzoek stuurt.
 
 ## Reputatie als concurrentievoordeel
 
-In een markt met veel [directe concurrenten](/blog/meer-directe-klanten-zonder-werkspot) is je reputatie je sterkste onderscheidende factor. Investeer erin zoals je investeert in je gereedschap — het is je belangrijkste zakelijke bezit.
+In een markt met veel [directe concurrenten](/blog/meer-directe-klanten-zonder-werkspot) is je reputatie je sterkste onderscheidende factor. Investeer erin zoals je investeert in je gereedschap, want het is je belangrijkste zakelijke bezit.
 
 ## Hulp nodig?
 

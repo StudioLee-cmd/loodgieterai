@@ -14,7 +14,7 @@ Personal branding gaat niet over een duur logo of een slick website. Het gaat ov
 
 ## Waarom branding werkt voor loodgieters
 
-De meeste loodgieters vertrouwen op [Werkspot of vergelijkbare platforms](/blog/meer-directe-klanten-zonder-werkspot) voor hun klanten. Maar platformklanten zijn prijsgedreven — ze vergelijken 3-5 offertes en kiezen de goedkoopste.
+De meeste loodgieters vertrouwen op [Werkspot of vergelijkbare platforms](/blog/meer-directe-klanten-zonder-werkspot) voor hun klanten. Maar platformklanten zijn prijsgedreven: ze vergelijken 3-5 offertes en kiezen de goedkoopste.
 
 Met een sterk merk draai je dat om:
 
@@ -29,10 +29,10 @@ Met een sterk merk draai je dat om:
 
 Generalist zijn is geen merk. Kies een specialisatie waar je je in profileert:
 
-- Verduurzaming en warmtepompen — groeiende markt
-- Badkamerrenovaties — visueel aantrekkelijk voor portfolio
-- Spoedservice — 24/7 bereikbaarheid als USP
-- Nieuwbouw — grotere projecten, stabiel werk
+- Verduurzaming en warmtepompen: groeiende markt
+- Badkamerrenovaties: visueel aantrekkelijk voor portfolio
+- Spoedservice: 24/7 bereikbaarheid als USP
+- Nieuwbouw: grotere projecten, stabiel werk
 
 ### Consistente visuele identiteit
 
@@ -85,10 +85,10 @@ Je hebt geen duur marketingbureau nodig. Start met:
 
 ## Laat je branding professioneel begeleiden
 
-Bij StudioLee bouwen we merken voor vakmensen. Van [email marketing](/blog/email-marketing-loodgieter-onderhoud) tot social media content — alles afgestemd op jouw specialisatie. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee bouwen we merken voor vakmensen. Van [email marketing](/blog/email-marketing-loodgieter-onderhoud) tot social media content: alles afgestemd op jouw specialisatie. Met slechts **15 minuten per maand** aan jouw kant.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe sterk jouw merk al is.
 
 ## Conclusie
 
-Personal branding is het verschil tussen "een loodgieter" en "dé loodgieter" in je regio. Het kost geen fortuin, maar vraagt wel consistentie. Begin vandaag met je specialisatie, visuele identiteit en [online zichtbaarheid](/social-media) — en zie hoe klanten vanzelf naar je toe komen.
+Personal branding is het verschil tussen "een loodgieter" en "dé loodgieter" in je regio. Het kost geen fortuin, maar vraagt wel consistentie. Begin vandaag met je specialisatie, visuele identiteit en [online zichtbaarheid](/social-media), en zie hoe klanten vanzelf naar je toe komen.

@@ -9,9 +9,9 @@ tags: ["No-shows", "Automatisering"]
 ---
 ## Weer voor een dichte deur
 
-Je hebt je bus ingepakt, bent een half uur gereden en staat voor de deur. Niemand thuis. Telefoon gaat over op voicemail. Weer een no-show — weer een gat in je planning dat je niet meer kunt opvullen.
+Je hebt je bus ingepakt, bent een half uur gereden en staat voor de deur. Niemand thuis. Telefoon gaat over op voicemail. Weer een no-show, weer een gat in je planning dat je niet meer kunt opvullen.
 
-Voor loodgieters zijn no-shows extra pijnlijk. Het is niet alleen een gemist uurtarief — het is reistijd, brandstof, materiaal dat je had klaargelegd en een blok in je agenda dat je niet meer kunt verkopen.
+Voor loodgieters zijn no-shows extra pijnlijk. Het is niet alleen een gemist uurtarief. Het is reistijd, brandstof, materiaal dat je had klaargelegd en een blok in je agenda dat je niet meer kunt verkopen.
 
 ## Wat kosten no-shows je echt?
 
@@ -32,11 +32,11 @@ Bij 3-4 no-shows per maand is dat al €300-500 verlies. Per jaar loop je duizen
 
 De nummer één methode. Stuur 24 uur voor de afspraak een automatisch WhatsApp-bericht: "Hoi [naam], morgen om [tijd] komen we langs voor [klus]. Klopt dit nog? Antwoord JA om te bevestigen of bel ons om te verzetten."
 
-WhatsApp heeft een openingspercentage van 90%+ — veel hoger dan e-mail of SMS. Klanten die bevestigen komen vrijwel altijd opdagen.
+WhatsApp heeft een openingspercentage van 90%+, veel hoger dan e-mail of SMS. Klanten die bevestigen komen vrijwel altijd opdagen.
 
 ### 2. Bevestiging bij het inplannen
 
-Vraag bij het maken van de afspraak om een bevestiging: "Je ontvangt zo een bevestiging per WhatsApp. Check even of alles klopt." Dit schept een psychologisch commitment — de klant voelt zich verantwoordelijk voor de afspraak.
+Vraag bij het maken van de afspraak om een bevestiging: "Je ontvangt zo een bevestiging per WhatsApp. Check even of alles klopt." Dit schept een psychologisch commitment: de klant voelt zich verantwoordelijk voor de afspraak.
 
 ### 3. Korte bevestigingsperiode
 
@@ -60,14 +60,14 @@ Het mooiste is dat je dit niet zelf hoeft te doen. Een geautomatiseerd systeem s
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als loodgieter.
 
-Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI telefonist](/voice-ai) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [chatbot](/chatbot): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/annuleringsbeleid-loodgieter-no-shows-voorkomen" class="text-dark fw-semibold">Annuleringsbeleid als loodgieter: duidelijke afspraken die no-shows voorkomen</a> →</p></div></div></div>
 
 ## Conclusie
 
-No-shows zijn niet onvermijdelijk — ze zijn een oplosbaar probleem. Met automatische herinneringen via WhatsApp verminder je no-shows met 50-70%. Dat is direct meer omzet, minder frustratie en een vollere planning.
+No-shows zijn niet onvermijdelijk. Ze zijn een oplosbaar probleem. Met automatische herinneringen via WhatsApp verminder je no-shows met 50-70%. Dat is direct meer omzet, minder frustratie en een vollere planning.
 
 Wil je weten hoe automatische herinneringen werken voor jouw loodgietersbedrijf? [Vraag een gratis scan aan](/gratis-scan) en we laten je zien wat er mogelijk is.

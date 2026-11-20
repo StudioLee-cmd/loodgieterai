@@ -1,6 +1,6 @@
 ---
 title: "Meer Google-reviews als loodgieter: zo pak je het aan"
-excerpt: "Google-reviews zijn goud waard voor loodgieters — maar de meeste klanten geven ze niet vanzelf. Zo zorg je dat reviews automatisch blijven binnenkomen."
+excerpt: "Google-reviews zijn goud waard voor loodgieters, maar de meeste klanten geven ze niet vanzelf. Zo zorg je dat reviews automatisch blijven binnenkomen."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-google-reviews-als-loodgieter.png"
@@ -9,9 +9,9 @@ cluster: "reviews"
 ---
 ## Waarom Google-reviews voor loodgieters extra zwaar wegen
 
-Loodgieters hebben een bijzondere positie in de markt. Sinds begin 2024 accepteert Google geen betaalde advertenties meer van loodgietersbedrijven — te veel malafide partijen maakten misbruik van de Ads-positie. Dat betekent dat eerlijke loodgieters alleen nog via organische zoekresultaten en [Google Maps](/seo) gevonden kunnen worden.
+Loodgieters hebben een bijzondere positie in de markt. Sinds begin 2024 accepteert Google geen betaalde advertenties meer van loodgietersbedrijven, omdat te veel malafide partijen misbruik maakten van de Ads-positie. Dat betekent dat eerlijke loodgieters alleen nog via organische zoekresultaten en [Google Maps](/seo) gevonden kunnen worden.
 
-En in Google Maps bepalen reviews jouw positie. Een loodgieter met 60 reviews en een 4,9-sterrenscore staat bovenaan. Een loodgieter met 8 reviews staat eronder — hoe goed je werk ook is.
+En in Google Maps bepalen reviews jouw positie. Een loodgieter met 60 reviews en een 4,9-sterrenscore staat bovenaan. Een loodgieter met 8 reviews staat eronder, hoe goed je werk ook is.
 
 Reviews zijn dus niet langer optioneel. Ze zijn de motor van je nieuwe klanteninstroom.
 
@@ -19,7 +19,7 @@ Reviews zijn dus niet langer optioneel. Ze zijn de motor van je nieuwe klantenin
 
 ## Het probleem: tevreden klanten geven geen review
 
-Bijna elke loodgieter kent het gevoel: je lost een spoed-lekkage op, de klant is dolblij, bedankt je uitgebreid — en geeft nooit een review. Niet omdat ze het niet willen. Maar omdat ze het vergeten zodra je weg bent.
+Bijna elke loodgieter kent het gevoel: je lost een spoed-lekkage op, de klant is dolblij, bedankt je uitgebreid, maar geeft nooit een review. Niet omdat ze het niet willen. Maar omdat ze het vergeten zodra je weg bent.
 
 Onderzoek toont dat minder dan 10% van tevreden klanten spontaan een review achterlaat. De andere 90% moet je erom vragen. En dan nog: als je mondeling vraagt, doet maar een kwart het ook echt.
 
@@ -32,7 +32,7 @@ De oplossing is automatisering. Een systeem dat vanzelf vraagt, op het juiste mo
 Voordat je reviews gaat verzamelen, moet je profiel in orde zijn. Ga naar [business.google.com](https://business.google.com) en controleer:
 
 - Is je bedrijfsnaam correct en professioneel?
-- Staan je openingstijden er goed in — inclusief spoedlijn-uren?
+- Staan je openingstijden er goed in, inclusief spoedlijn-uren?
 - Zijn je diensten specifiek omschreven (lekkage, CV-ketel, ontstopping, badkamer)?
 - Heb je minimaal 5 eigen foto's toegevoegd?
 - Staat er een duidelijke beschrijving met jouw werkgebied?
@@ -43,7 +43,7 @@ Een volledig profiel geeft meer vertrouwen aan potentiële klanten én scoort be
 
 ## Stap 2: Maak een directe review-link
 
-Google geeft elke bedrijfspagina een directe link waarmee klanten meteen op het reviewformulier terechtkomen — zonder zoeken. Dat verlaagt de drempel enorm.
+Google geeft elke bedrijfspagina een directe link waarmee klanten meteen op het reviewformulier terechtkomen, zonder zoeken. Dat verlaagt de drempel enorm.
 
 **Hoe je die link vindt:**
 
@@ -60,7 +60,7 @@ Die link gebruik je in elke opvolgmail, WhatsApp-bericht en SMS.
 
 ## Stap 3: Vraag automatisch via WhatsApp
 
-WhatsApp is het meest gebruikte communicatiekanaal in Nederland. De meeste loodgieters plannen afspraken al via WhatsApp — gebruik dat.
+WhatsApp is het meest gebruikte communicatiekanaal in Nederland. De meeste loodgieters plannen afspraken al via WhatsApp, dus gebruik dat.
 
 Stel een automatisch bericht in dat verstuurd wordt 2 tot 4 uur na het afsluiten van een klus:
 
@@ -72,17 +72,17 @@ Met automatisering via WhatsApp Business API of een systeem als LoodgieterAI gaa
 
 ## Stap 4: Gebruik SMS als backup
 
-Niet iedereen reageert op WhatsApp — zeker oudere klanten niet. SMS heeft een openingspercentage van boven de 95% en wordt vrijwel altijd binnen 5 minuten gelezen.
+Niet iedereen reageert op WhatsApp, zeker oudere klanten niet. SMS heeft een openingspercentage van boven de 95% en wordt vrijwel altijd binnen 5 minuten gelezen.
 
 Een simpele SMS-opvolging:
 
 > "Bedankt voor je afspraak met [Bedrijfsnaam]! Tevreden met de service? Laat een review achter via: [link]"
 
-Combineer WhatsApp en SMS — stuur WhatsApp eerste, SMS als backup na 24 uur als er geen reactie is.
+Combineer WhatsApp en SMS: stuur WhatsApp eerst, SMS als backup na 24 uur als er geen reactie is.
 
 ---
 
-## Stap 5: Reageer op elke review — ook de negatieve
+## Stap 5: Reageer op elke review, ook de negatieve
 
 Reageren op reviews is net zo belangrijk als ze ontvangen. Google registreert of je actief bent op je profiel. En potentiële klanten lezen je reacties.
 
@@ -92,9 +92,9 @@ Bedank de klant bij naam, benoem de klus, en eindig met een uitnodiging voor een
 > "Dank je wel, [naam]! Fijn dat de lekkage snel opgelost kon worden. Tot de volgende keer!"
 
 **Op een negatieve review:**
-Reageer kalm, professioneel, en toon begrip — ook als de klant ongelijk heeft. Andere klanten beoordelen hoe jij omgaat met kritiek.
+Reageer kalm, professioneel, en toon begrip, ook als de klant ongelijk heeft. Andere klanten beoordelen hoe jij omgaat met kritiek.
 
-> "Hallo [naam], bedankt voor je feedback. Het spijt ons dat je een minder goede ervaring had. We nemen dit serieus en horen graag hoe we dit kunnen oplossen — stuur ons gerust een berichtje."
+> "Hallo [naam], bedankt voor je feedback. Het spijt ons dat je een minder goede ervaring had. We nemen dit serieus en horen graag hoe we dit kunnen oplossen. Stuur ons gerust een berichtje."
 
 Een professionele reactie op een slechte review overtuigt meer dan tien goede reviews zonder reactie.
 
@@ -106,20 +106,20 @@ Je hebt waarschijnlijk al een klantenlijst van tevreden klanten die nooit een re
 
 > "Hoi [naam], we zijn ons Google-profiel aan het opbouwen en zouden het enorm waarderen als je een korte review zou willen achterlaten. Het duurt maar twee minuten: [link]"
 
-Doe dit in batches van 20 tot 30 klanten per keer — zo lijkt het niet als spam en blijft het organisch.
+Doe dit in batches van 20 tot 30 klanten per keer, zodat het niet als spam lijkt en organisch blijft.
 
 ---
 
 ## Wat LoodgieterAI automatiseert
 
-Alles wat hierboven staat klinkt logisch — maar wie doet het terwijl jij onder een aanrecht ligt of op spoed uitrijdt?
+Alles wat hierboven staat klinkt logisch, maar wie doet het terwijl jij onder een aanrecht ligt of op spoed uitrijdt?
 
 LoodgieterAI regelt het voor je:
 
 - **Automatische review-opvolging** via WhatsApp en SMS na elke klus
 - **Google Bedrijfsprofiel** bijgehouden en geoptimaliseerd
-- **Reacties op reviews** — wij stellen ze voor, jij keurt goed
-- **Maandelijkse rapportage** — hoeveel reviews erbij, wat is je gemiddelde score
+- **Reacties op reviews**: wij stellen ze voor, jij keurt goed
+- **Maandelijkse rapportage**: hoeveel reviews erbij, wat is je gemiddelde score
 - **AI Chatbot** voor spoedmeldingen buiten openingstijden
 
 Meer reviews, meer klanten, minder administratie. Dat is het idee.
