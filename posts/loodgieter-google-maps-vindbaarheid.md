@@ -19,9 +19,9 @@ Het probleem? De meeste loodgieters hebben hun profiel half ingevuld, geen revie
 
 Google gebruikt drie factoren voor het lokale kaartresultaat:
 
-1. **Relevantie** — past je bedrijf bij wat de zoeker vraagt? "Loodgieter" als primaire categorie is dus essentieel.
-2. **Afstand** — hoe dichtbij is je bedrijf bij de zoeker? Dit kun je niet veranderen, maar je kunt wel zorgen dat je in meer steden zichtbaar bent door je servicegebied goed in te stellen.
-3. **Bekendheid** — hoeveel reviews heb je, hoeveel mensen klikken op je profiel, hoe actief is je bedrijf online?
+1. **Relevantie**: past je bedrijf bij wat de zoeker vraagt? "Loodgieter" als primaire categorie is dus essentieel.
+2. **Afstand**: hoe dichtbij is je bedrijf bij de zoeker? Dit kun je niet veranderen, maar je kunt wel zorgen dat je in meer steden zichtbaar bent door je servicegebied goed in te stellen.
+3. **Bekendheid**: hoeveel reviews heb je, hoeveel mensen klikken op je profiel, hoe actief is je bedrijf online?
 
 De eerste twee zijn relatief simpel om te beïnvloeden. De derde is waar de meeste loodgieters punten laten liggen. Bekendheid bouw je op met reviews, foto's, posts en consistente bedrijfsgegevens. Geen van die dingen kost geld, alleen aandacht.
 
@@ -33,19 +33,19 @@ Heb je wel een profiel maar nog niet geclaimd? Zoek je bedrijf op Google Maps, k
 
 Zodra het profiel van jou is, vul je ALLES in:
 
-- **Bedrijfsnaam** — exact zoals op je facturen, geen "Loodgieter snel en goedkoop [stad]" met extra trefwoorden, daar bestraft Google je voor
-- **Categorie** — primair: "Loodgieter". Secundair kan je "Verwarmingsmonteur", "Sanitair installateur" of "Spoeddienst" toevoegen
-- **Adres of servicegebied** — als klanten bij je langskomen, vul je een adres in. Werk je alleen op locatie, dan kies je servicegebied en geef je tot 20 plaatsen op
-- **Telefoonnummer** — vast en lokaal indien mogelijk, geen 088-nummer
-- **Website** — link naar je homepage, niet naar een willekeurige subpagina
-- **Openingstijden** — ook spoeddienst-uren, want klanten zoeken vaak buiten kantooruren
-- **Beschrijving** — 750 tekens, vertel wat je doet, voor wie en waar. Verwerk je belangrijkste diensten als "lekkage repareren", "cv-ketel onderhoud" en "ontstoppingen"
+- **Bedrijfsnaam**: exact zoals op je facturen, geen "Loodgieter snel en goedkoop [stad]" met extra trefwoorden, daar bestraft Google je voor
+- **Categorie**: primair "Loodgieter". Secundair kan je "Verwarmingsmonteur", "Sanitair installateur" of "Spoeddienst" toevoegen
+- **Adres of servicegebied**: als klanten bij je langskomen, vul je een adres in. Werk je alleen op locatie, dan kies je servicegebied en geef je tot 20 plaatsen op
+- **Telefoonnummer**: vast en lokaal indien mogelijk, geen 088-nummer
+- **Website**: link naar je homepage, niet naar een willekeurige subpagina
+- **Openingstijden**, ook spoeddienst-uren, want klanten zoeken vaak buiten kantooruren
+- **Beschrijving**: 750 tekens, vertel wat je doet, voor wie en waar. Verwerk je belangrijkste diensten als "lekkage repareren", "cv-ketel onderhoud" en "ontstoppingen"
 
 Een compleet profiel scoort tot 70 procent beter dan een halfvol profiel. Dit is de eerste en belangrijkste stap.
 
 ## Stap 2: Kies de juiste categorieën
 
-Google laat je tot tien categorieën kiezen. Doe dat niet allemaal — kies er twee tot vier die echt bij je passen. Te veel categorieën verzwakt je relevantie voor de hoofdcategorie.
+Google laat je tot tien categorieën kiezen. Doe dat niet allemaal, maar kies er twee tot vier die echt bij je passen. Te veel categorieën verzwakt je relevantie voor de hoofdcategorie.
 
 Voor de meeste loodgieters werkt dit het beste:
 
@@ -72,7 +72,7 @@ Foto's die je weglaat: stockfoto's, dingen die niet van jou zijn, foto's met kla
 
 ![Loodgietergereedschap netjes uitgestald op een werkbank](/images/blog/loodgieter-google-maps-vindbaarheid-2.jpg)
 
-## Stap 4: Reviews verzamelen — de belangrijkste factor
+## Stap 4: Reviews verzamelen, de belangrijkste factor
 
 Reviews zijn dé factor waarop je het meest invloed hebt. Loodgieters met meer dan 50 reviews en een gemiddelde van 4,5+ verschijnen tot drie keer vaker in de top drie dan loodgieters met minder dan 10 reviews.
 
@@ -135,9 +135,9 @@ Elke dienst die je toevoegt vergroot de kans dat je in zoekresultaten verschijnt
 
 In je Bedrijfsprofiel konden klanten vroeger een vraag stellen die zichtbaar was voor anderen. Die sectie bestaat niet meer: Google stopte op 3 november 2025 de koppeling ernaartoe en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen zijn er nog wel, en Google stelt het antwoord nu zelf samen uit je profiel, je website en je reviews. Zorg dus dat het er staat:
 
-- "Werken jullie ook in het weekend?" — in je bedrijfsomschrijving en met één zin bovenaan je contactpagina: "Voor spoedklussen zijn we 7 dagen per week bereikbaar."
-- "Wat kost een ontstopping?" — op je tarievenpagina, met het bedrag er echt bij: "Onze ontstoppingen starten vanaf 95 euro inclusief BTW. Bij complexe situaties bespreken we de prijs vooraf."
-- "In welke regio werken jullie?" — in het servicegebied van je profiel én als zin op je site: "Wij werken in [stad] en omgeving, tot 30 km."
+- "Werken jullie ook in het weekend?" Antwoord in je bedrijfsomschrijving en met één zin bovenaan je contactpagina: "Voor spoedklussen zijn we 7 dagen per week bereikbaar."
+- "Wat kost een ontstopping?" Antwoord op je tarievenpagina, met het bedrag er echt bij: "Onze ontstoppingen starten vanaf 95 euro inclusief BTW. Bij complexe situaties bespreken we de prijs vooraf."
+- "In welke regio werken jullie?" Antwoord in het servicegebied van je profiel én als zin op je site: "Wij werken in [stad] en omgeving, tot 30 km."
 
 Deze antwoorden staan daarmee op de plek waar Google ze leest, en anders dan in de oude vragensectie kan niemand anders ze voor je invullen. Wat er precies veranderd is staat in [Google Q&A loodgieter: weg, en waar je antwoord nu hoort](/blog/google-qa-sectie-loodgieter).
 

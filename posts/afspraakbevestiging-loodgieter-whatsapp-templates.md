@@ -15,7 +15,7 @@ Een goede afspraakbevestiging sluit dat gat. Niet door één standaard e-mail op
 
 De meeste loodgieters versturen één bevestigingsmail direct na het inplannen, en verder niets. Tussen het moment van boeken en de afspraak zit vaak drie tot tien dagen. In die tijd vergeet de klant het adres, de tijd, of het feit dat er iemand thuis moet zijn voor toegang tot de meterkast. Het resultaat: monteurs die voor een dichte deur staan, verloren voorrijkosten en een dag die inzakt.
 
-Een serieus bevestigingssysteem werkt op vier contactmomenten die elk een eigen doel hebben. **Direct na boeking** is voor de vastlegging — de klant heeft een bevestiging zwart-op-wit in zijn WhatsApp. **48 uur van tevoren** is voor de verzet-optie — wie nu al weet dat het niet doorgaat, geeft dat op tijd door. **24 uur van tevoren** is voor de voorbereiding — adres, tijdvenster, wat moet er toegankelijk zijn. **2 tot 3 uur van tevoren** is voor de finale nudge — een dichte deur voorkomen.
+Een serieus bevestigingssysteem werkt op vier contactmomenten die elk een eigen doel hebben. **Direct na boeking** is voor de vastlegging: de klant heeft een bevestiging zwart-op-wit in zijn WhatsApp. **48 uur van tevoren** is voor de verzet-optie: wie nu al weet dat het niet doorgaat, geeft dat op tijd door. **24 uur van tevoren** is voor de voorbereiding: adres, tijdvenster, wat moet er toegankelijk zijn. **2 tot 3 uur van tevoren** is voor de finale nudge, om een dichte deur te voorkomen.
 
 Loodgietersbedrijven die dit ritme automatiseren zien no-shows en onbereikbare adressen met zo'n 40 tot 60 procent dalen. Niet omdat klanten ineens perfecter plannen, maar omdat het systeem hen meermaals aanstoot op momenten waarop reageren twee seconden kost.
 
@@ -37,7 +37,7 @@ Een goede WhatsApp-bevestiging doet twee dingen tegelijk: de klant krijgt zekerh
 
 ## 2. Verzet-moment: 48 uur vooraf
 
-Dit bericht geeft de klant expliciet ruimte om te verzetten. Wie nu al weet dat hij vrijdag niet thuis is, geeft dat op dit moment aan — wanneer jij de stoel nog kunt doorschuiven naar iemand anders op je wachtlijst.
+Dit bericht geeft de klant expliciet ruimte om te verzetten. Wie nu al weet dat hij vrijdag niet thuis is, geeft dat op dit moment aan, wanneer jij de stoel nog kunt doorschuiven naar iemand anders op je wachtlijst.
 
 **Template 3: 48u-bevestiging met JA/NEE-optie**
 
@@ -47,7 +47,7 @@ Dit bericht geeft de klant expliciet ruimte om te verzetten. Wie nu al weet dat 
 
 > Hi [naam], kleine reminder: overmorgen [dag] [datum] staan we bij jullie op [adres] tussen [tijdvenster] voor [werkzaamheid]. Kan de contactpersoon ons binnenlaten? Antwoord even kort JA of NEE zodat we weten dat het doorgaat.
 
-De winst zit in dat simpele JA/NEE. Een handmatige inbox-flow met open vragen kost jou minuten per klant om te interpreteren. Een ja-of-nee antwoord is in één oogopslag duidelijk en kan automatisch in je agenda worden verwerkt. Klanten die niet reageren op dit bericht zijn bovendien meteen zichtbaar — dat is je shortlist voor een telefonische check.
+De winst zit in dat simpele JA/NEE. Een handmatige inbox-flow met open vragen kost jou minuten per klant om te interpreteren. Een ja-of-nee antwoord is in één oogopslag duidelijk en kan automatisch in je agenda worden verwerkt. Klanten die niet reageren op dit bericht zijn bovendien meteen zichtbaar. Dat is je shortlist voor een telefonische check.
 
 ## 3. Voorbereidings-moment: 24 uur vooraf
 
@@ -61,7 +61,7 @@ Dit is het klassieke herinneringsbericht, maar met meer inhoud dan "tot morgen".
 
 > Hoi [naam], morgen tussen [tijdvenster] komen we bij je langs voor [werkzaamheid]. Voorbereiding die helpt: water afsluiten op de aangewezen locatie, oude ketel vrijmaken van bekleding, of badkamer zoveel mogelijk leegmaken. Ingeschatte duur: [duur]. Tot morgen!
 
-De winst zit in de voorbereiding. Een klant die een CV-vervanging niet heeft voorbereid, kost je 30 tot 60 minuten extra per afspraak — tijd die je hele planning daarachter in de knel brengt. Dit ene bericht bespaart dat.
+De winst zit in de voorbereiding. Een klant die een CV-vervanging niet heeft voorbereid, kost je 30 tot 60 minuten extra per afspraak, tijd die je hele planning daarachter in de knel brengt. Dit ene bericht bespaart dat.
 
 ## 4. Finale nudge: 2-3 uur vooraf
 

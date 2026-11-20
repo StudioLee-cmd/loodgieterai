@@ -46,10 +46,10 @@ Dit is waar de meeste loodgieters omzet laten liggen. In het voorjaar en de zome
 
 ### Verdienmodellen voor het laagseizoen
 
-- **Badkamerrenovaties** — grotere projecten die je weken vullen
-- **Onderhoudscontracten** — jaarlijkse afspraken die je agenda vullen met [terugkerende klanten](/blog/terugkerende-klanten-loodgieter)
-- **Verduurzaming** — warmtepompen, vloerverwarming, waterbesparende systemen
-- **Nieuwbouwprojecten** — samenwerking met aannemers en projectontwikkelaars
+- **Badkamerrenovaties**: grotere projecten die je weken vullen
+- **Onderhoudscontracten**: jaarlijkse afspraken die je agenda vullen met [terugkerende klanten](/blog/terugkerende-klanten-loodgieter)
+- **Verduurzaming**: warmtepompen, vloerverwarming, waterbesparende systemen
+- **Nieuwbouwprojecten**: samenwerking met aannemers en projectontwikkelaars
 
 ## Onderhoudscontracten: de basis voor stabiliteit
 
@@ -79,6 +79,6 @@ Klanten zoeken op het moment dat ze het nodig hebben. Als jij er dan staat met d
 
 ## Hulp nodig?
 
-Bij LoodgieterAI helpen we loodgieters met het opzetten van een seizoensstrategie die het hele jaar werkt. Van automatische onderhoudsherinneringen tot slimme marketing per seizoen — alles voor slechts 15 minuten per maand van jouw tijd.
+Bij LoodgieterAI helpen we loodgieters met het opzetten van een seizoensstrategie die het hele jaar werkt. Van automatische onderhoudsherinneringen tot slimme marketing per seizoen: alles voor slechts 15 minuten per maand van jouw tijd.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe je jouw seizoensplanning kunt optimaliseren.

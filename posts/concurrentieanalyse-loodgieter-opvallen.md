@@ -10,7 +10,7 @@ cluster: "branding"
 ---
 ## Waarom een concurrentieanalyse loont
 
-Als loodgieter heb je te maken met flinke concurrentie. Van grote installatiebedrijven tot eenpitters die via mond-tot-mondreclame werken — iedereen vecht om dezelfde klanten. Toch nemen weinig loodgieters de tijd om systematisch naar hun concurrentie te kijken.
+Als loodgieter heb je te maken met flinke concurrentie. Van grote installatiebedrijven tot eenpitters die via mond-tot-mondreclame werken: iedereen vecht om dezelfde klanten. Toch nemen weinig loodgieters de tijd om systematisch naar hun concurrentie te kijken.
 
 Dat is een gemiste kans. Een goede concurrentieanalyse laat je zien waar kansen liggen die anderen missen. Misschien is er in jouw regio geen loodgieter die gespecialiseerd is in warmtepompen. Of misschien scoren alle concurrenten slecht op [Google Reviews](/reviews). Die gaten in de markt zijn jouw kans om te groeien.
 
@@ -31,7 +31,7 @@ Dit overzicht geeft je een helder beeld van het speelveld. Je ziet direct waar j
 
 ## Online zichtbaarheid checken
 
-De meeste klanten zoeken online naar een loodgieter — vaak op het moment dat er een probleem is. Wie dan bovenaan staat in Google, krijgt de klus.
+De meeste klanten zoeken online naar een loodgieter, vaak op het moment dat er een probleem is. Wie dan bovenaan staat in Google, krijgt de klus.
 
 ![Lokale concurrentie in kaart brengen als loodgieter](/images/blog/concurrentieanalyse-loodgieter-opvallen-2.jpg)
 
@@ -57,9 +57,9 @@ Een specialisatie maakt je herkenbaarder en geeft klanten een reden om specifiek
 
 ## Prijzen en service vergelijken
 
-Kijk wat concurrenten rekenen voor vergelijkbare klussen. Je hoeft niet de goedkoopste te zijn — maar je moet wel weten waar je staat.
+Kijk wat concurrenten rekenen voor vergelijkbare klussen. Je hoeft niet de goedkoopste te zijn, maar je moet wel weten waar je staat.
 
-Als jouw tarieven hoger zijn, zorg dan dat klanten begrijpen waarom. Snellere service, betere garantie, schoner werken, duidelijkere communicatie — dat zijn allemaal redenen waarom klanten meer willen betalen.
+Als jouw tarieven hoger zijn, zorg dan dat klanten begrijpen waarom. Snellere service, betere garantie, schoner werken, duidelijkere communicatie: dat zijn allemaal redenen waarom klanten meer willen betalen.
 
 Transparantie over prijzen op je website kan ook een onderscheidende factor zijn. Veel loodgieters vermijden dit, maar klanten waarderen het als ze vooraf een indicatie krijgen. Het bouwt vertrouwen op nog voordat ze contact opnemen.
 
@@ -69,7 +69,7 @@ Transparantie over prijzen op je website kan ook een onderscheidende factor zijn
 
 Zet je concurrentieanalyse om in concrete acties:
 
-1. **Optimaliseer je Google Bedrijfsprofiel** volledig — foto's van je werk, werkgebied, alle diensten.
+1. **Optimaliseer je Google Bedrijfsprofiel** volledig: foto's van je werk, werkgebied, alle diensten.
 2. **Verzamel actief reviews** na elke klus. Een simpel berichtje na afloop doet wonderen.
 3. **Kies een specialisatie** om te communiceren. Je kunt nog steeds alles aanbieden, maar profileer je op één ding.
 4. **Verbeter je website** op de punten waar concurrenten beter scoren.

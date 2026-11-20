@@ -39,7 +39,7 @@ const workflows = [
   {
     icon: BsChatDots,
     title: "Klant-onderweg-communicatie",
-    desc: `"Ik kom over 15 minuten" gaat automatisch uit zodra je in de bus stapt richting de klus. Geen verraste klant aan de deur, geen klacht over wachten — meer 5-sterren reviews.`,
+    desc: `"Ik kom over 15 minuten" gaat automatisch uit zodra je in de bus stapt richting de klus. Geen verraste klant aan de deur, geen klacht over wachten: meer 5-sterren reviews.`,
   },
   {
     icon: BsCalendar3,
@@ -49,27 +49,27 @@ const workflows = [
   {
     icon: BsCheck2Circle,
     title: "Review-verzoek na elke klus",
-    desc: `Twee uur na afgerond werk gaat er automatisch een WhatsApp uit met directe Google-review link. Meer reviews, hogere ranking, meer instroom — zonder dat jij er aan hoeft te denken.`,
+    desc: `Twee uur na afgerond werk gaat er automatisch een WhatsApp uit met directe Google-review link. Meer reviews, hogere ranking, meer instroom, zonder dat jij er aan hoeft te denken.`,
   },
   {
     icon: BsArrowRepeat,
     title: "Onderhoud-cycli (CV-ketel, ontkalking)",
-    desc: `Klant had een CV-ketel installatie in november? In oktober gaat er automatisch een onderhoud-uitnodiging uit. Terugkerende klussen, terugkerende omzet — volledig automatisch.`,
+    desc: `Klant had een CV-ketel installatie in november? In oktober gaat er automatisch een onderhoud-uitnodiging uit. Terugkerende klussen, terugkerende omzet, volledig automatisch.`,
   },
 ];
 
 const reminderExamples = [
   "Bevestigings-bericht direct na boeking via Voice AI of chatbot",
-  '"Wij komen morgen om 09:30" — 24u van tevoren',
-  '"Ik vertrek over 15 minuten" — wanneer je in de bus stapt',
+  '"Wij komen morgen om 09:30" (24u van tevoren)',
+  '"Ik vertrek over 15 minuten" (wanneer je in de bus stapt)',
   "Factuur-volgop 3 dagen na klus (betaling-herinnering, vriendelijk)",
   "CV-ketel jaaronderhoud-herinnering, 12 maanden na installatie",
   "Reactiveer-bericht voor klanten die 6 maanden niets gehoord hebben",
 ];
 
 const integrations = [
-  { icon: BsWhatsapp, title: "WhatsApp Business", desc: "Het hoofdkanaal — 90% van loodgieter-klanten checkt WhatsApp sneller dan e-mail." },
-  { icon: BsTelephone, title: "SMS / Telefoon", desc: "Voor klanten die geen WhatsApp gebruiken — gewoon een SMS. Werkt op elke telefoon." },
+  { icon: BsWhatsapp, title: "WhatsApp Business", desc: "Het hoofdkanaal: 90% van loodgieter-klanten checkt WhatsApp sneller dan e-mail." },
+  { icon: BsTelephone, title: "SMS / Telefoon", desc: "Voor klanten die geen WhatsApp gebruiken: gewoon een SMS. Werkt op elke telefoon." },
   { icon: BsCalendar3, title: "Google Calendar + Outlook", desc: "Afspraken sync je agenda automatisch. Geen dubbel-boekingen tussen jou en je monteurs." },
   { icon: BsBoxSeam, title: "Boekingssystemen", desc: "Custom boekingsformulier, online afsprakenboeker en Voice AI vullen dezelfde agenda." },
 ];
@@ -88,7 +88,7 @@ const steps = [
   {
     number: "03",
     title: "Live binnen een week",
-    desc: `Binnen 5-7 werkdagen draaien je flows. Wij testen elke route. Daarna pas je het zelf aan via een simpele dashboard — geen tech-kennis nodig.`,
+    desc: `Binnen 5-7 werkdagen draaien je flows. Wij testen elke route. Daarna pas je het zelf aan via een simpele dashboard, zonder tech-kennis.`,
   },
 ];
 
@@ -117,7 +117,7 @@ const faqs = [
   },
   {
     q: "Werkt het samen met mijn huidige boekingssysteem en agenda?",
-    a: "Ja. We koppelen aan Google Calendar, Outlook, en de gangbare boekings- en facturatie-tools. Je hoeft niets te vervangen — bestaande systemen blijven werken, ze gaan automatisch met elkaar communiceren.",
+    a: "Ja. We koppelen aan Google Calendar, Outlook, en de gangbare boekings- en facturatie-tools. Je hoeft niets te vervangen: bestaande systemen blijven werken, ze gaan automatisch met elkaar communiceren.",
   },
   {
     q: "Worden alle berichten via WhatsApp verstuurd?",
@@ -125,19 +125,19 @@ const faqs = [
   },
   {
     q: "Hoe weet het systeem wanneer ik in de bus stap?",
-    a: `Je kunt het zelf triggeren met één knop in de app, of we koppelen het automatisch aan je agenda — wanneer een afspraak status "onderweg" krijgt gaat het bericht uit. Veel ${niche} stellen het zo in: zodra ze op "vertrek" tikken in de planner gaat de "ik kom eraan" automatisch.`,
+    a: `Je kunt het zelf triggeren met één knop in de app, of we koppelen het automatisch aan je agenda: wanneer een afspraak status "onderweg" krijgt gaat het bericht uit. Veel ${niche} stellen het zo in: zodra ze op "vertrek" tikken in de planner gaat de "ik kom eraan" automatisch.`,
   },
   {
     q: "Wat kost workflow automatisering?",
-    a: `Alle automatiseringen — herinneringen, lead-opvolging, klantcommunicatie, agenda-sync, review-verzoeken, onderhoud-cycli — zitten inbegrepen in het maandelijkse pakket vanaf €79/maand. Geen opstartkosten, geen kosten per bericht. Bekijk de tarieven voor alle details.`,
+    a: `Alle automatiseringen (herinneringen, lead-opvolging, klantcommunicatie, agenda-sync, review-verzoeken, onderhoud-cycli) zitten inbegrepen in het maandelijkse pakket vanaf €79/maand. Geen opstartkosten, geen kosten per bericht. Bekijk de tarieven voor alle details.`,
   },
   {
     q: "Krijg ik mijn data terug als ik stop?",
-    a: "Ja. Klantdata, gesprekgeschiedenis, agenda en review-data zijn altijd van jou — exporteerbaar als CSV op elk moment. Geen lock-in.",
+    a: "Ja. Klantdata, gesprekgeschiedenis, agenda en review-data zijn altijd van jou, exporteerbaar als CSV op elk moment. Geen lock-in.",
   },
   {
     q: "Kan ik later flows zelf aanpassen?",
-    a: "Ja. Via een simpele drag-and-drop dashboard kun je triggers, timing en berichten aanpassen. Geen developer nodig. En als je vastloopt — wij staan ernaast om bij te sturen.",
+    a: "Ja. Via een simpele drag-and-drop dashboard kun je triggers, timing en berichten aanpassen. Geen developer nodig. En als je vastloopt, staan wij ernaast om bij te sturen.",
   },
 ];
 
@@ -161,7 +161,7 @@ export default function AutomatiseringContent() {
             className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
             Automatische herinneringen, lead-opvolging, klantcommunicatie en
-            onderhoud-cycli — voor {niche} die geen tijd hebben voor admin
+            onderhoud-cycli, voor {niche} die geen tijd hebben voor admin
             maar wel volle agendas willen. Jij lost de lekkage op, wij regelen de rest.
           </motion.p>
           <motion.div
@@ -191,7 +191,7 @@ export default function AutomatiseringContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/automatisering-hero.jpg"
-              alt={`Workflow automatisering voor ${niche} — herinneringen, klus-updates, review-verzoeken automatisch`}
+              alt={`Workflow automatisering voor ${niche} (herinneringen, klus-updates, review-verzoeken automatisch)`}
               fill
               priority
               className="object-cover"
@@ -220,7 +220,7 @@ export default function AutomatiseringContent() {
               website, de chatbot vangt het op, een bevestigingsbericht gaat uit, een
               herinnering 24u voor de afspraak gaat uit, &quot;ik kom over 15 minuten&quot;
               gaat uit als je in de bus stapt, en een review-verzoek gaat uit 2u na afgerond
-              werk. Jij hoeft alleen het werk te doen — de communicatie loopt vanzelf.
+              werk. Jij hoeft alleen het werk te doen. De communicatie loopt vanzelf.
             </p>
           </div>
         </div>
@@ -259,7 +259,7 @@ export default function AutomatiseringContent() {
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Hoe het werkt</h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            In 3 stappen draaien jouw automatiseringen — zonder tech-kennis.
+            In 3 stappen draaien jouw automatiseringen, zonder tech-kennis.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 relative">
             <div className="hidden md:block absolute top-12 left-[15%] right-[15%] h-0.5 bg-gray-200 dark:bg-neutral-700" />
@@ -292,14 +292,14 @@ export default function AutomatiseringContent() {
             <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
               <Image
                 src="/images/services/automatisering-workflow.jpg"
-                alt={`Flat-lay automatisering tools voor ${niche} — workflow cards en gereedschap`}
+                alt={`Flat-lay automatisering tools voor ${niche} (workflow cards en gereedschap)`}
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 1024px"
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Bevestiging na boeking, herinnering 24u + 2u van tevoren, &quot;ik kom eraan&quot; bij vertrek, review-verzoek 2u na klus — alles automatisch.
+              Bevestiging na boeking, herinnering 24u + 2u van tevoren, &quot;ik kom eraan&quot; bij vertrek, review-verzoek 2u na klus: alles automatisch.
             </p>
           </motion.div>
         </div>
@@ -338,7 +338,7 @@ export default function AutomatiseringContent() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-10">
             <p className="text-primary font-semibold text-sm uppercase tracking-wider mb-2">In de spotlight</p>
-            <h2 className="text-2xl md:text-3xl font-bold mb-3">Automatische herinneringen — de quickest win</h2>
+            <h2 className="text-2xl md:text-3xl font-bold mb-3">Automatische herinneringen: de quickest win</h2>
             <p className="text-foreground-accent max-w-2xl mx-auto">
               Van alle workflows leveren herinneringen + klus-updates de snelste ROI: minder vergeefse ritten, minder telefoontjes, meer 5-sterren reviews.
             </p>
@@ -369,7 +369,7 @@ export default function AutomatiseringContent() {
             >
               <Image
                 src="/images/services/automatisering-section.jpg"
-                alt={`Workflow-builder canvas voor ${niche} — geautomatiseerde flows op laptop scherm`}
+                alt={`Workflow-builder canvas voor ${niche} (geautomatiseerde flows op laptop scherm)`}
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -418,8 +418,8 @@ export default function AutomatiseringContent() {
             {[
               { href: "/voice-ai", title: "Voice AI Telefonist", desc: "Vangt oproepen op die buiten kantooruren binnenkomen en triggert automatisch een lead-opvolg-flow." },
               { href: "/chatbot", title: "AI Chatbot", desc: "Vangt website-aanvragen op en start direct de bevestigings-flow zonder dat jij iets hoeft te doen." },
-              { href: "/crm", title: "CRM voor Loodgieters", desc: "Elke geautomatiseerde flow logt naar het juiste klantprofiel — volledige geschiedenis op een plek." },
-              { href: "/reviews", title: "Reviews", desc: "Automatisch review-verzoek 2u na elke klus — meer 5-sterren, hogere Google ranking." },
+              { href: "/crm", title: "CRM voor Loodgieters", desc: "Elke geautomatiseerde flow logt naar het juiste klantprofiel, met de volledige geschiedenis op een plek." },
+              { href: "/reviews", title: "Reviews", desc: "Automatisch review-verzoek 2u na elke klus: meer 5-sterren, hogere Google ranking." },
               { href: "/seo", title: "SEO voor Loodgieters", desc: "Reviews + automatisering versterken lokale SEO. Combineer voor maximaal effect in Google Maps." },
               { href: "/gratis-scan", title: "Gratis AI-scan", desc: "Niet zeker waar je moet beginnen? We maken een gratis automatisering-scan voor jouw situatie." },
             ].map((item, idx) => (

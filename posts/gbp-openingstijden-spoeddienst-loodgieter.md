@@ -11,13 +11,13 @@ cluster: "vindbaarheid"
 
 # Google Bedrijfsprofiel openingstijden + spoeddienst voor loodgieter: zonder verwarring
 
-Een loodgieter heeft een uniek probleem op Google Bedrijfsprofiel: je hebt vrijwel altijd twee soorten "open zijn". Reguliere kantoortijden voor offerte-aanvragen, badkamer-renovaties en geplande klussen. En 24/7 spoeddienst voor lekkages, verstoppingen en kapotte CV-ketels — vaak via een apart nummer of een waarneem-regeling.
+Een loodgieter heeft een uniek probleem op Google Bedrijfsprofiel: je hebt vrijwel altijd twee soorten "open zijn". Reguliere kantoortijden voor offerte-aanvragen, badkamer-renovaties en geplande klussen. En 24/7 spoeddienst voor lekkages, verstoppingen en kapotte CV-ketels, vaak via een apart nummer of een waarneem-regeling.
 
 Wie deze twee gewoon samenvoegt op één profiel ("24 uur per dag open"), verschijnt voor klanten die op 23:00 zoeken naar een gewone offerte. Resultaat: telefoongesprekken om 23:30 over een nieuwe douche-installatie. Wie alleen kantoortijden invult, mist de spoed-zoekopdrachten die de hoogste marge hebben.
 
 Dit artikel geeft drie werkende manieren om beide te communiceren, plus een 30-seconden beslismodel om te kiezen welke past bij jouw bedrijf.
 
-Voor de bredere strategie zie ons [Google Bedrijfsprofiel als loodgieter pillar](/blog/google-bedrijfsprofiel-loodgieter) artikel — openingstijden is laag 3 in de optimalisatie-stack, na categorie en services.
+Voor de bredere strategie zie ons [Google Bedrijfsprofiel als loodgieter pillar](/blog/google-bedrijfsprofiel-loodgieter) artikel: openingstijden is laag 3 in de optimalisatie-stack, na categorie en services.
 
 ## Wat Google's algoritme echt doet met openingstijden
 
@@ -62,7 +62,7 @@ Voor loodgieters die echt continu beschikbaar zijn, eventueel via een waarneem-p
 **Resultaat:**
 - Maximaal bereik in alle tijdsvensters.
 - Hogere ranking voor brede zoekopdrachten 24/7.
-- Meer telefoontjes — ook van klanten die spoed verwarren met "ik wil nu informatie".
+- Meer telefoontjes, ook van klanten die spoed verwarren met "ik wil nu informatie".
 
 **Wanneer geschikt:** Grotere loodgietersbedrijven met dispatcher of een [ai telefonist voor loodgieters](/voice-ai) die de filter doet tussen "echte spoed" en "kan tot maandag wachten".
 
@@ -71,15 +71,15 @@ Voor loodgieters die echt continu beschikbaar zijn, eventueel via een waarneem-p
 Voor loodgieters die zowel een vaste werkplaats hebben (toonzaal, magazijn, kantoor) als een 24/7 spoeddienst onder een aparte naam draaien.
 
 **Hoe:**
-- Profiel A: "Loodgietersbedrijf Bos" — adres-gebaseerd profiel met kantoortijden 8:00-17:00.
-- Profiel B: "Bos Spoedservice 24/7" — servicegebied-gebaseerd profiel zonder fysiek adres, openingstijden 24/7, ander telefoonnummer.
+- Profiel A: "Loodgietersbedrijf Bos", adres-gebaseerd profiel met kantoortijden 8:00-17:00.
+- Profiel B: "Bos Spoedservice 24/7", servicegebied-gebaseerd profiel zonder fysiek adres, openingstijden 24/7, ander telefoonnummer.
 
 **Resultaat:**
 - Profiel A rankt voor offerte/badkamer-zoekopdrachten in kantoortijden.
 - Profiel B rankt 24/7 voor spoed-zoekopdrachten.
 - Twee aparte review-stromen, twee aparte fotobases, twee aparte rapportages.
 
-**Wanneer geschikt:** Bedrijven groter dan 5 medewerkers met expliciete 24/7-dienst als aparte propositie. Niet voor ZZP — twee profielen onderhouden vraagt 2x het werk en Google straft duplicate content waar je dezelfde merknaam in beide voert.
+**Wanneer geschikt:** Bedrijven groter dan 5 medewerkers met expliciete 24/7-dienst als aparte propositie. Niet voor ZZP: twee profielen onderhouden vraagt 2x het werk en Google straft duplicate content waar je dezelfde merknaam in beide voert.
 
 ## 30-seconden beslismodel
 
@@ -112,7 +112,7 @@ In `business.google.com`:
 
 ![Werkbalie close-up: tablet face-up met een Google Bedrijfsprofiel openingstijden-scherm (geblurde tekst), een grote Stillson-pijpsleutel, een rol PTFE-tape, een afgewerkte koperen koppeling en een mok dampende koffie op een houten werkbank, blauwe halve nacht door het raam](/images/blog/gbp-openingstijden-spoeddienst-loodgieter-2.jpg)
 
-## Speciale openingstijden — wanneer je ze ECHT goed moet invullen
+## Speciale openingstijden: wanneer je ze ECHT goed moet invullen
 
 Vier momenten waar 80% van de loodgieter-profielen fout gaat:
 
@@ -144,11 +144,11 @@ Voor de bredere [lokale seo voor loodgieters](/seo) hangt openingstijden + posts
 
 **3. Twee telefoonnummers zonder duidelijke aanduiding wat welk nummer is.** Klanten zien twee nummers en gokken. Vermeld in de beschrijving "[nummer 1] = kantoor + offertes, [nummer 2] = 24/7 spoed."
 
-**4. "Open voor spoed" zonder spoednummer.** Als je expliciet 24/7 communiceert en klanten bellen je hoofdnummer, moet er aan de andere kant iemand opnemen — of een [ai telefonist voor loodgieters](/voice-ai) die de intake doet en pas escaleert bij echte spoed.
+**4. "Open voor spoed" zonder spoednummer.** Als je expliciet 24/7 communiceert en klanten bellen je hoofdnummer, moet er aan de andere kant iemand opnemen, of een [ai telefonist voor loodgieters](/voice-ai) die de intake doet en pas escaleert bij echte spoed.
 
 **5. Wijzigingen op het laatste moment.** Een vakantie-update die op vrijdag avond ingaat is op zaterdagochtend nog niet zichtbaar. Plan minimaal 72 uur vooruit.
 
-Een [gratis ai scan voor loodgieters](/gratis-scan) brengt in kaart hoe jouw openingstijden, speciale uren en posts samenwerken — en welke gaps je hebt voor spoed-zoekopdrachten in jouw regio.
+Een [gratis ai scan voor loodgieters](/gratis-scan) brengt in kaart hoe jouw openingstijden, speciale uren en posts samenwerken, en welke gaps je hebt voor spoed-zoekopdrachten in jouw regio.
 
 ## Veelgestelde vragen
 

@@ -84,7 +84,7 @@ Je beste lead-bron is iemand die jouw bedrijf googelt na een aanbeveling. Zorg d
 - Email handtekening → "App ons direct: link" op één regel.
 - Visitekaartjes → QR-code naar wa.me/jouwnummer.
 
-Hoe minder klikken tussen "ik wil contact" en "ik app je", hoe meer leads je vangt. Werk je serieus aan online vindbaarheid, lees dan ook hoe je [hogerop komt in Google voor spoedzoekopdrachten](/seo) — de combinatie SEO + WhatsApp is wat lokale loodgieters echt laat groeien.
+Hoe minder klikken tussen "ik wil contact" en "ik app je", hoe meer leads je vangt. Werk je serieus aan online vindbaarheid, lees dan ook hoe je [hogerop komt in Google voor spoedzoekopdrachten](/seo). De combinatie SEO + WhatsApp is wat lokale loodgieters echt laat groeien.
 
 ## Van appgesprek naar geboekte afspraak: de opvolgflow
 

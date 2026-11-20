@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Loodgieters',
     siteUrl: 'https://www.loodgieterai.nl/',
     metadata: {
-        title: 'LoodgieterAI - AI voor jouw loodgietersbedrijf',
+        title: 'LoodgieterAI | AI voor jouw loodgietersbedrijf',
         description: 'LoodgieterAI: wij maken de website voor jouw loodgietersbedrijf. Chatbot, telefoon en marketing sluit je erop aan via je pakket.',
     },
     language: 'nl-NL',

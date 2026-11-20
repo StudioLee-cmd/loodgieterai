@@ -9,7 +9,7 @@ tags: ["Lead opvolging", "Offertes"]
 ---
 ## Het gat tussen offerte en opdracht
 
-Je rijdt naar een klant, bekijkt de situatie, stuurt een offerte en dan... stilte. De klant heeft drie offertes opgevraagd en kiest degene die het beste opvolgt — niet altijd de goedkoopste. Opvolging wint klussen.
+Je rijdt naar een klant, bekijkt de situatie, stuurt een offerte en dan... stilte. De klant heeft drie offertes opgevraagd en kiest degene die het beste opvolgt, niet altijd de goedkoopste. Opvolging wint klussen.
 
 Loodgieters verliezen gemiddeld 40 tot 60 procent van hun offertes. Niet omdat ze te duur zijn, maar omdat ze niet opvolgen. De klant vergeet, twijfelt of kiest de concurrent die wél belde.
 
@@ -17,7 +17,7 @@ Loodgieters verliezen gemiddeld 40 tot 60 procent van hun offertes. Niet omdat z
 
 Stuur je offerte en bel twee dagen later: "Goedemiddag, ik bel even over de offerte die ik heb gestuurd voor de badkamerrenovatie. Heeft u nog vragen?" Kort, professioneel en niet opdringerig.
 
-Die ene telefoontje verhoogt je conversie met 30 tot 50 procent. Klanten waarderen het — het toont interesse en professionaliteit.
+Die ene telefoontje verhoogt je conversie met 30 tot 50 procent. Klanten waarderen het, want het toont interesse en professionaliteit.
 
 ## Automatische follow-up als je het vergeet
 
@@ -54,6 +54,6 @@ Nee. Niet-reageren betekent zelden dat je te duur bent. Het betekent meestal dat
 
 ## Conclusie
 
-[Leads opvolgen als loodgieter](/blog/leads-opvolgen-loodgieter-tips) is geen verkooptruc — het is professionaliteit. Automatiseer je follow-up, bel na elke offerte en reageer razendsnel op spoedaanvragen. Het verschil tussen een volle en een lege agenda zit in de opvolging.
+[Leads opvolgen als loodgieter](/blog/leads-opvolgen-loodgieter-tips) is geen verkooptruc, maar professionaliteit. Automatiseer je follow-up, bel na elke offerte en reageer razendsnel op spoedaanvragen. Het verschil tussen een volle en een lege agenda zit in de opvolging.
 
-Wil je ontdekken hoe LoodgieterAI je lead opvolging automatiseert? Vraag een [gratis scan](/gratis-scan) aan. Wij regelen het — jij hoeft er maar 15 minuten per maand aan te besteden.
+Wil je ontdekken hoe LoodgieterAI je lead opvolging automatiseert? Vraag een [gratis scan](/gratis-scan) aan. Wij regelen het. Jij hoeft er maar 15 minuten per maand aan te besteden.

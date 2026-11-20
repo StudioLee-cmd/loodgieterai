@@ -7,22 +7,22 @@ image: "/images/blog/loodgieter-website-laten-maken.jpg"
 tags: ["Website"]
 cluster: "website"
 ---
-Als loodgieter heb je gouden handen — maar zonder een goede website vindt niemand je. In 2026 begint vrijwel elke klant met een zoekopdracht op Google. Heb je geen website? Dan besta je niet.
+Als loodgieter heb je gouden handen, maar zonder een goede website vindt niemand je. In 2026 begint vrijwel elke klant met een zoekopdracht op Google. Heb je geen website? Dan besta je niet.
 
 ## Waarom een website onmisbaar is als loodgieter
 
-Laat de cijfers spreken: **82% van de Nederlanders** zoekt online naar een vakman voordat ze contact opnemen. En bij een lekkage of storing zoeken ze "loodgieter [stad]" — niet in de Gouden Gids.
+Laat de cijfers spreken: **82% van de Nederlanders** zoekt online naar een vakman voordat ze contact opnemen. En bij een lekkage of storing zoeken ze "loodgieter [stad]", niet in de Gouden Gids.
 
 Een eigen website geeft je drie voordelen die geen enkel platform zoals Werkspot kan bieden:
-1. **Je bent eigenaar** — geen commissie per lead
-2. **Je bouwt vertrouwen** — met reviews, foto's en referenties
-3. **Je bent 24/7 bereikbaar** — ook om 3 uur 's nachts bij een waterlekkage
+1. **Je bent eigenaar**: geen commissie per lead
+2. **Je bouwt vertrouwen** met reviews, foto's en referenties
+3. **Je bent 24/7 bereikbaar**, ook om 3 uur 's nachts bij een waterlekkage
 
 ## De 8 must-haves voor een loodgieter website
 
 ### 1. Prominente contactgegevens
 
-Je telefoonnummer moet op elke pagina zichtbaar zijn — bovenaan, groot, klikbaar op mobiel. Bij een lekkage heeft niemand tijd om een contactformulier in te vullen. Een "Bel nu" knop is essentieel.
+Je telefoonnummer moet op elke pagina zichtbaar zijn: bovenaan, groot, klikbaar op mobiel. Bij een lekkage heeft niemand tijd om een contactformulier in te vullen. Een "Bel nu" knop is essentieel.
 
 ### 2. Storingsdienst informatie
 
@@ -62,7 +62,7 @@ Laat je vakmanschap zien met voor-en-na foto's. Een geïnstalleerde badkamer of 
 
 ## Werkspot vs een eigen website
 
-Veel loodgieters gebruiken Werkspot om klanten te vinden. Dat werkt — maar het kost je:
+Veel loodgieters gebruiken Werkspot om klanten te vinden. Dat werkt, maar het kost je:
 
 | Vergelijking | Werkspot | Eigen website |
 |---|---|---|
@@ -71,7 +71,7 @@ Veel loodgieters gebruiken Werkspot om klanten te vinden. Dat werkt — maar het
 | Merkopbouw | Werkspot profiel | Eigen merk |
 | Controle | Platform beslist | Jij beslist |
 
-Een eigen website vervangt Werkspot niet per se — maar vermindert je afhankelijkheid en bouwt een duurzame stroom klanten op.
+Een eigen website vervangt Werkspot niet per se, maar vermindert je afhankelijkheid en bouwt een duurzame stroom klanten op.
 
 ## Wat kost een loodgieter website?
 
@@ -81,7 +81,7 @@ Reken op de volgende investeringen:
 - **Professioneel laten bouwen**: €800-€2.500 eenmalig
 - **Full-service** (website + SEO + onderhoud): vanaf €79/maand
 
-De vraag is niet of je het je kunt veroorloven — de vraag is of je het je kunt veroorloven om het niet te doen. Eén klus van een badkamerrenovatie betaalt je website al terug.
+De vraag is niet of je het je kunt veroorloven. De vraag is of je het je kunt veroorloven om het niet te doen. Eén klus van een badkamerrenovatie betaalt je website al terug.
 
 ## SEO voor loodgieters: gevonden worden
 
@@ -95,7 +95,7 @@ Zorg dat je website geoptimaliseerd is voor:
 
 ### Google Bedrijfsprofiel
 
-Naast je website is een volledig Google Bedrijfsprofiel essentieel. Dit bepaalt of je verschijnt in het "Local Pack" — de drie resultaten boven de organische zoekresultaten.
+Naast je website is een volledig Google Bedrijfsprofiel essentieel. Dit bepaalt of je verschijnt in het "Local Pack": de drie resultaten boven de organische zoekresultaten.
 
 ### Content marketing
 
@@ -118,7 +118,7 @@ Nee, je kunt beide combineren. Gebruik Werkspot als aanvulling terwijl je eigen 
 
 ### Hoe kom ik hoger in Google?
 
-Door regelmatig content te publiceren, reviews te verzamelen en je technische SEO op orde te hebben. Dit is een marathonm, geen sprint — reken op 3-6 maanden voor zichtbare resultaten.
+Door regelmatig content te publiceren, reviews te verzamelen en je technische SEO op orde te hebben. Dit is een marathon, geen sprint, dus reken op 3-6 maanden voor zichtbare resultaten.
 
 ### Welke functies zijn echt nodig?
 
@@ -132,6 +132,6 @@ Het is niet verplicht, maar het helpt enorm. Eén artikel per maand over een vee
 
 ## Conclusie
 
-Een professionele website is in 2026 geen luxe meer — het is de basis van je bedrijf. Start eenvoudig, maar start. Je toekomstige klanten zoeken nu online naar een loodgieter. Zorg dat ze jou vinden.
+Een professionele website is in 2026 geen luxe meer. Het is de basis van je bedrijf. Start eenvoudig, maar start. Je toekomstige klanten zoeken nu online naar een loodgieter. Zorg dat ze jou vinden.
 
 Benieuwd hoe je er nu voor staat online? [Vraag een gratis scan aan](/gratis-scan) en krijg direct inzicht in je kansen.

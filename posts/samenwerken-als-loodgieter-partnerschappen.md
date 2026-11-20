@@ -13,7 +13,7 @@ Als loodgieter ben je vaak onderdeel van een groter project: een badkamerrenovat
 
 ## Waarom samenwerking cruciaal is in de bouw
 
-In de bouw kent iedereen iedereen — via via. Een aannemer die een betrouwbare loodgieter kent, belt die persoon steeds opnieuw. Dat is geen toeval, dat is netwerk.
+In de bouw kent iedereen iedereen, via via. Een aannemer die een betrouwbare loodgieter kent, belt die persoon steeds opnieuw. Dat is geen toeval, dat is netwerk.
 
 Voordelen van structurele samenwerkingen:
 - Constante stroom werk zonder marketingkosten
@@ -43,7 +43,7 @@ Je hebt al klussen gedaan samen met dakdekkers en aannemers. Neem contact op en 
 
 ### 3. Lever altijd kwaliteit
 
-Elke klus bij een partner is een sollicitatie voor de volgende. Lever [kwaliteit](/blog/branding-loodgieter) en communiceer professioneel — dat is je visitekaartje.
+Elke klus bij een partner is een sollicitatie voor de volgende. Lever [kwaliteit](/blog/branding-loodgieter) en communiceer professioneel: dat is je visitekaartje.
 
 ![Professioneel gereedschap van loodgieter en elektricien samen op werkbank](/images/blog/samenwerken-als-loodgieter-partnerschappen-2.png)
 

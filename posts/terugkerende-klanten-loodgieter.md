@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Waarom terugkerende klanten goud waard zijn
 
-De meeste loodgieters leven van klus naar klus. Een lekkage hier, een verstopt riool daar. Maar steeds nieuwe klanten werven is duur en tijdrovend. Een bestaande klant die terugkomt, kost je geen acquisitie-inspanning — en besteedt gemiddeld 67% meer dan een nieuwe klant.
+De meeste loodgieters leven van klus naar klus. Een lekkage hier, een verstopt riool daar. Maar steeds nieuwe klanten werven is duur en tijdrovend. Een bestaande klant die terugkomt, kost je geen acquisitie-inspanning en besteedt gemiddeld 67% meer dan een nieuwe klant.
 
 Bovendien zijn terugkerende klanten je beste marketingkanaal. Ze bevelen je aan bij buren, familie en collega's. Dat is de kracht van [mond-tot-mond](/blog/wintermarketing-loodgieter-stookseizoen) in de loodgietersbranche.
 
@@ -18,7 +18,7 @@ Bovendien zijn terugkerende klanten je beste marketingkanaal. Ze bevelen je aan 
 
 Het verschil tussen een eenmalige klant en een vaste relatie zit in wat je doet ná de klus. De meeste loodgieters sturen de factuur en dat is het. Maar met kleine gebaren bouw je een band:
 
-- **Bedankberichtje**: een kort SMS of WhatsApp-bericht na de klus — "Alles naar wens? Laat het weten als er iets is"
+- **Bedankberichtje**: een kort SMS of WhatsApp-bericht na de klus: "Alles naar wens? Laat het weten als er iets is"
 - **Garantiebewijs**: stuur een overzichtelijk document met wat je hebt gedaan en welke garantie erbij hoort
 - **Review vragen**: na een succesvolle klus is het perfecte moment om een [Google review](/blog/meer-google-reviews-als-loodgieter) te vragen
 
@@ -45,7 +45,7 @@ Je hoeft hier geen dure software voor te gebruiken. Een simpele spreadsheet met 
 
 ## Van klant naar ambassadeur
 
-De ultieme terugkerende klant is een ambassadeur — iemand die jou actief aanbeveelt. Dit gebeurt niet vanzelf, maar je kunt het stimuleren:
+De ultieme terugkerende klant is een ambassadeur: iemand die jou actief aanbeveelt. Dit gebeurt niet vanzelf, maar je kunt het stimuleren:
 
 - **Vraag om doorverwijzingen**: na een geslaagde klus, vraag of de klant buren of vrienden kent die ook hulp nodig hebben
 - **Beloningsprogramma**: bied een korting op de volgende service voor elke doorverwijzing

@@ -9,13 +9,13 @@ tags: ["CV Ketel", "Boiler"]
 cluster: "automatisering"
 ---
 
-Een gemiddelde Nederlandse loodgieter rekent voor een spoedklus aan een lekke leiding €145-€225 per uur met marges van 35-50 procent — eenmalig, geen herhaal-relatie. Een CV-ketel + boiler jaarcontract levert €165-€295 per huishouden per jaar op, met 70-80 procent marge en 90+ procent jaarlijkse verlenging. Bij 200 actieve jaarcontracten ontvangt een loodgieter €33.000-€59.000 per jaar aan voorspelbare basis-inkomsten — voor 2-3 dagen werk per maand. Toch positioneert slechts 1 op de 4 Nederlandse loodgieters jaarcontracten actief als basis-omzet-bron, ondanks dat het de stabielste manier is om door winter en zomer heen niet leeg te zitten. Dit artikel legt uit waar de marge zit en in welke twee scenario's het juist niet werkt.
+Een gemiddelde Nederlandse loodgieter rekent voor een spoedklus aan een lekke leiding €145-€225 per uur met marges van 35-50 procent, eenmalig en zonder herhaal-relatie. Een CV-ketel + boiler jaarcontract levert €165-€295 per huishouden per jaar op, met 70-80 procent marge en 90+ procent jaarlijkse verlenging. Bij 200 actieve jaarcontracten ontvangt een loodgieter €33.000-€59.000 per jaar aan voorspelbare basis-inkomsten, voor 2-3 dagen werk per maand. Toch positioneert slechts 1 op de 4 Nederlandse loodgieters jaarcontracten actief als basis-omzet-bron, ondanks dat het de stabielste manier is om door winter en zomer heen niet leeg te zitten. Dit artikel legt uit waar de marge zit en in welke twee scenario's het juist niet werkt.
 
 Dit artikel is voor jou als loodgieter-eigenaar die overweegt CV-ketel en boiler jaarcontracten als systematische omzet-bron op te zetten. We bespreken de instapkosten (gereedschap, certificering, voorraad), het verdienmodel per type contract, hoe je klanten binnenhaalt, en de twee scenario's waarin de stap niet rendabel is.
 
 **In het kort:**
 
-- Jaarcontracten leveren 70-80% marge — significant hoger dan eenmalige spoedklussen.
+- Jaarcontracten leveren 70-80% marge, significant hoger dan eenmalige spoedklussen.
 - Instapkosten: €1.800-€4.500 voor gereedschap-uitbreiding, certificering (Gastec QA) en eerste voorraad reserve-onderdelen.
 - Beste klantgroep: 35+-jarige eigenaar-bewoners van Nederlandse rijwoningen met een CV-ketel ouder dan 5 jaar.
 - Twee scenario's waarin het niet werkt: loodgieter zonder Gastec-certificering, of zonder klantenstroom om de eerste 50-80 contracten te boeken.
@@ -61,7 +61,7 @@ Reken realistisch met €2.500-€3.500 voor een serieuze startsetup. Verdient z
 
 ![Werkbank van een loodgieter met CV-ketel-onderdelen, manometer, koffie](/images/blog/boiler-cv-ketel-jaarcontract-loodgieter-2.jpg)
 
-## Het verdienmodel — concrete cijfers
+## Het verdienmodel in concrete cijfers
 
 ### Basis CV-ketel jaarcontract
 
@@ -79,15 +79,15 @@ Reken realistisch met €2.500-€3.500 voor een serieuze startsetup. Verdient z
 - Loonkosten: €45-€55
 - **Marge per contract: €148-€158 (63-67%)**
 
-Bij 200 actieve jaarcontracten (mix van basis en combi): bruto-omzet €36.000-€48.000, marge €23.000-€32.000 — naast je bestaande spoed-klus-omzet.
+Bij 200 actieve jaarcontracten (mix van basis en combi): bruto-omzet €36.000-€48.000, marge €23.000-€32.000, naast je bestaande spoed-klus-omzet.
 
-## Wie zijn je doelklanten — en hoe vind je ze?
+## Wie zijn je doelklanten, en hoe vind je ze?
 
 Drie segmenten waar jaarcontract-marketing als loodgieter werkt:
 
 ### 1. Bestaande spoed-klanten (40-55%)
 
-Je grootste vroege bron. Klanten die je een eenmalige spoedklus voor hebt opgelost — boek tijdens dat bezoek het jaarcontract aan. Activatie: tijdens elke spoedklus de zin "We hebben ook een jaarcontract dat dit type problemen vaak voorkomt — €165 per jaar, scheelt veel stress" — conversie 25-40% direct ter plekke.
+Je grootste vroege bron. Klanten die je een eenmalige spoedklus voor hebt opgelost: boek tijdens dat bezoek het jaarcontract aan. Activatie: tijdens elke spoedklus de zin "We hebben ook een jaarcontract dat dit type problemen vaak voorkomt, €165 per jaar, scheelt veel stress". Conversie 25-40% direct ter plekke.
 
 ### 2. Eigenaar-bewoners met oude CV-ketel (25-35%)
 
@@ -101,7 +101,7 @@ Mensen 65+ jaar met behoefte aan zekerheid en 24/7 bereikbaarheid. Hogere bereid
 
 ### Scenario A: loodgieter zonder Gastec QA-certificering
 
-Sinds 2019 mag werk aan CV-ketels in NL alleen door Gastec QA-gecertificeerde monteurs. Heb je deze certificering niet, dan kun je geen jaarcontracten aanbieden voor CV-ketel-onderhoud — alleen boiler-onderhoud (lagere marges + lagere conversie). De certificering is geen optie maar voorwaarde.
+Sinds 2019 mag werk aan CV-ketels in NL alleen door Gastec QA-gecertificeerde monteurs. Heb je deze certificering niet, dan kun je geen jaarcontracten aanbieden voor CV-ketel-onderhoud, alleen boiler-onderhoud (lagere marges + lagere conversie). De certificering is geen optie maar voorwaarde.
 
 ### Scenario B: loodgieter met te kleine bestaande klantenbasis
 
@@ -117,13 +117,13 @@ Train jezelf en monteurs om aan het einde van elke spoedklus de jaarcontract-zin
 
 ### 2. Spreidingsplanning over 12 maanden
 
-Verdeel jaarlijkse onderhoudsbeurten over alle 12 maanden — niet alleen oktober/november (winter-rush). Vraag bij contractsluiting de klant of ze voorkeur hebben voor lente, zomer, herfst, of winter-maand. Spreiding houdt je werkbelasting stabiel en geeft klanten meer keuze.
+Verdeel jaarlijkse onderhoudsbeurten over alle 12 maanden, niet alleen oktober/november (winter-rush). Vraag bij contractsluiting de klant of ze voorkeur hebben voor lente, zomer, herfst, of winter-maand. Spreiding houdt je werkbelasting stabiel en geeft klanten meer keuze.
 
 ### 3. Geautomatiseerde herinnering + planning
 
 Een [website-systeem dat automatisch klanten herinnert aan hun jaarlijkse onderhoudsbeurt](https://www.loodgieterai.nl/voice-ai), inclusief WhatsApp-bevestiging en herinnering 1 dag vooraf, voorkomt 70-80% van vergeten afspraken en verkort je administratieve tijd per klant van 25 minuten naar 3 minuten.
 
-## Wat dit oplevert in cijfers — twee jaar tijdshorizon
+## Wat dit oplevert in cijfers (twee jaar tijdshorizon)
 
 Een gemiddeld Nederlands loodgieter-bedrijf met 80-150 spoedklussen per jaar dat in 2026 jaarcontract-systeem opzet:
 
@@ -153,6 +153,6 @@ Deze 60-dagen test kost minder dan €500 en geeft objectief inzicht of jouw kla
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/email-marketing-loodgieter-onderhoud" class="text-dark fw-semibold">Email marketing voor loodgieters: onderhoud-herinneringen die werken</a> →</p></div></div></div>
 
-Wil je weten hoe een [complete groei-aanpak voor je loodgieter-bedrijf](https://www.loodgieterai.nl/gratis-website) eruit kan zien — inclusief website met jaarcontract-aanvraag, geautomatiseerde planning + WhatsApp-herinneringen, en [reviews verzamelen](https://www.loodgieterai.nl/reviews) na elke onderhoudsbeurt? Plan een vrijblijvend gesprek of bekijk de uitwerking online.
+Wil je weten hoe een [complete groei-aanpak voor je loodgieter-bedrijf](https://www.loodgieterai.nl/gratis-website) eruit kan zien, inclusief website met jaarcontract-aanvraag, geautomatiseerde planning + WhatsApp-herinneringen, en [reviews verzamelen](https://www.loodgieterai.nl/reviews) na elke onderhoudsbeurt? Plan een vrijblijvend gesprek of bekijk de uitwerking online.
 
 Lees ook onze [andere artikelen over loodgieter-marketing en verdienmodellen](https://www.loodgieterai.nl/blog).

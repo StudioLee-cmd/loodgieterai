@@ -13,17 +13,17 @@ cluster: "automatisering"
 
 ## Waarom email marketing werkt voor loodgieters
 
-Elke cv-ketel heeft jaarlijks onderhoud nodig. Elke afvoer raakt na verloop van tijd verstopt. Elke kraan gaat slijten. Loodgieterswerk is per definitie terugkerend — maar de meeste loodgieters behandelen elke klus als eenmalig.
+Elke cv-ketel heeft jaarlijks onderhoud nodig. Elke afvoer raakt na verloop van tijd verstopt. Elke kraan gaat slijten. Loodgieterswerk is per definitie terugkerend, maar de meeste loodgieters behandelen elke klus als eenmalig.
 
 Na de factuur verdwijnt de klant uit beeld. En wanneer die klant een jaar later onderhoud nodig heeft, googelt hij opnieuw en kiest misschien iemand anders.
 
-Email marketing doorbreekt dat patroon. Een simpele herinnering — "Tijd voor cv-ketelonderhoud" — landt in de inbox op het moment dat de klant eraan denkt. Niet jouw concurrent, maar jij bent top-of-mind.
+Email marketing doorbreekt dat patroon. Een simpele herinnering ("Tijd voor cv-ketelonderhoud") landt in de inbox op het moment dat de klant eraan denkt. Niet jouw concurrent, maar jij bent top-of-mind.
 
 ## Je klantenlijst opbouwen
 
-**Bestaande klanten verzamelen**. Ga je facturen van de afgelopen drie jaar door. Elk emailadres is een potentiele herhaalklant. Vooral klanten met cv-ketelonderhoud zijn waardevol — dat is jaarlijks terugkerend werk.
+**Bestaande klanten verzamelen**. Ga je facturen van de afgelopen drie jaar door. Elk emailadres is een potentiele herhaalklant. Vooral klanten met cv-ketelonderhoud zijn waardevol, want dat is jaarlijks terugkerend werk.
 
-**Bij elke nieuwe klus vragen**. "Ik stuur je over een jaar een onderhoudsherinnering — mag ik je mailadres daarvoor gebruiken?" De meeste klanten vinden dit handig, niet opdringerig.
+**Bij elke nieuwe klus vragen**. "Ik stuur je over een jaar een onderhoudsherinnering. Mag ik je mailadres daarvoor gebruiken?" De meeste klanten vinden dit handig, niet opdringerig.
 
 **Via je [website](/blog/loodgieterswebsite-omzetten-leadmachine)**. Bied een gratis checklist aan: "5 tekenen dat je cv-ketel aan onderhoud toe is." Simpel, relevant en het levert adressen op.
 
@@ -33,9 +33,9 @@ Email marketing doorbreekt dat patroon. Een simpele herinnering — "Tijd voor c
 
 Drie soorten emails die direct werk opleveren:
 
-**CV-ketelonderhoudsherinnering**. Stuur deze 11 maanden na de laatste onderhoudsbeurt. "Het is bijna een jaar geleden dat we je cv-ketel hebben onderhouden. Plan nu je jaarlijkse beurt in." Dit is je belangrijkste email — cv-onderhoud is voorspelbaar en terugkerend.
+**CV-ketelonderhoudsherinnering**. Stuur deze 11 maanden na de laatste onderhoudsbeurt. "Het is bijna een jaar geleden dat we je cv-ketel hebben onderhouden. Plan nu je jaarlijkse beurt in." Dit is je belangrijkste email, want cv-onderhoud is voorspelbaar en terugkerend.
 
-**Seizoenstips**. In september: "Bereid je verwarmingssysteem voor op de winter — voorkom storingen in de koudste maanden." In het voorjaar: "Lenteschoonmaak voor je leidingen — check je afvoeren en kranen." Relevant, behulpzaam en het genereert werk.
+**Seizoenstips**. In september: "Bereid je verwarmingssysteem voor op de winter en voorkom storingen in de koudste maanden." In het voorjaar: "Lenteschoonmaak voor je leidingen: check je afvoeren en kranen." Relevant, behulpzaam en het genereert werk.
 
 **Projectupdates**. Heb je een mooie badkamerverbouwing of een [specialistisch project](/blog/specialiseren-loodgieter-expert) afgerond? Stuur foto's met een korte beschrijving. Dit inspireert klanten die overwegen om hun badkamer te renoveren.
 
@@ -43,7 +43,7 @@ Houd elke mail kort: drie alinea's, een foto en een duidelijke call-to-action (b
 
 ## Automatisering instellen
 
-De kracht zit in automatisering — eenmalig instellen, jarenlang profiteren:
+De kracht zit in automatisering: eenmalig instellen, jarenlang profiteren:
 
 - **Na elke klus** (dag 3): tevredenheidsvraag
 - **Na elke klus** (dag 7): [reviewverzoek](/blog/meer-google-reviews-als-loodgieter)
@@ -58,10 +58,10 @@ Een gratis tool als MailerLite of Mailchimp biedt deze automatisering. Configure
 Na drie maanden heb je genoeg data:
 
 - **Open rate** van 25-30% is goed voor een klein bedrijf
-- **Antwoorden en afspraken** zijn je echte metric — tel hoeveel klussen er direct uit emails komen
+- **Antwoorden en afspraken** zijn je echte metric: tel hoeveel klussen er direct uit emails komen
 - **Afmeldingen** onder 1% per mail is prima
 
-Experimenteer met onderwerpregels. "Tijd voor cv-ketelonderhoud" versus "Voorkom een koude winter — plan nu je ketelbeurt" — kleine verschillen in woorden kunnen grote verschillen in opens opleveren.
+Experimenteer met onderwerpregels. "Tijd voor cv-ketelonderhoud" versus "Voorkom een koude winter, plan nu je ketelbeurt": kleine verschillen in woorden kunnen grote verschillen in opens opleveren.
 
 ## Aan de slag
 

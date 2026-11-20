@@ -165,7 +165,7 @@ export default function CrmContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/crm-hero.jpg"
-              alt="CRM dashboard voor loodgieters — klantenbestand op één plek"
+              alt="CRM dashboard voor loodgieters: klantenbestand op één plek"
               fill
               priority
               className="object-cover"
@@ -270,7 +270,7 @@ export default function CrmContent() {
             <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
               <Image
                 src="/images/services/crm-workflow.jpg"
-                alt="Klant en loodgieter verbonden via CRM — klantprofiel op tablet"
+                alt="Klant en loodgieter verbonden via CRM: klantprofiel op tablet"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 1024px"
@@ -309,8 +309,8 @@ export default function CrmContent() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <h2 className="text-2xl md:text-3xl font-bold mb-4">Eén klantbeeld — inclusief onderhoud-cycli en klushistorie</h2>
-              <p className="text-foreground-accent leading-relaxed">Elke chatbot-conversatie, elk Voice AI gesprek, elke uitgevoerde klus en elke CV-ketel die je geinstalleerd hebt landt automatisch in de CRM — gekoppeld aan het juiste klantprofiel. Een jaar later gaat het systeem zelf een onderhoud-uitnodiging sturen. Terugkerende klanten, terugkerende omzet — automatisch.</p>
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">Eén klantbeeld, inclusief onderhoud-cycli en klushistorie</h2>
+              <p className="text-foreground-accent leading-relaxed">Elke chatbot-conversatie, elk Voice AI gesprek, elke uitgevoerde klus en elke CV-ketel die je geinstalleerd hebt landt automatisch in de CRM, gekoppeld aan het juiste klantprofiel. Een jaar later gaat het systeem zelf een onderhoud-uitnodiging sturen. Terugkerende klanten, terugkerende omzet: automatisch.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>
