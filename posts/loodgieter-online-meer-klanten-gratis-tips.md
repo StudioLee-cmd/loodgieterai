@@ -1,62 +1,150 @@
 ---
 title: "Meer klanten als loodgieter: 7 gratis tips"
-excerpt: "Meer opdrachten als loodgieter zonder te betalen voor leads? Deze 7 praktische tips helpen je vindbaar worden en vaste klanten opbouwen."
+slug: loodgieter-online-meer-klanten-gratis-tips
 date: "2026-04-19"
-cluster: "vindbaarheid"
-authorSlug: "tim-van-der-lee"
+excerpt: "Meer klanten als loodgieter zonder te betalen voor leads? Deze 7 gratis tips maken je vindbaar in Google en zorgen dat je geen aanvraag meer laat liggen."
 image: "/images/blog/loodgieter-online-meer-klanten-gratis-tips.jpg"
-tags: ["Vindbaarheid"]
+authorSlug: "tim-van-der-lee"
+tags: ["Vindbaarheid", "Leads"]
+cluster: "vindbaarheid"
+updated: "2026-11-27"
 ---
-## Waarom betalen voor leads als je ze zelf kunt aantrekken?
 
-Platforms als Werkspot rekenen €5-30 per lead, en die lead belt ook drie andere loodgieters. Je betaalt voor een wedstrijd die je misschien niet wint. Ondertussen zijn er loodgieters die structureel volle agenda's hebben zonder een cent aan leadplatformen uit te geven. Het verschil? Ze zijn zelf vindbaar geworden.
+**In het kort:**
+- Meer klanten als loodgieter krijg je niet alleen door te betalen voor leads. De 7 gratis tips hieronder kosten tijd, geen advertentiebudget.
+- Google kijkt bij lokale resultaten naar 3 dingen: relevantie, afstand en bekendheid. Een compleet bedrijfsprofiel, echte reviews en een eigen website raken alle 3.
+- De snelste winst zit vaak niet in nieuwe aanvragen, maar in de aanvragen die je nu laat liggen: een gemiste oproep of een WhatsApp die pas de volgende dag beantwoord wordt.
+- Doe 1 tip per week. Na 7 weken staat er een basis die blijft werken terwijl jij klust.
 
-Hier zijn zeven concrete stappen die je deze week kunt uitvoeren, zonder marketingbudget.
+Een betaalde lead van een platform gaat meestal naar meerdere loodgieters tegelijk. Wie het snelst belt, wint, en de rest heeft betaald voor niets. Daarom loont het om als loodgieter je leads zelf binnen te halen: aanvragen die rechtstreeks bij jou binnenkomen omdat de klant jou vond.
 
-## 1. Claim en optimaliseer je Google Bedrijfsprofiel
+Dat lukt zonder marketingbudget, als je de juiste dingen in de goede volgorde doet. Klanten zoeken nu via de kaart in Google, via reviews, via WhatsApp en ook via een vraag aan een AI-assistent, en daar sluiten de 7 tips op aan. Elke tip heeft een concrete stap die je deze week kunt zetten. Het hele plaatje van vindbaarheid staat op de pagina over [seo voor loodgieters](/seo).
 
-Dit is de snelste winst. Als iemand "loodgieter bij mij in de buurt" zoekt, toont Google het kaartresultaat. Daar wil jij staan. Ga naar business.google.com, claim je profiel en vul alles in: werkgebied, diensten (lekkage, cv-ketel, verstopt riool), openingstijden en minstens 10 foto's van je werk.
+## Tip 1: maak je Google Bedrijfsprofiel compleet
 
-Upload foto's van klussen: een nieuwe cv-ketel, een gerepareerd riool, je bus met logo. Echte werkfoto's werken beter dan stockfoto's. Google beloont complete profielen met een hogere positie.
+Zoekt iemand "loodgieter" met een plaatsnaam erbij, dan toont Google eerst de kaart met 3 bedrijven. Daar wil je staan. Google noemt zelf 3 factoren voor die lokale resultaten: relevantie (past je profiel bij de zoekvraag), afstand (hoe ver zit je van de zoeker) en bekendheid (hoe bekend is je bedrijf, onder andere via reviews en links).
 
-## 2. Vraag actief om Google Reviews
+Afstand kun je niet veranderen. Relevantie en bekendheid wel. Vul in je profiel minimaal dit in:
 
-Een loodgieter met 60 reviews en een 4,8 wint het altijd van een concurrent met 5 reviews. Na elke klus: stuur de klant een WhatsApp met je Google Review-link. Eén simpel berichtje: "Bedankt voor het vertrouwen! Zou je een review willen achterlaten? [link]"
+1. Je echte bedrijfsnaam, zonder extra zoekwoorden erin
+2. Je hoofdcategorie en 2 tot 4 extra categorieën
+3. Je werkgebied, per plaats
+4. Je diensten, elk met een korte omschrijving (lekkage, ontstoppen, CV-ketel, sanitair)
+5. Openingstijden en, als je die hebt, je spoedtijden
+6. Minimaal 10 foto's van echt werk en je bus
 
-Automatiseer dit proces zodat je het niet vergeet. Een systeem dat automatisch na elke klus een review-verzoek stuurt bespaart je tijd en levert structureel [meer reviews](/reviews) op.
+Een uitgebreide uitleg per onderdeel staat in [onze handleiding voor het Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-loodgieter).
 
-## 3. Zorg dat je een eigen website hebt
+## Tip 2: vraag na elke klus om een review
 
-Een Facebook-pagina of Werkspot-profiel is niet van jou. Als het platform verdwijnt of de regels verandert, ben je alles kwijt. Een eigen website geeft je controle en maakt je vindbaar voor specifieke zoekopdrachten als "lekkage verhelpen Rotterdam" of "cv-ketel installeren Utrecht".
+Reviews tellen mee voor bekendheid, en een klant die twijfelt tussen 2 loodgieters leest ze. Het probleem is bijna nooit dat klanten geen review willen geven. Het probleem is dat niemand erom vraagt.
 
-Je website hoeft niet ingewikkeld te zijn: je diensten, werkgebied, contactgegevens, een boekingsformulier en foto's van je werk. Dat is genoeg om te starten. Bekijk de opties voor een [gratis website](/gratis-website) als je snel online wilt zonder gedoe.
+### Zo vraag je het
 
-## 4. Publiceer regelmatig nuttige content
+Stuur binnen een dag na de klus een kort bericht met een directe link naar je reviewpagina. Bijvoorbeeld:
 
-Google beloont websites die regelmatig nieuwe content publiceren. Schrijf één keer per week een kort artikel over een vraag die klanten vaak stellen: "Wat kost een lekkage opsporen?", "Hoe vaak moet ik mijn cv-ketel laten onderhouden?", "Waaraan herken je een verstopt riool?"
+> "Hoi Petra, fijn dat de kraan weer werkt. Wil je in 30 seconden een review achterlaten? Hier is de link. Dank je wel!"
 
-![Loodgietersgereedschap op een werkbank](/images/blog/loodgieter-online-meer-klanten-gratis-tips-2.jpg)
+Houd het kort, persoonlijk en met 1 link. Geen formulier, geen inlogscherm. Wil je dit niet elke keer zelf doen, dan kan het automatisch na elke afgeronde klus met [google reviews verzamelen als loodgieter](/reviews).
 
-Elke vraag die je beantwoordt is een kans om gevonden te worden. Iemand die googelt op "cv-ketel onderhoud kosten" en jouw artikel vindt, belt eerder jou dan een concurrent die geen website-content heeft.
+### Reageer op elke review
 
-## 5. Gebruik WhatsApp zakelijk
+Ook op de positieve. Een korte, persoonlijke reactie laat de volgende lezer zien dat er een mens achter het bedrijf zit. Bij een negatieve review: rustig, feitelijk en met een aanbod om het op te lossen.
 
-De meeste klanten sturen liever een WhatsApp dan dat ze bellen. Zet WhatsApp Business op met je bedrijfsnaam, werkuren en een automatisch antwoord buiten kantoortijden. Zo mis je geen enkel bericht en komt je professioneler over.
+## Tip 3: zorg voor een eigen website
 
-Stuur na elke klus een kort bericht: "Alles naar wens? Laat het weten als je vragen hebt." Klanten onthouden dat, en als ze over een jaar weer een loodgieter nodig hebben, scrollen ze terug naar jouw WhatsApp.
+Een profiel op een platform of social media is niet van jou. Het platform bepaalt de regels, de volgorde en wie er naast je staat. Een eigen website is het enige stuk internet waar jij bepaalt wat de klant ziet.
 
-## 6. Werk met een doorverwijssysteem
+Een goede loodgieterswebsite hoeft niet groot te zijn. Zorg voor:
 
-Vraag tevreden klanten of ze je willen aanbevelen bij buren, familie of collega's. Maak het makkelijk: geef ze een visitekaartje of stuur een link die ze kunnen doorsturen. Mond-tot-mondreclame is de oudste en meest effectieve vorm van marketing, en het kost niks.
+- Een homepage die in 5 seconden zegt wat je doet en waar
+- Een pagina per hoofddienst
+- Je werkgebied met de plaatsen die je bedient
+- Je telefoonnummer en een WhatsApp-knop bovenaan, ook op mobiel
+- Foto's van echt werk en je reviews
 
-Werk samen met aanverwante vakmensen: een elektricien, een dakdekker, een aannemer. Verwijs klanten naar elkaar door. Dat levert niet alleen opdrachten op, het bouwt ook aan je reputatie als betrouwbare vakman.
+Heb je nog geen site of is hij verouderd, kijk dan naar een [professionele website voor loodgieters](/gratis-website). Het ontwerp is gratis en je bent snel online.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-zoekmachines-loodgieter-vindbaarheid" class="text-dark fw-semibold">Hoe vinden klanten jou via ChatGPT en AI-zoekmachines?</a> →</p></div></div></div>
+## Tip 4: beantwoord de vragen die klanten echt stellen
 
-## 7. Maak je vindbaarheid een systeem, niet een taak
+Elke vraag die een klant je aan de telefoon stelt, wordt ook in Google getypt. "Wat kost ontstoppen?", "Hoe vaak moet een CV-ketel onderhoud?", "Moet ik de hoofdkraan dichtdraaien bij een lekkage?". Wie dat helder beantwoordt op zijn site, wordt gevonden door mensen die nog geen loodgieter hebben gekozen.
 
-De loodgieters die structureel groeien, doen dit niet af en toe als ze eraan denken. Ze hebben een systeem: automatische review-verzoeken, wekelijkse content, een geoptimaliseerd Google-profiel. Alles draait op de achtergrond terwijl zij gewoon klussen.
+### Zo maak je een lijst
 
-Wil je weten hoe dat eruit ziet voor jouw bedrijf? Vraag een [gratis scan](/gratis-scan) aan. Binnen 24 uur weet je precies waar je staat en waar de grootste kansen liggen om meer opdrachten binnen te halen. Zonder verplichtingen, zonder verkooppraatjes.
+Schrijf 2 weken lang elke vraag op die je krijgt. Na 10 werkdagen heb je meestal 15 tot 25 vragen, waarvan er 5 of 6 steeds terugkomen. Begin daarmee. Geef op je site een kort, eerlijk antwoord en eindig met wat de klant moet doen als hij er zelf niet uitkomt.
 
-De [SEO en vindbaarheid](/seo) van je loodgietersbedrijf verbeteren hoeft niet ingewikkeld te zijn. Begin met stap 1 en 2, en bouw van daaruit verder. Elke week een kleine verbetering maakt over een half jaar een groot verschil.
+Deze antwoorden helpen ook bij AI-assistenten. Wie ChatGPT vraagt welke loodgieter in zijn buurt snel kan komen, krijgt antwoorden die gebaseerd zijn op wat er online over bedrijven staat. Hoe dat werkt, lees je in [vindbaarheid in AI-zoekmachines](/blog/ai-zoekmachines-loodgieter-vindbaarheid).
+
+## Tip 5: reageer sneller dan je concurrent
+
+![Tip 5: reageer sneller dan je concurrent](/images/blog/loodgieter-online-meer-klanten-gratis-tips-2.jpg)
+
+Deze tip wordt vaak onderschat. Een klant met een lekkage belt niet 1 loodgieter, hij belt tot er iemand opneemt. Ben jij die 1e, dan heb je de klus. Ben je de 3e, dan heb je een gemiste kans, ook al vond de klant jou als eerste.
+
+Voorbeeld: stel dat je in een week 12 telefoontjes mist omdat je onder een gootsteen ligt of achter het stuur zit. Bel je ze pas 's avonds terug, dan heeft de helft al een ander. Dat zijn 6 klanten die je wel had gevonden, maar niet hebt gekregen.
+
+Wat helpt:
+
+1. Een vast moment om terug te bellen, bijvoorbeeld om 10:00, 13:00 en 16:00
+2. Een automatisch bericht bij een gemiste oproep: "Ik zit op een klus, ik bel je binnen het uur terug"
+3. Iemand of iets die de telefoon opneemt als jij dat niet kunt
+
+Meer over de snelheid van opvolgen staat in [waarom snel reageren op leads de klus wint](/blog/snelheid-lead-opvolging-loodgieter).
+
+## Tip 6: gebruik WhatsApp zakelijk
+
+Veel klanten sturen liever een bericht dan dat ze bellen, zeker voor iets dat geen spoed is. WhatsApp Business is een gratis app met een zakelijk profiel, snelle antwoorden en een automatisch bericht buiten je werktijden.
+
+Zet het minimaal zo op:
+
+- Een zakelijk profiel met je bedrijfsnaam, werkgebied en openingstijden
+- Een welkomstbericht dat vraagt naar adres, probleem en een foto
+- Een afwezigheidsbericht met je spoednummer
+
+Zo voelt de klant zich meteen geholpen, ook als jij pas over een uur antwoordt. Hoe je de automatische berichten inricht, lees je in [WhatsApp Business met auto-flows](/blog/whatsapp-business-loodgieters-setup-auto-flows).
+
+## Tip 7: laat tevreden klanten en collega's je doorverwijzen
+
+Mond-tot-mond levert nog steeds veel goede klussen op. Je kunt het alleen beter organiseren dan wachten tot het gebeurt.
+
+### Bij klanten
+
+Vraag een tevreden klant aan het eind van de klus: "Ken je iemand in de straat die ook een oude ketel heeft?" Laat een kaartje achter of stuur je contactgegevens mee in het bericht met het reviewverzoek. 1 doorverwijzing per maand is na een jaar 12 klanten die je niets hebben gekost.
+
+### Bij collega's
+
+Werk samen met een elektricien, een tegelzetter of een aannemer in je regio. Zij krijgen vragen over water en leidingen, jij krijgt vragen over stroom en tegels. Spreek af dat je elkaar doorverwijst en houd het simpel.
+
+## Van losse tips naar een vast systeem
+
+De loodgieters die structureel klanten binnenkrijgen, doen deze dingen niet af en toe. Ze hebben ze op de achtergrond laten lopen. Reviews worden automatisch gevraagd, een gemiste oproep krijgt meteen een bericht, het bedrijfsprofiel wordt elke maand bijgewerkt.
+
+| Tip | Tijd om op te zetten | Daarna |
+|---|---|---|
+| Bedrijfsprofiel | 1 middag | 15 minuten per maand |
+| Reviews vragen | 1 uur | Automatisch |
+| Eigen website | Een paar dagen | Af en toe bijwerken |
+| Vragen beantwoorden | 1 avond per vraag | Elke maand 1 erbij |
+| Sneller reageren | 1 uur | Automatisch |
+| WhatsApp zakelijk | 1 uur | Automatisch |
+| Doorverwijzen | 1 gesprek | Bij elke klus |
+
+## Veelgestelde vragen
+
+### Welke tip moet ik als eerste doen?
+
+Begin met je Google Bedrijfsprofiel en reviews. Die 2 raken direct de kaart in Google, waar een klant met een lekkage vaak als eerste kijkt.
+
+### Hoe lang duurt het voordat ik meer aanvragen krijg?
+
+Sneller reageren en WhatsApp werken meteen, want het gaat om aanvragen die er al zijn. Een beter profiel en een eigen website hebben meestal een paar maanden nodig voordat je het verschil in je aanvragen ziet.
+
+### Moet ik stoppen met betaalde leads?
+
+Niet per se. Zie betaalde leads als aanvulling, niet als basis. Hoe meer klanten jou zelf vinden, hoe minder je afhankelijk bent van een platform.
+
+## Begin deze week
+
+Kies 1 tip en zet die deze week op. Volgende week de volgende. Na 7 weken heb je een basis die blijft werken.
+
+Wil je een site die meteen meewerkt aan je vindbaarheid? Bekijk wat een [gratis website voor loodgieters](/gratis-website) voor je vindbaarheid kan doen, of lees verder over [gevonden worden als loodgieter](/seo). Gevonden worden als er iemand nodig is, dat is het doel.
